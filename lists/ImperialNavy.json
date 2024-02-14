@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Imperial Navy",
+    "specialRules": [
+    ],
+    "unit": [
+      {
+        "name": "Lightning Strike Fighter",
+        "type": "AC",
+        "speed": "Fighter-Bomber",
+        "armour": 6,
+        "weapons": [
+          "AC Synchronisierte Laserkanone||FxF",
+          "AC Underwing Rockets||FxF"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Lightning Interceptor",
+        "type": "AC",
+        "speed": "Fighter",
+        "armour": 6,
+        "weapons": [
+          "AC Synchronisierte Laserkanone||FxF",
+          "AC Maschinenkanone"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Thunderbolt Fighter",
+        "type": "AC",
+        "speed": "Fighter-Bomber",
+        "armour": 6,
+        "weapons": [
+          "AC Multilaser||FxF",
+          "AC Underwing Rockets||FxF",
+          "AC Sturmbolter||FxF"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Avenger Strike Fighter",
+        "type": "AC",
+        "speed": "Fighter-Bomber",
+        "armour": 5,
+        "weapons": [
+          "AC Avenger Bolt Geschütz||FxF",
+          "AC Synchronisierte Laserkanone||FxF",
+          "AC Schweres Maschinengewehr Turm"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Marauder Bomber",
+        "type": "AC",
+        "speed": "Bomber",
+        "armour": 4,
+        "weapons": [
+          "AC Synchronisierte Laserkanone||FxF",
+          "AC Bomb Racks||FxF",
+          "AC Synchronisierter schwerer Bolter Turm|2|"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Marauder Destroyer",
+        "type": "AC",
+        "speed": "Bomber",
+        "armour": 4,
+        "weapons": [
+          "AC Synchronisierter Maschinenkanone|3|FxF",
+          "AC Rakete Array||FxF",
+          "AC Synchronisierter Sturmkanone Turm||",
+          "AC Synchronisierter schwerer Bolter Turm||"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Marauder Colossus",
+        "type": "AC",
+        "speed": "Bomber",
+        "armour": 4,
+        "weapons": [
+          "AC Synchronisierte Laserkanone||FxF",
+          "AC Colossus Bomb||FxF",
+          "AC Synchronisierter schwerer Bolter Turm|2|"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Lunar Class Cruiser",
+        "type": "SC",
+        "weapons": [
+          {
+            "name": "Orbital Bombardment",
+            "modes": [
+              {
+                "firepower": "3BP, MW"
+              }
+            ]
+          },
+          "Pin Point"
+        ]
+      },
+      {
+        "name": "Emperor Class Battleship",
+        "type": "SC",
+        "weapons": [
+          {
+            "name": "Orbital Bombardment",
+            "modes": [
+              {
+                "firepower": "8BP, MW"
+              }
+            ]
+          }
+        ],
+        "specialRules": [
+          "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
+        ]
+      }
+    ]
+  }
+]

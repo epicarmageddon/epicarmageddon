@@ -1,0 +1,758 @@
+[
+  {
+    "name": "Adeptus Mechanicus Forces",
+    "specialRules": [
+
+    ],
+    "unit": [
+      {
+        "name": "Magos Dominus",
+        "type": "INF",
+        "speed": 15,
+        "armour": 3,
+        "cc": 4,
+        "ff": 4,
+        "weapons": [
+          "Solar Atomiser",
+          "Omnissian Axe"
+        ],
+        "specialRules": [
+          "Supreme Commander",
+          "Inspiring",
+          "Fearless",
+          "Invulnerable Save"
+        ]
+      },
+      {
+        "name": "Magos",
+        "type": "INF",
+        "speed": 15,
+        "armour": 4,
+        "cc": 4,
+        "ff": 4,
+        "weapons": [
+          "Solar Atomiser",
+          "Omnissian Axe"
+        ],
+        "specialRules": [
+          "Commander",
+          "Leader",
+          "Invulnerable Save"
+        ]
+      },
+      {
+        "name": "Hypaspists",
+        "type": "INF",
+        "speed": 15,
+        "armour": 5,
+        "cc": 5,
+        "ff": 5,
+        "weapons": [
+          "Multilaser"
+        ],
+        "specialRules": []
+      },
+      {
+        "name": "Skitarii Vanguards",
+        "type": "INF",
+        "speed": 15,
+        "armour": 5,
+        "cc": 5,
+        "ff": 4,
+        "weapons": [
+          "Radium Carbines"
+        ],
+        "specialRules": []
+      },
+      {
+        "name": "Skitarii Rangers",
+        "type": "INF",
+        "speed": 15,
+        "armour": 5,
+        "cc": 6,
+        "ff": 6,
+        "weapons": [
+          "Galvanic Rifles"
+        ],
+        "specialRules": [
+          "Scout"
+        ]
+      },
+      {
+        "name": "Sagitarii",
+        "type": "INF",
+        "speed": 15,
+        "armour": 5,
+        "cc": 6,
+        "ff": 4,
+        "weapons": [
+          "Sturmkanone|2|"
+        ],
+        "specialRules": []
+      },
+      {
+        "name": "Secutarii Axiarch",
+        "type": "CH",
+        "weapons": [
+            "n/a"
+        ],
+        "specialRules": [
+          "Leader",
+          "Commander",
+          "Invulnerable Save"
+        ]
+      },
+      {
+        "name": "Secutarii Hoplites",
+        "type": "INF",
+        "speed": 15,
+        "armour": 4,
+        "cc": 4,
+        "ff": 6,
+        "weapons": [
+          "Arc Lances"
+        ],
+        "specialRules": []
+      },
+      {
+        "name": "Secutarii Pelasts",
+        "type": "INF",
+        "speed": 15,
+        "armour": 5,
+        "cc": 6,
+        "ff": 4,
+        "weapons": [
+          "Galvanic-Casters"
+        ],
+        "specialRules": []
+      },
+      {
+        "name": "Electro-Priests",
+        "type": "INF",
+        "speed": 15,
+        "armour": 6,
+        "cc": 5,
+        "ff": 6,
+        "weapons": [
+          "Voltagheist Field"
+        ],
+        "specialRules": [
+          "Expendable"
+        ]
+      },
+      {
+        "name": "Sicarian Infiltrators",
+        "type": "INF",
+        "speed": 20,
+        "armour": 5,
+        "cc": 5,
+        "ff": 5,
+        "weapons": [
+          "Stubcarbines",
+          "Taser Goad"
+        ],
+        "specialRules": [
+          "First Strike",
+          "Infiltrators"
+        ]
+      },
+      {
+        "name": "Sicarian Ruststalkers",
+        "type": "INF",
+        "speed": 20,
+        "armour": 4,
+        "cc": 4,
+        "weapons": [
+          "Transonic Blades"
+        ],
+        "specialRules": [
+          "Infiltrators"
+        ]
+      },
+      {
+        "name": "Praetorian Combat Servitors",
+        "type": "INF",
+        "speed": 15,
+        "armour": 3,
+        "cc": 5,
+        "ff": 5,
+        "weapons": [
+          "Sturmkanone",
+          "Power Weapon"
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
+        ]
+      },
+      {
+        "name": "Adsecularis",
+        "type": "INF",
+        "speed": 15,
+        "cc": 5,
+        "ff": 5,
+        "weapons": [
+          "Mitralocks"
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
+        ]
+      },
+      {
+        "name": "Tech-Priest",
+        "type": "INF",
+        "speed": 15,
+        "armour": 4,
+        "cc": 5,
+        "ff": 5,
+        "weapons": [
+          "Omnissian Axe"
+        ],
+        "specialRules": []
+      },
+      {
+        "name": "Kastelan Robot",
+        "type": "LV",
+        "speed": 15,
+        "armour": 5,
+        "cc": 5,
+        "ff": 5,
+        "weapons": [
+          "Phosphor Blaster",
+          "Power Fist"
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
+        ]
+      },
+      {
+        "name": "Castellax Battle-Automata",
+        "type": "LV",
+        "speed": 10,
+        "armour": 4,
+        "cc": 5,
+        "ff": 4,
+        "weapons": [
+          "Maschinenkanone",
+          "Schwerer Bolter",
+          "Power Fist"
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
+        ]
+      },
+      {
+        "name": "Vultarax Robot",
+        "type": "LV",
+        "speed": 25,
+        "armour": 5,
+        "cc": 6,
+        "ff": 6,
+        "weapons": [
+          "Raketenwerfer"
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Skimmer",
+          "Ponderous"
+        ]
+      },
+      {
+        "name": "Kataphron Breacher Battle Servitors",
+        "type": "LV",
+        "speed": 10,
+        "armour": 3,
+        "cc": 4,
+        "ff": 4,
+        "weapons": [
+          "Heavy Arc Rifles",
+          "Arc Klauen"
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous",
+          "Thick Rear Armour"
+        ]
+      },
+      {
+        "name": "Kataphron Destroyer Battle Servitors",
+        "type": "LV",
+        "speed": 10,
+        "armour": 3,
+        "cc": 5,
+        "ff": 5,
+        "weapons": [
+          "Plasma Culverins"
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable",
+          "Ponderous"
+        ]
+      },
+      {
+        "name": "Tarantula",
+        "type": "LV",
+        "speed": "Immobile",
+        "armour": 5,
+        "ff": "5+/4",
+        "weapons": [
+          {
+            "name": "0-1x Synchronisierte Laserkanone",
+            "modes": [
+              {
+                "firepower": "AT4+",
+                "range": 45
+              }
+            ]
+          },
+          {
+            "name": "0-1x Synchronisierter schwerer Bolter",
+            "modes": [
+              {
+                "firepower": "AP4+",
+                "range": 30
+              }
+            ]
+          }
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable"
+        ],
+        "notes": "Armed with either Synchronisierte Laserkanone or Synchronisierter schwerer Bolter. Tarantulas armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
+      },
+      {
+        "name": "Hyperios Sentry",
+        "type": "LV",
+        "speed": "Immobile",
+        "armour": 6,
+        "ff": 6,
+        "weapons": [
+          "Hyperios Launcher"
+        ],
+        "specialRules": [
+          "Machine Spirit",
+          "Fearless",
+          "Expendable"
+        ]
+      },
+      {
+        "name": "Rapier",
+        "type": "INF",
+        "speed": 10,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Rapier Laser Destroyer"
+        ],
+        "specialRules": []
+      },
+      {
+        "name": "Mole Mortar",
+        "type": "INF",
+        "speed": 10,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Mole Mortar"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Ironstrider Ballistarius",
+        "type": "LV",
+        "speed": 25,
+        "armour": 4,
+        "cc": 5,
+        "ff": 5,
+        "weapons": [
+          "Synchronisierter Maschinenkanone"
+        ],
+        "specialRules": [
+          "Walker"
+        ]
+      },
+      {
+        "name": "Sydonian Dragoon",
+        "type": "LV",
+        "speed": 25,
+        "armour": 4,
+        "cc": 3,
+        "ff": 6,
+        "weapons": [
+          "Taser Lanze"
+        ],
+        "specialRules": [
+          "Scout",
+          "Walker"
+        ]
+      },
+      {
+        "name": "Onager Dunecrawler",
+        "type": "AV",
+        "speed": 20,
+        "armour": 4,
+        "cc": 6,
+        "ff": "5+/4",
+        "weapons": [
+          "Eradication Beamer|0-1|",
+          "Synchronisierter Heavy Phosphor Blaster|0-1|",
+          "Neutron Laser|0-1|",
+          "Icarus Array|0-1|"
+        ],
+        "specialRules": [
+          "Walker"
+        ],
+        "notes": "Must choose either an Eradication Beamer, Synchronisierter Heavy Phosphor Blaster, Icarus Array or Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
+      },
+      {
+        "name": "Chimera",
+        "type": "AV",
+        "speed": 30,
+        "armour": 5,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Multilaser",
+          "Schwerer Bolter"
+        ],
+        "specialRules": [
+          "Transport"
+        ],
+        "notes": "May carry two infantry units without Jump Packs or Mounted."
+      },
+      {
+        "name": "Skorpius Dunerider",
+        "type": "LV",
+        "speed": 35,
+        "armour": 4,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Synchronisierter schweres Maschinengewehr|2|"
+        ],
+        "specialRules": [
+          "Transport"
+        ],
+        "notes": "May carry two infantry units without Jump Packs or Mounted."
+      },
+      {
+        "name": "Skorpius Disintegrator",
+        "type": "LV",
+        "speed": 30,
+        "armour": 3,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Ferrumite Geschütz",
+          "Raketenwerfer",
+          "Synchronisierter schweres Maschinengewehr"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Hydra",
+        "type": "AV",
+        "speed": 30,
+        "armour": 6,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Synchronisierter Hydra Maschinenkanone|2",
+          "Schwerer Bolter"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Chimedon",
+        "type": "AV",
+        "speed": 25,
+        "armour": 5,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Conquerorgeschütz",
+          "Schwerer Bolter"
+        ],
+        "specialRules": [
+          "Transport"
+        ],
+        "notes": "May carry two infantry units without Jump Packs or Mounted."
+      },
+      {
+        "name": "Termite",
+        "type": "AV",
+        "speed": 15,
+        "armour": 5,
+        "cc": 6,
+        "ff": 6,
+        "weapons": [
+          "Bolter"
+        ],
+        "specialRules": [
+          "Thick Rear Armour",
+          "Tunneler",
+          "Transport"
+        ],
+        "notes": "May transport two infantry units without Jump Packs or Mounted. Must start the game in the reserves, and may only enter the battlefield through Tunneling."
+      },
+      {
+        "name": "Leman Russ",
+        "type": "AV",
+        "speed": 20,
+        "armour": 4,
+        "cc": 6,
+        "ff": 4,
+        "weapons": [
+          "Kampfgeschütz",
+          "Laserkanone",
+          "Schwerer Bolter|2|"
+        ],
+        "specialRules": [
+          "Reinforced Armour"
+        ]
+      },
+      {
+        "name": "Leman Russ Demolisher",
+        "type": "AV",
+        "speed": 20,
+        "armour": 4,
+        "cc": 6,
+        "ff": 3,
+        "weapons": [
+          "Demolisher",
+          "Laserkanone",
+          "Plasma Geschütz|2|"
+        ],
+        "specialRules": [
+          "Reinforced Armour"
+        ]
+      },
+      {
+        "name": "Leman Russ Executioner",
+        "type": "AV",
+        "speed": 20,
+        "armour": 4,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Plasma Destroyer",
+          "Laserkanone",
+          "Plasma Geschütz|2|"
+        ],
+        "specialRules": [
+          "Reinforced Armour"
+        ]
+      },
+      {
+        "name": "Ordinatus Minoris",
+        "type": "WE",
+        "speed": 20,
+        "armour": 5,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Synchronisierter schweres Maschinengewehr|2|",
+          ">Battle Weapons<",
+          "Turbo-Laser Destructor|0-1|FxF",
+          "Apocalypse Raketenwerfer|0-1|FxF",
+          "Heavy Icarus Array|0-1|",
+          "Titan Plasma Geschütz|0-1|FxF",
+          "Titan Melta Geschütz |0-1|",
+          "Gatling Blaster|0-1|FxF",
+          ">Support Weapons<",
+          "Plasma Destructor|0-1|FxF",
+          "Quake Geschütz|0-1|FxF",
+          "Vulkangeschütz|0-1|FxF"
+        ],
+        "specialRules": [
+          "Damage Capacity 2",
+          "Void Shields 2",
+          "Reinforced Armour",
+          "Fearless"
+        ],
+        "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
+        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
+      },
+      {
+        "name": "Ordinatus Minoris ",
+        "type": "WE",
+        "speed": 20,
+        "armour": 5,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Synchronisierter schweres Maschinengewehr|2|",
+          ">Battle Weapons<",
+          "Turbo-Laser Destructor|0-1|FxF",
+          "Apocalypse Raketenwerfer|0-1|FxF",
+          "Heavy Icarus Array|0-1|",
+          "Titan Plasma Geschütz|0-1|FxF",
+          "Titan Melta Geschütz |0-1|",
+          "Gatling Blaster|0-1|FxF"
+        ],
+        "specialRules": [
+          "Damage Capacity 2",
+          "Void Shields 2",
+          "Reinforced Armour",
+          "Fearless"
+        ],
+        "notes": "Armed with a single Battle Weapon.",
+        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
+      },
+      {
+        "name": "Ordinatus Majoris",
+        "type": "WE",
+        "speed": 10,
+        "armour": 5,
+        "cc": 6,
+        "ff": 5,
+        "weapons": [
+          "Synchronisierter schweres Maschinengewehr|2|",
+          "Laserkanone|2|",
+          ">Ordinatus Armageddon<",
+          "Nova Geschütz||FxF",
+          ">Ordinatus Mars<",
+          "Sonic Disruptor||FxF",
+          ">Ordinatus Golgotha<",
+          "Hellfire Rakete|6|FxF"
+        ],
+        "specialRules": [
+          "Damage Capacity 4",
+          "Void Shields 4",
+          "Reinforced Armour",
+          "Fearless"
+        ],
+        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
+      },
+      {
+        "name": "Gorgon",
+        "type": "WE",
+        "speed": 20,
+        "armour": 4,
+        "cc": 6,
+        "ff": 6,
+        "weapons": [
+          "Synchronisierter schweres Maschinengewehr|4|"
+        ],
+        "specialRules": [
+          "Damage Capacity 3",
+          "Reinforced Armour",
+          "Walker",
+          "Transport"
+        ],
+        "notes": "May carry 10 infantry units without Jump Pack or Mounted. Praetorian Combat Servitor counts as two units each.",
+        "crit": "The Gorgon is Immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
+      },
+      {
+        "name": "Mole",
+        "type": "WE",
+        "speed": "Immobile",
+        "armour": 5,
+        "ff": 5,
+        "weapons": [
+          "Storm Bolter Array"
+        ],
+        "specialRules": [
+          "Damage capacity: 2",
+          "Reinforced Armour",
+          "Tunneler",
+          "Transport"
+        ],
+        "notes": "May transport six infantry units without Jump Packs or Mounted."
+      },
+      {
+        "name": "Lysander Fighter",
+        "type": "AC",
+        "speed": "Fighter",
+        "armour": 6,
+        "weapons": [
+          "AC Multilaser||FxF",
+          "AC Sturmbolter||FxF"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Avenger Strike Fighter",
+        "type": "AC",
+        "speed": "Fighter-Bomber",
+        "armour": 5,
+        "weapons": [
+          "AC Avenger Bolt Geschütz||FxF",
+          "AC Synchronisierter Maschinenkanone||FxF",
+          "AC Schweres Maschinengewehr Turm"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Stratoraptor Archaeopter",
+        "type": "Bomber",
+        "armour": 5,
+        "weapons": [
+          "AC Phosphor Blaster|FxF",
+          "AC Synchronisierte Laserkanone|FxF",
+          "AC Synchronisierter schweres Maschinengewehr Turm"
+        ],
+        "specialRules": [
+        ]
+      },
+      {
+        "name": "Lunar Class Cruiser",
+        "type": "SC",
+        "weapons": [
+          {
+            "name": "Orbital Bombardment",
+            "modes": [
+              {
+                "firepower": "3BP, MW"
+              }
+            ]
+          },
+          "Pin Point"
+        ]
+      },
+      {
+        "name": "Ark Mechanicus Battleship",
+        "type": "SC",
+        "weapons": [
+          {
+            "name": "0-1x Orbital Bombardment",
+            "modes": [
+              {
+                "firepower": "6BP, MW"
+              }
+            ]
+          },
+          "Pin Point|0-1 2|"
+        ],
+        "specialRules": [
+          "Slow to Arrive (may only arrive on the battlefield from turn 2 onwards)"
+        ],
+        "notes": "Is equipped with either Orbital Bombardment or two Pin Point attacks (may be chosen at the start of battle)"
+      }
+    ]
+  }
+]

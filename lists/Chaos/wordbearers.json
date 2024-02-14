@@ -1,0 +1,334 @@
+{
+  "fraction": "Chaos Space Marines",
+  "army": "Word Bearers",
+  "version": "0.5.1",
+  "release": "2022-04-01",
+  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
+  "Initiative": "The Word Bearers Retinue and all Word Bearers Elite formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "specialRules": [
+    "Summoning",
+    "Word Bearers Summoning Rules",
+    "Fickle Masters",
+    "Word Bearers Dreadclaws",
+    "Word Bearers Characters"
+  ],
+  "usage": [
+    "The following army list allows you to field an army based on the Word Bearers, using their preferred operational methods."
+  ],
+  "units": [
+    {
+      "from": "CSM.json",
+      "units": [
+        "Grand Apostle",
+        "Dark Apostle",
+        "Diabolist",
+        "Daemon Prince",
+        "Icon Bearer",
+        "Chaos Space Marines",
+        "Havocs",
+        "Word Bearers Possessed",
+        "Word Bearers Iconoclasts",
+        "Chaos Terminators",
+        "Chaos Assault Bikes",
+        "Chaos Rhino",
+        "Chaos Stalker",
+        "Chaos Land Raider",
+        "Chaos Dreadnought"
+      ],
+      "unitRules": [
+          "Augment Summoning (+x)",
+          "Daemonic Focus"
+      ]
+    },
+    {
+      "from": "darkmechanicus.json",
+      "units": [
+        "Cerberite",
+        "Maulerfiend",
+        "Defiler",
+        "Death Wheel",
+        "Forgefiend",
+        "Knight-Dreadblade"
+      ],
+      "unitRules": [
+        "Daemon Engine (x)",
+        "Heavy Armoured Vehicle (H-AV)"
+      ]
+    },
+    {
+      "from": "chaoscultists.json",
+      "units": [
+        "Demagogue",
+        "Cultists",
+        "Mutants",
+        "Chaos Spawn",
+        "Chaos Hounds",
+        "Land Transporter"
+      ],
+      "unitRules": [
+      ]
+    },
+    {
+      "from": "daemons.json",
+      "units": [
+        "Daemonettes of Slaanesh",
+        "Plaguebearers of Nurgle",
+        "Bloodletters of Khorne",
+        "Horrors of Tzeentch",
+        "Keeper of Secrets",
+        "Great Unclean One",
+        "Bloodthirster",
+        "Lord of Change",
+        "Daemonic Beasts of Chaos Undivided"
+      ],
+      "unitRules": [
+      ]
+    },
+    {
+      "from": "chaosnavy.json",
+      "units": [
+        "Heldrake",
+        "Harbringer Bomber",
+        "Devastation Class Cruiser",
+        "Despoiler Class Battleship"
+      ],
+      "unitRules": [
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Word Bearers Core Formations",
+      "description": "Up to one Cultist Coven may be taken per Word Bearer Retinue.",
+      "formations": [
+        {
+          "name": "Word Bearers Retinue",
+          "units": "One Dark Apostle, eight Chaos Space Marines, Daemonic Pact",
+          "extraUnits": [
+            "Supreme Commander",
+            "Transport",
+            "Dreadclaws",
+            "Havocs",
+            "Possessed",
+            "Icon Bearer",
+            "Dreadnoughts"
+          ],
+          "points": 350
+        },
+        {
+          "name": "Cultist Coven",
+          "units": "One Demagogue, nine Cultists and/or Mutants, Daemonic Pact",
+          "extraUnits": [
+            "Icon Bearer",
+            "Add one Chaos Spawn: 35 points",
+            "Add up to three Chaos Hounds: 10 points each",
+            "Add enought Land Transporters to carry the entire formation with no space left over: 10 points each"
+          ],
+          "points": 250
+        }
+      ]
+    },
+    {
+      "name": "Word Bearers Elite Formations",
+      "description": "Up to two Elite formations may be taken per Word Bearers Retinue.",
+      "formations": [
+        {
+          "name": "Iconoclasts",
+          "units": "One Diabolist, four Word Bearers Iconoclasts, Daemonic Pact",
+          "extraUnits": [
+            "Icon Bearer"
+          ],
+          "points": 225
+        },
+        {
+          "name": "Havocs",
+          "units": "One Diabolist, four Havocs, two Chaos Rhinos, Daemonic Pact",
+          "extraUnits": [
+            "Replace two Chaos Rhinos with Chaos Land Raiders: 75 points",
+            "Icon Bearer"
+          ],
+          "points": 250
+        },
+        {
+          "name": "Bike Company",
+          "units": "One Diabolist, eight Chaos Assault Bikes, Daemonic Pact",
+          "extraUnits": [
+            "Icon Bearer"
+          ],
+          "points": 325
+        },
+        {
+          "name": "Chaos Terminators",
+          "units": "One Dark Apostle, four Chaos Terminators, Daemonic Pact",
+          "extraUnits": [
+            "Add up to two Chaos Terminators: 50 points each",
+            "Supreme Commander",
+            "Icon Bearer",
+            "Transport",
+            "Dreadclaws",
+            "Dreadnoughts"
+          ],
+          "points": 350
+        }
+      ]
+    },
+    {
+      "name": "Daemon Engine Formations",
+      "description": "Up to two Daemon Engine formations may be taken per Cultist Coven formation.",
+      "formations": [
+        {
+          "name": "Cerberites",
+          "units": "Three Cerberites",
+          "extraUnits": [
+          ],
+          "points": 200
+        },
+        {
+          "name": "Forgefiends",
+          "units": "Two Forgefiends",
+          "points": 200
+        },
+        {
+          "name": "Maulerfiends",
+          "units": "Four Maulerfiends",
+          "extraUnits": [
+          ],
+          "points": 225
+        },
+
+        {
+          "name": "Defilers",
+          "units": "Four Defilers",
+          "extraUnits": [
+          ],
+          "points": 250
+        }
+      ]
+    },
+    {
+      "name": "War Engines & Chaos Navy",
+      "description": "Up to a third of the points available may be spent on these formations.",
+      "formations": [
+        {
+          "name": "0-1 Dreadblade",
+          "units": "Daemonic Pact, one Knight-Dreadblade of any configuration",
+          "extraUnits": [
+          ],
+          "points": 250
+        },
+        {
+          "name": "Death Wheel",
+          "units": "One Death Wheel",
+          "extraUnits": [
+          ],
+          "points": 300
+        },
+        {
+          "name": "Heldrakes",
+          "units": "Two Heldrakes",
+          "points": 225
+        },
+        {
+          "name": "Harbringer",
+          "units": "One Harbringer Bomber",
+          "extraUnits": [
+          ],
+          "points": 300
+        },
+        {
+          "name": "0-1 Chaos Cruiser",
+          "units": "One Devastation Class Cruiser",
+          "extraUnits": [
+            "Battleship"
+          ],
+          "points": 150
+        }
+      ]
+    },
+    {
+      "name": "Daemon Pool",
+      "description": "Any amount may be spent on Daemon Pool points",
+      "formations": [
+        {
+          "name": "Lesser Daemon Pool",
+          "units": "Any amount of Lesser Daemon Pool points. Add one for each Daemonic Pact in the army.",
+          "points": 20
+        },
+        {
+          "name": "Greater Daemon Pool",
+          "units": "Any amount of Greater Daemon Pool points.",
+          "points": 50
+        }
+      ]
+    }
+  ],
+  "upgrades": {
+    "title": "Word Bearers Upgrades",
+    "description": "Each upgrade may be taken once per formation",
+    "items": [
+      {
+        "name": "Battleship",
+        "description": "Replace the Devastation Class Cruiser with a Despoiler Class Battleship",
+        "points": "50 points"
+      },
+      {
+        "name": "0-1 Supreme Commander",
+        "options": [
+          {
+            "description": "Choose one of the following:"
+          },
+          {
+            "description": "Replace the Dark Apostle with a Grand Apostle",
+            "points": "50 points"
+          },
+          {
+            "description": "Replace the Dark Apostle and its unit with a Daemon Prince",
+            "points": "50 points"
+          }
+        ]
+      },
+      {
+        "name": "Transport",
+        "options": [
+          {
+            "description": "Add up to four Chaos Rhinos",
+            "points": "10 points each"
+          },
+          {
+            "description": "Add up to six Chaos Land Raiders",
+            "points": "50 points each"
+          },
+          {
+            "description": "(No more than needed to transport the formation with no space left over)",
+            "points": ""
+          }
+        ]
+      },
+      {
+        "name": "Icon Bearer",
+        "description": "Add one Icon Bearer character",
+        "points": "25 points"
+      },
+      {
+        "name": "Dreadnoughts",
+        "description": "Add up to three Chaos Dreadnoughts",
+        "points": "50 points each"
+      },
+      {
+        "name": "Dreadclaws",
+        "description": "Transport a formation containing only infantry units and Dreadnoughts in Dreadclaws (formation must be deployed on a spacecraft)",
+        "points": "5 points per unit"
+      },
+      {
+        "name": "Havocs",
+        "description": "Replace four Chaos Space Marines with four Havocs",
+        "points": "50 points"
+      },
+      {
+        "name": "Possessed",
+        "description": "Replace four Chaos Space Marines with four Word Bearers Possessed",
+        "points": "50 points"
+      }
+    ]
+  }
+}

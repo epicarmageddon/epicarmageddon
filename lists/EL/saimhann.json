@@ -1,0 +1,239 @@
+{
+  "fraction": "Eldar",
+  "army": "Craftworld Saim-Hann",
+  "version": "Alpha 0.8.4",
+  "release": "2022-04-01",
+  "strategy": "Craftworld Saim-Hann armies have a Strategy Rating of 4.",
+  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans, and the Avatar formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "specialRules": [
+    "Avatar (Saim-Hann)",
+    "May not Garrison (Saim-Hann)",
+    "Farsight",
+    "Hit and Run",
+    "Webway Portal",
+    "Independent Twins"
+  ],
+  "usage": [
+    "The following army list allows you to field an army based on the Eldar Craftworld Saim-Hann."
+  ],
+  "units": [
+    {
+      "from": "EL.json",
+      "units": [
+        "Wild Rider Chieftain",
+        "Avatar",
+        "Eldar Exarch",
+        "Mounted Farseer",
+        "Eldar Guardians",
+        "Heavy Weapon Platform",
+        "War Walker",
+        "Saim-Hann Wild Riders",
+        "Dire Avengers",
+        "Fire Dragons",
+        "Dark Reapers",
+        "Howling Banshees",
+        "Striking Scorpions",
+        "Shining Spears",
+        "Swooping Hawks",
+        "Saim-Hann Hornet",
+        "Saim-Hann Vyper",
+        "Wave Serpent",
+        "Falcon",
+        "Fire Prism",
+        "Night Spinner",
+        "Firestorm",
+        "Scorpion",
+        "Cobra",
+        "Storm Serpent",
+        "Void Spinner",
+        "Revenant Titan"
+      ],
+      "unitRules": [
+          "Holofields (x)",
+          "Lanze",
+          "Schildbohrer"
+      ]
+    },
+    {
+      "from": "eldarNavy.json",
+      "units": [
+        "Nightshade Interceptor",
+        "Phoenix Bomber",
+        "Vampire Hunter",
+        "Wraithship",
+        "Dragonship"
+      ],
+      "unitRules": [
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Saim-Hann Special",
+      "formations": [
+        {
+          "name": "1 Avatar",
+          "units": "One Avatar",
+          "points": 0
+        },
+        {
+          "name": "0-1 Wraithgate",
+          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "points": 50
+        }
+      ]
+    },
+    {
+      "name": "Saim-Hann Warhosts",
+      "description": "Up to one Aspect Warrior Host for each Wild Rider Warhost",
+      "formations": [
+        {
+          "name": "Wild Rider Warhost",
+          "units": "Nine Saim-Hann Wild Riders",
+          "extraUnits": [
+            "Replace any number of Wild Riders with Saim-Hann Vypers: Free",
+            "Replace one unit of Wild Riders with a Mounted Farseer: 25 points",
+            "(0-1 per army) Replace one unit of Wild Riders with a Wild Rider Chieftain: 50 points"
+          ],
+          "points": 300
+        },
+        {
+          "name": "Aspect Warrior Host",
+          "units": "Eight Shining Spears and/or Swooping Hawks",
+          "extraUnits": [
+            "Add up to two Exarchs: 25 points each"
+          ],
+          "points": 300
+        }
+      ]
+    },
+    {
+      "name": "Saim-Hann Troupes",
+      "description": "Up to three for each Saim-Hann Warhost taken",
+      "formations": [
+        {
+          "name": "Mounted Aspect Warrior Troupe",
+          "units": "Three Wave Serpents and six Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
+          "extraUnits": [
+            "Exarch"
+          ],
+          "points": 325
+        },
+        {
+          "name": "Mounted Guardian Troupe",
+          "units": "Three Wave Serpents, six Guardians",
+          "extraUnits": [
+          ],
+          "points": 250
+        },
+        {
+          "name": "Engines of Vaul",
+          "units": "One Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "extraUnits": [
+            "Add up to two Cobra, Scorpion and/or Storm Serpent: 200 points each"
+          ],
+          "points": 250
+        },
+        {
+          "name": "Swords of Vaul",
+          "units": "Five Falcons",
+          "extraUnits": [
+            "Replace up to two Falcons with Firestorms: Free",
+            "Add five Guardians to the formation: 75 points"
+          ],
+          "points": 250
+        },
+        {
+          "name": "Fire Prism Troupe",
+          "units": "Three Fire Prisms",
+          "extraUnits": [
+          ],
+          "points": 250
+        },
+        {
+          "name": "Fire Spinner Troupe",
+          "units": "Three Night Spinners, one Firestorm",
+          "extraUnits": [
+          ],
+          "points": 225
+        },
+        {
+          "name": "Void Spinner",
+          "units": "One Void Spinner",
+          "extraUnits": [
+          ],
+          "points": 275
+        },
+        {
+          "name": "Hornet Troupe",
+          "units": "Four Saim-Hann Hornets",
+          "extraUnits": [
+            "Add up to two Saim-Hann Hornets: 50 points each"
+          ],
+          "points": 200
+        },
+        {
+          "name": "War Walker Troupe",
+          "units": "Six War Walkers",
+          "extraUnits": [
+          ],
+          "points": 200
+        }
+      ]
+    },
+    {
+      "name": "Saim-Hann Aircraft, Spacecraft and Titans",
+      "description": "Up to a third of the points available may be spent on these formations",
+      "formations": [
+        {
+          "name": "Crimson Hunters",
+          "units": "Two Nightshade Interceptors",
+          "extraUnits": [
+          ],
+          "points": 250
+        },
+        {
+          "name": "Phoenix Aerie",
+          "units": "Three Phoenix Bombers",
+          "extraUnits": [
+          ],
+          "points": 325
+        },
+        {
+          "name": "Vampire Hunter",
+          "units": "One Vampire Hunter",
+          "extraUnits": [
+          ],
+          "points": 225
+        },
+        {
+          "name": "Revenants",
+          "units": "Two Revenant Titans",
+          "extraUnits": [
+            "Independent Twins"
+          ],
+          "points": 650
+        },
+        {
+          "name": "0-1 Spacecraft",
+          "units": "One Wraithship",
+          "extraUnits": [
+            "Replace with a Dragonship: 125 Points"
+          ],
+          "points": 175
+        }
+      ]
+    }
+  ],
+  "upgrades": {
+    "title": "Saim-Hann Upgrades",
+    "description": "Each upgrade may be taken once per formation",
+    "items": [
+      {
+        "name": "Exarch",
+        "description": "Add one Eldar Exarch to a unit of Aspect Warriors",
+        "points": "25 points"
+      }
+    ]
+  }
+}

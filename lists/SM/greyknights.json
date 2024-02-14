@@ -1,0 +1,309 @@
+{
+  "fraction": "Space Marines / Imperial Inquisition",
+  "army": "Blood Ravens",
+  "version": "0.5.0",
+  "release": "2022-04-01",
+  "strategy": "Space Marine armies have a Strategy Rating of 5.",
+  "Initiative": "All formations have an Initiative of 1+.",
+  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all formations.",
+  "specialRules": [
+    "Teleport Homer",
+    "Navis Nobilite",
+    "Space Marine Transports",
+    "Grey Knights Transports",
+    "They Shall Know No Fear"
+  ],
+  "usage": [
+    "The following army list allows you to field an army based on the Blood Ravens with Ordo Malleus allies"
+  ],
+  "units": [
+    {
+      "from": "SM.json",
+      "units": [
+        "Blood Ravens Supreme Commander",
+        "Blood Ravens Librarian",
+        "Grey Knights Justicar",
+        "Scouts",
+        "Tacticals",
+        "Devastators",
+        "Assaults",
+        "Grey Knights Strike Squad",
+        "Grey Knights Terminators",
+        "Grey Knights Interceptor Squad",
+        "Grey Knights Purgation Squad",
+        "Assault Bikes",
+        "Attack Bike",
+        "Land Speeder",
+        "Land Speeder Tornado",
+        "Land Speeder Typhoon",
+        "Rhino",
+        "Grey Knights Rhino",
+        "Razorback",
+        "Predator Annihilator",
+        "Predator Destructor",
+        "Hunter",
+        "Stalker",
+        "Doomglaive Dreadnought",
+        "Dreadnought",
+        "Dreadnought, Hellfire",
+        "Land Raider",
+        "Land Raider Helios",
+        "Vortimer Land Raider",
+        "Vortimer Land Raider Redeemer",
+        "Nemesis Dreadknight",
+        "Storm Talon",
+        "Fire Raptor",
+        "Thunderhawk Transporter",
+        "Vanguard Class Light Cruiser",
+        "Grey Knights Strike Cruiser",
+        "Drop Pod"
+      ],
+      "unitRules": [
+        "Faithful",
+        "Psybolts"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Blood Ravens Core Formations",
+      "description": "One Orbital Support formation must be taken.",
+      "formations": [
+        {
+          "name": "1 Orbital Support",
+          "units": "Vanguard Class Light Cruiser",
+          "extraUnits": [
+            "Replace the Strike Cruiser with a Grey Knights Strike Cruiser: 75 points"
+          ],
+          "points": 150
+        },
+        {
+          "name": "Tacticals",
+          "units": "One Blood Ravens Librarian, six Tacticals plus transport",
+          "extraUnits": [
+            "Anti-Air",
+            "Supreme Commander",
+            "Dreadnoughts",
+            "Razorbacks"
+          ],
+          "points": 300
+        },
+        {
+          "name": "Devastators",
+          "units": "One Blood Ravens Librarian, four Devastators plus transport",
+          "extraUnits": [
+            "Supreme Commander",
+            "Dreadnoughts",
+            "Land Raiders"
+          ],
+          "points": 275
+        },
+        {
+          "name": "Assaults",
+          "units": "One Blood Ravens Librarian, six Assaults",
+          "extraUnits": [
+            "Supreme Commander"
+          ],
+          "points": 250
+        },
+        {
+          "name": "Land Raiders",
+          "units": "One Blood Ravens Librarian, three Land Raiders",
+          "extraUnits": [
+            "Add one Land Raider: 75 points",
+            "Replace up to four Land Raiders with Land Raider Helios: 25 points each"
+          ],
+          "points": 275
+        }
+      ]
+    },
+    {
+      "name": "Blood Ravens Support Detachments",
+      "description": "Two Blood Ravens Support Detachments may be taken per Blood Ravens Core Detachment.",
+      "formations": [
+        {
+          "name": "Scouts",
+          "units": "One Blood Ravens Librarian, four Scouts plus transport",
+          "extraUnits": [
+            "Supreme Commander",
+            "Snipers",
+            "Dreadnoughts",
+            "Razorbacks"
+          ],
+          "points": 175
+        },
+        {
+          "name": "Bikes",
+          "units": "One Blood Ravens Librarian, any five of the following units: Assault Bikes, Attack Bike",
+          "extraUnits": [
+            "Supreme Commander"
+          ],
+          "points": 225
+        },
+        {
+          "name": "Land Speeders",
+          "units": "One Blood Ravens Librarian, any five of the following units: Land Speeder, Land Speeder Tornado",
+          "extraUnits": [
+            "Supreme Commander",
+            "Typhoons"
+          ],
+          "points": 225
+        },
+        {
+          "name": "Predators",
+          "units": "One Blood Ravens Librarian, any four of the following units: Predator Annihilators, Predator Destructors",
+          "extraUnits": [
+            "Anti-Air"
+          ],
+          "points": 275
+        }
+      ]
+    },
+    {
+      "name": "Grey Knights Detachments",
+      "description": "One Grey Knights Detachment may be taken per Blood Ravens Core Formation",
+      "formations": [
+        {
+          "name": "Interceptor Squads",
+          "units": "Two Grey Knights Interceptor Squads",
+          "extraUnits": [
+            "Justicar"
+          ],
+          "points": 200
+        },
+        {
+          "name": "Strike Squads",
+          "units": "Two Grey Knights Strike Squads plus transport",
+          "extraUnits": [
+            "Grey Knights Support",
+            "Justicar"
+          ],
+          "points": 200
+        },
+        {
+          "name": "Purgation Squads",
+          "units": "Two Grey Knights Purgation Squads plus transport",
+          "extraUnits": [
+            "Grey Knights Support",
+            "Justicar"
+          ],
+          "points": 225
+        },
+        {
+          "name": "Terminators",
+          "units": "Two Grey Knights Terminators",
+          "extraUnits": [
+            "Add one Vortimer Land Raider Redeemer: 75 points",
+            "Justicar"
+          ],
+          "points": 275
+        },
+        {
+          "name": "Dreadknights",
+          "units": "Two Nemesis Dreadknights",
+          "extraUnits": [
+            "Justicar"
+          ],
+          "points": 300
+        }
+      ]
+    },
+    {
+      "name": "Blood Ravens Aircraft",
+      "description": "Up to a third of the points available may be spent on these formations.",
+      "formations": [
+        {
+          "name": "Storm Talons",
+          "units": "Two Storm Talons",
+          "points": 200
+        },
+        {
+          "name": "Fire Raptor",
+          "units": "One Fire Raptor",
+          "extraUnits": [],
+          "points": 175
+        },
+        {
+          "name": "Thunderhawk Transporter",
+          "units": "One Thunderhawk Transporter",
+          "points": 175,
+          "extraUnits": [
+            "Add one Thunderhawk Transporter: 100 points"
+          ]
+        }
+      ]
+    }
+  ],
+  "upgrades": {
+    "title": "Upgrades",
+    "description": "Each upgrade may be taken once per formation",
+    "items": [
+      {
+        "name": "(0-1 per army) Supreme Commander",
+        "description": "Replace a Blood Ravens Librarian with a Blood Ravens Supreme Commander",
+        "points": [
+          "25 points"
+        ]
+      },
+      {
+        "name": "Justicar",
+        "description": "Add one Grey Knights Justicar to the formation.",
+        "points": [
+          "25 points"
+        ]
+      },
+      {
+        "name": "Grey Knights Support",
+        "description": "Add one Vortimer Land Raider or Vortimer Land Raider Redeemer, or one Doomglaive Dreadnought.",
+        "points": [
+          "75 points"
+        ]
+      },
+      {
+        "name": "Dreadnoughts",
+        "description": "Add up to two Dreadnoughts or Hellfire Dreadnoughts",
+        "points": [
+          "50 points each",
+          "75 points per pair"
+        ]
+      },
+      {
+        "name": "Anti-Air",
+        "description": "Add any one of the following units to the formation",
+        "options": [
+          {
+            "description": "Add one Hunter",
+            "points": "75 points"
+          },
+          {
+            "description": "Add one Stalker",
+            "points": "50 points"
+          }
+        ]
+      },
+      {
+        "name": "Land Raiders",
+        "description": "Add any number of Land Raiders or Land Raider Helios, up to the number required to transport the formation",
+        "points": [
+          "Land Raiders: 50 points",
+          "Land Raider Helios: 75 points"
+        ]
+      },
+      {
+        "name": "Razorbacks",
+        "description": "Add any number of Razorbacks, up to the number required to transport the formation",
+        "points": "25 points each"
+      },
+      {
+        "name": "Snipers",
+        "description": "Give all Scouts in the formation 'Sniper' on their Schwerer Bolter",
+        "points": "25 points"
+      },
+      {
+        "name": "Typhoons",
+        "description": "Replace up to five Land Speeders with an equal number of Land Speeder Typhoons",
+        "points": "10 points each"
+      }
+    ]
+  }
+}

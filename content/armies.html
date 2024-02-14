@@ -1,0 +1,39 @@
+<h2>Armies</h2>
+
+<p class="lead">
+    Most EA:Ragnarök list are based on lists developed by the NetEA group, Epic-UK group and the F-ERC group. We have
+    done a few general changes across all EA:Ragnarök lists as well as various tweaks, nerfs and boosts. Each list contains a description of the list origin and
+    the changes we made from the original.
+</p>
+
+<script>
+    $(document).ready(function () {
+        console.log("[document-ready] initializing armies...");
+
+        var urlSearchParams = new URLSearchParams(new URL(window.location).search);
+        var filter = urlSearchParams.get("display");
+
+        var states = ['approved'];
+
+        if (filter === 'beta') {
+            states.push('beta');
+        } else if (filter === 'alpha') {
+            states.push('beta');
+            states.push('alpha');
+        } else if (filter === 'all') {
+            states.push('beta');
+            states.push('alpha');
+            states.push('experimental');
+        }
+
+        $.getJSON("lists/index.json", function (data) {
+            var filtered = data;
+            filtered.index.forEach(section =>
+                section.index.forEach(race => {
+                    race.lists = race.lists.filter(item => states.includes(item.status))
+                }));
+
+            $("#content").append(eaTemplating.templates['list'](filtered))
+        });
+    });
+</script>
