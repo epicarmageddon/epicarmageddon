@@ -1,6 +1,6 @@
 [
   {
-    "name": "Adeptus Mechanicus Forces",
+    "name": "Adeptus Mechanicus Streitmächte",
     "specialRules": [
 
     ],
@@ -17,9 +17,9 @@
           "Omnissian Axe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Fearless",
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Furchtlos",
           "Invulnerable Save"
         ]
       },
@@ -35,8 +35,8 @@
           "Omnissian Axe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -75,7 +75,7 @@
           "Galvanic Rifles"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -97,8 +97,8 @@
             "n/a"
         ],
         "specialRules": [
-          "Leader",
-          "Commander",
+          "Anführer",
+          "Befehlshaber",
           "Invulnerable Save"
         ]
       },
@@ -137,11 +137,11 @@
           "Voltagheist Field"
         ],
         "specialRules": [
-          "Expendable"
+          "Entbehrlich"
         ]
       },
       {
-        "name": "Sicarian Infiltrators",
+        "name": "Sicarian Infiltratoren",
         "type": "INF",
         "speed": 20,
         "armour": 5,
@@ -153,7 +153,7 @@
         ],
         "specialRules": [
           "First Strike",
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -166,7 +166,7 @@
           "Transonic Blades"
         ],
         "specialRules": [
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -178,12 +178,12 @@
         "ff": 5,
         "weapons": [
           "Sturmkanone",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -198,8 +198,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -228,8 +228,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -247,8 +247,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -264,8 +264,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Skimmer",
           "Ponderous"
         ]
@@ -283,8 +283,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous",
           "Thick Rear Armour"
         ]
@@ -301,8 +301,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -334,8 +334,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ],
         "notes": "Armed with either Synchronisierte Laserkanone or Synchronisierter schwerer Bolter. Tarantulas armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
       },
@@ -350,8 +350,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ]
       },
       {
@@ -366,13 +366,13 @@
         "specialRules": []
       },
       {
-        "name": "Mole Mortar",
+        "name": "Mole Mörser",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Mole Mortar"
+          "Mole Mörser"
         ],
         "specialRules": [
         ]
@@ -388,7 +388,7 @@
           "Synchronisierter Maschinenkanone"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -402,8 +402,8 @@
           "Taser Lanze"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -420,7 +420,7 @@
           "Icarus Array|0-1|"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Must choose either an Eradication Beamer, Synchronisierter Heavy Phosphor Blaster, Icarus Array or Neutron Laser. Onager Dunecrawlers armed with Eradication Beamer have their firefight value increased to 4+."
       },
@@ -438,7 +438,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Skorpius Dunerider",
@@ -453,7 +453,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Skorpius Disintegrator",
@@ -498,7 +498,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Termite",
@@ -515,7 +515,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Must start the game in the reserves, and may only enter the battlefield through Tunneling."
+        "notes": "May transport two infantry units without Jump Packs or Beritten. Must start the game in the reserves, and may only enter the battlefield through Tunneling."
       },
       {
         "name": "Leman Russ",
@@ -579,7 +579,7 @@
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
           "Titan Plasma Geschütz|0-1|FxF",
-          "Titan Melta Geschütz |0-1|",
+          "Titan Melter Geschütz |0-1|",
           "Gatling Blaster|0-1|FxF",
           ">Support Weapons<",
           "Plasma Destructor|0-1|FxF",
@@ -590,7 +590,7 @@
           "Damage Capacity 2",
           "Void Shields 2",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
@@ -609,14 +609,14 @@
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
           "Titan Plasma Geschütz|0-1|FxF",
-          "Titan Melta Geschütz |0-1|",
+          "Titan Melter Geschütz |0-1|",
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
           "Damage Capacity 2",
           "Void Shields 2",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "notes": "Armed with a single Battle Weapon.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+"
@@ -642,7 +642,7 @@
           "Damage Capacity 4",
           "Void Shields 4",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
       },
@@ -659,10 +659,10 @@
         "specialRules": [
           "Damage Capacity 3",
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack or Mounted. Praetorian Combat Servitor counts as two units each.",
+        "notes": "May carry 10 infantry units without Jump Pack or Beritten. Praetorian Combat Servitor counts as two units each.",
         "crit": "The Gorgon is Immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -680,7 +680,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Jump Packs or Mounted."
+        "notes": "May transport six infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Lysander Fighter",

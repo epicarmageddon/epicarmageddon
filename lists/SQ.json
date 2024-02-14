@@ -1,6 +1,6 @@
 [
   {
-    "name": "Squat Forces",
+    "name": "Squat Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -12,7 +12,7 @@
         ],
         "specialRules": [
           "Spirit Lords",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -23,12 +23,12 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Power Weapon",
+          "Energiewaffe",
           "Maschinenkanone"
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -39,13 +39,13 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Power Weapon",
+          "Energiewaffe",
           "Maschinenkanone"
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Leader",
-          "Commander"
+          "Anführer",
+          "Befehlshaber"
         ]
       },
       {
@@ -69,7 +69,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lasguns",
+          "Lasergewehre",
           "Raketenwerfer"
         ],
         "specialRules": [
@@ -84,7 +84,7 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Laspistols",
+          "Laserpistolen",
           "Kettenschwerter"
         ],
         "specialRules": [
@@ -101,8 +101,8 @@
           "Heirloom Guns"
         ],
         "specialRules": [
-          "Inspiring",
-          "Leader"
+          "Inspirierend",
+          "Anführer"
         ]
       },
       {
@@ -120,13 +120,13 @@
         ]
       },
       {
-        "name": "Mole Mortars",
+        "name": "Mole Mörsers",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Mole Mortars"
+          "Mole Mörsers"
         ],
         "specialRules": [
         ]
@@ -167,8 +167,8 @@
           "Trike Power Lanze"
         ],
         "specialRules": [
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -179,7 +179,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": [
         ]
@@ -195,7 +195,7 @@
           "Synchronisierter Bolter"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -211,7 +211,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord, Grand Warlord, and Squat Thunderfire units takes two spaces each. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
+        "notes": "May transport two infantry units without Jump Packs or Beritten. Squat Warlord, Grand Warlord, and Squat Thunderfire units takes two spaces each. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
       },
       {
         "name": "Land Raider",
@@ -229,7 +229,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord and Grand Warlord units takes two spaces each."
+        "notes": "May transport two infantry units without Jump Packs or Beritten. Squat Warlord and Grand Warlord units takes two spaces each."
       },
       {
         "name": "Squat Thunderfire",
@@ -255,7 +255,7 @@
           "Ragnarok Kampfgeschütz"
         ],
         "specialRules": [
-          "Scout, Skimmer"
+          "Aufklärer, Skimmer"
         ]
       },
       {
@@ -304,7 +304,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Squat Warlord units takes two spaces each."
+        "notes": "May transport two infantry units without Jump Packs or Beritten. Squat Warlord units takes two spaces each."
       },
       {
         "name": "Hellbore",
@@ -318,12 +318,12 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Fearless",
+          "Furchtlos",
           "Thick Rear Armour",
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Packs or Mounted. Squat Warlord units takes two spaces each.",
+        "notes": "May transport twelve infantry units without Jump Packs or Beritten. Squat Warlord units takes two spaces each.",
         "crit": "The Hellbore is destroyed."
       },
       {
@@ -360,10 +360,10 @@
           "Void Shields: 4",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Fearless",
+          "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Packs or Mounted. Up to two units may shoot and FF from the Leviathan's fighting platform",
+        "notes": "May transport twelve infantry units without Jump Packs or Beritten. Up to two units may shoot and FF from the Leviathan's fighting platform",
         "crit": "The Leviathan is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the Leviathan."
       },
       {
@@ -383,7 +383,7 @@
           "Void Shields: 4",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "crit": "The Cyclops may no longer fire its Hellfury Geschütz. Subsequent crits destroys the Cyclops, and all units within 5cm takes a hit."
       },
@@ -406,7 +406,7 @@
           "Void Shields: 4",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "crit": "The Colossus is immobilized, and may not move for the rest of the game. Subsequent crits destroys the Colossus."
       },
@@ -424,14 +424,14 @@
           "BATTLE CAR WEAPONS",
           "Berserker Battle Car",
           "Dragon Battle Car",
-          "Siege Mortar Battle Car",
+          "Siege Mörser Battle Car",
           "0-1 Bomb Battle Car"
         ],
         "specialRules": [
           "Damage Capacity: 2 + the current number of Battle Cars",
           "Void Shields: the current number of Battle Cars",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "notes": "[*]Each Berserker Battle Car may transport one unit of Squat Berserkers. It is allowed to firefight while being transported inside the Land Train.",
         "crit": "The last Battle Car in the train is destroyed. If no Battle Cars remain the Land Train engine is destroyed."

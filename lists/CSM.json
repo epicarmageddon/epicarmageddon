@@ -1,6 +1,6 @@
 [
   {
-    "name": "Chaos Space Marine Forces",
+    "name": "Chaos Space Marine Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -8,10 +8,10 @@
         "name": "Warlord",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Invulnerable Save"
         ]
       },
@@ -22,7 +22,7 @@
             "Doom Siren"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Daemonic Focus",
           "Invulnerable Save"
         ]
@@ -34,7 +34,7 @@
           "Servo Arm"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Battlefield Repairs",
           "Bionics",
           "Invulnerable Save"
@@ -44,10 +44,10 @@
         "name": "Night Lords First Captain",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Daemonic Pact",
           "Invulnerable Save"
         ]
@@ -56,11 +56,11 @@
         "name": "Blood Lord",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
+          "Oberbefehlshaber",
+          "Inspirierend",
           "Invulnerable Save"
         ]
       },
@@ -71,8 +71,8 @@
           "Daemonic Bolt"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
+          "Oberbefehlshaber",
+          "Inspirierend",
           "Augment Summoning (+2D3)",
           "Invulnerable Save"
         ]
@@ -85,7 +85,7 @@
           "Dämonenwaffen"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Invulnerable Save"
         ]
       },
@@ -96,8 +96,8 @@
           "Daemonic Bolt"
         ],
         "specialRules": [
-          "Inspiring",
-          "Leader",
+          "Inspirierend",
+          "Anführer",
           "Augment Summoning (+2D3)",
           "Invulnerable Save"
         ]
@@ -106,11 +106,11 @@
         "name": "Chaos Lord",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -122,8 +122,8 @@
         ],
         "specialRules": [
             "Daemonic Focus",
-            "Commander",
-          "Leader",
+            "Befehlshaber",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -134,7 +134,7 @@
           "Servo Arm"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Battlefield Repairs",
           "Bionics",
           "Invulnerable Save"
@@ -144,11 +144,11 @@
         "name": "Alpha Legion Lord",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -156,11 +156,11 @@
         "name": "Night Lords Captain",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Daemonic Pact",
           "Invulnerable Save"
         ]
@@ -169,11 +169,11 @@
         "name": "Skull Lord",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Inspiring",
+          "Befehlshaber",
+          "Inspirierend",
           "Invulnerable Save"
         ]
       },
@@ -185,7 +185,7 @@
           "Dämonenwaffen"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -196,7 +196,7 @@
           "Warp Bolt"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -208,7 +208,7 @@
         ],
         "specialRules": [
           "Augment Summoning (+D3)",
-          "Leader",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -219,8 +219,8 @@
           "Warp Bolt"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -243,8 +243,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -257,7 +257,7 @@
           "Augment Summoning (+1)",
           "Daemonic Focus",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -272,11 +272,11 @@
           "Æther Blade"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Reinforced Armour",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Invulnerable Save"
         ]
@@ -293,11 +293,11 @@
           "Warp Talons"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Reinforced Armour",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Daemonic Pact",
           "Invulnerable Save"
@@ -315,11 +315,11 @@
           "Rapturous Blade"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Reinforced Armour",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Invulnerable Save"
         ]
@@ -336,11 +336,11 @@
           "Blade of Rot"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Reinforced Armour",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Invulnerable Save"
         ]
@@ -357,11 +357,11 @@
           "Æther Blade"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Reinforced Armour",
           "Jump Pack",
           "Teleport",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Invulnerable Save"
         ]
@@ -379,11 +379,11 @@
           "Bedlam Staff"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Reinforced Armour",
           "Jump Pack",
           "Warp Rift",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Invulnerable Save"
         ]
@@ -432,7 +432,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasma Guns",
+          "Plasmawerfers",
           "Chain Glaives"
         ]
       },
@@ -455,7 +455,7 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasma Guns",
+          "Plasmawerfers",
           "Chain Glaives"
         ]
       },
@@ -517,7 +517,7 @@
           "Maschinenkanone"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -531,7 +531,7 @@
           "Sniper Rifles"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -547,8 +547,8 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Infiltrators",
-          "Scout",
+          "Infiltratoren",
+          "Aufklärer",
           "Sabotage"
         ]
       },
@@ -575,7 +575,7 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Plasma Guns",
+          "Plasmawerfers",
           "Kettenschwerter"
         ],
         "specialRules": [
@@ -651,7 +651,7 @@
           "Blastmaster"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -665,7 +665,7 @@
           "Blastmaster|3|"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -680,7 +680,7 @@
           "Plague Knives"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -695,7 +695,7 @@
           "Chain Axes"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -709,7 +709,7 @@
           "Inferno Bolter"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -726,7 +726,7 @@
         "specialRules": [
           "Teleport",
           "Jump Packs",
-          "Fearless"
+          "Furchtlos"
         ],
         "notes": "Must start the game in the reserves, and may only enter the battlefield by Teleportation. May not be transported."
       },
@@ -753,7 +753,7 @@
         "ff": 3,
         "weapons": [
           "Reaper Maschinenkanone|2|",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -787,7 +787,7 @@
         "ff": 4,
         "weapons": [
           "Cyclone Raketenwerfer",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -804,7 +804,7 @@
         "ff": 2,
         "weapons": [
           "Volkite Chargers",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Stubborn",
@@ -822,10 +822,10 @@
         "ff": 3,
         "weapons": [
           "Doom Siren|2|",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Teleport",
           "Thick Rear Armour"
@@ -840,10 +840,10 @@
         "ff": 3,
         "weapons": [
           "Reaper Maschinenkanone|2|",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Teleport",
           "Thick Rear Armour"
@@ -861,7 +861,7 @@
           "Lightning Klauen"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Teleport",
           "Thick Rear Armour"
@@ -876,10 +876,10 @@
         "ff": 2,
         "weapons": [
           "Inferno Kombi-Bolter",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Warp Rift",
           "Thick Rear Armour"
@@ -896,7 +896,7 @@
           "Manifested Body Weapons"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Teleport"
@@ -912,7 +912,7 @@
           "Manifested Melee Weapons"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Teleport"
@@ -945,7 +945,7 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -971,8 +971,8 @@
           "Chain Axes"
         ],
         "specialRules": [
-          "Fearless",
-          "Mounted"
+          "Furchtlos",
+          "Beritten"
         ]
       },
       {
@@ -987,9 +987,9 @@
           "Juggernaut"
         ],
         "specialRules": [
-          "Fearless",
-          "Mounted",
-          "Walker",
+          "Furchtlos",
+          "Beritten",
+          "Geländegängig",
           "Invulnerable Save"
         ]
       },
@@ -1006,7 +1006,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators and Obliterators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators and Obliterators) without Jump Packs or Beritten."
       },
       {
         "name": "Chaos Siege Rhino",
@@ -1019,10 +1019,10 @@
           "Kombi-Bolter"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators and Obliterators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators and Obliterators) without Jump Packs or Beritten."
       },
       {
         "name": "Alpha Legion Rhino",
@@ -1038,7 +1038,7 @@
           "Stubborn",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Death Guard Rhino",
@@ -1053,7 +1053,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Emperor's Children Rhino",
@@ -1068,7 +1068,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "World Eaters Rhino",
@@ -1083,7 +1083,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Thousand Sons Rhino",
@@ -1099,7 +1099,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Chaos Land Raider",
@@ -1117,7 +1117,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Chaos Terminators, Obliterators counts as two units each."
+        "notes": "May transport two infantry units without Jump Packs or Beritten. Chaos Terminators, Obliterators counts as two units each."
       },
       {
         "name": "Alpha Legion Land Raider",
@@ -1136,7 +1136,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Emperor's Children Land Raider",
@@ -1154,7 +1154,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Sirenshriek Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Sirenshriek Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Death Guard Land Raider",
@@ -1169,11 +1169,11 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Blightlord Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Blightlord Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "World Eaters Land Raider",
@@ -1186,12 +1186,12 @@
           "Reaper Maschinenkanone|2|"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport two Terminators, Mutilators, or three infantry units without Jump Packs or Mounted."
+        "notes": "May transport two Terminators, Mutilators, or three infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Thousand Sons Land Raider",
@@ -1209,7 +1209,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Chaos Predator",
@@ -1263,7 +1263,7 @@
         ]
       },
       {
-        "name": "Alpha Legion Sicarian Battle Tank",
+        "name": "Alpha Legion Sicarian Battle Panzer",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1300,7 +1300,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mortar",
+          "Heavy Mörser",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1331,7 +1331,7 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1359,7 +1359,7 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1373,7 +1373,7 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1412,8 +1412,8 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1428,7 +1428,7 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1443,8 +1443,8 @@
           "Synchronisierte Laserkanone"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1458,8 +1458,8 @@
           "Dreadnought Chainfist|2|"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1475,8 +1475,8 @@
           "Siege Drill"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1492,7 +1492,7 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1507,8 +1507,8 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -1523,12 +1523,12 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
-        "name": "Chaos Spartan Assault Tank",
+        "name": "Chaos Spartan Assault Panzer",
         "type": "H-AV",
         "speed": 25,
         "armour": 4,
@@ -1543,10 +1543,10 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport four infantry units without Jump Packs or Mounted. Terminators count as two units each."
+        "notes": "May transport four infantry units without Jump Packs or Beritten. Terminators count as two units each."
       },
       {
-        "name": "Chaos Typhon Heavy Siege Tank",
+        "name": "Chaos Typhon Heavy Siege Panzer",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -1559,7 +1559,7 @@
         "specialRules": [
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {

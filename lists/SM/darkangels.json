@@ -20,9 +20,9 @@
         "Dark Angels Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assaults",
-        "Scouts",
+        "Aufklärers",
         "Tacticals",
         "Dark Angels Devastators",
         "Terminators",
@@ -65,7 +65,7 @@
           "units": "One Black Knights, four Ravenwing Assault Bikes, three Ravenwing Land Speeders",
           "extraUnits": [
             "Attack Bikes",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 350
         },
@@ -75,7 +75,7 @@
           "extraUnits": [
             "Razorbacks",
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Raiders"
           ],
           "points": 275
@@ -85,7 +85,7 @@
           "units": "Any four of the following units: Terminators, Cyclone Terminators",
           "extraUnits": [
             "Deathwing Knights",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 350
         }
@@ -118,7 +118,7 @@
         "extraUnits": [
           "Razorbacks",
           "Anti-Air",
-          "Commander",
+          "Befehlshaber",
           "Land Raiders"
         ],
         "points": 250
@@ -127,7 +127,7 @@
         "name": "Deathwing Armour",
         "units": "Three Land Raiders, three Terminators",
         "extraUnits": [
-          "Commander"
+          "Befehlshaber"
         ],
         "points": 450
     },
@@ -143,7 +143,7 @@
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Vindicators"
           ],
           "points": 175
@@ -157,8 +157,8 @@
           "points": 175
         },
         {
-          "name": "Scouts",
-          "units": "Four Scouts, two Rhinos",
+          "name": "Aufklärers",
+          "units": "Four Aufklärers, two Rhinos",
           "extraUnits": [
             "Razorbacks",
             "Snipers"
@@ -236,7 +236,7 @@
         "points": "125 points"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
@@ -248,7 +248,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -283,7 +283,7 @@
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Schwerer Bolter",
+        "description": "Give all Aufklärers in the formation 'Sniper' on their Schwerer Bolter",
         "points": "25 points"
       },
       {
@@ -296,6 +296,6 @@
   "usage": [
     "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. For example, while the Invulnerable Save on the Ravenwing formations has been retained, the Deathwing rule has been dropped, and the Teleport Homer rule is greatly expanded.",
     "Apart from the rigid structure and the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault formations, but strongly encourages the player to concentrate on the Teleport aspects of the Dark Angels fluff, and bringing a strong ground game. The Battle Barge has been replaced with the Hunter Class Destroyer, which provides the army with a cheaper way to use the Teleport Homer special rule.",
-    "A great number of the Dark Angels' many special units has been added, somewhat compensating for the loss of air assault options and Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to one formation for thematic purposes, while the normal Dreadnought loadouts have been replaced with the Mortis AA variant. The Land Speeder Typhoon has been replaced with the Land Speeder Venegance, and the formation reduced to four units to keep the cost down, and make the formation more competitive with the Scout formation. The Assaults detachment was expanded to six units and comes with a Dark Angels Captain as standard (providing Teleport Homer), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon, and the Dark Talon provides the list with a Fighter-Bomber option."
+    "A great number of the Dark Angels' many special units has been added, somewhat compensating for the loss of air assault options and Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to one formation for thematic purposes, while the normal Dreadnought loadouts have been replaced with the Mortis AA variant. The Land Speeder Typhoon has been replaced with the Land Speeder Venegance, and the formation reduced to four units to keep the cost down, and make the formation more competitive with the Aufklärer formation. The Assaults detachment was expanded to six units and comes with a Dark Angels Captain as standard (providing Teleport Homer), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon, and the Dark Talon provides the list with a Fighter-Bomber option."
   ]
 }

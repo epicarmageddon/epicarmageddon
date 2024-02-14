@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tau Forces",
+    "name": "Tau Streitmächte",
     "specialRules": [
 
     ],
@@ -13,8 +13,8 @@
         ],
         "specialRules": [
           "Ethereal",
-          "Inspiring",
-          "Leader",
+          "Inspirierend",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -25,7 +25,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Coordinated Fire"
         ]
       },
@@ -36,7 +36,7 @@
           "Experimentelle Waffen"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Coordinated Fire"
         ]
       },
@@ -51,7 +51,7 @@
           "Experimentelle Waffen"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Coordinated Fire"
         ]
       },
@@ -145,7 +145,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Expendable",
+          "Entbehrlich",
           "Tau Jet Packs",
           "Deflector Shield"
         ]
@@ -164,7 +164,7 @@
         "specialRules": [
           "Coordinated Fire",
           "Markerlights",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -215,7 +215,7 @@
           "First Strike",
           "Reinforced Armour",
           "Markerlights",
-          "Scouts",
+          "Aufklärers",
           "Tau Jet Packs",
           "Teleport"
         ]
@@ -234,7 +234,7 @@
           "First Strike",
           "Reinforced Armour",
           "Markerlights",
-          "Scouts",
+          "Aufklärers",
           "Tau Jet Packs",
           "Teleport"
         ]
@@ -250,7 +250,7 @@
           "Sniper Drone"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Teleport",
           "Tau Jet Packs",
           "Counts as Gun Drone for the purpose of being transported."
@@ -269,7 +269,7 @@
         "specialRules": [
           "Teleport",
           "Markerlights",
-          "Scouts",
+          "Aufklärers",
           "Counts as Fire Warrior for the purpose of being transported."
         ]
       },
@@ -297,9 +297,9 @@
           "Kroot Rifles"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Leader",
-          "Scout"
+          "Infiltratoren",
+          "Anführer",
+          "Aufklärer"
         ]
       },
       {
@@ -312,8 +312,8 @@
           "Kroot Rifles"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
@@ -325,8 +325,8 @@
           "Zähne"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
@@ -369,7 +369,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Tau Jet Pack"
         ]
       },
@@ -391,7 +391,7 @@
           "Markerlights",
           "Tau Jet Pack",
           "Teleport",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -407,7 +407,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -438,7 +438,7 @@
         "specialRules": [
           "Coordinated Fire",
           "Markerlights",
-          "Scout",
+          "Aufklärer",
           "Skimmer"
         ]
       },
@@ -573,7 +573,7 @@
         "specialRules": [
           "Invulnerable Save",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -591,7 +591,7 @@
         "specialRules": [
           "Tau Jet Pack",
           "Tau Deflector Shield",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -609,7 +609,7 @@
           "Invulnerable Save",
           "Tau Jet Pack",
           "Thick Rear Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -632,7 +632,7 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Invulnerable Save",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Stormsurge takes an additional point of damage."
       },
@@ -653,9 +653,9 @@
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Fearless",
+          "Furchtlos",
           "Tau Deflector Shield",
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Armed with either a Nexus Rakete Array, Heavy Railcannon, or Pulse Ordnance Multi Driver.",
         "crit": "The Tau Deflector Shield is knocked offline and may not be used for the remainder of the game. Subsequent critical hits cause an additional point of damage."
@@ -675,7 +675,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 6",
-          "Fearless",
+          "Furchtlos",
           "Markerlights",
           "Planetfall",
           "Reinforced Armour",

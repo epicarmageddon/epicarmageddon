@@ -1,7 +1,7 @@
 {
   "index": [
     {
-      "section": "Imperial Forces",
+      "section": "Imperiale Streitmächte",
       "index": [
         {
           "name": "Adeptus Mechanicus",
@@ -40,11 +40,11 @@
           ]
         },
         {
-          "name": "Astra Militarum",
+          "name": "Streitmächte des Astra Militarum",
           "abbreviation": "IG",
           "lists": [
             {
-              "name": "Baran Siegemasters",
+              "name": "Baranische Belagerungsmeisters",
               "file": "barans",
               "status": "approved",
               "img": "images/AstraMilitarum_Baran.jpg"
@@ -68,25 +68,25 @@
               "img": "images/AstraMilitarum_Korps.jpg"
             },
             {
-              "name": "Elysian Drop Troops",
+              "name": "Elysianische Sturmtruppen",
               "file": "elysiandroptroops",
-              "status": "alpha",
+              "status": "approved",
               "img": "images/AstraMilitarum_Elysian.jpg"
             },
             {
-              "name": "Minervan Tank Legion",
+              "name": "Minervanische Panzerlegion",
               "file": "minervans",
               "status": "approved",
               "img": "images/AstraMilitarum_Minervans.jpg"
             },
             {
-              "name": "Steel Legion",
+              "name": "Stahlegion von Armageddon",
               "file": "steellegion",
               "status": "approved",
               "img": "images/AstraMilitarum_Steel.jpg"
             },
             {
-              "name": "Valhallan Ice Warriors",
+              "name": "Eiskrieger von Valhalla",
               "file": "valhallanicewarriors",
               "status": "alpha",
               "img": "images/AstraMilitarum_Valhallans.jpg"
@@ -94,7 +94,7 @@
           ]
         },
         {
-          "name": "Imperial Inquisition",
+          "name": "Imperiale Inquisition",
           "abbreviation": "IQ",
           "lists": [
             {
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "section": "Forces of Chaos",
+      "section": "Streitmächte des Chaos",
       "index": [
         {
           "name": "Chaos Space Marines",
@@ -255,23 +255,23 @@
           ]
         },
         {
-          "name": "Chaos Cultists",
+          "name": "Chaos Kulte",
           "abbreviation": "Cultists",
           "lists": [
             {
-              "name": "Daemonic Incursion",
+              "name": "Dämonische  Invasion",
               "file": "DI",
               "status": "approved",
               "img": "images/Cultist_Daemon.jpg"
             },
             {
-              "name": "Lost and the Damned",
+              "name": "Verlorene und Verdammte",
               "file": "LatD",
               "status": "approved",
               "img": "images/Cultist_Damned.jpg"
             },
             {
-              "name": "Slaves to Darkness",
+              "name": "Sklaven der Dunkelheit",
               "file": "StD",
               "status": "approved",
               "img": "images/Cultist_Slaves.jpg"
@@ -279,7 +279,7 @@
           ]
         },
         {
-          "name": "Dark Mechanicus",
+          "name": "Dunkles Mechanicus",
           "abbreviation": "DM",
           "lists": [
             {
@@ -289,7 +289,7 @@
               "img": "images/DarkMech_QT.jpg"
             },
             {
-              "name": "Traitor Titan Legion",
+              "name": "Verräter Titanenlegion",
               "file": "TTL",
               "status": "alpha",
               "img": "images/DarkMech_Titan.jpg"
@@ -360,13 +360,13 @@
           "abbreviation": "DE",
           "lists": [
             {
-              "name": "Kabal of the Wraithkind / Harlequins",
+              "name": "Kabal der Schattenwesen/ Harlequins",
               "file": "masqueofthemidnightsorrow",
               "status": "approved",
               "img": "images/Harlequin_Sorrow.jpg"
             },
             {
-              "name": "Kabal of the Black Heart",
+              "name": "Kabale des Schwarzen Herzens",
               "file": "kabaloftheblackheart",
               "status": "approved",
               "img": "images/DarkEldar_Bladed.jpg"

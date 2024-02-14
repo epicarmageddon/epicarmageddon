@@ -50,7 +50,7 @@
         "Power Fields",
         "Battlefortresses and Gunfortresses",
         "‘Ere we Go",
-        "Super-Expendable",
+        "Super-Entbehrlich",
         "God Machine",
         "Split Fire"
       ]
@@ -65,7 +65,7 @@
           "name": "0-1 Mega Gargant",
           "units": "One Mega Gargant",
           "upgrades": [
-            "Add a 'Uge Banner of Gork (Inspiring): 50 points"
+            "Add a 'Uge Banner of Gork (Inspirierend): 50 points"
           ],
           "points": 950
         },
@@ -73,7 +73,7 @@
           "name": "Great Gargant",
           "units": "One Great Gargant",
           "upgrades": [
-            "Add a 'Uge Banner of Gork (Inspiring, 50 points) or a Big Banner of Mork (Leader, 25 points. May not be combined with Big Mek)"
+            "Add a 'Uge Banner of Gork (Inspirierend, 50 points) or a Big Banner of Mork (Anführer, 25 points. May not be combined with Big Mek)"
           ],
           "points": 750
         },
@@ -81,7 +81,7 @@
           "name": "Gargant",
           "units": "One Gargant",
           "upgrades": [
-            "Add a Big Banner of Mork (Leader): 25 points"
+            "Add a Big Banner of Mork (Anführer): 25 points"
           ],
           "points": 550
         }

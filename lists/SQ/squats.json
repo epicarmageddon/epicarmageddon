@@ -23,7 +23,7 @@
         "Squat Bikers",
         "Squat Hearthguards",
         "Squat Thunderers",
-        "Mole Mortars",
+        "Mole Mörsers",
         "Rapier",
         "Thudd Gun",
         "Guildmaster Trike",
@@ -114,7 +114,7 @@
         },
         {
           "name": "Light Artillery Battery",
-          "units": "Six Thudd Guns and/or Mole Mortars",
+          "units": "Six Thudd Guns and/or Mole Mörsers",
           "extraUnits": [
           ],
           "points": 200
@@ -193,7 +193,7 @@
           "extraUnits": [
             "Living Ancestor",
             "Dragon Battle Car: 75 points each",
-            "Siege Mortar Battle Car: 75 points each",
+            "Siege Mörser Battle Car: 75 points each",
             "Berserker Battle Car and one unit of Squat Berserkers: 75 points each",
             "0-1 Bomb Battle Car: 125 points"
           ],

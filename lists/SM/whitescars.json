@@ -18,18 +18,18 @@
       "units": [
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assaults",
         "Tacticals",
         "Terminators",
         "White Scars Assault Bikes",
-        "White Scars Scout Bikes",
+        "White Scars Aufklärer Bikes",
         "White Scars Land Speeder",
         "White Scars Land Speeder Tornado",
         "White Scars Land Speeder Typhoon",
         "White Scars Land Speeder Tempest",
         "White Scars Attack Bike",
-        "White Scars Melta Bike",
+        "White Scars Melter Bike",
         "Hunter",
         "Land Raider",
         "Land Raider Crusader",
@@ -69,7 +69,7 @@
           "units": "Eight White Scars Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 325
         },
@@ -78,7 +78,7 @@
           "units": "Six Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Razorbacks",
             "Vindicators"
           ],
@@ -90,7 +90,7 @@
           "extraUnits": [
             "Replace up to two Land Raider Crusaders with two Land Raiders each: 50 points each",
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Vindicators"
           ],
           "points": 425
@@ -105,7 +105,7 @@
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Vindicators"
           ],
           "points": 175
@@ -119,8 +119,8 @@
           "points": 225
         },
         {
-          "name": "Scout Bikes",
-          "units": "Five White Scars Scout Bikes",
+          "name": "Aufklärer Bikes",
+          "units": "Five White Scars Aufklärer Bikes",
           "extraUnits": [
             "Attack Bikes"
           ],
@@ -204,7 +204,7 @@
       },
       {
         "name": "Attack Bikes",
-        "description": "Replace up to three White Scars Assault Bikes, or one White Scars Scout Bikes, with an equal number of White Scars Attack or Melta Bikes",
+        "description": "Replace up to three White Scars Assault Bikes, or one White Scars Aufklärer Bikes, with an equal number of White Scars Attack or Melter Bikes",
         "points": "Free"
       },
       {
@@ -213,7 +213,7 @@
         "points": "75 points"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
@@ -229,7 +229,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]

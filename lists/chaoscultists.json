@@ -1,6 +1,6 @@
 [
   {
-    "name": "Chaos Cultist Forces",
+    "name": "Chaos Cultist Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -11,7 +11,7 @@
           "Dämonenwaffen"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -23,7 +23,7 @@
         "specialRules": [
           "Daemonic Focus",
           "Augment Summoning (+1)",
-          "Leader",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -65,13 +65,13 @@
           "Dämonenwaffen"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
       {
-        "name": "Fallen Commander",
+        "name": "Fallen Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -82,8 +82,8 @@
           "Dämonenwaffen"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -99,10 +99,10 @@
           "Æther Blade"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Reinforced Armour",
           "Jump Pack",
-          "Fearless",
+          "Furchtlos",
           "Daemonic Focus",
           "Invulnerable Save"
         ]
@@ -141,12 +141,12 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Laspistols",
+          "Laserpistolen",
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Mounted",
-          "Walker"
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
@@ -174,7 +174,7 @@
           "Horrific Mutations"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save"
         ],
         "notes": "Counts as two units of INF for the purpose of being transported."
@@ -191,7 +191,7 @@
           "Sorcerous Bolts"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Jump Packs"
         ]
       },
@@ -205,7 +205,7 @@
           "Klauen und Zähne"
         ],
         "specialRules": [
-          "Expendable"
+          "Entbehrlich"
         ],
         "notes": "May not be transported."
       },
@@ -222,7 +222,7 @@
         "specialRules": [
             "Transport"
         ],
-        "notes": "May transport two infantry units without Mounted or Jump Packs."
+        "notes": "May transport two infantry units without Beritten or Jump Packs."
       },
       {
         "name": "Technical",
@@ -251,8 +251,8 @@
           "Damage Capacity 3",
           "Reinforced Armour",
           "Invulnerable Save",
-          "Fearless",
-          "Inspiring",
+          "Furchtlos",
+          "Inspirierend",
           "Daemonic Focus",
           "Augmented Summoning (+D3)"
         ],
@@ -272,8 +272,8 @@
             "Damage Capacity 3",
             "Reinforced Armour",
             "Invulnerable Save",
-            "Fearless",
-            "Inspiring",
+            "Furchtlos",
+            "Inspirierend",
             "Daemonic Focus",
             "Augmented Summoning (+D3)",
           "Chaos Gate"
@@ -290,7 +290,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Infiltrators",
+          "Infiltratoren",
           "Infestation"
         ]
       },
@@ -319,7 +319,7 @@
           "Divining Spear"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Jump Packs",
           "Invulnerable Save"
         ]
@@ -336,8 +336,8 @@
           "Mælstrom of Madness"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker",
+          "Furchtlos",
+          "Geländegängig",
           "Reinforced Armour",
           "Regeneration",
           "Augment Summoning (+2D3)"

@@ -19,9 +19,9 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assaults",
-        "Scouts",
+        "Aufklärers",
         "Tacticals",
         "Devastators",
         "Terminators",
@@ -74,13 +74,13 @@
   "sections": [
     {
       "name": "Codex Astartes Detachments",
-      "description": "Up to one Scout Detachment for each non-Scout Detachment.",
+      "description": "Up to one Aufklärer Detachment for each non-Aufklärer Detachment.",
       "formations": [
         {
           "name": "Assaults",
           "units": "Four Assaults",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Vindicators"
           ],
           "points": 175
@@ -90,7 +90,7 @@
           "units": "Five Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 200
         },
@@ -99,7 +99,7 @@
           "units": "Four Devastators plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport",
             "Dreadnoughts",
             "Razorback",
@@ -133,8 +133,8 @@
           "points": 250
         },
         {
-          "name": "Scouts",
-          "units": "Four Scouts plus transport",
+          "name": "Aufklärers",
+          "units": "Four Aufklärers plus transport",
           "extraUnits": [
             "Razorbacks",
             "Snipers"
@@ -146,7 +146,7 @@
           "units": "Six Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Land Raider Transport",
             "Razorback",
@@ -158,7 +158,7 @@
           "name": "Terminators",
           "units": "Four Terminators",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport"
           ],
           "points": 350
@@ -265,7 +265,7 @@
         "points": "75 points"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
@@ -277,7 +277,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -301,7 +301,7 @@
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Schwerer Bolter",
+        "description": "Give all Aufklärers in the formation 'Sniper' on their Schwerer Bolter",
         "points": "25 points"
       },
       {

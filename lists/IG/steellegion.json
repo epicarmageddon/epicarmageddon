@@ -1,10 +1,10 @@
 {
   "fraction": "Astra Militarum",
-  "army": "Steel Legion",
+  "army": "Stahlegion",
   "version": "1.0.Beta-2",
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_SteelLegion",
-  "strategy": "Steel Legion armies have a Strategy Rating of 2.",
+  "strategy": "Stahlegion armies have a Strategy Rating of 2.",
   "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
   "specialRules": [
     "Courage, Discipline and Loyalty"
@@ -13,14 +13,14 @@
     {
       "from": "IG.json",
       "units": [
-        "Steel Legion Supreme Commander",
-        "Steel Legion Commander",
+        "Stahlegion Oberbefehlshaber",
+        "Stahlegion Befehlshaber",
         "Commissar",
         "Infantry",
         "Ogryns",
         "Rough Riders",
         "Snipers",
-        "Storm Troopers",
+        "Sturmtruppen",
         "Fire Support Squad",
         "Sentinel",
         "Basilisk",
@@ -75,7 +75,7 @@
       "formations": [
         {
           "name": "Regimental HQ",
-          "units": "One Steel Legion Supreme Commander with a Commissar, nine Infantry and five Chimeras",
+          "units": "One Stahlegion Oberbefehlshaber with a Commissar, nine Infantry and five Chimeras",
           "extraUnits": [
             "All"
           ],
@@ -83,7 +83,7 @@
         },
         {
           "name": "Mechanized Infantry Company",
-          "units": "One Steel Legion Commander with a Commissar, nine Infantry and five Chimeras",
+          "units": "One Stahlegion Befehlshaber with a Commissar, nine Infantry and five Chimeras",
           "extraUnits": [
             "All"
           ],
@@ -91,7 +91,7 @@
         },
         {
           "name": "Infantry Company",
-          "units": "One Steel Legion Commander with a Commissar, twelve Infantry",
+          "units": "One Stahlegion Befehlshaber with a Commissar, twelve Infantry",
           "extraUnits": [
             "All"
           ],
@@ -201,7 +201,7 @@
         },
         {
           "name": "Storm Trooper Company",
-          "units": "Eight Storm Troopers, one with a Commissar",
+          "units": "Eight Sturmtruppen, one with a Commissar",
           "points": 200,
           "extraUnits": [
             "Add four Taurox or four Valkyries: 150 points"
@@ -257,7 +257,7 @@
     }
   ],
   "upgrades": {
-    "title": "Steel Legion Upgrades",
+    "title": "Stahlegion Upgrades",
     "description": "Each upgrade may be taken once per formation. No more than three upgrades per Company",
     "items": [
       {
@@ -306,7 +306,7 @@
     ]
   },
   "about": [
-    "v1.0.Beta: The EA-R Steel Legion is based on the NetEA version, but with a number of changes to make the list more flexible and to make more types of builds possible. The most important difference are the reductions in size & price of the Regimental HQ / Mechanized Company / Artillery Company, the introduction of a Mechanized Platoon, and the replacement of the Deathstrike formation with a Deathstrike upgrade for IG artillery formations. There is now a price difference when taking the much more capable Manticores over the Bombard or Basilisk. The Leman Russ Company has been made slightly cheaper. Commissars have been made an integral part of a specific unit in each Company-type formation.",
-    "Other important changes: Vultures can be taken in formations of three, in order to make the formation more flexible. Valkyries have lost Scout, since having Scout on both transports and the units being transported easily got out of hand. Valkyries has a 1BP Rocket Pod instead of the 2BP Single Shot pod to eliminate the need for keeping track on which units had shots left. Rough Riders only have a single attack with FS, but has gained Walker. The Leman Russ Platoon can also take Leman Russ Punishers, and have been reduced in cost. Marauder Bombers have been reduced in price."
+    "v1.0.Beta: The EA-R Stahlegion is based on the NetEA version, but with a number of changes to make the list more flexible and to make more types of builds possible. The most important difference are the reductions in size & price of the Regimental HQ / Mechanized Company / Artillery Company, the introduction of a Mechanized Platoon, and the replacement of the Deathstrike formation with a Deathstrike upgrade for IG artillery formations. There is now a price difference when taking the much more capable Manticores over the Bombard or Basilisk. The Leman Russ Company has been made slightly cheaper. Commissars have been made an integral part of a specific unit in each Company-type formation.",
+    "Other important changes: Vultures can be taken in formations of three, in order to make the formation more flexible. Valkyries have lost Aufklärer, since having Aufklärer on both transports and the units being transported easily got out of hand. Valkyries has a 1BP Rocket Pod instead of the 2BP Single Shot pod to eliminate the need for keeping track on which units had shots left. Rough Riders only have a single attack with FS, but has gained Walker. The Leman Russ Platoon can also take Leman Russ Punishers, and have been reduced in cost. Marauder Bombers have been reduced in price."
   ]
 }

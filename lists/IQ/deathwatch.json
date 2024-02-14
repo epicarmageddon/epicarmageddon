@@ -30,7 +30,7 @@
     {
       "from": "SM.json",
       "units": [
-        "Watch Commander",
+        "Watch Befehlshaber",
         "Watch Sergeant",
         "Chaplain",
         "Librarian",
@@ -74,7 +74,7 @@
       "formations": [
         {
           "name": "0-1 Officio Assassinorum",
-          "units": "Once per battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, and have the 'Sniper' and 'First Strike' special rules. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Expendable).",
+          "units": "Once per battle, during an Assault that the Deathwatch player initiated (after all units have finished moving), a single unit anywhere in the enemy formation(s) is hit with D3 hits. These hits counts as being from CC, and have the 'Sniper' and 'First Strike' special rules. Any damage caused by these hits counts towards combat resolution (unless the target is Super-Entbehrlich).",
           "points": 50
         }
       ]
@@ -89,7 +89,7 @@
           "extraUnits": [
             "Replace three Deathwatch Tacticals with three Deathwatch Black Shields: 25 points",
             "Replace three Deathwatch Tacticals with three Deathwatch Devastators: 50 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Deathwatch Specialists",
             "Deathwatch Support"
           ],
@@ -99,7 +99,7 @@
           "name": "Deathwatch Attack",
           "units": "One Watch Sergeant, three Deathwatch Attack Bikes, one Deathwatch Landspeeder Tornado",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Deathwatch Specialists"
           ],
           "points": 175
@@ -109,7 +109,7 @@
           "units": "One Watch Sergeant, three Deathwatch Assaults",
           "extraUnits": [
             "Add one Deathwatch Landspeeder Tornado: 25 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Deathwatch Specialists"
           ],
           "points": 175
@@ -118,7 +118,7 @@
           "name": "Deathwatch Terminators",
           "units": "One Watch Sergeant, two Deathwatch Terminators",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Deathwatch Specialists",
             "Deathwatch Support"
           ],
@@ -140,7 +140,7 @@
           "name": "0-1 Ordo Xenos Inquisitor Task Force",
           "units": "Ordo Xenos Inquisitor, nine Arbitrators, five Arbites Repressors",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Add three Leman Russ Thunderers: 150 points"
           ],
           "points": 300
@@ -201,11 +201,11 @@
     "description": "Each upgrade may be taken once per formation.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
-        "description": "Replace an Ordo Xenos Inquisitor with an Ordo Xenos Inquisitor Lord, or a Watch Sergeant with a Watch Commander",
+        "name": "0-1 Oberbefehlshaber",
+        "description": "Replace an Ordo Xenos Inquisitor with an Ordo Xenos Inquisitor Lord, or a Watch Sergeant with a Watch Befehlshaber",
         "points": [
           "Inquisitor Lord: 50 points",
-          "Watch Commander: 100 points"
+          "Watch Befehlshaber: 100 points"
         ]
       },
       {

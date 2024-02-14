@@ -122,10 +122,10 @@
           "notes": "* Choose one: Plaguehound of Nurgle, Bloodhound of Khorne, Warphound of Tzeentch, or Chaos Warhound of Chaos Undivided"
         },
         {
-          "name": "Slaanesh Scout Titan",
-          "units": "One Slaanesh Scout Titan*",
+          "name": "Slaanesh Aufklärer Titan",
+          "units": "One Slaanesh Aufklärer Titan*",
           "extraUnits": [
-            "Add one Slaanesh Scout Titan of the same type: 200 points",
+            "Add one Slaanesh Aufklärer Titan of the same type: 200 points",
             "Heralds of Chaos"
           ],
           "points": 275,
@@ -232,12 +232,12 @@
     "items": [
       {
         "name": "0-1 Auge der Götter",
-        "description": "The formation gains 'Supreme Commander' special rule.",
+        "description": "The formation gains 'Oberbefehlshaber' special rule.",
         "points": "50 points"
       },
       {
         "name": "Heralds of Chaos",
-        "description": "The formation gains the 'Leader' special rule. May not be combined with Auge der Götter.",
+        "description": "The formation gains the 'Anführer' special rule. May not be combined with Auge der Götter.",
         "points": "25 points"
       }
     ]

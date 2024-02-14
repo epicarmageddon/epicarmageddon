@@ -143,7 +143,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport four infantry units without Mounted; Terminators, Daemon Princes, Chaos Spawn, Big Mutants and Dreadnoughts counts as two units each. Counts as a Chaos Thunderhawk for being transported.",
+        "notes": "May transport four infantry units without Beritten; Terminators, Daemon Princes, Chaos Spawn, Big Mutants and Dreadnoughts counts as two units each. Counts as a Chaos Thunderhawk for being transported.",
         "crit": "The Storm Eagle and all units being carried are destroyed."
       },
       {
@@ -243,7 +243,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Planetfall",
           "Transport"

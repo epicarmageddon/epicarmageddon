@@ -20,12 +20,12 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assaults",
         "Death Company Marines",
         "Devastators",
         "Sanguinary Guards",
-        "Scouts",
+        "Aufklärers",
         "Tacticals",
         "Death Company Dreadnought",
         "Assault Terminators",
@@ -33,7 +33,7 @@
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
-        "Melta Bike",
+        "Melter Bike",
         "Attack Bike",
         "Dreadnought, Furioso",
         "Dreadnought",
@@ -88,7 +88,7 @@
           "units": "Four Assaults",
           "extraUnits": [
             "Assaults",
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Honor Guards",
             "Predators",
@@ -101,7 +101,7 @@
           "units": "Six Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Honor Guards",
             "Land Raider Transport",
@@ -115,7 +115,7 @@
           "name": "Assault Terminators",
           "units": "Four Assault Terminators",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Replace one Assault Terminator with three Stormravens or three Land Raiders: 100 points, or add two Land Raider Redeemers: 100 points"
           ],
@@ -140,7 +140,7 @@
           "units": "Five Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 200
         },
@@ -149,7 +149,7 @@
           "units": "Four Devastators plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Dreadnoughts",
             "Land Raider Transport",
             "Predators",
@@ -167,8 +167,8 @@
           "points": 200
         },
         {
-          "name": "Scouts",
-          "units": "Four Scouts plus transport",
+          "name": "Aufklärers",
+          "units": "Four Aufklärers plus transport",
           "extraUnits": [
             "Razorbacks",
             "Snipers"
@@ -235,11 +235,11 @@
       },
       {
         "name": "Attack Bikes",
-        "description": "Replace any number of Assault Bikes with an equal number of Attack Bikes or Melta Bikes",
+        "description": "Replace any number of Assault Bikes with an equal number of Attack Bikes or Melter Bikes",
         "points": "Free"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
@@ -251,7 +251,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -263,7 +263,7 @@
       },
       {
         "name": "Honor Guards",
-        "description": "In a formation containing a Supreme Commander character: replace up to two Assaults or Tacticals with Sanguinary Guards",
+        "description": "In a formation containing a Oberbefehlshaber character: replace up to two Assaults or Tacticals with Sanguinary Guards",
         "points": "25 points each"
       },
       {
@@ -283,7 +283,7 @@
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Schwerer Bolter",
+        "description": "Give all Aufklärers in the formation 'Sniper' on their Schwerer Bolter",
         "points": "25 points"
       },
       {

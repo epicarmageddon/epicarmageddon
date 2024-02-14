@@ -1,6 +1,6 @@
 [
   {
-    "name": "Genestealer Forces",
+    "name": "Genestealer Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -14,10 +14,10 @@
           "Large Rending Klauen"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Scout",
-          "Infiltrators",
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Aufklärer",
+          "Infiltratoren",
           "Invulnerable Save"
         ]
       },
@@ -29,7 +29,7 @@
         ],
         "specialRules": [
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -39,7 +39,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Inspiring"
+          "Inspirierend"
         ]
       },
       {
@@ -49,8 +49,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Leader",
-          "Inspiring",
+          "Anführer",
+          "Inspirierend",
           "Invulnerable Save"
         ]
       },
@@ -61,7 +61,7 @@
           "Sniper Rifle"
         ],
         "specialRules": [
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -73,12 +73,12 @@
         "ff": 5,
         "weapons": [
           "Seismic Geschütz",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Inspiring",
-          "Commander",
-          "Infiltrators"
+          "Inspirierend",
+          "Befehlshaber",
+          "Infiltratoren"
         ]
       },
       {
@@ -93,7 +93,7 @@
           "Klauen"
         ],
         "specialRules": [
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -106,7 +106,7 @@
           "Giant Mauls"
         ],
         "specialRules": [
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -117,11 +117,11 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Laspistols",
+          "Laserpistolen",
           "Klauen"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -147,8 +147,8 @@
           "Rending Klauen"
         ],
         "specialRules": [
-          "Scout",
-          "Infiltrators"
+          "Aufklärer",
+          "Infiltratoren"
         ]
       },
       {
@@ -163,7 +163,7 @@
         ],
         "specialRules": [
           "Teleport",
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -179,8 +179,8 @@
         ],
         "specialRules": [
           "First Strike",
-          "Infiltrators",
-          "Scout",
+          "Infiltratoren",
+          "Aufklärer",
           "Invulnerable Save",
           "Teleport"
         ]
@@ -198,7 +198,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "May carry two infantry units without Jump Packs or Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
       },
       {
         "name": "Coven Technical",
@@ -224,7 +224,7 @@
           "Seismic Geschütz"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -238,10 +238,10 @@
           "Heavy Mining Laser"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "May carry two infantry units without Jump Packs or Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
       },
       {
         "name": "Coven Thunderbolt Fighter",
@@ -264,7 +264,7 @@
         "ff": 5,
         "weapons": [
           "Maschinenkanone",
-          "Lasguns"
+          "Lasergewehre"
         ],
         "specialRules": [
           "Brood Brothers"
@@ -371,7 +371,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mortar",
+          "Heavy Mörser",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -408,7 +408,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Cult Land Transporter",
@@ -424,7 +424,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Cult Baneblade",

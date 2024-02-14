@@ -1,6 +1,6 @@
 [
   {
-    "name": "Harlequin Forces",
+    "name": "Harlequin Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -11,8 +11,8 @@
           "Harlequin Kiss"
         ],
         "specialRules": [
-          "Leader",
-          "Commander"
+          "Anführer",
+          "Befehlshaber"
         ],
         "notes": "May only join Harlequin Troupes or Skyweaver Jetbikes."
       },
@@ -23,7 +23,7 @@
           "Monomolecular Blade"
         ],
         "specialRules": [
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -33,7 +33,7 @@
           "Harlequin Kiss"
         ],
         "specialRules": [
-          "Inspiring"
+          "Inspirierend"
         ]
       },
       {
@@ -43,8 +43,8 @@
           "Shards of Light"
         ],
         "specialRules": [
-            "Leader",
-            "Inspiring"
+            "Anführer",
+            "Inspirierend"
         ]
       },
       {
@@ -57,8 +57,8 @@
         ],
         "specialRules": [
           "Holofield (5+)",
-          "Scout",
-          "Infiltrators",
+          "Aufklärer",
+          "Infiltratoren",
         "Teleport"
         ]
       },
@@ -73,7 +73,7 @@
         ],
         "specialRules": [
           "Holofield (5+)",
-          "Infiltrators",
+          "Infiltratoren",
           "Teleport",
           "Wind-Swift"
         ]
@@ -89,7 +89,7 @@
         ],
         "specialRules": [
           "Holofield (5+)",
-          "Infiltrators",
+          "Infiltratoren",
           "Teleport"
         ]
       },
@@ -106,7 +106,7 @@
         ],
         "specialRules": [
           "Holofield (5+)",
-          "Mounted",
+          "Beritten",
           "Skimmer",
           "Teleport",
           "Wind-Swift"

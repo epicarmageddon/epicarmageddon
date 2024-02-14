@@ -1,6 +1,6 @@
 [
   {
-    "name": "Eldar Exodite Forces",
+    "name": "Eldar Exodite Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -11,9 +11,9 @@
           "Wraithbone Lanze"
         ],
         "specialRules": [
-          "Inspiring",
+          "Inspirierend",
           "Invulnerable Save",
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -23,7 +23,7 @@
           "Wraithbone Lanze"
         ],
         "specialRules": [
-          "Inspiring",
+          "Inspirierend",
           "Invulnerable Save"
         ]
       },
@@ -36,7 +36,7 @@
         "specialRules": [
           "Farsight",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -50,8 +50,8 @@
           "Eldar Power Lances"
         ],
         "specialRules": [
-          "Mounted",
-          "Walker"
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
@@ -62,10 +62,10 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Exodite Hunting Lances"
+          "Exodite Sprenglanzen"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Skimmer"
         ]
       },
@@ -80,7 +80,7 @@
           "Eldar Raketenwerfer"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -94,9 +94,9 @@
           "Long Rifles"
         ],
         "specialRules": [
-          "Mounted",
-          "Scout",
-          "Walker"
+          "Beritten",
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -136,7 +136,7 @@
           "Klauen, Teeth & Tail"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -150,7 +150,7 @@
           "Prism Geschütz"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -165,8 +165,8 @@
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -181,9 +181,9 @@
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armor",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -199,8 +199,8 @@
         ],
         "specialRules": [
           "Holofield (4+)",
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ]
       },
       {
@@ -215,7 +215,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Great Megadon is killed."
       },
@@ -232,8 +232,8 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Commander",
-          "Fearless",
+          "Befehlshaber",
+          "Furchtlos",
           "Jump Packs"
         ],
         "crit": "The Great Drake is killed."
@@ -251,9 +251,9 @@
         ],
         "specialRules": [
           "Damage Capacity: 6",
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Colossal Carnosaur is killed."
       }

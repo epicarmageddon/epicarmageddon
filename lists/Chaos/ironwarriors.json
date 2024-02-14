@@ -28,8 +28,8 @@
         "Obliterators",
         "Iron Warriors Basilisk",
         "Bezashk Medusa",
-        "Chaos Spartan Assault Tank",
-        "Chaos Typhon Heavy Siege Tank",
+        "Chaos Spartan Assault Panzer",
+        "Chaos Typhon Heavy Siege Panzer",
         "Chaos Rhino",
         "Chaos Siege Rhino",
         "Chaos Predator",
@@ -79,7 +79,7 @@
           "units": "One Iron Warriors Warpsmith, six Chaos Space Marines",
           "extraUnits": [
             "Replace two Chaos Space Marines with two Havocs: 25 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Transport",
             "Obliterators",
             "Dreadclaws",
@@ -92,16 +92,16 @@
           "name": "Iron Warriors Armoured Company",
           "units": "Six Chaos Vindicators",
           "extraUnits": [
-            "Replace six Chaos Vindicators with six Chaos Predators (25 points), three Chaos Spartan Assault Tanks (75 points), or six Chaos Land Raiders (125 points)"
+            "Replace six Chaos Vindicators with six Chaos Predators (25 points), three Chaos Spartan Assault Panzers (75 points), or six Chaos Land Raiders (125 points)"
           ],
           "points": 275
         },
         {
           "name": "Havocs",
-          "units": "One Iron Warriors Warpsmith, four Havocs, Chaos Spartan Assault Tank",
+          "units": "One Iron Warriors Warpsmith, four Havocs, Chaos Spartan Assault Panzer",
           "extraUnits": [
-            "Replace the Chaos Spartan Assault Tank with two Chaos Land Raiders: 25 points",
-            "Supreme Commander",
+            "Replace the Chaos Spartan Assault Panzer with two Chaos Land Raiders: 25 points",
+            "Oberbefehlshaber",
             "Vindicators"
           ],
           "points": 275
@@ -143,7 +143,7 @@
           "units": "One Iron Warriors Warpsmith, four Tyrant Siege Terminators",
           "extraUnits": [
             "Obliterators",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts",
             "Dreadclaws"
           ],
@@ -181,10 +181,10 @@
           "points": 250
         },
         {
-          "name": "Heavy Siege Tanks",
-          "units": "Two Chaos Typhon Heavy Siege Tanks",
+          "name": "Heavy Siege Panzers",
+          "units": "Two Chaos Typhon Heavy Siege Panzers",
           "extraUnits": [
-            "Add one Chaos Typhon Heavy Siege Tank: 125 points"
+            "Add one Chaos Typhon Heavy Siege Panzer: 125 points"
           ],
           "points": 275
         }
@@ -260,7 +260,7 @@
         "points": "50 points"
       },
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Choose one of the following:",
         "options": [
           {
@@ -290,7 +290,7 @@
             "points": "50 points each"
         },
         {
-          "description": "Add up to two Chaos Spartan Assault Tanks",
+          "description": "Add up to two Chaos Spartan Assault Panzers",
           "points": "75 points each"
         }
         ]

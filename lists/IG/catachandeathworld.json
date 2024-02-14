@@ -6,7 +6,7 @@
   "strategy": "Catachan Jungle Fighter armies have a Strategy Rating of 3.",
   "Initiative": "All formations have an Initiative Rating of 2+.",
   "specialRules": [
-    "Catachan Commanders"
+    "Catachan Befehlshabers"
   ],
   "usage": [
     "The following army list allows you to field an army based on the Catachan Jungle Fighters Regiment"
@@ -15,8 +15,8 @@
     {
       "from": "IG.json",
       "units": [
-        "Catachan Supreme Commander",
-        "Catachan Commander",
+        "Catachanischer Oberbefehlshaber",
+        "Catachan Befehlshaber",
         "Catachan Infantry",
         "Flakk Team",
         "Snipers",
@@ -61,7 +61,7 @@
       "formations": [
         {
           "name": "Catachan Regimental HQ",
-          "units": "One Catachan Supreme Commander, seven Catachan Infantry",
+          "units": "One Catachanischer Oberbefehlshaber, seven Catachan Infantry",
           "extraUnits": [
             "Death World Transport (Compulsory)",
             "Flakk Teams",
@@ -72,7 +72,7 @@
         },
         {
           "name": "Catachan Company",
-          "units": "One Catachan Commander, seven Catachan Infantry",
+          "units": "One Catachan Befehlshaber, seven Catachan Infantry",
           "extraUnits": [
             "Death World Transport (Compulsory)",
             "Flakk Teams",
@@ -119,7 +119,7 @@
         },
         {
           "name": "Veteran Company",
-          "units": "One Catachan Commander and seven Death World Veterans",
+          "units": "One Catachan Befehlshaber and seven Death World Veterans",
           "extraUnits": [
             "Death World Transport"
           ],

@@ -21,7 +21,7 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assault Intercessor",
         "Intercessor",
         "Inceptor",
@@ -62,9 +62,9 @@
           "units": "Four Intercessors, Assault Intercessors or Hellblasters",
           "extraUnits": [
             "Close Support",
-            "Commander",
+            "Befehlshaber",
             "Transports",
-            "Walkers"
+            "Geländegängigs"
           ],
           "points": 250
         }
@@ -77,7 +77,7 @@
           "name": "Inceptor Squad",
           "units": "Four Inceptors",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 325
         },
@@ -85,7 +85,7 @@
           "name": "Suppressor Squad",
           "units": "Four Suppressors",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 325
         },
@@ -93,15 +93,15 @@
           "name": "Reiver Squad",
           "units": "Four Reivers",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 250
         },
         {
           "name": "Infiltrator Squad",
-          "units": "Four Infiltrators",
+          "units": "Four Infiltratoren",
           "extraUnits": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 225
         }
@@ -115,9 +115,9 @@
           "units": "Three Aggressors or three Eradicators",
           "extraUnits": [
             "Close Support",
-            "Commander",
+            "Befehlshaber",
             "Transports",
-            "Walkers"
+            "Geländegängigs"
           ],
           "points": 250
         },
@@ -133,7 +133,7 @@
           "name": "Outrider Squad",
           "units": "Four Outriders",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Add two Invaders: 75 points"
           ],
           "points": 250
@@ -165,7 +165,7 @@
         },
         {
           "name": "Astraeus",
-          "units": "One Astraeus Super Heavy Tank",
+          "units": "One Astraeus Super Heavy Panzer",
           "points": 425
         }
       ]
@@ -181,7 +181,7 @@
         "points": "50 points each"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
@@ -193,7 +193,7 @@
             "points": "50 points"
           },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -213,7 +213,7 @@
         ]
       },
       {
-        "name": "Walkers",
+        "name": "Geländegängigs",
         "description": "Choose one of the following",
         "options": [
           {

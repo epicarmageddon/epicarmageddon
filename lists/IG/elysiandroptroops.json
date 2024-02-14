@@ -1,9 +1,9 @@
 {
   "fraction": "Astra Militarum",
-  "army": "Elysian Drop Troops",
+  "army": "Elysianische Sturmtruppen",
   "version": "0.9.0",
   "release": "2022-08-03",
-  "strategy": "Elysian Drop Troops armies have a Strategy Rating of 3.",
+  "strategy": "Elysianische Sturmtruppen armies have a Strategy Rating of 3.",
   "Initiative": "All formations have a Initiative of 2+.",
   "specialRules": [
     "Courage, Discipline and Loyalty",
@@ -14,13 +14,13 @@
     {
       "from": "IG.json",
       "units": [
-        "Elysian Supreme Commander",
-        "Elysian Commander",
+        "Elysianischer Oberbefehlshaber",
+        "Elysian Befehlshaber",
         "Commissar",
-        "Elysian Drop Troops",
+        "Elysianische Sturmtruppen",
         "Elysian Fire Support Squad",
-        "Elysian Mortar Squad",
-        "Elysian Storm Troopers",
+        "Elysian Mörser Squad",
+        "Elysian Sturmtruppen",
         "Armoured Sentinel",
         "Drop Sentinel",
         "Support Sentinel",
@@ -33,7 +33,7 @@
         "Vulture"
       ],
       "unitRules": [
-        "Grav-Chutes"
+        "Gravschirme"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "formations": [
         {
           "name": "0-1 Regimental HQ",
-          "units": "One Elysian Supreme Commander with a Commissar, seven Elysian Drop Troops, four Valkyries.",
+          "units": "One Elysianischer Oberbefehlshaber with a Commissar, seven Elysianische Sturmtruppen, four Valkyries.",
           "extraUnits": [
             "Drop Sentinels",
             "Fire Support",
@@ -75,7 +75,7 @@
         },
         {
           "name": "Drop Troop Company",
-          "units": "One Elysian Commander with a Commissar, seven Elysian Drop Troops, four Valkyries.",
+          "units": "One Elysian Befehlshaber with a Commissar, seven Elysianische Sturmtruppen, four Valkyries.",
           "extraUnits": [
             "Drop Sentinels",
             "Fire Support",
@@ -108,7 +108,7 @@
         },
         {
           "name": "Storm Trooper Company",
-          "units": "Eight Elysian Storm Troopers, one with a Commissar, and four Valkyries.",
+          "units": "Eight Elysian Sturmtruppen, one with a Commissar, and four Valkyries.",
           "extraUnits": [
             "Replace all Valkyries with Vendettas: 75 points"
           ],
@@ -116,7 +116,7 @@
         },
         {
           "name": "Support Platoon",
-          "units": "Four Elysian Support Squads or four Elysian Mortar Squads, and two Valkyries",
+          "units": "Four Elysian Support Squads or four Elysian Mörser Squads, and two Valkyries",
           "extraUnits": [
             "Replace all Valkyries with Vendettas: 25 points"
           ],
@@ -188,17 +188,17 @@
     "items": [
       {
         "name": "Drop Sentinels",
-        "description": "Replace two Elysian Drop Troops and one Valkyrie with two Drop Sentinels and one Sky Talon",
+        "description": "Replace two Elysianische Sturmtruppen and one Valkyrie with two Drop Sentinels and one Sky Talon",
         "points": "Free"
       },
       {
         "name": "Fire Support",
-        "description": "Replace two Elysian Drop Troops and one Valkyrie with two Elysian Fire Support Squads and one Vendetta",
+        "description": "Replace two Elysianische Sturmtruppen and one Valkyrie with two Elysian Fire Support Squads and one Vendetta",
         "points": "25 points"
       },
       {
         "name": "Infantry Platoon",
-        "description": "Add two Elysian Drop Troops and one Valkyrie",
+        "description": "Add two Elysianische Sturmtruppen and one Valkyrie",
         "points": "75 points"
       }
     ]

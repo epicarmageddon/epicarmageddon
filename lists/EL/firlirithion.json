@@ -93,8 +93,8 @@
       ]
     },
     {
-      "name": "Fir Lirithion Scout Titans",
-      "description": "Up to two Scout Titan formations for each Battle Titan",
+      "name": "Fir Lirithion Aufklärer Titans",
+      "description": "Up to two Aufklärer Titan formations for each Battle Titan",
       "formations": [
         {
           "name": "Revenant Titan",
@@ -108,7 +108,7 @@
     },
     {
       "name": "Fir Lirithion Troupes",
-      "description": "Up to three Troupes for each Battle or Scout Titan formation.",
+      "description": "Up to three Troupes for each Battle or Aufklärer Titan formation.",
       "formations": [
         {
           "name": "Wraithknight Troupe",

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Adeptus Custodes Forces",
+    "name": "Adeptus Custodes Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -8,34 +8,34 @@
         "name": "Tribune",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Invulnerable Save",
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
         "name": "Captain General",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
         "name": "Oblivion Kinght Centura",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Inspiring",
+          "Inspirierend",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -115,7 +115,7 @@
         "ff": 3,
         "weapons": [
           "Lastrum Storm Bolter",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -137,7 +137,7 @@
           "Schwerer Flammenwerfer"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -152,7 +152,7 @@
           "Power Lances"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Skimmer",
           "Reinforced Armour"
         ]
@@ -171,7 +171,7 @@
         "specialRules": [
           "Reniforced Armour",
           "Teleport",
-          "Walker",
+          "Geländegängig",
           "Invulnerable Save",
           "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
         ]
@@ -190,7 +190,7 @@
         "specialRules": [
           "Reniforced Armour",
           "Teleport",
-          "Walker",
+          "Geländegängig",
           "Invulnerable Save",
           "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
         ]
@@ -243,7 +243,7 @@
           "Reinforced Armour",
           "Skimmer"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Custodian Land Raider",
@@ -261,7 +261,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Null-Maiden Rhino",
@@ -274,10 +274,10 @@
           "Storm Bolter"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Null-Maiden Hunter",
@@ -290,7 +290,7 @@
           "Hunter-Killer"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {

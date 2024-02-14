@@ -11,9 +11,9 @@
           "n/a"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Fearless"
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
@@ -23,8 +23,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -58,8 +58,8 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Walker",
-          "Scout",
+          "Geländegängig",
+          "Aufklärer",
           "Ion Shield (4+)"
         ]
       },
@@ -75,8 +75,8 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Walker",
-          "Scout",
+          "Geländegängig",
+          "Aufklärer",
           "Ion Shield (4+)"
         ]
       },
@@ -94,8 +94,8 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Walker",
-          "Scout",
+          "Geländegängig",
+          "Aufklärer",
           "Ion Shield (4+)",
           "Ionic Flare Shield"
         ],
@@ -116,7 +116,7 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -135,7 +135,7 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -154,7 +154,7 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -174,7 +174,7 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -194,7 +194,7 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -213,7 +213,7 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -237,10 +237,10 @@
         ],
         "specialRules": [
           "Stubborn",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -261,7 +261,7 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)",
           "Ionic Flare Shield"
         ]
@@ -282,7 +282,7 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)",
           "Ionic Flare Shield"
         ]
@@ -303,7 +303,7 @@
         "specialRules": [
           "Stubborn",
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -323,7 +323,7 @@
         "specialRules": [
           "Stubborn",
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ]
       },
@@ -342,8 +342,8 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
-          "Scout",
+          "Geländegängig",
+          "Aufklärer",
           "Ion Shield (3+)"
         ]
       },
@@ -362,8 +362,8 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
-          "Scout",
+          "Geländegängig",
+          "Aufklärer",
           "Ion Shield (3+)"
         ]
       },
@@ -381,8 +381,8 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
-          "Scout",
+          "Geländegängig",
+          "Aufklärer",
           "Ion Shield (3+)",
           "Ionic Flare Shield"
         ]
@@ -402,8 +402,8 @@
           "Stubborn",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
-          "Scout",
+          "Geländegängig",
+          "Aufklärer",
           "Ion Shield (3+)",
           "Ionic Flare Shield"
         ]
@@ -424,7 +424,7 @@
           "Damage Capacity: 3",
           "Stubborn",
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ],
         "crit": "The Acastus Knight takes 1 additional damage."
@@ -439,13 +439,13 @@
         "weapons": [
           "Conversion Beam Geschütz|2|FxF",
           "Volkite Culvertin|2|FxF",
-          "Karacnos Mortar Battery||FxF"
+          "Karacnos Mörser Battery||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 3",
           "Stubborn",
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (3+)"
         ],
         "crit": "The Acastus Knight takes 1 additional damage."
@@ -463,12 +463,12 @@
           "Knight Power Gauntlet"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Fearless",
-          "Walker",
-          "Inspiring",
+          "Furchtlos",
+          "Geländegängig",
+          "Inspirierend",
           "Ion Shield (4+)"
         ]
       },
@@ -486,7 +486,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (4+)"
         ]
       },
@@ -504,7 +504,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (4+)"
         ]
       },
@@ -521,8 +521,8 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
-          "Scout",
+          "Geländegängig",
+          "Aufklärer",
           "Ion Shield (4+)"
         ]
       },
@@ -540,7 +540,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (4+)"
         ]
       },
@@ -557,7 +557,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (4+)"
         ]
       },
@@ -573,7 +573,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (4+)"
         ]
       },
@@ -590,7 +590,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Ion Shield (4+)"
         ]
       }

@@ -23,7 +23,7 @@
         "Wild Rider Chieftain",
         "Avatar",
         "Eldar Exarch",
-        "Mounted Farseer",
+        "Beritten Farseer",
         "Eldar Guardians",
         "Heavy Weapon Platform",
         "War Walker",
@@ -92,7 +92,7 @@
           "units": "Nine Saim-Hann Wild Riders",
           "extraUnits": [
             "Replace any number of Wild Riders with Saim-Hann Vypers: Free",
-            "Replace one unit of Wild Riders with a Mounted Farseer: 25 points",
+            "Replace one unit of Wild Riders with a Beritten Farseer: 25 points",
             "(0-1 per army) Replace one unit of Wild Riders with a Wild Rider Chieftain: 50 points"
           ],
           "points": 300
@@ -112,7 +112,7 @@
       "description": "Up to three for each Saim-Hann Warhost taken",
       "formations": [
         {
-          "name": "Mounted Aspect Warrior Troupe",
+          "name": "Beritten Aspect Warrior Troupe",
           "units": "Three Wave Serpents and six Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
           "extraUnits": [
             "Exarch"
@@ -120,7 +120,7 @@
           "points": 325
         },
         {
-          "name": "Mounted Guardian Troupe",
+          "name": "Beritten Guardian Troupe",
           "units": "Three Wave Serpents, six Guardians",
           "extraUnits": [
           ],

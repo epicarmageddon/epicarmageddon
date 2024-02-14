@@ -1,6 +1,6 @@
 [
   {
-    "name": "Eldar Forces",
+    "name": "Eldar Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -12,13 +12,13 @@
         "cc": 4,
         "ff": 4,
         "weapons": [
-          "Eldar Power Weapon",
+          "Eldar Energiewaffe",
           "Shuriken Geschütz"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Invulnerable Save",
-          "Inspiring"
+          "Inspirierend"
         ]
       },
       {
@@ -33,19 +33,19 @@
         "specialRules": [
           "Jump Packs",
           "Teleport",
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Invulnerable Save",
-          "Inspiring"
+          "Inspirierend"
         ]
       },
       {
         "name": "Eldar Autarch",
         "type": "CH",
         "weapons": [
-          "Eldar Power Weapon"
+          "Eldar Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Invulnerable Save"
         ]
       },
@@ -63,7 +63,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -78,7 +78,7 @@
           "Psychic Powers"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Farsight",
           "Invulnerable Save"
         ],
@@ -90,7 +90,7 @@
         "weapons": [
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Farsight"
         ],
         "notes": "Units with a Spiritseer can be used to summon the Avatar."
@@ -107,11 +107,11 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Inspiring",
-          "Fearless",
-          "Commander",
+          "Inspirierend",
+          "Furchtlos",
+          "Befehlshaber",
           "Invulnerable Save",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Avatar is destroyed. All Craftworld Eldar formations (friend and foe) with a line of sight to the Avatar receive one Blast Marker."
       },
@@ -126,12 +126,12 @@
           "Starlance|0-1"
         ],
         "specialRules": [
-          "Inspiring"
+          "Inspirierend"
         ],
         "notes": "Dire Avengers, Swooping Hawks and Warp Spiders have an Exarch Fernkampfwaffe. Howling Banshees and Striking Scorpions have an Exarch Nahkampfwaffe. Dark Reapers have a Reaper Launcher, Fire Dragons have a Feuerpike and Shining Spears have a Starlance."
       },
       {
-        "name": "Mounted Farseer",
+        "name": "Beritten Farseer",
         "type": "INF",
         "speed": 35,
         "armour": 4,
@@ -142,13 +142,13 @@
           "Synchronisierter Shuriken Catapult"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Farsight",
           "Invulnerable Save",
-          "Mounted",
+          "Beritten",
           "Skimmer"
         ],
-        "notes": "The Mounted Farseer can be used to summon the Avatar."
+        "notes": "The Beritten Farseer can be used to summon the Avatar."
       },
       {
         "name": "Eldar Farseer",
@@ -163,7 +163,7 @@
         ],
         "specialRules": [
           "Farsight",
-          "Commander"
+          "Befehlshaber"
         ],
         "notes": "The Farseer can be used to summon the Avatar."
       },
@@ -215,7 +215,7 @@
           "Shuriken Pistols"
         ],
         "specialRules": [
-          "Scouts"
+          "Aufklärers"
         ]
       },
       {
@@ -230,7 +230,7 @@
           "Shuriken Pistols"
         ],
         "specialRules": [
-          "Scouts",
+          "Aufklärers",
           "Jump Packs"
         ]
       },
@@ -245,8 +245,8 @@
           "Synchronisierter Starcannon"
         ],
         "specialRules": [
-          "Scout",
-          "Walker",
+          "Aufklärer",
+          "Geländegängig",
           "Jump Packs"
         ]
       },
@@ -261,7 +261,7 @@
           "Synchronisierter Shuriken Catapult"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Skimmer"
         ]
       },
@@ -276,7 +276,7 @@
           "Shuriken Geschütz"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Skimmer"
         ]
       },
@@ -291,7 +291,7 @@
           "Synchronisierter Shuriken Catapult"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Skimmer",
           "Invulnerable Save"
         ]
@@ -358,7 +358,7 @@
         ],
         "specialRules": [
           "First Strike",
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -373,7 +373,7 @@
           "Synchronisierter Shuriken Catapult"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Skimmer"
         ]
       },
@@ -389,7 +389,7 @@
         ],
         "specialRules": [
           "Jump packs",
-          "Scout",
+          "Aufklärer",
           "Teleport"
         ]
       },
@@ -433,7 +433,7 @@
           "Wraith Blades"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ],
         "notes": "Counts as a unit of Wraithguards for the purposes of being transported."
       },
@@ -448,7 +448,7 @@
           "Wraith Cannons"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -462,7 +462,7 @@
           "D-Scythes"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -507,7 +507,7 @@
         ],
         "specialRules": [
           "Skimmer",
-          "Transport may carry one unit of INF without Jump Packs or Mounted."
+          "Transport may carry one unit of INF without Jump Packs or Beritten."
         ]
       },
       {
@@ -522,8 +522,8 @@
           "Eldar Raketenwerfer"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -538,7 +538,7 @@
         ],
         "specialRules": [
           "Skimmer",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -553,7 +553,7 @@
         ],
         "specialRules": [
           "Skimmer",
-          "Scout",
+          "Aufklärer",
           "Invulnerable Save"
         ]
       },
@@ -569,11 +569,11 @@
           "Singing Spear"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Farsight",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "The Wraithseer can be used to summon the Avatar."
       },
@@ -589,9 +589,9 @@
           "Synchronisierter Bright Lanze"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -795,8 +795,8 @@
         ],
         "specialRules": [
           "Holofield (3+)",
-          "Fearless",
-          "Walker",
+          "Furchtlos",
+          "Geländegängig",
           "Teleport"
         ],
         "notes": "Skathach Wraithknights are armed with either a Synchronisierter Deathshroud Geschütz or Synchronisierter Inferno Lanze."
@@ -817,8 +817,8 @@
         "specialRules": [
           "Holofield (3+)",
           "Reinforced Armour (Scattershield)",
-          "Fearless",
-          "Walker"
+          "Furchtlos",
+          "Geländegängig"
         ],
         "notes": "Must be armed with either Synchronisierter Heavy Wraithcannons, Ghostglaive and Scattershield, or a Suncannon. Spec[*]: Scattershield grants the model Reinforced Armour."
       },
@@ -835,10 +835,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 3",
-          "Fearless",
+          "Furchtlos",
           "Holofield (3+)",
           "Jump Pack",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Revenant Titan’s Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
       },
@@ -856,11 +856,11 @@
         ],
         "specialRules": [
           "Damage Capacity: 6",
-          "Fearless",
+          "Furchtlos",
           "Holofield (3+)",
-          "Leader",
+          "Anführer",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
       },
@@ -885,11 +885,11 @@
         ],
         "specialRules": [
           "Damage Capacity: 6",
-          "Fearless",
+          "Furchtlos",
           "Holofield (3+)",
-          "Leader",
+          "Anführer",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
       },
@@ -907,13 +907,13 @@
         ],
         "specialRules": [
           "Damage Capacity: 6",
-          "Fearless",
+          "Furchtlos",
           "Holofield (3+)",
-          "Inspiring",
+          "Inspirierend",
           "Farsight",
-          "Leader",
+          "Anführer",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Warlock Titan’s Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
       }

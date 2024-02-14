@@ -24,7 +24,7 @@
       "title": "God Machine",
       "description": [
         "War Engines with 8 or more DC are subject to the God Machine and Split Fire special rules.",
-        "The magnificence of these awe-inspiring constructs comes at a price, for if such an incarnation of power were to falter or be destroyed, the forces that are there to aid them would become greatly disturbed.",
+        "The magnificence of these awe-Inspirierend constructs comes at a price, for if such an incarnation of power were to falter or be destroyed, the Streitmächte that are there to aid them would become greatly disturbed.",
         "For this reason, whenever a unit with God Machine special rule is broken (including if it is already broken but loses an Engage), all friendly formations suffer one Blast Marker. Whenever a unit with God Machine special rule is destroyed, all friendly formations on the battlefield suffer D3 Blast Markers.",
         "Units with the God Machine special rule are themselves immune to this effect."
       ]
@@ -48,8 +48,8 @@
         "* It takes 2 Blast Markers to suppress a Adeptus Custodian unit.",
         "* Adeptus Custodian formations are only broken if they have 2 Blast Markers per unit in the formation.",
         "* Adeptus Custodian formations only count half their number of Blaster markers in assault resolution (rounding down—note that assault resolution will not receive +1 for having no Blast Markers if the formation has 1 Blast Marker before rounding down).",
-        "* When a broken Adeptus Custodian formation rallies, it receives a number of Blast Markers equal to the number of units, rather than half this number. Adeptus Custodians with the Leader special ability remove 2 Blast Markers instead of 1",
-        "* All Adeptus Custodian units are consider fearless in all respects except they still have to end their move while broken outside of 15cm of an enemy foramtion. If they cant they are subject to standard hackdowns rules for broken non fearless units with in 15cm of a enemy unit taking into account the above rules for Adeptus Custodians and Blast Markers."
+        "* When a broken Adeptus Custodian formation rallies, it receives a number of Blast Markers equal to the number of units, rather than half this number. Adeptus Custodians with the Anführer special ability remove 2 Blast Markers instead of 1",
+        "* All Adeptus Custodian units are consider Furchtlos in all respects except they still have to end their move while broken outside of 15cm of an enemy foramtion. If they cant they are subject to standard hackdowns rules for broken non Furchtlos units with in 15cm of a enemy unit taking into account the above rules for Adeptus Custodians and Blast Markers."
       ]
     },
     {
@@ -136,7 +136,7 @@
     {
       "title": "Courage, Discipline and Loyalty",
       "description": [
-        "When the Supreme Commander re-roll is used on a formation that contains a Commissar or a Ministorum Priest, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test."
+        "When the Oberbefehlshaber re-roll is used on a formation that contains a Commissar or a Ministorum Priest, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test."
       ]
     },
     {
@@ -146,21 +146,21 @@
       ]
     },
     {
-      "title": "Grav-Chutes",
+      "title": "Gravschirme",
       "description": [
-        "Units with the <i>Grav-Chutes</i> special rule may disembark within 10cm of a <i>Skimmer</i> transport vehicles instead of the normal 5cm."
+        "Units with the <i>Gravschirme</i> special rule may disembark within 10cm of a <i>Skimmer</i> transport vehicles instead of the normal 5cm."
       ]
     },
     {
       "title": "Ethereal",
       "description": [
-        "All units in a formation joined by an Ethereal gain Fearless. When the unit with the Ethereal is killed the formation loses Fearless and receives 1D3 Blast Markers."
+        "All units in a formation joined by an Ethereal gain Furchtlos. When the unit with the Ethereal is killed the formation loses Furchtlos and receives 1D3 Blast Markers."
       ]
     },
     {
-      "title": "Catachan Commanders",
+      "title": "Catachan Befehlshabers",
       "description": [
-        "When the Supreme Commander re-roll is used on any formation containing a Catachan Supreme Commander or Catachan Commander, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test"
+        "When the Oberbefehlshaber re-roll is used on any formation containing a Catachanischer Oberbefehlshaber or Catachan Befehlshaber, the formation counts as having 1+ Initiative Rating when re-rolling the Action Test"
       ]
     },
     {
@@ -170,8 +170,8 @@
         "<b>Gun Emplacement</b>: Provides a Cover Save of 4+ one unit of INF, or a 5+ Cover Save to one unit of AV or LV (but not H-AV).",
         "<b>Bunker</b>: Provides a Cover Save of 3+ and Thick Rear Armour to up to three units of INF. Counts as Dangerous Terrain for AV and WE. Bunkers can be a maximum of 8cm x 8cm in size.",
         "<b>Trench</b>: Provides a cover save of 4+ to INF. May contain one unit of INF per 4cm of lenght. Counts as Dangerous Terrain for AV.",
-        "<b>Razor Wire</b>: Counts as Dangerous Terrain for all INF, including those that have the Mounted special rule. Razor Wire dangerous terrain tests may not be re-rolled using the Walker ability (units may still 'move carefully' through such terrain). Razor Wire must be set up so that every piece touches another piece from the same group, with no gap in between.",
-        "<b>Minefields</b>: Counts as Dangerous Terrain for all types of units. Minefield dangerous terrain tests may not be re-rolled using the Walker ability (units may still 'move carefully' through such terrain). Skimmers and units with 'Jump Packs' moving over Minefields must also take dangerous terrain tests. Minefields must be set up so that every piece touches another piece from the same group, with no gap in between."
+        "<b>Razor Wire</b>: Counts as Dangerous Terrain for all INF, including those that have the Beritten special rule. Razor Wire dangerous terrain tests may not be re-rolled using the Geländegängig ability (units may still 'move carefully' through such terrain). Razor Wire must be set up so that every piece touches another piece from the same group, with no gap in between.",
+        "<b>Minefields</b>: Counts as Dangerous Terrain for all types of units. Minefield dangerous terrain tests may not be re-rolled using the Geländegängig ability (units may still 'move carefully' through such terrain). Skimmers and units with 'Jump Packs' moving over Minefields must also take dangerous terrain tests. Minefields must be set up so that every piece touches another piece from the same group, with no gap in between."
       ]
     },
     {
@@ -183,28 +183,28 @@
     {
       "title": "Air Superiority",
       "description": [
-        "Elysian Drop Troops may ignore one blast marker when rolling to activate aircraft formations.",
-        "In addition, Elysian Drop Troops may instead of starting with garrisons on overwatch place aircrafts on Combat Air Patrol. Up to two formations may start on overwatch or CAP. Aircraft formation placed on CAP in this way will follow all the normal rules for CAP, but are setup during the pre-game garrisoning phase."
+        "Elysianische Sturmtruppen may ignore one blast marker when rolling to activate aircraft formations.",
+        "In addition, Elysianische Sturmtruppen may instead of starting with garrisons on overwatch place aircrafts on Combat Air Patrol. Up to two formations may start on overwatch or CAP. Aircraft formation placed on CAP in this way will follow all the normal rules for CAP, but are setup during the pre-game garrisoning phase."
       ]
     },
     {
       "title": "Deep Strike",
       "description": [
-        "An Elysian Drop Troops army that includes a Spacecraft may deploy formations transported in Valkyries, Vendettas or Sky Talons in the Spacecraft. A Lunar Class Cruiser can hold one formation, and a Emperor Class Battleship up to two formations. All transport vehicles in a formation deployed in a Spacecraft gains the <i>Planetfall</i> special rule. Roll for scatter individually for each transport vehicle.",
+        "An Elysianische Sturmtruppen army that includes a Spacecraft may deploy formations transported in Valkyries, Vendettas or Sky Talons in the Spacecraft. A Lunar Class Cruiser can hold one formation, and a Emperor Class Battleship up to two formations. All transport vehicles in a formation deployed in a Spacecraft gains the <i>Planetfall</i> special rule. Roll for scatter individually for each transport vehicle.",
         "Before each game, after the opposing army is known but before objectives are placed, the Imperial Guard player may choose which formation(s), if any, that should be deployed in the Spaceship."
       ]
     },
     {
       "title": "Siege Specialists",
       "description": [
-        "Units may re-roll failed dangerous terrain tests when making a move through Minefields or Razor Wire on the friendly part of the table, and units with <i>Walker</i> may use it against Minefields or Razor Wire on the enemy part of the table.",
+        "Units may re-roll failed dangerous terrain tests when making a move through Minefields or Razor Wire on the friendly part of the table, and units with <i>Geländegängig</i> may use it against Minefields or Razor Wire on the enemy part of the table.",
         "In addition, up to three formations that garrison may start on Overwatch instead of the usual two."
       ]
     },
     {
       "title": "Siegemasters",
       "description": [
-        "Units may re-roll failed dangerous terrain tests when making a move through Minefields or Razor Wire on the friendly part of the table, and units with 'Walker' may use it against Minefields or Razor Wire on the enemy part of the table.",
+        "Units may re-roll failed dangerous terrain tests when making a move through Minefields or Razor Wire on the friendly part of the table, and units with 'Geländegängig' may use it against Minefields or Razor Wire on the enemy part of the table.",
         "In addition, up to three formations that garrison may start on Overwatch instead of the usual two, and up to two formations that garrison ignore the requirement to have one unit within 15cm of an objective on the friendly half of the table."
       ]
     },
@@ -226,7 +226,7 @@
     {
       "title": "Faithful",
       "description": [
-        "When performing an Engage that leads to an Assault (i.e. at least one unit is within 15cm of an enemy unit), units that have the 'Faithful' special rule gain Fearless, and the formation counts as having one additional character with the 'Inspiring' special rule. These effects lasts until the end of the current turn, but are lost if all units with 'Faithful' in the formation are destroyed."
+        "When performing an Engage that leads to an Assault (i.e. at least one unit is within 15cm of an enemy unit), units that have the 'Faithful' special rule gain Furchtlos, and the formation counts as having one additional character with the 'Inspirierend' special rule. These effects lasts until the end of the current turn, but are lost if all units with 'Faithful' in the formation are destroyed."
       ]
     },
     {
@@ -244,7 +244,7 @@
     {
       "title": "Extended Command",
       "description": [
-        "Formations with at least one unit with the 'Extended Command' ability extend the range at which Commanders within the formation can call other formations to follow them when they make a combined assault from 5cm to 15cm (see 2.1.2)."
+        "Formations with at least one unit with the 'Extended Command' ability extend the range at which Befehlshabers within the formation can call other formations to follow them when they make a combined assault from 5cm to 15cm (see 2.1.2)."
       ]
     },
     {
@@ -309,7 +309,7 @@
     {
       "title": "Ad Hoc Detachments",
       "description": [
-        "By necessity, the Ordo Xenos has become experts of improvisation, rapidly mustering local allies and adapting to the Deathwatch's ever-changing roster of skills and individuals. For this reason, formations with Commander may also use the ability when their own or another friendly formation within 5cm of their formation is defending against an assault, declaring both formations to be intermingled (see 1.12.10). Once declared intermingled, the Commanders' formations follow all rules exactly as if the enemy had declared them intermingled. Note that if either player declares intermingling, the formations are intermingled."
+        "By necessity, the Ordo Xenos has become experts of improvisation, rapidly mustering local allies and adapting to the Deathwatch's ever-changing roster of skills and individuals. For this reason, formations with Befehlshaber may also use the ability when their own or another friendly formation within 5cm of their formation is defending against an assault, declaring both formations to be intermingled (see 1.12.10). Once declared intermingled, the Befehlshabers' formations follow all rules exactly as if the enemy had declared them intermingled. Note that if either player declares intermingling, the formations are intermingled."
       ]
     },
     {
@@ -340,7 +340,7 @@
     {
       "title": "Pack Mentality",
       "description": [
-        "Space Wolves Packs counts as having one character with the <i>Inspiring</i> special rule when they initiate an assault where they have another formation with the <i>Pack Mentality</i> special rule in support."
+        "Space Wolves Packs counts as having one character with the <i>Inspirierend</i> special rule when they initiate an assault where they have another formation with the <i>Pack Mentality</i> special rule in support."
       ]
     },
     {
@@ -367,7 +367,7 @@
     {
       "title": "Honour Guard",
       "description": [
-        "Units with the Honour Guard special rule are Fearless as long as their formation contains a character with the Supreme Commander special rule. If they are in the same formation, the Supreme Commander may be added to a unit with this special rule."
+        "Units with the Honour Guard special rule are Furchtlos as long as their formation contains a character with the Oberbefehlshaber special rule. If they are in the same formation, the Oberbefehlshaber may be added to a unit with this special rule."
       ]
     },
     {
@@ -403,8 +403,8 @@
     {
       "title": "Webway Portal",
       "description": [
-        "A army that includes any Webway Portals may place up to three formations in reserve, infantry units in these reserve formations may count as mounted in their transports. These formations may enter play by activating and moving onto the table through a friendly Webway Portal during the game, measuring their first move from any part of the position the portal occupies on the battlefield.",
-        "A Webway Portal may only be used once per turn, and if the formation fails to activate when attempting to enter via a Webway, it may only take a hold action offboard and regroup. Only INF, LV, or AVs with the Walker ability may use Webway Portals. H-AV units may not use portals unless noted otherwise.",
+        "A army that includes any Webway Portals may place up to three formations in reserve, infantry units in these reserve formations may count as Beritten in their transports. These formations may enter play by activating and moving onto the table through a friendly Webway Portal during the game, measuring their first move from any part of the position the portal occupies on the battlefield.",
+        "A Webway Portal may only be used once per turn, and if the formation fails to activate when attempting to enter via a Webway, it may only take a hold action offboard and regroup. Only INF, LV, or AVs with the Geländegängig ability may use Webway Portals. H-AV units may not use portals unless noted otherwise.",
         "Each time a formation uses a broken Portal it receives one Blast Marker.",
         "If a Webway is in an enemy zone of control, any formation that enters through it must Engage that formation(s). In addition, if it is also directly under an enemy formation, any formation that enters must maximize base contact as much as possible."
       ]
@@ -412,7 +412,7 @@
     {
       "title": "Large Webway Portal",
       "description": [
-        "Large Webway Portals follows all the rules for a normal Webway Portals, except AV units are not required to have Walker in order to enter the battlefield through it."
+        "Large Webway Portals follows all the rules for a normal Webway Portals, except AV units are not required to have Geländegängig in order to enter the battlefield through it."
       ]
     },
     {
@@ -454,7 +454,7 @@
     {
       "title": "Avatar (Saim-Hann)",
       "description": [
-        "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Mounted Farseer unit.",
+        "The Avatar must begin the game in reserve. In the Strategy Phase of any turn, before the strategy roll place the Avatar within 15cm of a Beritten Farseer unit.",
         "The Avatar counts as its own formation and may only enter play in this manner.",
         "While on the table, the Avatar may only contest objectives. Remove the Avatar in the End Phase of that turn, before rallying formations or counting objectives. Once removed it may not return."
       ]
@@ -514,19 +514,19 @@
     {
       "title": "May not Garrison (Iyanden)",
       "description": [
-        "Only Eldar Rangers and War Walkers are allowed to garrison objectives in the Epic tournament game scenario."
+        "Only Eldar Rangers and War Geländegängigs are allowed to garrison objectives in the Epic tournament game scenario."
       ]
     },
     {
       "title": "May not Garrison (Biel-Tan)",
       "description": [
-        "Only Eldar Rangers and War Walkers are allowed to garrison objectives in the Epic tournament game scenario."
+        "Only Eldar Rangers and War Geländegängigs are allowed to garrison objectives in the Epic tournament game scenario."
       ]
     },
     {
       "title": "May not Garrison (Ulthwé)",
       "description": [
-        "Only Eldar Rangers and War Walkers are allowed to garrison objectives in the Epic tournament game scenario."
+        "Only Eldar Rangers and War Geländegängigs are allowed to garrison objectives in the Epic tournament game scenario."
       ]
     },
     {
@@ -598,7 +598,7 @@
       "title": "Independent Twins",
       "description": [
         "Allows a formation of Revenant Titans to operate as two independent War Engines for all purposes, including for determining the army BTS. If one of the pair is destroyed, the surviving Revenant Synchronisierter receives a Blast Marker.",
-        "In addition, Independent Twins may use the Commander ability with its Synchronisierter. In this case, the Commander ability counts as having an unlimited range instead of the normal 5cm."
+        "In addition, Independent Twins may use the Befehlshaber ability with its Synchronisierter. In this case, the Befehlshaber ability counts as having an unlimited range instead of the normal 5cm."
       ]
     },
     {
@@ -633,7 +633,7 @@
         "To summon daemons the formation declares its intention to summon before any action roll is made (but after the choice of action). If the formation that wishes to Summon is being transported inside another formation (e.g. a Chaos Thunderhawk) it cannot choose to Summon when the Chaos Thunderhawk prepares to activate.",
         "The player then rolls 2D3 to generate the number of Summoning Points available for this formation. The formation may then summon daemons up to the number of Summoning Points generated, with any points not used lost, up to the number of Lesser or Greater Daemon Pool points left.",
         "Summoned units must be setup with their base completely within 5cm of any non-summoned unit in the summoning formation (i.e. You cannot place a chain of summoned units). If the summoning formation has the Transport ability, newly summoned units can be set up inside if there is space left. They cannot be placed in enemy zones of control or impassable terrain. Summoned units become part of the summoning formation for all rules purposes as long as they remain on the battlefield.",
-        "Summoned Lesser Daemons are Expendable, but they are otherwise counted as normal units, and are included when working out if a formation outnumbers an opponent in an assault or is broken by Blast Markers, etc. Note that Daemons that are killed in an assault do count towards the number of units killed by the enemy when working out modifiers for assault resolution.",
+        "Summoned Lesser Daemons are Entbehrlich, but they are otherwise counted as normal units, and are included when working out if a formation outnumbers an opponent in an assault or is broken by Blast Markers, etc. Note that Daemons that are killed in an assault do count towards the number of units killed by the enemy when working out modifiers for assault resolution.",
         "Summoned units remain in play until the End Phase of the turn in which they were summoned. After all formations have attempted to rally any summoned units are removed from play and the total of their Daemon Pool cost is returned to the relevant Daemon Pool. This may cause the formation to break, if the number of Blast Markers now equals or exceeds the number of units in the formation.",
         "When a formation becomes broken all its summoned units are destroyed.",
         "When calculating victory points, the Lesser Daemon Pool scores half points if the pool has less than or equal to half (round up) its original number of daemons remaining. The Lesser Daemon Pool scores full points if the pool has less than or equal to a quarter (round up) its daemons remaining. Treat Greater Daemons as War Engines for the purpose of calculating victory points."
@@ -834,7 +834,7 @@
     {
       "title": "Changer of Ways",
       "description": [
-        "Formations containing Thousands Sons Daemon Princes and Scarab Occult Terminators may only contain units of INF and AV units with Walker, and must be held in the reserves at the start of the game. Such formations may only enter the Battlefield through a Warp Rift."
+        "Formations containing Thousands Sons Daemon Princes and Scarab Occult Terminators may only contain units of INF and AV units with Geländegängig, and must be held in the reserves at the start of the game. Such formations may only enter the Battlefield through a Warp Rift."
       ]
     },
     {
@@ -979,10 +979,10 @@
     {
       "title": "Chaos Gate",
       "description": [
-        "Daemonic Incursion formations that are located in the Reserves may use Chaos Gates to enter the battlefield. Any number of formations can use a Chaos Gate per turn if it is part of an objective, but only one formation per turn can use a Chaos Gate mounted on a War Engine.",
+        "Daemonic Incursion formations that are located in the Reserves may use Chaos Gates to enter the battlefield. Any number of formations can use a Chaos Gate per turn if it is part of an objective, but only one formation per turn can use a Chaos Gate Beritten on a War Engine.",
         "First the action for the formation must be decided. After this roll to summon daemons, and then roll to activate. If the formation fails to activate it must take a Hold action. It may then either enter the battlefield through any available Chaos Gate, or choose to remain in the reserves.",
-        "Chaos Gates that are part of objectives cannot be destroyed, while Chaos Gates mounted on War Engines are destroyed if that War Engine is destroyed.",
-        "Any formation that enters the battlefield through a Chaos Gate mounted on a War Engine that is broken recieves a Blast Marker. Measure all movement from the Chaos Gate from the centre of the token, or the edge of the War Engine.",
+        "Chaos Gates that are part of objectives cannot be destroyed, while Chaos Gates Beritten on War Engines are destroyed if that War Engine is destroyed.",
+        "Any formation that enters the battlefield through a Chaos Gate Beritten on a War Engine that is broken recieves a Blast Marker. Measure all movement from the Chaos Gate from the centre of the token, or the edge of the War Engine.",
         "If a Chaos Gate is in an enemy zone of control, any formation that enters through it must Engage that formation(s). In addition, if it is also directly under an enemy formation, any formation that enters must maximize base contact as much as possible."
       ]
     },
@@ -1066,10 +1066,10 @@
     {
       "title": "Necron Portals",
       "description": [
-        "Necron Portals can only be used by INF and by any AV or LV unit that has <i>Walker</i>. Each portal can be used only once per turn for either entering or exiting the battlefield, but not both.",
+        "Necron Portals can only be used by INF and by any AV or LV unit that has <i>Geländegängig</i>. Each portal can be used only once per turn for either entering or exiting the battlefield, but not both.",
         "A formation that is in the reserves may enter play via a unit with <i>Portal</i> as part of any action that allows movement. Measure their movement using the centre of the objective (in case of a Tomb Complex) or edge of the unit. Formations may also leave the board and re-enter the reserves by moving into a Portal. Additionally a formation can leave the board by having a portal pick them up, in a similar way an air transport can pick up friendly units. When a unit with <i>Portal</i> ends an action within 5cm of all units in a friendly formation the Necron player can chose to activate the portal to move that formation back to the reserves. Broken units with <i>Portal</i> can not be used to pick up formations in this way.",
         "When a formation enters the reserves the formation can re-enter play immediately via another <i>Portal</i> or stay in the reserves. Entering or exiting a <i>Portal</i> requires a full move, meaning that a formation using a double action can exit the battlefield in the first move and use it's second move to enter play again using another <i>Portal</i>, but a formation can not use an advance or engage action to enter one and exit another <i>Portal</i> as part of the same move. Any units that are out of coherency at the end of any move is destroyed. A formation picked up by a <i>Portal</i> must remain in the reserves until they can activate to re-enter play. A formation can activate to enter play on the same turn it was picked up, given that the formation had not already activated before it was picked up.",
-        "Each time a formation uses a <i>Portal</i> on a unit that is broken, it receives one Blast Marker. This also goes for broken formations using a broken portal, meaning that one unit will be lost unless all units are fearless.",
+        "Each time a formation uses a <i>Portal</i> on a unit that is broken, it receives one Blast Marker. This also goes for broken formations using a broken portal, meaning that one unit will be lost unless all units are Furchtlos.",
         "If a <i>Portal</i> is in an enemy zone of control, any formation that enters through it must Engage the blocking formation. In addition, if it is also directly under an enemy unit, the portal can still be used to enter the battlefield but the formation that enters must maximize base contact as much as possible with the blocking units."
       ]
     },
@@ -1116,11 +1116,11 @@
       ]
     },
     {
-      "title": "Super-Expendable",
+      "title": "Super-Entbehrlich",
       "description": [
-        "A formation does not receive a Blast Marker when a unit with Super-Expendable is destroyed, this includes the extra Blast Marker from the first casualty of a crossfire and for units destroyed for being out of formation after a move. If a Super-Expendable unit is hit by a weapon with Disrupt it does not inflict a Blast Marker.",
-        "Super-Expendable units killed in an assault do not count when working out the result.",
-        "Formations comprised completely of Expendable and/or Super-Expendable units do not benefit from any of the rules above."
+        "A formation does not receive a Blast Marker when a unit with Super-Entbehrlich is destroyed, this includes the extra Blast Marker from the first casualty of a crossfire and for units destroyed for being out of formation after a move. If a Super-Entbehrlich unit is hit by a weapon with Disrupt it does not inflict a Blast Marker.",
+        "Super-Entbehrlich units killed in an assault do not count when working out the result.",
+        "Formations comprised completely of Entbehrlich and/or Super-Entbehrlich units do not benefit from any of the rules above."
       ]
     },
     {
@@ -1162,13 +1162,13 @@
     {
       "title": "Clan Goffs Warlord",
       "description": [
-        "Every Warhorde army must include a Supreme Commander character called a Warlord. The Warlord character is free, you don’t have to pay any points for it. If the army includes any Great Gargants, then the Warlord must be placed in one of them. Otherwise the Warlord will join a Gargant or Nobz unit."
+        "Every Warhorde army must include a Oberbefehlshaber character called a Warlord. The Warlord character is free, you don’t have to pay any points for it. If the army includes any Great Gargants, then the Warlord must be placed in one of them. Otherwise the Warlord will join a Gargant or Nobz unit."
       ]
     },
     {
       "title": "Speed Freeks Warlord",
       "description": [
-        "Every Speed Freaks army must include a supreme commander called a Mekboy Bad Ork Biker. The Mekboy Bad Ork Biker unit is free; you don’t have to pay any points for it. The Mekboy Bad Ork Biker unit may be added to any Ork formation in the army."
+        "Every Speed Freaks army must include a Oberbefehlshaber called a Mekboy Bad Ork Biker. The Mekboy Bad Ork Biker unit is free; you don’t have to pay any points for it. The Mekboy Bad Ork Biker unit may be added to any Ork formation in the army."
       ]
     },
     {
@@ -1269,7 +1269,7 @@
     {
       "title": "Gaunts",
       "description": [
-        "Half (rounding up) of Termagants, Hormagaunts, Gargoyles, and Raveners that are killed in an assault do not count for combat resolution and are Expendable as long as there is at least one model with Synapse still present in the formation."
+        "Half (rounding up) of Termagants, Hormagaunts, Gargoyles, and Raveners that are killed in an assault do not count for combat resolution and are Entbehrlich as long as there is at least one model with Synapse still present in the formation."
       ]
     },
     {
@@ -1319,7 +1319,7 @@
     {
       "title": "Overlord Insertion",
       "description": [
-        "Some Primaris Space Marines are equipped with heavy jump packs or grav-chutes designed to be dropped from low orbit onto the battlefield from the assault bays of low-orbiting attack crafts. This ability is represented by the formation gaining the <i>Self Planetfall</i> special rule, with one exception: Roll to scatter only for the first unit in the formation, then place the rest of the units within 5cm of the first unit."
+        "Some Primaris Space Marines are equipped with heavy jump packs or Gravschirme designed to be dropped from low orbit onto the battlefield from the assault bays of low-orbiting attack crafts. This ability is represented by the formation gaining the <i>Self Planetfall</i> special rule, with one exception: Roll to scatter only for the first unit in the formation, then place the rest of the units within 5cm of the first unit."
       ]
     }
   ]

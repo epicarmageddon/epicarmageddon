@@ -105,7 +105,7 @@
           "name": "Word Bearers Retinue",
           "units": "One Dark Apostle, eight Chaos Space Marines, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Transport",
             "Dreadclaws",
             "Havocs",
@@ -162,7 +162,7 @@
           "units": "One Dark Apostle, four Chaos Terminators, Daemonic Pact",
           "extraUnits": [
             "Add up to two Chaos Terminators: 50 points each",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Transport",
             "Dreadclaws",
@@ -272,7 +272,7 @@
         "points": "50 points"
       },
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "options": [
           {
             "description": "Choose one of the following:"

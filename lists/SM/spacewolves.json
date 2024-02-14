@@ -18,7 +18,7 @@
     {
       "from": "SM.json",
       "units": [
-        "Great Wolf Supreme Commander",
+        "Great Wolf Oberbefehlshaber",
         "Wolf Lord Captain",
         "Blood Claw Assaults",
         "Sky Claw Assaults",
@@ -28,7 +28,7 @@
         "Swift Claw Assault Bikes",
         "Fenrisian Wolves",
         "Thunderwolf Cavalry",
-        "Wolf Scouts",
+        "Wolf Aufklärers",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
@@ -76,7 +76,7 @@
             "Dreadnoughts",
             "Fenrisian Wolves",
             "Heavy Transports",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 275
         },
@@ -122,7 +122,7 @@
             "Dreadnoughts",
             "Fenrisian Wolves",
             "Heavy Transports",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 300
         },
@@ -131,7 +131,7 @@
           "units": "One Wolf Lord Captain, four Thunderwolf Cavalry",
           "extraUnits": [
             "Fenrisian Wolves",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 300
         },
@@ -140,13 +140,13 @@
           "units": "One Wolf Lord Captain, four Wolf Guard Terminators plus transport",
           "extraUnits": [
             "Dreadnoughts",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 375
         },
         {
-          "name": "Wolf Scout Pack",
-          "units": "One Wolf Lord Captain, four Wolf Scouts plus transport",
+          "name": "Wolf Aufklärer Pack",
+          "units": "One Wolf Lord Captain, four Wolf Aufklärers plus transport",
           "extraUnits": [
             "Fenrisian Wolves"
           ],
@@ -298,8 +298,8 @@
         ]
       },
       {
-        "name": "0-1 Supreme Commander",
-        "description": "Replace a Wolf Lord Captain with a Great Wolf Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
+        "description": "Replace a Wolf Lord Captain with a Great Wolf Oberbefehlshaber",
         "points": "50 points"
       }
     ]

@@ -108,7 +108,7 @@
       "description": "Up to two Yme-Loc Troupes may be taken for each Yme-Loc Vaulhost",
       "formations": [
         {
-          "name": "Mounted Aspect Warrior Troupe",
+          "name": "Beritten Aspect Warrior Troupe",
           "units": "Three Wave Serpents and six Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
           "extraUnits": [
             "Exarch"
@@ -116,7 +116,7 @@
           "points": 325
         },
         {
-          "name": "Mounted Guardian Troupe",
+          "name": "Beritten Guardian Troupe",
           "units": "Two Wave Serpents, two Falcons, one Farseer, five Guardians",
           "extraUnits": [
             "Heavy Weapons"

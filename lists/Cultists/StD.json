@@ -21,7 +21,7 @@
       "units": [
         "Arch-Heretic",
         "Daemonic Icon",
-        "Fallen Commander",
+        "Fallen Befehlshaber",
         "Daemon Prince",
         "Mutants",
         "Chaos Spawn",
@@ -111,7 +111,7 @@
       "formations": [
         {
           "name": "Traitor Guard",
-          "units": "One Fallen Commander, nine units of Infantry",
+          "units": "One Fallen Befehlshaber, nine units of Infantry",
           "extraUnits": [
             "All"
           ],
@@ -276,7 +276,7 @@
         "name": "Daemonic Icon",
         "options": [
           {
-            "description": "Add one Daemonic Icon to a Fallen Commander or Daemon Prince",
+            "description": "Add one Daemonic Icon to a Fallen Befehlshaber or Daemon Prince",
             "points": "25 points"
           },
           {
@@ -286,15 +286,15 @@
         ]
       },
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Choose one of the following:",
         "options": [
           {
-            "description": "Add an Arch-Heretic to a Fallen Commander",
+            "description": "Add an Arch-Heretic to a Fallen Befehlshaber",
             "points": "50 points"
           },
           {
-            "description": "Upgrade the Fallen Commander to a Daemon Prince",
+            "description": "Upgrade the Fallen Befehlshaber to a Daemon Prince",
             "points": "100 points"
           }
         ]

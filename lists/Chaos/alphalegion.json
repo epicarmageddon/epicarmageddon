@@ -32,7 +32,7 @@
         "Alpha Legion Vindicator",
         "Alpha Legion Predator",
         "Alpha Legion Land Raider",
-        "Alpha Legion Sicarian Battle Tank"
+        "Alpha Legion Sicarian Battle Panzer"
       ],
       "unitRules": [
         "Sabotage",
@@ -60,7 +60,7 @@
       "from": "IG.json",
       "units": [
         "Chimera",
-        "Salamander Scout Tank",
+        "Salamander Aufklärer Panzer",
         "Griffon",
         "Hydra",
         "Rough Riders"
@@ -104,7 +104,7 @@
           "extraUnits": [
             "Replace four Alpha Legion Marines with four Alpha Legion Havocs: 50 points",
             "Add up to two Alpha Legion Land Raiders: 50 points each",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts",
             "Vindicators",
             "Predators"
@@ -121,7 +121,7 @@
             "Add up to three Chaos Hounds: 10 points each",
             "Add one Chaos Spawn: 35 points",
             "Add one Hydra: 50 points",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 225
         }
@@ -135,7 +135,7 @@
           "name": "Destroyers",
           "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Destroyers",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Predators"
           ],
           "points": 200
@@ -144,7 +144,7 @@
           "name": "Headhunters",
           "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Alpha Legion Headhunters plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Vindicators"
           ],
           "points": 250
@@ -153,14 +153,14 @@
           "name": "Terminators",
           "units": "One Alpha Legion Lord or Alpha Legion Sorcerer, four Lernaean Terminators plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts"
           ],
           "points": 275
         },
         {
           "name": "Sicarians",
-          "units": "Four Alpha Legion Sicarian Battle Tanks",
+          "units": "Four Alpha Legion Sicarian Battle Panzers",
           "extraUnits": [
             "Predators"
           ],
@@ -182,7 +182,7 @@
         },
         {
           "name": "Salamander Squadron",
-          "units": "Four Salamander Scout Tanks",
+          "units": "Four Salamander Aufklärer Panzers",
           "extraUnits": [
           ],
           "points": 150
@@ -253,7 +253,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Choose one of the following options:",
         "options": [
           {
@@ -261,7 +261,7 @@
             "points": "100 points"
           },
           {
-            "description": "'I'm Alpharius!' The army benefits from the Supreme Commander rule as long as there is at least one Alpha Legion Lord on the battlefield. Formation must contain an Alpha Legion Lord.",
+            "description": "'I'm Alpharius!' The army benefits from the Oberbefehlshaber rule as long as there is at least one Alpha Legion Lord on the battlefield. Formation must contain an Alpha Legion Lord.",
             "points": "75 points"
           }
         ]

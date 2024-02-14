@@ -32,7 +32,7 @@
         "Atramentar Terminators",
         "Chaos Rhino",
         "Chaos Land Raider",
-        "Chaos Spartan Assault Tank",
+        "Chaos Spartan Assault Panzer",
         "Chaos Stalker",
         "Chaos Attack Bike",
         "Night Lords Dreadnought"
@@ -82,7 +82,7 @@
           "units": "One Night Lords Captain, six Raptors",
           "extraUnits": [
             "Add up to two Raptors: 30 points each",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer"
           ],
           "points": 275
@@ -112,8 +112,8 @@
           "name": "Terminator Company",
           "units": "One Night Lords Captain, four Atramentar Terminators",
           "extraUnits": [
-            "Add two Chaos Spartan Assault Tanks: 150 points",
-            "Supreme Commander",
+            "Add two Chaos Spartan Assault Panzers: 150 points",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Dreadnoughts",
             "Dreadclaws"
@@ -137,7 +137,7 @@
           "name": "Terror Company",
           "units": "One Night Lords Captain, four Night Lords Assault Marines, two Night Lords Dreadnoughts",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Dreadnoughts",
             "Dreadclaws"
@@ -149,7 +149,7 @@
           "units": "One Night Lords Captain, six Chaos Space Marines, three Chaos Rhinos",
           "extraUnits": [
             "Replace three Chaos Rhinos with three Chaos Land Raiders: 125 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Stalker"
           ],
@@ -159,7 +159,7 @@
           "name": "Attack Company",
           "units": "One Night Lords Captain, six Chaos Attack Bikes",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Stalker"
           ],
@@ -217,7 +217,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "(0-1 per army) Supreme Commander",
+        "name": "(0-1 per army) Oberbefehlshaber",
         "options": [
           {
             "description": "Choose one of the following:"

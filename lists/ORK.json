@@ -1,6 +1,6 @@
 [
   {
-    "name": "Ork Forces",
+    "name": "Ork Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -12,7 +12,7 @@
           "Power Claw"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ],
         "notes": "Has 'Ore Dakka if added to a WE unit, or Power Claw if added to an INF unit"
       },
@@ -28,8 +28,8 @@
           "Choppa Blades"
         ],
         "specialRules": [
-          "Mounted",
-          "Supreme Commander"
+          "Beritten",
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -39,7 +39,7 @@
           "'Ore Dakka"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
@@ -75,7 +75,7 @@
           "Deff-Rolla & Fresh Paint Job|0-1|"
         ],
         "specialRules": [
-          "The unit either replaces a Big Gun with a Lifta Droppa, or [*] adds D3+1 Power Fields, or [**] is equipped with a Deff-Rolla (Walker) & Fresh Paint Job (Speed +10cm)"
+          "The unit either replaces a Big Gun with a Lifta Droppa, or [*] adds D3+1 Power Fields, or [**] is equipped with a Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
         ]
       },
       {
@@ -94,7 +94,7 @@
           "Cyboar"
         ],
         "specialRules": [
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -121,7 +121,7 @@
           "Grot-Shootas and Knives"
         ],
         "specialRules": [
-          "Super-Expendable",
+          "Super-Entbehrlich",
           "‘Ere we Go"
         ]
       },
@@ -137,7 +137,7 @@
           "Big Choppas"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "‘Ere we Go"
         ]
       },
@@ -153,7 +153,7 @@
           "Big Choppas"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "‘Ere we Go"
         ]
       },
@@ -169,8 +169,8 @@
           "Big Choppas"
         ],
         "specialRules": [
-          "Leader",
-          "Mounted"
+          "Anführer",
+          "Beritten"
         ]
       },
       {
@@ -196,8 +196,8 @@
           "Big Shoota"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
@@ -212,7 +212,7 @@
         ],
         "specialRules": [
           "Jump Packs",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -226,7 +226,7 @@
           "Synchronisierter Sawn-Off Big Shoota"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -240,8 +240,8 @@
           "Synchronisierter Sawn-Off Big Shoota"
         ],
         "specialRules": [
-          "Mounted",
-          "Scout"
+          "Beritten",
+          "Aufklärer"
         ]
       },
       {
@@ -339,7 +339,7 @@
           "Kustom Kannon"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "D3 Power Fields"
         ]
       },
@@ -415,7 +415,7 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -488,7 +488,7 @@
           "Kombat Klaws"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "‘Ere we Go"
         ]
       },
@@ -504,7 +504,7 @@
           "Kombat Klaws"
         ],
         "specialRules": [
-            "Walker",
+            "Geländegängig",
             "‘Ere we Go"
         ]
       },
@@ -520,8 +520,8 @@
           "Fixin' Arm"
         ],
         "specialRules": [
-          "Leader",
-          "Walker",
+          "Anführer",
+          "Geländegängig",
           "‘Ere we Go"
         ]
       },
@@ -538,7 +538,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "‘Ere we Go"
         ],
         "notes": "Armed with either three Big Gunz, or two Big Guns and a Kombat 'Ammer"
@@ -627,9 +627,9 @@
         "specialRules": [
           "Damage Capacity 4",
           "Power Fields 1D3",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Supa-Stompa's head is blown off, and it suffers a -1 to-hit modifier to all shooting for the rest of the game. Subsequent crits cause an additional damage instead."
       },
@@ -654,9 +654,9 @@
         "specialRules": [
           "Damage Capacity 4",
           "Power Fields 1D3",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Supa-Stompa's head is blown off, and it suffers a -1 to-hit modifier to all shooting for the rest of the game. Subsequent crits cause an additional damage instead."
       },
@@ -675,9 +675,9 @@
         "specialRules": [
           "Damage Capacity 7",
           "Power Fields 1D3+3",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Armed with either three Soopaguns or two Soopaguns and either Supa-Zzap-Gun or a Mega-Choppa"
         ],
         "crit": "The Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
@@ -707,9 +707,9 @@
         "specialRules": [
           "Damage Capacity 7",
           "Power Fields 1D3+3",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
       },
@@ -732,9 +732,9 @@
           "Power Fields 1D3+6",
           "God Machine",
           "Split Fire",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Armed with either two Synchronisierter Soopaguns or one Synchronisierter Soopagun and a Lifta-Droppa"
         ],
         "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
@@ -767,9 +767,9 @@
           "Power Fields 1D3+6",
           "God Machine",
           "Split Fire",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
       },
@@ -793,8 +793,8 @@
           "Power Fields 1D3+9",
           "God Machine",
           "Split Fire",
-          "Walker",
-          "Fearless",
+          "Geländegängig",
+          "Furchtlos",
           "Reinforced Armour"
         ],
         "crit": "The Mega Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
@@ -806,7 +806,7 @@
         "armour": 6,
         "weapons": [
           "AC Synchronisierter Big Shoota||FxF",
-          "AC Tankbusta Rokkits||FxF"
+          "AC Panzerbusta Rokkits||FxF"
         ],
         "specialRules": [
         ]
@@ -871,7 +871,7 @@
         "ff": 4,
         "weapons": [
           "AC Flakka-Dakka Turrets",
-          "AC Tankbusta Rokkits|2|FxF"
+          "AC Panzerbusta Rokkits|2|FxF"
         ],
         "specialRules": [
           "Damage Capacity 3",
@@ -982,9 +982,9 @@
           "Shootas"
         ],
         "specialRules": [
-          "Mounted",
-          "Walker",
-          "Infiltrators"
+          "Beritten",
+          "Geländegängig",
+          "Infiltratoren"
         ]
       },
       {
@@ -1001,7 +1001,7 @@
         "specialRules": [
           "Rush ‘em Ladz",
           "‘Ere we Go",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -1054,7 +1054,7 @@
           "Choppas"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "‘Ere we Go"
         ]
       },
@@ -1070,8 +1070,8 @@
           "Fire Bombs"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
@@ -1084,7 +1084,7 @@
           "Choppas"
         ],
         "specialRules": [
-          "Expendable",
+          "Entbehrlich",
           "‘Ere we Go"
         ]
       },
@@ -1129,7 +1129,7 @@
         ],
         "specialRules": [
           "‘Ere we Go",
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "May carry up to four of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to two Grotz in addition to any other units"
@@ -1147,7 +1147,7 @@
         ],
         "specialRules": [
           "‘Ere we Go",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1164,7 +1164,7 @@
         ],
         "specialRules": [
           "‘Ere we Go",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1181,7 +1181,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "May carry up to eight of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to four Grotz in addition to any other units.",
@@ -1201,8 +1201,8 @@
         ],
         "specialRules": [
           "Damage Capacity: 6",
-          "Fearless",
-          "Walker",
+          "Furchtlos",
+          "Geländegängig",
           "Transport"
         ],
         "notes": "May carry up to sixteen of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to six Grotz in addition to any other units.",
@@ -1221,7 +1221,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour"
         ],
         "crit": "The Steam Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."

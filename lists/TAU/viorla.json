@@ -63,7 +63,7 @@
           "name": "XV8 Crisis Battlesuit Cadre",
           "units": "Six XV8 Crisis Battlesuits",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Crisis Suits",
             "Drones"
           ],
@@ -73,7 +73,7 @@
           "name": "Heavy Battlesuit Cadre",
           "units": "Three XV104 Riptide Battlesuits, three XV107 R'Varna Battlesuits or three XV109 Y'Vahra Battlesuits",
           "extraUnits": [
-            "Commander",
+            "Befehlshaber",
             "Heavy Battlesuits",
             "Drones"
           ],
@@ -178,7 +178,7 @@
         "points": "125 points"
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation:",
         "options": [
           {

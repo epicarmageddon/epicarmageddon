@@ -20,10 +20,10 @@
     {
       "from": "SM.json",
       "units": [
-        "Blood Ravens Supreme Commander",
+        "Blood Ravens Oberbefehlshaber",
         "Blood Ravens Librarian",
         "Grey Knights Justicar",
-        "Scouts",
+        "Aufklärers",
         "Tacticals",
         "Devastators",
         "Assaults",
@@ -82,7 +82,7 @@
           "units": "One Blood Ravens Librarian, six Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts",
             "Razorbacks"
           ],
@@ -92,7 +92,7 @@
           "name": "Devastators",
           "units": "One Blood Ravens Librarian, four Devastators plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Dreadnoughts",
             "Land Raiders"
           ],
@@ -102,7 +102,7 @@
           "name": "Assaults",
           "units": "One Blood Ravens Librarian, six Assaults",
           "extraUnits": [
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 250
         },
@@ -122,10 +122,10 @@
       "description": "Two Blood Ravens Support Detachments may be taken per Blood Ravens Core Detachment.",
       "formations": [
         {
-          "name": "Scouts",
-          "units": "One Blood Ravens Librarian, four Scouts plus transport",
+          "name": "Aufklärers",
+          "units": "One Blood Ravens Librarian, four Aufklärers plus transport",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Snipers",
             "Dreadnoughts",
             "Razorbacks"
@@ -136,7 +136,7 @@
           "name": "Bikes",
           "units": "One Blood Ravens Librarian, any five of the following units: Assault Bikes, Attack Bike",
           "extraUnits": [
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 225
         },
@@ -144,7 +144,7 @@
           "name": "Land Speeders",
           "units": "One Blood Ravens Librarian, any five of the following units: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Typhoons"
           ],
           "points": 225
@@ -239,8 +239,8 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "(0-1 per army) Supreme Commander",
-        "description": "Replace a Blood Ravens Librarian with a Blood Ravens Supreme Commander",
+        "name": "(0-1 per army) Oberbefehlshaber",
+        "description": "Replace a Blood Ravens Librarian with a Blood Ravens Oberbefehlshaber",
         "points": [
           "25 points"
         ]
@@ -296,7 +296,7 @@
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Schwerer Bolter",
+        "description": "Give all Aufklärers in the formation 'Sniper' on their Schwerer Bolter",
         "points": "25 points"
       },
       {

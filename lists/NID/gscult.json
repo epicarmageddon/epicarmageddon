@@ -30,7 +30,7 @@
         "Neophytes",
         "Neophyte Outriders",
         "Neophyte Fire Support",
-        "Cult Heavy Mortar",
+        "Cult Heavy Mörser",
         "Ridgerunner",
         "Land Transporter",
         "Outrider Quadbike",
@@ -85,10 +85,10 @@
           "name": "Acolyte Coven",
           "units": "One Metamorph Hybrids with Hybrid Iconward, and seven Acolyte Hybrids",
           "extraUnits": [
-            "Mineshaft Infiltrators",
+            "Mineshaft Infiltratoren",
             "Aberrants",
             "Acolytes",
-            "Coven Leader",
+            "Coven Anführer",
             "Cult Transports",
             "Heavy Mining Machinery",
             "Technicals"
@@ -105,7 +105,7 @@
           "name": "Atalan Jackals",
           "units": "One Hybrid Iconward, ten Neophyte Outriders",
           "extraUnits": [
-            "Coven Leader",
+            "Coven Anführer",
             "Quadbikes",
             "Technicals"
           ],
@@ -123,7 +123,7 @@
           "name": "Shock Assault Coven",
           "units": "One Hybrid Iconward, 4 Aberrants, and either 4 Goliath Trucks or 4 Goliath Rock Grinders",
           "extraUnits": [
-            "Coven Leader",
+            "Coven Anführer",
             "Technicals"
           ],
           "points": 275
@@ -143,7 +143,7 @@
           "name": "Mechanized Neophyte Platoon",
           "units": "One Hybrid Iconward, six Neophytes and three Chimeras",
           "extraUnits": [
-            "Coven Leader",
+            "Coven Anführer",
             "Flak",
             "Hellhounds"
           ],
@@ -153,7 +153,7 @@
           "name": "Neophyte Company",
           "units": "One Hybrid Iconward, thirteen Neophytes",
           "extraUnits": [
-            "Coven Leader",
+            "Coven Anführer",
             "Support Weapons"
           ],
           "points": 250
@@ -199,8 +199,8 @@
     "description": "Each upgrade may be taken once per formation.",
     "items": [
       {
-        "name": "Mineshaft Infiltrators",
-        "description": "All units in the formation gains the 'Tunneling' special rule, but may only have the 'Acolytes', 'Aberrants' and 'Coven Leader' upgrades",
+        "name": "Mineshaft Infiltratoren",
+        "description": "All units in the formation gains the 'Tunneling' special rule, but may only have the 'Acolytes', 'Aberrants' and 'Coven Anführer' upgrades",
         "points": "Free"
       },
       {
@@ -236,7 +236,7 @@
         ]
       },
       {
-        "name": "Coven Leader",
+        "name": "Coven Anführer",
         "description": "Replace a Hybrid Iconward with a Genestealer Primus or Genestealer Magus.",
         "options": [
           {
@@ -257,7 +257,7 @@
             "points": "50 points"
           },
           {
-            "description": "Add three Cult Heavy Mortar Support units",
+            "description": "Add three Cult Heavy Mörser Support units",
             "points": "75 points"
           }
         ]

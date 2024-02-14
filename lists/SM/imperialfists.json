@@ -21,11 +21,11 @@
         "Captain",
         "Chaplain",
         "Librarian",
-        "Supreme Commander",
+        "Oberbefehlshaber",
         "Assault Centurions",
         "Devastor Centurions",
         "Devastators",
-        "Scouts",
+        "Aufklärers",
         "Space Marine Rapier",
         "Space Marine Thunderfire",
         "Tacticals",
@@ -85,7 +85,7 @@
           "extraUnits": [
             "Achilles",
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport",
             "Razorbacks",
             "Siege Equipment",
@@ -109,7 +109,7 @@
           "extraUnits": [
             "Achilles",
             "Anti-Air",
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport",
             "Razorbacks",
             "Siege Equipment",
@@ -152,8 +152,8 @@
           "points": 200
         },
         {
-          "name": "Scouts",
-          "units": "Four Scouts plus transport",
+          "name": "Aufklärers",
+          "units": "Four Aufklärers plus transport",
           "extraUnits": [
             "May take Siege Rhinos instead of normal Rhinos: 25 points",
             "Razorbacks",
@@ -167,7 +167,7 @@
           "units": "Four Terminators",
           "extraUnits": [
             "Achilles",
-            "Commander",
+            "Befehlshaber",
             "Land Raider Transport",
             "Vindicators"
           ],
@@ -205,7 +205,7 @@
     },
     {
       "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
-      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula or Hyperios formation for each Scout detachment.",
+      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula or Hyperios formation for each Aufklärer detachment.",
       "formations": [
         {
           "name": "Bastion",
@@ -261,7 +261,7 @@
         ]
       },
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {
@@ -277,7 +277,7 @@
             "points": "75 points"
         },
           {
-            "description": "0–1 Supreme Commander",
+            "description": "0–1 Oberbefehlshaber",
             "points": "75 points"
           }
         ]
@@ -301,7 +301,7 @@
       },
       {
         "name": "Snipers",
-        "description": "Give all Scouts in the formation 'Sniper' on their Schwerer Bolter",
+        "description": "Give all Aufklärers in the formation 'Sniper' on their Schwerer Bolter",
         "points": "25 points"
       },
       {

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dark Mechanicus Forces",
+    "name": "Dark Mechanicus Streitmächte",
     "specialRules": [
 
     ],
@@ -12,8 +12,8 @@
           "Arcane Technology"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless"
+          "Oberbefehlshaber",
+          "Furchtlos"
         ]
       },
       {
@@ -23,7 +23,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Daemonic Focus"
         ]
       },
@@ -36,7 +36,7 @@
         "specialRules": [
           "Daemonic Focus",
           "Augment Summoning (+1)",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -64,8 +64,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -79,8 +79,8 @@
           "Power Klauen"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Fearless"
+          "Infiltratoren",
+          "Furchtlos"
         ]
       },
       {
@@ -120,8 +120,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Ponderous"
         ]
       },
@@ -136,8 +136,8 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ]
       },
       {
@@ -153,7 +153,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted."
+        "notes": "May transport two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Hell-Rhino",
@@ -168,7 +168,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Jump Packs or Mounted."
+        "notes": "May transport one infantry unit without Jump Packs or Beritten."
       },
       {
         "name": "Macrocarid Exploitator",
@@ -183,10 +183,10 @@
         "specialRules": [
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Jump Packs or Mounted."
+        "notes": "May transport three infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Triaros Armoured Despoiler",
@@ -202,7 +202,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Jump Packs or Mounted."
+        "notes": "May transport six infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Krios Lightning",
@@ -256,7 +256,7 @@
           "Damage Capacity 2",
           "Void Shields 2",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
@@ -279,7 +279,7 @@
           "Damage Capacity 2",
           "Void Shields 2",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator or Synchronisierter Hades Maschinenkanone.",
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
@@ -305,7 +305,7 @@
           "Damage Capacity 4",
           "Void Shields 4",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
       },
@@ -325,7 +325,7 @@
           "Damage Capacity 4",
           "Void Shields 4",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
       },
@@ -344,9 +344,9 @@
         "specialRules": [
           "Damage Capacity 2",
           "Void Shields 2",
-          "Leader",
+          "Anführer",
           "Reinforced Armour",
-          "Fearless"
+          "Furchtlos"
         ],
         "crit": "The Kaban Machine is destroyed. All units within 5cm takes a hit."
       },
@@ -364,9 +364,9 @@
           "Battle Klauen"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker",
-          "Infiltrators",
+          "Furchtlos",
+          "Geländegängig",
+          "Infiltratoren",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ]
@@ -382,7 +382,7 @@
           "Hellfire Geschütz"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ]
@@ -398,9 +398,9 @@
           "Synchronisierter Hades Maschinenkanone"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
-          "Walker",
+          "Geländegängig",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
@@ -415,9 +415,9 @@
           "Ectoplasma Geschütz|3|"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
-          "Walker",
+          "Geländegängig",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
@@ -430,18 +430,18 @@
         "ff": 5,
         "weapons": [
           "Lasher Tendrils",
-          "Melta Cutter"
+          "Melter Cutter"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
-          "Infiltrators",
-          "Walker",
+          "Infiltratoren",
+          "Geländegängig",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
       {
-        "name": "Word Bearers Cerberus Heavy Tank Destroyer",
+        "name": "Word Bearers Cerberus Heavy Panzer Destroyer",
         "type": "H-AV",
         "speed": 20,
         "armour": 4,
@@ -452,7 +452,7 @@
           "Laserkanone|2|"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Invulnerable Save",
@@ -468,13 +468,13 @@
         "ff": 5,
         "weapons": [
           "Schweres Maschinengewehr",
-          "Multi-Melta",
+          "Multimelter",
           "Reaper Chain-Cleaver"
         ],
         "specialRules": [
-          "Walker",
-          "Scout",
-          "Fearless",
+          "Geländegängig",
+          "Aufklärer",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ]
@@ -491,9 +491,9 @@
           "Schweres Maschinengewehr"
         ],
         "specialRules": [
-          "Walker",
-          "Scout",
-          "Fearless",
+          "Geländegängig",
+          "Aufklärer",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ]
@@ -512,10 +512,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ],
@@ -536,10 +536,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ],
@@ -568,10 +568,10 @@
           "Stormspear Rocket Pod"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Invulnerable Save",
           "Daemonic Focus",
           "Daemon Engine (Chaos Undivided)"
@@ -592,7 +592,7 @@
         "specialRules": [
           "Damage Capacity 3",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ],
@@ -613,7 +613,7 @@
           "Damage Capacity 4",
           "Void Shields 2",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)"
         ],
@@ -638,7 +638,7 @@
           "Daemon Engine (Chaos Undivided)",
           "Transport"
         ],
-        "notes": "May transport fourteen infantry units without Mounted or Jet Packs. Chaos Spawn, Terminators and Dreadnoughts count as two units each.",
+        "notes": "May transport fourteen infantry units without Beritten or Jet Packs. Chaos Spawn, Terminators and Dreadnoughts count as two units each.",
         "crit": "The Shrine of Chaos takes one additional damage. D3 transported units takes a hit."
       },
       {
@@ -655,9 +655,9 @@
           "Warp Amplifier"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker",
-          "Infiltrators",
+          "Furchtlos",
+          "Geländegängig",
+          "Infiltratoren",
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ]
@@ -671,12 +671,12 @@
         "ff": 5,
         "weapons": [
           "Laserkanone",
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": [
-          "Walker",
-          "Scout",
-          "Fearless",
+          "Geländegängig",
+          "Aufklärer",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ]
@@ -693,8 +693,8 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Fearless",
-          "Walker",
+          "Furchtlos",
+          "Geländegängig",
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ]
@@ -711,8 +711,8 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Fearless",
-          "Walker",
+          "Furchtlos",
+          "Geländegängig",
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ]
@@ -732,7 +732,7 @@
           "Damage Capacity 3",
           "Void Shields 2",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ],
@@ -755,7 +755,7 @@
           "Damage Capacity 3",
           "Void Shields 2",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ],
@@ -775,9 +775,9 @@
           "Battle Klauen"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker",
-          "Infiltrators",
+          "Furchtlos",
+          "Geländegängig",
+          "Infiltratoren",
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ]
@@ -794,7 +794,7 @@
           "Maw Geschütz"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Jump Packs",
           "Regeneration",
           "Daemon Engine (Nurgle)"
@@ -812,7 +812,7 @@
           "Vomit Geschütz"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ]
@@ -834,7 +834,7 @@
         "specialRules": [
           "Damage Capacity 3",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ],
@@ -854,8 +854,8 @@
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Fearless",
-          "Walker",
+          "Furchtlos",
+          "Geländegängig",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Regeneration",
@@ -871,14 +871,14 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Plague Mortar||FxF",
+          "Plague Mörser||FxF",
           "Demolisher|2|FxF",
           "Bile Geschütz",
           "Nurglings"
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Regeneration",
           "Daemon Engine (Nurgle)",
           "Transport"
@@ -899,9 +899,9 @@
           "Battle Klauen"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker",
-          "Infiltrators",
+          "Furchtlos",
+          "Geländegängig",
+          "Infiltratoren",
           "Invulnerable Save",
           "Daemon Engine (Khorne)"
         ]
@@ -917,7 +917,7 @@
           "Hellfire Geschütz"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Khorne)"
         ]
@@ -933,8 +933,8 @@
           "Doomblaster"
         ],
         "specialRules": [
-          "Fearless",
-          "Infiltrators",
+          "Furchtlos",
+          "Infiltratoren",
           "Invulnerable Save",
           "Daemon Engine (Khorne)"
         ]
@@ -951,7 +951,7 @@
           "Dämonische Klingen"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Khorne)"
         ]
@@ -970,10 +970,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Invulnerable Save",
           "Daemon Engine (Khorne)"
         ],
@@ -994,9 +994,9 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Fearless",
-          "Infiltrators",
-          "Walker",
+          "Furchtlos",
+          "Infiltratoren",
+          "Geländegängig",
           "Invulnerable Save",
           "Daemon Engine (Khorne)"
         ],
@@ -1017,7 +1017,7 @@
         "specialRules": [
           "Damage Capacity 6",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Khorne)"
         ],
@@ -1038,7 +1038,7 @@
         "specialRules": [
           "Damage Capacity 6",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Regeneration",
           "Daemon Engine (Khorne)"
         ],
@@ -1058,9 +1058,9 @@
           "Battle Klauen"
         ],
         "specialRules": [
-          "Fearless",
-          "Walker",
-          "Infiltrators",
+          "Furchtlos",
+          "Geländegängig",
+          "Infiltratoren",
           "Invulnerable Save",
           "Daemon Engine (Tzeentch)"
         ]
@@ -1077,7 +1077,7 @@
           "Beam of Power"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Skimmer",
           "Invulnerable Save",
           "Daemon Engine (Tzeentch)"
@@ -1097,10 +1097,10 @@
         ],
         "specialRules": [
           "Damage Capacity: 2",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker",
+          "Geländegängig",
           "Invulnerable Save",
           "Daemon Engine (Tzeentch)"
         ],
@@ -1119,7 +1119,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Fearless",
+          "Furchtlos",
           "Jump Pack",
           "Invulnerable Save",
           "Daemon Engine (Tzeentch)"
@@ -1141,7 +1141,7 @@
         "specialRules": [
           "Damage Capacity 6",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Skimmer",
           "Daemon Engine (Tzeentch)",
           "Regeneration"

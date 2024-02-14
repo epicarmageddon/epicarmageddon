@@ -104,7 +104,7 @@
           "name": "Death Guard Retinue",
           "units": "One Chaos Lord or Sorcerer Lord, four Plague Marines, three Chaos Space Marines, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Retinue Transport",
             "Champion",
             "Stalker",
@@ -119,7 +119,7 @@
           "name": "Death Guard Terminators",
           "units": "One Chaos Lord or Sorcerer Lord, four Blightlord Terminators, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Terminator Transport",
             "Champion",
             "Icon Bearer",
@@ -254,7 +254,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Choose one of the following:",
         "options": [
           {

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dark Eldar Forces",
+    "name": "Dark Eldar Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -11,10 +11,10 @@
           "Agonizer"
         ],
         "specialRules": [
-          "Fearless",
-          "Supreme Commander",
+          "Furchtlos",
+          "Oberbefehlshaber",
           "Invulnerable Save",
-          "Inspiring"
+          "Inspirierend"
         ]
       },
       {
@@ -25,8 +25,8 @@
         ],
         "specialRules": [
           "Invulnerable Save",
-          "Leader",
-          "Inspiring"
+          "Anführer",
+          "Inspirierend"
         ]
       },
       {
@@ -36,7 +36,7 @@
           "Monomolecular Blade"
         ],
         "specialRules": [
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -47,7 +47,7 @@
           "Scissor Hands"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -63,7 +63,7 @@
           "Klaives"
         ],
         "specialRules": [
-            "Infiltrators"
+            "Infiltratoren"
         ]
       },
       {
@@ -92,8 +92,8 @@
           "Mandrake Blades"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
@@ -125,7 +125,7 @@
           "Poison Blades"
         ],
         "specialRules": [
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -138,8 +138,8 @@
           "Poison Blades"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ]
       },
       {
@@ -152,8 +152,8 @@
           "Grotesques Blades"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable"
+          "Furchtlos",
+          "Entbehrlich"
         ]
       },
       {
@@ -168,9 +168,9 @@
           "Paralyzer"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -185,9 +185,9 @@
           "Perditor Klauen"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -202,7 +202,7 @@
         ],
         "specialRules": [
           "Invulnerable Save",
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -231,7 +231,7 @@
         ],
         "specialRules": [
           "Jump Packs",
-          "Scouts"
+          "Aufklärers"
         ]
       },
       {
@@ -247,7 +247,7 @@
         ],
         "specialRules": [
           "Skimmer",
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -389,10 +389,10 @@
         "specialRules": [
           "Damage Capacity 4",
           "Shadowfields 3",
-          "Fearless",
+          "Furchtlos",
           "Jump Packs",
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "crit": "The Tormentor Titan takes one additional damage and loses any remaining Shadowfields."
       },
@@ -413,7 +413,7 @@
           "Planetfall",
           "Support Craft",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Transport"
         ],
         "notes": "May transport up to ten Infantry units. Grotesques counts as two units each. In addition it may carry up to five Light Vehicles or Armoured Vehicles, or up to one Vessel of Pain or Barge of Pleasure.",

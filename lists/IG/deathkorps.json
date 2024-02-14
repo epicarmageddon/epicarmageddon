@@ -14,8 +14,8 @@
     {
       "from": "IG.json",
       "units": [
-        "DKoK Supreme Commander",
-        "DKoK Commander",
+        "DKoK Oberbefehlshaber",
+        "DKoK Befehlshaber",
         "Commissar",
         "Assault Infantry",
         "Siege Infantry",
@@ -76,7 +76,7 @@
       "formations": [
         {
           "name": "0-1 Death Korps Regimental HQ",
-          "units": "One DKoK Supreme Commander with a Commissar, nine Assault Infantry, one Gorgon",
+          "units": "One DKoK Oberbefehlshaber with a Commissar, nine Assault Infantry, one Gorgon",
           "extraUnits": [
             "Add ten Assault Infantry and one Gorgon: 250 points",
             "Leman Russ",
@@ -86,7 +86,7 @@
         },
         {
           "name": "Assault Company",
-          "units": "One DKoK Commander with a Commissar, nine Assault Infantry, one Gorgon",
+          "units": "One DKoK Befehlshaber with a Commissar, nine Assault Infantry, one Gorgon",
           "extraUnits": [
             "Leman Russ",
             "Bane Wolves"
@@ -117,7 +117,7 @@
         },
         {
           "name": "Siege Infantry Company",
-          "units": "DKoK Commander with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
+          "units": "DKoK Befehlshaber with Commissar, 9 Siege Infantry, 40cm Trenches, 40cm Razor Wire",
           "extraUnits": [
             "Add four Rapiers and 16cm Trenches, or three Thudd Guns and 12cm Trenches: 75 points",
             "Add up to two Snipers: 25 points each"
@@ -179,7 +179,7 @@
         },
         {
           "name": "Grenadier Company",
-          "units": "One DKoK Commander with a Commissar, seven Grenadiers, four Storm Chimeras",
+          "units": "One DKoK Befehlshaber with a Commissar, seven Grenadiers, four Storm Chimeras",
           "extraUnits": [
             "Replace four Storm Chimeras with a Gorgon: Free",
             "Bane Wolf"

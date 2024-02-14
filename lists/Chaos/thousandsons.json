@@ -107,7 +107,7 @@
           "extraUnits": [
             "Replace four Thousand Sons Marines with four Thousand Sons Havocs: 50 points",
             "Replace up to three Rubric Marines with Thousand Sons Dreadnoughts: 25 points each",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Champion of Chaos",
             "Thousand Sons Transport",
@@ -120,7 +120,7 @@
           "name": "Thousand Sons Terminators",
           "units": "One Aspiring Sorcerer, four Scarab Occult Terminators, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Champion of Chaos",
             "Dreadnoughts"
@@ -170,7 +170,7 @@
           "name": "Disc Riders",
           "units": "One Aspiring Sorcerer, six Sorcerer Disc Riders, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Icon Bearer",
             "Champion of Chaos"
           ],
@@ -249,7 +249,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Choose one of the following:",
         "options": [
           {

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Inquisitorial Forces",
+    "name": "Inquisitorial Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -8,32 +8,32 @@
         "name": "Canoness",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
         "name": "Palatine",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
         "name": "Ministorum Priest",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Faithful",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -47,8 +47,8 @@
           "Ardent Blade"
         ],
         "specialRules": [
-          "Fearless",
-          "Leader",
+          "Furchtlos",
+          "Anführer",
           "Jump Packs",
           "Invulnerable Save"
         ]
@@ -61,13 +61,13 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Multi-Melta",
-          "Power Weapon"
+          "Multimelter",
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Scout",
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Aufklärer",
           "Invulnerable Save"
         ]
       },
@@ -79,13 +79,13 @@
         "cc": 3,
         "ff": 5,
         "weapons": [
-          "Multi-Melta",
-          "Power Weapon"
+          "Multimelter",
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
-          "Scout",
+          "Befehlshaber",
+          "Anführer",
+          "Aufklärer",
           "Invulnerable Save"
 
         ]
@@ -100,11 +100,11 @@
         "weapons": [
           "Psycannon",
           "Smite",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
+          "Oberbefehlshaber",
+          "Furchtlos",
           "Teleport Homer",
           "Invulnerable Save"
         ]
@@ -119,12 +119,12 @@
         "weapons": [
           "Psycannon",
           "Smite",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
-          "Fearless",
+          "Befehlshaber",
+          "Anführer",
+          "Furchtlos",
           "Teleport Homer",
           "Invulnerable Save"
         ]
@@ -137,10 +137,10 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Meltaguns"
+          "Melter"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -152,11 +152,11 @@
         "ff": 5,
         "weapons": [
           "Frag Geschütz",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
+          "Oberbefehlshaber",
+          "Furchtlos",
           "Invulnerable Save"
         ]
       },
@@ -169,12 +169,12 @@
         "ff": 5,
         "weapons": [
           "Frag Geschütz",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
-          "Fearless",
+          "Befehlshaber",
+          "Anführer",
+          "Furchtlos",
           "Invulnerable Save"
         ]
       },
@@ -186,7 +186,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Guns"
+          "Plasmawerfers"
         ],
         "specialRules": [
         ]
@@ -216,7 +216,7 @@
           "Auto Pistols"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -229,8 +229,8 @@
           "Zähne"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Machine Spirit",
           "Ponderous"
         ]
@@ -258,7 +258,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Melta|2|"
+          "Multimelter|2|"
         ],
         "specialRules": [
           "Faithful"
@@ -272,11 +272,11 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Meltaguns"
+          "Melter"
         ],
         "specialRules": [
           "Faithful",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -319,7 +319,7 @@
         ],
         "specialRules": [
           "Faithful",
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -332,10 +332,10 @@
           "Combat Flails"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Fearless",
+          "Infiltratoren",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable"
+          "Entbehrlich"
         ]
       },
       {
@@ -348,7 +348,7 @@
           "Assassin Weapons"
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratoren",
           "Invulnerable Save"
         ]
       },
@@ -372,7 +372,7 @@
         "armour": 5,
         "cc": 4,
         "weapons": [
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Invulnerable Save"
@@ -389,7 +389,7 @@
           "Flammenwerfer"
         ],
         "specialRules": [],
-        "notes": "May transport two infantry units without Mounted or Jump Packs."
+        "notes": "May transport two infantry units without Beritten or Jump Packs."
       },
       {
         "name": "Penitent Engine",
@@ -403,10 +403,10 @@
           "Power Saws"
         ],
         "specialRules": [
-          "Fearless",
-          "Expendable",
+          "Furchtlos",
+          "Entbehrlich",
           "Machine Spirit",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -421,9 +421,9 @@
           "Penitent Flails"
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratoren",
           "Faithful",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -438,11 +438,11 @@
           "Penitent Flails"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Fearless",
+          "Infiltratoren",
+          "Furchtlos",
           "Invulnerable Save",
-          "Inspiring",
-          "Walker"
+          "Inspirierend",
+          "Geländegängig"
         ]
       },
       {
@@ -501,7 +501,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted."
+        "notes": "May transport two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Arbites Repressor",
@@ -514,10 +514,10 @@
           "Synchronisierter schweres Maschinengewehr"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Mounted or Jet Packs."
+        "notes": "May transport two infantry units without Beritten or Jet Packs."
       },
       {
         "name": "Sororitas Repressor",
@@ -531,10 +531,10 @@
         ],
         "specialRules": [
           "Faithful",
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Mounted or Jet Packs."
+        "notes": "May transport two infantry units without Beritten or Jet Packs."
       },
       {
         "name": "Sororitas Immolator",
@@ -544,13 +544,13 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Multi-Melta"
+          "Synchronisierter Multimelter"
         ],
         "specialRules": [
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Mounted or Jet Packs."
+        "notes": "May transport one infantry unit without Beritten or Jet Packs."
       },
       {
         "name": "Sororitas Stormlord",
@@ -570,7 +570,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Jump Pack or Mounted, two may fire from the firing deck and participate with FF during assaults.",
+        "notes": "May transport eight infantry units without Jump Pack or Beritten, two may fire from the firing deck and participate with FF during assaults.",
         "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
       },
       {
@@ -591,7 +591,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Mounted or Jet Packs.",
+        "notes": "May transport eight infantry units without Beritten or Jet Packs.",
         "crit": "The Emperor's Chapel takes one additional damage. D3 transported units takes a hit."
       },
       {
@@ -613,11 +613,11 @@
           "God Machine",
           "Split Fire",
           "Reinforced Armour",
-          "Fearless",
+          "Furchtlos",
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Mounted or Jet Packs.",
+        "notes": "May transport eight infantry units without Beritten or Jet Packs.",
         "crit": "The Cathedral of the God-Emperor takes D3 additional damage, and D6 transported units takes a hit."
       }
     ]

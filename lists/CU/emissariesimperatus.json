@@ -56,7 +56,7 @@
           "name": "Custodes Guardian Squad",
           "units": "Two Sagittarum plus either Two Guardian OR Two Sentinel Guard and 2 Venerable Land Raiders or 2 Coronus",
           "upgrades": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 375
         }
@@ -70,7 +70,7 @@
           "name": "Warden Wing",
           "units": "5 Wardens",
           "upgrades": [
-            "Commander",
+            "Befehlshaber",
             "Dreadnaught",
             "Transport"
           ],
@@ -88,7 +88,7 @@
           "name": "Aquilon Custodians",
           "units": "Four Aquilon Terminators",
           "upgrades": [
-            "Commander",
+            "Befehlshaber",
             "Dreadnaught",
             "Transport"
           ],
@@ -104,7 +104,7 @@
           "name": "Venatari Wing",
           "units": "Five Venatari",
           "upgrades": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 300
         },
@@ -112,20 +112,20 @@
           "name": "Kataphractoi",
           "units": "Six Vertus Praetors",
           "upgrades": [
-            "Commander"
+            "Befehlshaber"
           ],
           "points": 250
         },
         {
           "name": "Pallas Amour",
-          "units": "Four Pallas tanks",
+          "units": "Four Pallas Panzers",
           "upgrades": [
           ],
           "points": 225
         },
         {
           "name": "Caladius Armour",
-          "units": "Three Caladius tanks",
+          "units": "Three Caladius Panzers",
           "upgrades": [
           ],
           "points": 225
@@ -162,7 +162,7 @@
     "description": "Each upgrade may be taken once per detachment",
     "items": [
       {
-        "name": "Commander",
+        "name": "Befehlshaber",
         "description": "Add any one of the following characters to any unit in the formation",
         "options": [
           {

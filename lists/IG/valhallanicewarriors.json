@@ -17,8 +17,8 @@
     {
       "from": "IG.json",
       "units": [
-        "Valhallan Supreme Commander",
-        "Valhallan Commander",
+        "Valhallanischer Oberbefehlshaber",
+        "Valhallan Befehlshaber",
         "Valhallan Infantry",
         "Fire Support Squad",
         "Snipers",
@@ -29,7 +29,7 @@
         "Deathstrike",
         "Armoured Sentinel",
         "Valhallan Griffon",
-        "Ragnarok Heavy Tank",
+        "Ragnarok Heavy Panzer",
         "Macharius",
         "Macharius Command",
         "Baneblade",
@@ -68,7 +68,7 @@
       "formations": [
         {
           "name": "Valhallan Regimental HQ",
-          "units": "One Valhallan Supreme Commander with a Ministorum Priest, nine Valhallan Infantry",
+          "units": "One Valhallanischer Oberbefehlshaber with a Ministorum Priest, nine Valhallan Infantry",
           "extraUnits": [
             "Valhallan Griffons",
             "Ogryns",
@@ -81,7 +81,7 @@
         },
         {
           "name": "Valhallan Infantry Company",
-          "units": "One Valhallan Commander with a Ministorum Priest, nine Valhallan Infantry",
+          "units": "One Valhallan Befehlshaber with a Ministorum Priest, nine Valhallan Infantry",
           "extraUnits": [
             "Valhallan Griffons",
             "Ogryns",
@@ -109,8 +109,8 @@
       "description": "Up to two Support Formations for each Core Company.",
       "formations": [
         {
-          "name": "Heavy Tank Platoon",
-          "units": "Six Ragnarok Heavy Tanks",
+          "name": "Heavy Panzer Platoon",
+          "units": "Six Ragnarok Heavy Panzers",
           "extraUnits": [
             "Valhallan Griffons",
             "Flak"

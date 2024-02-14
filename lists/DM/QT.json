@@ -205,7 +205,7 @@
           "units": "One Ordinatus Retlaxi",
           "extraUnits": [
             "Upgrade the Ordinatus Retlaxi to an Ordinatus Temporia (25 points) or Ordinatus Cyclothrathe (50 points)",
-            "Supreme Commander"
+            "Oberbefehlshaber"
           ],
           "points": 425
         },
@@ -250,7 +250,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "(0-1 per army) Supreme Commander",
+        "name": "(0-1 per army) Oberbefehlshaber",
         "description": "Add an Arch-Heretek to a Hellwright unit or an Ordinatus Hereticus Majoris",
         "points": "100 points"
       },

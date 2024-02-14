@@ -79,7 +79,7 @@
             "Replace three Hypaspists with three Rapiers: Free",
             "Replace two Hypaspists with two Sagitarii: 25 points",
             "Minoris",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Hypaspist Transport",
             "Hydra"
           ],
@@ -164,9 +164,9 @@
         },
         {
           "name": "Warhound Pack",
-          "units": "Two Warhound Scout Titans, both of either Standard or Support Configuration",
+          "units": "Two Warhound Aufklärer Titans, both of either Standard or Support Configuration",
           "extraUnits": [
-            "Tank Hunter Configuration"
+            "Panzer Hunter Configuration"
           ],
           "points": 475
         },
@@ -202,7 +202,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Replace the Magos with an Magos Dominus",
         "points": "75 points"
       },
@@ -250,8 +250,8 @@
         "points": "50 points"
       },
       {
-        "name": "Tank Hunter",
-        "description": "Upgrade both Warhounds to Tank Hunter Configuration",
+        "name": "Panzer Hunter",
+        "description": "Upgrade both Warhounds to Panzer Hunter Configuration",
         "points": "50 points"
       }
     ]

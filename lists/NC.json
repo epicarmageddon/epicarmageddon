@@ -1,6 +1,6 @@
 [
   {
-    "name": "Necron Forces",
+    "name": "Necron Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -15,9 +15,9 @@
           "Staff of Radiance"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Inspiring",
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Inspirierend",
           "Regeneration",
           "Enduring"
         ]
@@ -33,11 +33,11 @@
           "Staff of Radiance"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
-          "Inspiring",
+          "Oberbefehlshaber",
+          "Furchtlos",
+          "Inspirierend",
           "Regeneration",
-          "Mounted",
+          "Beritten",
           "Skimmer",
           "Enduring"
         ]
@@ -53,8 +53,8 @@
           "Staff of Light"
         ],
         "specialRules": [
-          "Leader",
-          "Commander",
+          "Anführer",
+          "Befehlshaber",
           "Regeneration"
         ]
       },
@@ -69,10 +69,10 @@
           "Staff of Light"
         ],
         "specialRules": [
-          "Leader",
-          "Commander",
+          "Anführer",
+          "Befehlshaber",
           "Regeneration",
-          "Mounted",
+          "Beritten",
           "Skimmer"
         ]
       },
@@ -88,7 +88,7 @@
         ],
         "specialRules": [
           "Machine Spirit",
-          "Expendable",
+          "Entbehrlich",
           "Regeneration"
         ]
       },
@@ -102,7 +102,7 @@
           "Klauen"
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratoren",
           "Regeneration",
           "Teleport"
         ],
@@ -147,10 +147,10 @@
           "Tomb Spyder Klauen"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Regeneration",
-          "Leader",
-          "Infiltrators"
+          "Anführer",
+          "Infiltratoren"
         ]
       },
       {
@@ -162,10 +162,10 @@
           "Swarm Attack"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable",
-          "Infiltrators",
+          "Entbehrlich",
+          "Infiltratoren",
           "Regeneration"
         ]
       },
@@ -179,12 +179,12 @@
           "Wraith Klauen"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable",
-          "Scout",
+          "Entbehrlich",
+          "Aufklärer",
           "Regeneration",
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -198,7 +198,7 @@
           "Gauss Cannons"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Regeneration",
           "Skimmer"
         ]
@@ -214,7 +214,7 @@
           "Heavy Gauss Cannons"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Regeneration",
           "Skimmer"
         ]
@@ -231,7 +231,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Scout",
+          "Aufklärer",
           "Teleport"
         ]
       },
@@ -247,7 +247,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Mounted",
+          "Beritten",
           "Skimmer"
         ]
       },
@@ -262,7 +262,7 @@
           "Rods of Covenant"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Regeneration",
           "Jump Packs"
         ]
@@ -279,7 +279,7 @@
           "Gauss Flux Arc"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Living Metal",
           "Portal",
           "Skimmer",
@@ -298,7 +298,7 @@
           "Gravity Pulse"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Living Metal",
           "Skimmer",
           "Teleport"
@@ -352,8 +352,8 @@
           "Reinforced Armour",
           "Skimmer",
           "Enduring",
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -385,8 +385,8 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Walker",
-          "Infiltrators"
+          "Geländegängig",
+          "Infiltratoren"
         ]
       },
       {
@@ -401,12 +401,12 @@
           "Titanic Forelimbs"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
-          "Expendable",
+          "Entbehrlich",
           "Regeneration",
-          "Walker",
-          "Infiltrators"
+          "Geländegängig",
+          "Infiltratoren"
         ]
       },
       {
@@ -420,7 +420,7 @@
         ],
         "specialRules": [
           "Regeneration",
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
           "Teleport"
         ]
@@ -438,10 +438,10 @@
           "Pyreshards"
         ],
         "specialRules": [
-          "Walker",
-          "Leader",
-          "Commander",
-          "Inspiring",
+          "Geländegängig",
+          "Anführer",
+          "Befehlshaber",
+          "Inspirierend",
           "Regeneration"
         ],
         "notes": "If the C’tan Shard becomes broken it is immediately destroyed, but does not cause additional Blast Markers."
@@ -458,7 +458,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Fearless",
+          "Furchtlos",
           "Machine Spirit",
           "Living Metal",
           "Teleport",
@@ -479,7 +479,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Portal",
           "Living Metal",
           "Skimmer",
@@ -501,7 +501,7 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Fearless",
+          "Furchtlos",
           "Living Metal",
           "Support Craft",
           "Enduring"
@@ -521,7 +521,7 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Fearless",
+          "Furchtlos",
           "Living Metal",
           "Portal",
           "Skimmer",

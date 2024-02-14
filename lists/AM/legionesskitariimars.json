@@ -20,7 +20,7 @@
         "Tech-Priest",
         "Skitarii Vanguards",
         "Sicarian Ruststalkers",
-        "Sicarian Infiltrators",
+        "Sicarian Infiltratoren",
         "Skitarii Rangers",
         "Rapier",
         "Kastelan Robot",
@@ -80,7 +80,7 @@
             "Replace four Skitarii Vanguards with four Rapiers: Free",
             "Add up to two Onager Dunecrawlers: 50 points each",
             "Add up to two Skorpius Disintegrators: 50 points each",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Vanguard Transport"
           ],
           "points": 225
@@ -98,7 +98,7 @@
       "formations": [
         {
           "name": "Sicarian Killclade",
-          "units": "Four Sicarian Ruststalkers, two Sicarian Infiltrators",
+          "units": "Four Sicarian Ruststalkers, two Sicarian Infiltratoren",
           "extraUnits": [
           ],
           "points": 175
@@ -172,7 +172,7 @@
           "name": "Warhound Pack",
           "units": "Two Warhound Titans, both of either Standard or Support Configuration",
           "extraUnits": [
-            "Tank Hunter Configuration"
+            "Panzer Hunter Configuration"
           ],
           "points": 475
         },
@@ -201,7 +201,7 @@
     "description": "Each upgrade may be taken once per formation",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "options": [
           {
             "description": "Replace the Magos with a Magos Dominus",
@@ -250,10 +250,10 @@
         ]
       },
       {
-        "name": "Tank Hunter",
+        "name": "Panzer Hunter",
         "options": [
           {
-            "description": "Upgrade both Warhounds to Tank Hunter Configuration",
+            "description": "Upgrade both Warhounds to Panzer Hunter Configuration",
             "points": "50 points"
           }
         ]

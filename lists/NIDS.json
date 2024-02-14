@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tyranid Forces",
+    "name": "Tyranid Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -11,8 +11,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Inspiring",
-          "Leader",
+          "Inspirierend",
+          "Anführer",
           "Invulnerable Save"
         ]
       },
@@ -27,12 +27,12 @@
         ],
         "specialRules": [
           "Hive Mind Locus",
-          "Inspiring",
+          "Inspirierend",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -46,12 +46,12 @@
         ],
         "specialRules": [
           "Hive Mind Locus",
-          "Inspiring",
+          "Inspirierend",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Jump Pack"
         ]
       },
@@ -68,12 +68,12 @@
         ],
         "specialRules": [
           "Hive Mind Locus",
-          "Inspiring",
+          "Inspirierend",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -89,12 +89,12 @@
         ],
         "specialRules": [
           "Hive Mind Locus",
-          "Inspiring",
+          "Inspirierend",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Jump Pack"
         ]
       },
@@ -111,10 +111,10 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -130,10 +130,10 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
-          "Commander",
-          "Leader",
+          "Befehlshaber",
+          "Anführer",
           "Jump Pack"
         ]
       },
@@ -149,7 +149,7 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless"
+          "Furchtlos"
         ]
       },
       {
@@ -164,7 +164,7 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Jump Packs"
         ]
       },
@@ -180,7 +180,7 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Invulnerable Save"
         ]
       },
@@ -195,7 +195,7 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Tunneler"
         ]
       },
@@ -236,7 +236,7 @@
         ],
         "specialRules": [
           "Gaunts",
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -263,8 +263,8 @@
           "Rending Klauen"
         ],
         "specialRules": [
-          "Scout",
-          "Infiltrators"
+          "Aufklärer",
+          "Infiltratoren"
         ]
       },
       {
@@ -293,8 +293,8 @@
         ],
         "specialRules": [
           "First Strike",
-          "Infiltrators",
-          "Scout",
+          "Infiltratoren",
+          "Aufklärer",
           "Invulnerable Save",
           "Teleport"
         ]
@@ -310,8 +310,8 @@
           "Large Klauen"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
@@ -449,7 +449,7 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Transport",
           "Swarm (2)"
@@ -489,7 +489,7 @@
         "specialRules": [
           "Damage Capacity: 4",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Regeneration",
           "Tunneler"
@@ -509,7 +509,7 @@
         ],
         "specialRules": [
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Tunneler"
         ]
@@ -544,7 +544,7 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Skimmer",
           "Reinforced Armour",
           "Transport"
@@ -568,7 +568,7 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Skimmer",
           "Reinforced Armour",
           "Transport",
@@ -591,7 +591,7 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour"
         ],
         "crit": "The Hierodule Prime is killed."
@@ -627,7 +627,7 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour"
         ],
         "crit": "The Scythed Hierodule Prime is killed."
@@ -662,7 +662,7 @@
         "specialRules": [
           "Damage Capacity: 3",
           "Synapse",
-          "Fearless",
+          "Furchtlos",
           "Regeneration"
         ],
         "crit": "The Hive Nest is destroyed."
@@ -684,10 +684,10 @@
           "Damage Capacity: 6",
           "Hive Mind Locus",
           "Synapse",
-          "Fearless",
-          "Leader",
-          "Commander",
-          "Inspiring",
+          "Furchtlos",
+          "Anführer",
+          "Befehlshaber",
+          "Inspirierend",
           "Reinforced Armour",
           "Regeneration"
         ],
@@ -710,10 +710,10 @@
           "Damage Capacity: 6",
           "Hive Mind Locus",
           "Synapse",
-          "Fearless",
-          "Leader",
-          "Commander",
-          "Inspiring",
+          "Furchtlos",
+          "Anführer",
+          "Befehlshaber",
+          "Inspirierend",
           "Reinforced Armour",
           "Regeneration",
           "Transport",
@@ -736,7 +736,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Regeneration"
         ],
@@ -759,7 +759,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 7",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Regeneration"
         ],

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Eldar Corsairs Forces",
+    "name": "Eldar Corsairs Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -8,11 +8,11 @@
         "name": "Corsair Felarch",
         "type": "CH",
         "weapons": [
-          "Eldar Power Weapon"
+          "Eldar Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -36,7 +36,7 @@
         "ff": 5,
         "weapons": [
           "Shuriken Pistols",
-          "Eldar Power Weapon"
+          "Eldar Energiewaffe"
         ],
         "specialRules": ["Jump packs"]
       },
@@ -50,7 +50,7 @@
         "weapons": [
           "Ghostwalker Long Rifles"
         ],
-        "specialRules": ["Jump packs", "Scout"]
+        "specialRules": ["Jump packs", "Aufklärer"]
       },
       {
         "name": "Corsair Wasp Walker",
@@ -63,7 +63,7 @@
           "Starcannon|2"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Jump Packs"
         ]
       },

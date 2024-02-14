@@ -134,7 +134,7 @@
       "description": "Up to one Lugganath Troupe for each Lugganath Warhost/Wraithhost",
       "formations": [
         {
-          "name": "Corsair Scouts",
+          "name": "Corsair Aufklärers",
           "units": "Four Ghost Walkers",
           "extraUnits": [
             "Replace four Ghost Walkers with four Wasp Walkers: Free"
@@ -142,7 +142,7 @@
           "points": 150
         },
         {
-          "name": "Mounted Aspect Warrior Troupe",
+          "name": "Beritten Aspect Warrior Troupe",
           "units": "Three Wave Serpents and six Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
           "extraUnits": [
             "Autarch",

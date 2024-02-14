@@ -91,10 +91,10 @@
     },
     {
       "name": "Biel-Tan Warhosts",
-      "description": "Up to one Guardian Warhost may be taken for each Aspect or Mounted Aspect Warhost",
+      "description": "Up to one Guardian Warhost may be taken for each Aspect or Beritten Aspect Warhost",
       "formations": [
         {
-          "name": "Mounted Aspect Warrior Warhost",
+          "name": "Beritten Aspect Warrior Warhost",
           "units": "Four Wave Serpents and eight Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions or Swooping Hawks. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",

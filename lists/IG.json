@@ -1,11 +1,11 @@
 [
   {
-    "name": "Astra Militarum Forces",
+    "name": "Streitmächte des Astra Militarum",
     "specialRules": [
     ],
     "unit": [
       {
-        "name": "Catachan Supreme Commander",
+        "name": "Catachanischer Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -13,31 +13,31 @@
         "ff": 5,
         "weapons": [
           "Schwerer Flammenwerfer",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Fearless"
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
-        "name": "Steel Legion Supreme Commander",
+        "name": "Stahlegion Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Power Weapon",
+          "Energiewaffe",
           "Maschinenkanone"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
-        "name": "Baran Siegemaster",
+        "name": "Baranische Belagerungsmeister",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -45,14 +45,14 @@
         "ff": 5,
         "weapons": [
           "Schweres Maschinengewehr|2|",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
-        "name": "DKoK Supreme Commander",
+        "name": "DKoK Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -60,57 +60,57 @@
         "ff": 5,
         "weapons": [
           "Schweres Maschinengewehr|2|",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
-        "name": "Cadian Supreme Commander",
+        "name": "Cadianischer Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Power Weapon",
-          "Plasma Gun|2|"
+          "Energiewaffe",
+          "Plasmawerfer|2|"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
-        "name": "Elysian Supreme Commander",
+        "name": "Elysianischer Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Lasguns",
-          "Power Weapon"
+          "Lasergewehre",
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Grav-Chutes",
-          "Supreme Commander"
+          "Gravschirme",
+          "Oberbefehlshaber"
         ]
       },
       {
         "name": "Lord Commissar",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Inspiring",
-          "Fearless"
+          "Oberbefehlshaber",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
-        "name": "Valhallan Supreme Commander",
+        "name": "Valhallanischer Oberbefehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -119,29 +119,29 @@
         "weapons": [
           "Schwerer Bolter",
           "Flammenwerfer",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander"
+          "Oberbefehlshaber"
         ]
       },
       {
-        "name": "Elysian Commander",
+        "name": "Elysian Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Lasguns"
+          "Lasergewehre"
         ],
         "specialRules": [
-          "Grav-Chutes",
-          "Commander"
+          "Gravschirme",
+          "Befehlshaber"
         ]
       },
       {
-        "name": "Catachan Commander",
+        "name": "Catachan Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -151,14 +151,14 @@
           "Schwerer Flammenwerfer"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
-          "Inspiring",
-          "Fearless"
+          "Befehlshaber",
+          "Anführer",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
-        "name": "Steel Legion Commander",
+        "name": "Stahlegion Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -168,11 +168,11 @@
           "Maschinenkanone"
         ],
         "specialRules": [
-          "Commander"
+          "Befehlshaber"
         ]
       },
       {
-        "name": "Baran Commander",
+        "name": "Baran Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -182,11 +182,11 @@
           "Schweres Maschinengewehr|2|"
         ],
         "specialRules": [
-          "Commander"
+          "Befehlshaber"
         ]
       },
       {
-        "name": "Valhallan Commander",
+        "name": "Valhallan Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -197,11 +197,11 @@
           "Flammenwerfer"
         ],
         "specialRules": [
-          "Commander"
+          "Befehlshaber"
         ]
       },
       {
-        "name": "DKoK Commander",
+        "name": "DKoK Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
@@ -211,24 +211,24 @@
           "Schweres Maschinengewehr|2|"
         ],
         "specialRules": [
-          "Commander"
+          "Befehlshaber"
         ]
       },
       {
         "name": "Commissar-Captain",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
-          "Leader",
-          "Inspiring",
-          "Fearless"
+          "Befehlshaber",
+          "Anführer",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
-        "name": "PDF Commander",
+        "name": "PDF Befehlshaber",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -237,21 +237,21 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Commander"
+          "Befehlshaber"
         ]
       },
       {
-        "name": "Cadian Commander",
+        "name": "Cadian Befehlshaber",
         "type": "INF",
         "speed": 15,
         "armour": 6,
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Plasma Gun|2|"
+          "Plasmawerfer|2|"
         ],
         "specialRules": [
-          "Commander"
+          "Befehlshaber"
         ]
       },
       {
@@ -262,23 +262,23 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Gun|2|"
+          "Plasmawerfer|2|"
         ],
         "specialRules": [
-          "Scout",
-          "Commander"
+          "Aufklärer",
+          "Befehlshaber"
         ]
       },
       {
         "name": "Commissar",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Leader",
-          "Inspiring",
-          "Fearless"
+          "Anführer",
+          "Inspirierend",
+          "Furchtlos"
         ]
       },
       {
@@ -289,24 +289,24 @@
         "ff": 5,
         "weapons": [
           "Maschinenkanone",
-          "Lasguns"
+          "Lasergewehre"
         ],
         "specialRules": [
         ],
         "notes": "One in every two units (rounding up) has an Maschinenkanone"
       },
       {
-        "name": "Tank Infantry",
+        "name": "Panzer Infantry",
         "type": "INF",
         "speed": 15,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lasguns"
+          "Lasergewehre"
         ],
         "specialRules": [
-          "Expendable",
-          "Tank Riders"
+          "Entbehrlich",
+          "Panzer Riders"
         ]
       },
       {
@@ -345,7 +345,7 @@
         "ff": 5,
         "weapons": [
           "Schweres Maschinengewehr",
-          "Lasguns"
+          "Lasergewehre"
         ],
         "specialRules": [
         ]
@@ -357,24 +357,24 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Lasguns",
+          "Lasergewehre",
           "Bayonette"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Elysian Drop Troops",
+        "name": "Elysianische Sturmtruppen",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lasguns"
+          "Lasergewehre"
         ],
         "specialRules": [
-          "Grav-Chutes"
+          "Gravschirme"
         ]
       },
       {
@@ -384,7 +384,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Lasguns"
+          "Lasergewehre"
         ],
         "specialRules": [
         ]
@@ -396,20 +396,20 @@
         "cc": 4,
         "ff": 6,
         "weapons": [
-          "Laspistols",
-          "Jungle Knives"
+          "Laserpistolen",
+          "Dschungelmesser"
         ],
         "specialRules": [
         ]
       },
       {
-        "name": "Mortar Team",
+        "name": "Mörser Team",
         "type": "INF",
         "speed": 15,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Mortar"
+          "Mörser"
         ],
         "specialRules": [
         ]
@@ -449,13 +449,13 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Laspistols",
-          "Hunting Lances"
+          "Laserpistolen",
+          "Sprenglanzen"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Mounted",
-          "Walker"
+          "Infiltratoren",
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
@@ -466,14 +466,14 @@
         "cc": 3,
         "ff": 6,
         "weapons": [
-          "Laspistols",
-          "Hunting Lances"
+          "Laserpistolen",
+          "Sprenglanzen"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Mounted",
-          "Walker",
-          "Scout"
+          "Infiltratoren",
+          "Beritten",
+          "Geländegängig",
+          "Aufklärer"
         ]
       },
       {
@@ -486,7 +486,7 @@
           "Sniper Rifles"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -498,10 +498,10 @@
         "ff": 5,
         "weapons": [
           "Schwerer Flammenwerfer",
-          "Jungle Knives"
+          "Dschungelmesser"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -512,11 +512,11 @@
         "cc": 4,
         "ff": 5,
         "weapons": [
-          "Multi-Melta",
-          "Jungle Knives"
+          "Multimelter",
+          "Dschungelmesser"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Teleport"
         ]
       },
@@ -528,10 +528,10 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Meltaguns"
+          "Melter"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -545,7 +545,7 @@
           "Schwerer Flammenwerfer"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -557,39 +557,39 @@
         "ff": 5,
         "weapons": [
           "Schwerer Flammenwerfer",
-          "Melta Bombs"
+          "Melter Bombs"
         ],
         "specialRules": [
-          "Walker (also works against enemy fortifications)"
+          "Geländegängig (also works against enemy fortifications)"
         ]
       },
       {
-        "name": "Storm Troopers",
+        "name": "Sturmtruppen",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Guns"
+          "Plasmawerfers"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
-        "name": "Elysian Storm Troopers",
+        "name": "Elysian Sturmtruppen",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasma Guns"
+          "Plasmawerfers"
         ],
         "specialRules": [
-          "Grav-Chutes",
-          "Scout"
+          "Gravschirme",
+          "Aufklärer"
         ]
       },
       {
@@ -628,7 +628,7 @@
           "Raketenwerfer"
         ],
         "specialRules": [
-          "Grav-Chutes"
+          "Gravschirme"
         ]
       },
       {
@@ -668,13 +668,13 @@
         ]
       },
       {
-        "name": "Mole Mortar",
+        "name": "Mole Mörser",
         "type": "INF",
         "speed": 10,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Mole Mortar"
+          "Mole Mörser"
         ],
         "specialRules": [
         ]
@@ -690,8 +690,8 @@
           "Schwerer Flammenwerfer"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -705,8 +705,8 @@
           "Maschinenkanone"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -720,8 +720,8 @@
           "Multilaser"
         ],
         "specialRules": [
-          "Scout",
-          "Walker"
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -732,11 +732,11 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": [
-          "Grav-Chutes",
-          "Walker"
+          "Gravschirme",
+          "Geländegängig"
         ]
       },
       {
@@ -750,7 +750,7 @@
           "Multi-Rocket Pod"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -764,7 +764,7 @@
           "Tauros Grenade Launcher"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -792,7 +792,7 @@
         ]
       },
       {
-        "name": "Siegfried Light Tank",
+        "name": "Siegfried Light Panzer",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -802,12 +802,12 @@
           "Multilaser"
         ],
         "specialRules": [
-          "Walker",
-          "Scout"
+          "Geländegängig",
+          "Aufklärer"
         ]
       },
       {
-        "name": "Salamander Scout Tank",
+        "name": "Salamander Aufklärer Panzer",
         "type": "LV",
         "speed": 30,
         "armour": 5,
@@ -818,7 +818,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -835,7 +835,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Chimera",
@@ -851,7 +851,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Death World Chimera",
@@ -865,10 +865,10 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Hellhound",
@@ -896,7 +896,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -907,11 +907,11 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Melta Geschütz",
+          "Melter Geschütz",
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -927,7 +927,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted."
+        "notes": "May carry two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Taurox",
@@ -940,10 +940,10 @@
           "Synchronisierter Sturmkanone"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Mounted"
+        "notes": "May carry two infantry units without Jump Packs or Beritten"
       },
       {
         "name": "Centaur",
@@ -1009,7 +1009,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mortar",
+          "Heavy Mörser",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1023,11 +1023,11 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Heavy Mortar",
+          "Heavy Mörser",
           "Schwerer Flammenwerfer"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1052,7 +1052,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Siege Mortar",
+          "Siege Mörser",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -1099,14 +1099,14 @@
         ]
       },
       {
-        "name": "Elysian Mortar Squad",
+        "name": "Elysian Mörser Squad",
         "type": "INF",
         "speed": 15,
         "armour": 5,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Accatran Mortar"
+          "Accatran Mörser"
         ]
       },
       {
@@ -1174,7 +1174,7 @@
         "notes": "Formation must start the game in the reserves, and may only enter the board by Tunneling. When resolving tunnelers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, or within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
       },
       {
-        "name": "Ragnarok Heavy Tank",
+        "name": "Ragnarok Heavy Panzer",
         "type": "AV",
         "speed": 15,
         "armour": 4,
@@ -1186,7 +1186,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1215,7 +1215,7 @@
         "weapons": [
           "Synchronisierte Laserkanone",
           "Laserkanone",
-          "Multi-Melta|2|"
+          "Multimelter|2|"
         ],
         "specialRules": [
           "Reinforced Armour"
@@ -1265,7 +1265,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1311,7 +1311,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1394,7 +1394,7 @@
         ],
         "specialRules": [
           "Skimmer",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -1427,7 +1427,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1444,7 +1444,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1460,7 +1460,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1490,7 +1490,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry six infantry units without Jump Packs or Mounted"
+        "notes": "May carry six infantry units without Jump Packs or Beritten"
       },
       {
         "name": "Minotaur",
@@ -1606,10 +1606,10 @@
         "specialRules": [
           "Damage Capacity 3",
           "Reinforced Armour",
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack or Mounted.",
+        "notes": "May carry 10 infantry units without Jump Pack or Beritten.",
         "crit": "The Gorgon is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -1669,7 +1669,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Pack or Mounted, two may fire from the firing deck and participate with FF during assaults.",
+        "notes": "May transport twelve infantry units without Jump Pack or Beritten, two may fire from the firing deck and participate with FF during assaults.",
         "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
       },
       {

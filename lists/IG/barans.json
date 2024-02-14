@@ -1,10 +1,10 @@
 {
   "fraction": "Astra Militarum",
-  "army": "Baran Siegemasters",
+  "army": "Baranische Belagerungsmeisters",
   "version": "1.0.Beta",
   "release": "2023-03-08",
   "armyforge": "EAR_ImperialGuard_BaranSiegemasters",
-  "strategy": "Baran Siegemaster armies have a Strategy Rating of 2.",
+  "strategy": "Baranische Belagerungsmeister armies have a Strategy Rating of 2.",
   "Initiative": "All formations have a Initiative Rating of 2+.",
   "specialRules": [
     "Baran Regimental HQ",
@@ -14,14 +14,14 @@
     "Fortified Positions"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Baran Siegemasters"
+    "The following army list allows you to field an army based on the Baranische Belagerungsmeisters"
   ],
   "units": [
     {
       "from": "IG.json",
       "units": [
-        "Baran Siegemaster",
-        "Baran Commander",
+        "Baranische Belagerungsmeister",
+        "Baran Befehlshaber",
         "Commissar",
         "Siege Infantry",
         "Sappers",
@@ -40,8 +40,8 @@
         "Devil Dog",
         "Deathstrike",
         "Howitzer",
-        "Ragnarok Heavy Tank",
-        "Siegfried Light Tank",
+        "Ragnarok Heavy Panzer",
+        "Siegfried Light Panzer",
         "Hades Breaching Drill",
         "Macharius",
         "Macharius Command",
@@ -72,7 +72,7 @@
       "formations": [
         {
           "name": "1 Siegemaster Regimental HQ",
-          "units": "One Baran Siegemaster with a Commissar, nine Siege Infantry",
+          "units": "One Baranische Belagerungsmeister with a Commissar, nine Siege Infantry",
           "extraUnits": [
               "40cm of Razor Wire and 4cm of Trenches for each unit of INF in the formation: 50 points. Replace 24cm of Trenches with two Bunkers: 25 points",
               "Five Siege Infantry, or two Snipers, or two Sappers, or two Ogryns: 50 points",
@@ -83,7 +83,7 @@
         },
         {
           "name": "Siege Infantry Company",
-          "units": "One Baran Commander with a Commissar, nine Siege Infantry",
+          "units": "One Baran Befehlshaber with a Commissar, nine Siege Infantry",
           "extraUnits": [
               "40cm of Razor Wire and 4cm of Trenches for each unit of INF in the formation: 50 points. Replace 24cm of Trenches with two Bunkers: 25 points",
               "Five Siege Infantry, or two Snipers, or two Sappers, or two Ogryns: 50 points",
@@ -99,10 +99,10 @@
       "description": "Up to two Support Formations for each Core Company.",
       "formations": [
           {
-            "name": "Heavy Tank Company",
-            "units": "One Commissar, six Ragnarok Heavy Tanks",
+            "name": "Heavy Panzer Company",
+            "units": "One Commissar, six Ragnarok Heavy Panzers",
             "extraUnits": [
-              "Add three Ragnarok Heavy Tanks: 125 points"
+              "Add three Ragnarok Heavy Panzers: 125 points"
             ],
             "points": 350
         },
@@ -170,7 +170,7 @@
         },
         {
           "name": "Siege Recon Squadron",
-          "units": "Four Siegfried Light Tanks",
+          "units": "Four Siegfried Light Panzers",
           "extraUnits": [
               "Add up to three Hellhounds, Bane Wolves, or Devil Dogs: 25 points each"
           ],

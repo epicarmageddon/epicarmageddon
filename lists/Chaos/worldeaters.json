@@ -37,7 +37,7 @@
         "Chaos Stalker",
         "World Eaters Vindicator",
         "Chaos Land Raider",
-        "Chaos Spartan Assault Tank",
+        "Chaos Spartan Assault Panzer",
         "Berzerker Dreadnought"
       ],
       "unitRules": [
@@ -94,7 +94,7 @@
           "units": "One Chaos Lord, four Khorne Berzerkers, four World Eaters Assault Marines, four World Eaters Rhinos, Daemonic Pact",
           "extraUnits": [
             "Add two Berzerker Dreadnoughts: 75 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Berzerker Transport",
             "Champion",
             "Icon Bearer",
@@ -108,7 +108,7 @@
           "units": "One Chaos Lord, four Skullseeker Terminators, Daemonic Pact",
           "extraUnits": [
             "Add up to two Mutilators: 50 points each",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Skullseeker Transport",
             "Champion",
             "Icon Bearer"
@@ -142,7 +142,7 @@
           "name": "Berzerker Bikes",
           "units": "One Chaos Lord, six Khorne Berzerker Assault Bikes, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Champion",
             "Icon Bearer"
           ],
@@ -152,7 +152,7 @@
           "name": "Juggernaut Riders",
           "units": "One Chaos Lord, six Juggernaut Riders, Daemonic Pact",
           "extraUnits": [
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Champion",
             "Icon Bearer"
           ],
@@ -268,7 +268,7 @@
         "points": "50 points"
       },
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Choose one of the following:",
         "options": [
           {
@@ -289,7 +289,7 @@
             "points": "Free"
           },
           {
-            "description": "Replace four Chaos Rhinos with two Chaos Spartan Assault Tanks",
+            "description": "Replace four Chaos Rhinos with two Chaos Spartan Assault Panzers",
             "points": "100 points"
           }
         ]
@@ -302,7 +302,7 @@
             "points": "Free"
           },
           {
-            "description": "Add two Chaos Spartan Assault Tanks",
+            "description": "Add two Chaos Spartan Assault Panzers",
             "points": "100 points"
           }
         ]

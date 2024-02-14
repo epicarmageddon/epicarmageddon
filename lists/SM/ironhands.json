@@ -20,11 +20,11 @@
       "from": "SM.json",
       "units": [
         "Iron Hands Captain",
-        "Iron Hands Supreme Commander",
+        "Iron Hands Oberbefehlshaber",
         "Techmarine",
         "Iron Hands Devastators",
         "Tacticals",
-        "Scouts",
+        "Aufklärers",
         "Dreadnought",
         "Dreadnought, Hellfire",
         "Dreadnought, Ironclad",
@@ -75,7 +75,7 @@
           "units": "One Iron Hands Captain or Techmarine, four Tacticals plus transport, and any two of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
           "extraUnits": [
             "Anti-Air",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Venerable Dreadnought",
             "Ironclad Dreadnoughts",
             "Dreadnoughts",
@@ -89,7 +89,7 @@
           "units": "One Iron Hands Captain or Techmarine, four Tacticals plus transport, and any two of the following: Predator Annihilator, Predator Destructor or Vindicator",
           "extraUnits": [
             "Anti-Air",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Devastators",
             "Transports",
             "Vindicators"
@@ -132,15 +132,15 @@
           "points": 250
         },
         {
-          "name": "Scouts",
-          "units": "Three Scouts, three Razorbacks",
+          "name": "Aufklärers",
+          "units": "Three Aufklärers, three Razorbacks",
           "extraUnits": [
           ],
           "points": 200
         },
         {
-          "name": "Siege Scouts",
-          "units": "Four Scouts, two Siege Rhinos and two Vindicators",
+          "name": "Siege Aufklärers",
+          "units": "Four Aufklärers, two Siege Rhinos and two Vindicators",
           "extraUnits": [
           ],
           "points": 250
@@ -191,7 +191,7 @@
           "name": "Warhound Pack",
           "units": "Two Warhounds - Standard or Support Configuration",
           "extraUnits": [
-            "Upgrade both Warhounds to the Tank Hunter Configuration: 50 points"
+            "Upgrade both Warhounds to the Panzer Hunter Configuration: 50 points"
           ],
           "points": 475
         },
@@ -258,8 +258,8 @@
         "points": "25 points each"
       },
       {
-        "name": "Supreme Commander (0-1 per army)",
-        "description": "Replace an Iron Hands Captain with an Iron Hands Supreme Commander",
+        "name": "Oberbefehlshaber (0-1 per army)",
+        "description": "Replace an Iron Hands Captain with an Iron Hands Oberbefehlshaber",
         "points": "50 points"
       },
       {

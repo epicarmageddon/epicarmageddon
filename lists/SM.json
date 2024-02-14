@@ -1,6 +1,6 @@
 [
   {
-    "name": "Space Marine Forces",
+    "name": "Space Marine Streitmächte",
     "specialRules": [
     ],
     "unit": [
@@ -8,37 +8,37 @@
         "name": "Captain",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
         "name": "Wolf Lord Captain",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Extended Command",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
         "name": "Dark Angels Captain",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Commander",
+          "Befehlshaber",
           "Invulnerable Save",
-          "Leader",
+          "Anführer",
           "Teleport Homer"
         ]
       },
@@ -48,8 +48,8 @@
         "weapons": [
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Leader"
+          "Oberbefehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -59,8 +59,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Commander",
-          "Leader"
+          "Befehlshaber",
+          "Anführer"
         ]
       },
       {
@@ -70,32 +70,32 @@
           "n/a"
         ],
         "specialRules": [
-          "Commander"
+          "Befehlshaber"
         ]
       },
       {
         "name": "Chaplain",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Inspiring",
+          "Inspirierend",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
         "name": "Iron Hands Captain",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Bionics",
-          "Commander",
+          "Befehlshaber",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -105,7 +105,7 @@
           "Boltpistolen"
         ],
         "specialRules": [
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -117,7 +117,7 @@
         "specialRules": [
           "Battlefield Repairs",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -128,7 +128,7 @@
         ],
         "specialRules": [
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
@@ -140,53 +140,53 @@
         "specialRules": [
           "Teleport Homer",
           "Invulnerable Save",
-          "Leader"
+          "Anführer"
         ]
       },
       {
-        "name": "Blood Ravens Supreme Commander",
+        "name": "Blood Ravens Oberbefehlshaber",
         "type": "CH",
         "weapons": [
           "Smite",
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Teleport Homer",
           "Invulnerable Save"
         ]
       },
       {
-        "name": "Iron Hands Supreme Commander",
+        "name": "Iron Hands Oberbefehlshaber",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
           "Bionics",
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Invulnerable Save"
         ]
       },
       {
-        "name": "Supreme Commander",
+        "name": "Oberbefehlshaber",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Invulnerable Save"
         ]
       },
       {
-        "name": "Great Wolf Supreme Commander",
+        "name": "Great Wolf Oberbefehlshaber",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Extended Command",
           "Invulnerable Save"
         ]
@@ -198,21 +198,21 @@
           "Heavy Daemon Hammer"
         ],
         "specialRules": [
-          "Inspiring",
+          "Inspirierend",
           "Invulnerable Save",
-          "Supreme Commander",
+          "Oberbefehlshaber",
           "Teleport Homer"
         ]
       },
       {
-        "name": "Watch Commander",
+        "name": "Watch Befehlshaber",
         "type": "CH",
         "weapons": [
-          "Power Weapon"
+          "Energiewaffe"
         ],
         "specialRules": [
-          "Supreme Commander",
-          "Fearless",
+          "Oberbefehlshaber",
+          "Furchtlos",
           "Invulnerable Save"
         ]
       },
@@ -243,7 +243,7 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Infiltrators"
+          "Infiltratoren"
         ],
         "notes": "Counts as Tacticals for all transport purposes."
       },
@@ -274,7 +274,7 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -289,7 +289,7 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -316,8 +316,8 @@
         ],
         "specialRules": [
           "Invulnerable Save",
-          "Mounted",
-          "Walker"
+          "Beritten",
+          "Geländegängig"
         ],
         "notes": "Counts as Terminators for the purpose of being transported."
       },
@@ -333,8 +333,8 @@
           "Kettenschwerter"
         ],
         "specialRules": [
-          "Fearless",
-          "Infiltrators"
+          "Furchtlos",
+          "Infiltratoren"
         ],
         "notes": "Counts as Tacticals for the purposes of being transported."
       },
@@ -397,7 +397,7 @@
         ]
       },
       {
-        "name": "Scouts",
+        "name": "Aufklärers",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -407,12 +407,12 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
-        "name": "Raven Guard Scouts",
+        "name": "Raven Guard Aufklärers",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -423,12 +423,12 @@
         ],
         "specialRules": [
           "Expert Reconnaissance",
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
-        "name": "Wolf Scouts",
+        "name": "Wolf Aufklärers",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -438,8 +438,8 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Infiltrators",
-          "Scout"
+          "Infiltratoren",
+          "Aufklärer"
         ]
       },
       {
@@ -537,7 +537,7 @@
         "ff": 3,
         "weapons": [
           "Sturmkanone|2",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -554,7 +554,7 @@
         "ff": 3,
         "weapons": [
           "Sturmkanone|2",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -590,7 +590,7 @@
         "weapons": [
           "Sturmkanone",
           "Frag Geschütz",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -607,7 +607,7 @@
         "ff": 4,
         "weapons": [
           "Cyclone Raketenwerfer",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -624,7 +624,7 @@
         "ff": 3,
         "weapons": [
           "Sturmkanone|2",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Reinforced Armour",
@@ -643,7 +643,7 @@
           "Flail of the Unforgiven"
         ],
         "specialRules": [
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Teleport",
           "Thick Rear Armour",
@@ -733,7 +733,7 @@
           "Sternguard Bolter"
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratoren",
           "Teleport",
           "Lightning Charge"
         ]
@@ -763,7 +763,7 @@
         "ff": 5,
         "weapons": [
           "Boltpistolen",
-          "Power Weapons"
+          "Energiewaffes"
         ],
         "specialRules": [
           "Jump Packs"
@@ -833,12 +833,12 @@
         ],
         "specialRules": [
           "Born in the Saddle",
-          "Mounted",
-          "Walker"
+          "Beritten",
+          "Geländegängig"
         ]
       },
       {
-        "name": "White Scars Scout Bikes",
+        "name": "White Scars Aufklärer Bikes",
         "type": "INF",
         "speed": 35,
         "armour": 5,
@@ -850,9 +850,9 @@
         ],
         "specialRules": [
           "Born in the Saddle",
-          "Mounted",
-          "Scout",
-          "Walker"
+          "Beritten",
+          "Aufklärer",
+          "Geländegängig"
         ]
       },
       {
@@ -866,7 +866,7 @@
           "Synchronisierter Bolter"
         ],
         "specialRules": [
-          "Mounted",
+          "Beritten",
           "Invulnerable Save"
         ]
       },
@@ -882,9 +882,9 @@
           "Corvus Hammers"
         ],
         "specialRules": [
-          "Mounted",
-          "Scout",
-          "Commander",
+          "Beritten",
+          "Aufklärer",
+          "Befehlshaber",
           "Invulnerable Save"
         ]
       },
@@ -900,9 +900,9 @@
           "Nemesis Daemon Hammer"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Reinforced Armour",
-          "Infiltrators",
+          "Infiltratoren",
           "Teleport",
           "Faithful",
           "Invulnerable Save"
@@ -935,14 +935,14 @@
         ]
       },
       {
-        "name": "Melta Bike",
+        "name": "Melter Bike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": []
       },
@@ -975,7 +975,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport one unit of Scouts."
+        "notes": "May transport one unit of Aufklärers."
       },
       {
         "name": "Land Speeder",
@@ -985,10 +985,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Skimmer"
         ]
       },
@@ -1000,11 +1000,11 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": [
           "Wind-Swift",
-          "Scout",
+          "Aufklärer",
           "Skimmer"
         ]
       },
@@ -1016,10 +1016,10 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Skimmer",
           "Invulnerable Save",
           "Teleport Homer"
@@ -1037,7 +1037,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Skimmer"
         ]
       },
@@ -1054,7 +1054,7 @@
         ],
         "specialRules": [
           "Wind-Swift",
-          "Scout",
+          "Aufklärer",
           "Skimmer"
         ]
       },
@@ -1070,7 +1070,7 @@
           "Drachenfeuer schwerer Bolter"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Skimmer",
           "Teleport Homer",
           "Invulnerable Save"
@@ -1088,7 +1088,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Skimmer",
           "Invulnerable Save",
           "Teleport Homer"
@@ -1106,7 +1106,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Scout",
+          "Aufklärer",
           "Skimmer"
         ]
       },
@@ -1123,7 +1123,7 @@
         ],
         "specialRules": [
           "Wind-Swift",
-          "Scout",
+          "Aufklärer",
           "Skimmer"
         ]
       },
@@ -1188,23 +1188,23 @@
         "specialRules": [
           "Born in the Saddle",
           "Wind-Swift",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
-        "name": "White Scars Melta Bike",
+        "name": "White Scars Melter Bike",
         "type": "LV",
         "speed": 35,
         "armour": 4,
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Multi-Melta"
+          "Multimelter"
         ],
         "specialRules": [
           "Born in the Saddle",
           "Wind-Swift",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1214,8 +1214,8 @@
           "n/a"
         ],
         "specialRules": [
-          "Fearless",
-          "Inspiring",
+          "Furchtlos",
+          "Inspirierend",
           "Invulnerable Save"
         ],
         "notes": "May only be added to a Dreadnought unit of any configuration."
@@ -1232,7 +1232,7 @@
           "Power Fist"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1247,8 +1247,8 @@
           "Smite"
         ],
         "specialRules": [
-          "Leader",
-          "Walker",
+          "Anführer",
+          "Geländegängig",
           "Invulnerable Save"
         ]
       },
@@ -1264,9 +1264,9 @@
           "Great Wolf Claw"
         ],
         "specialRules": [
-          "Fearless",
-          "Infiltrators",
-          "Walker"
+          "Furchtlos",
+          "Infiltratoren",
+          "Geländegängig"
         ]
       },
       {
@@ -1281,7 +1281,7 @@
           "Frag Geschütz"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1295,9 +1295,9 @@
           "Blood Talon|2"
         ],
         "specialRules": [
-          "Fearless",
-          "Infiltrators",
-          "Walker"
+          "Furchtlos",
+          "Infiltratoren",
+          "Geländegängig"
         ],
         "notes": "Counts as a Dreadnought for the purposes of being transported."
       },
@@ -1312,7 +1312,7 @@
           "Synchronisierter Mortis Maschinenkanone|2"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Counts as a Dreadnought for the purposes of being transported."
       },
@@ -1328,7 +1328,7 @@
           "Plasma Geschütz"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Counts as a Dreadnought for the purposes of being transported."
       },
@@ -1344,7 +1344,7 @@
           "Frag Geschütz"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Counts as a Dreadnought for the purposes of being transported."
       },
@@ -1360,7 +1360,7 @@
           "Synchronisierte Laserkanone"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Counts as a Dreadnought for the purposes of being transported."
       },
@@ -1376,7 +1376,7 @@
           "Nemesis Doomglaive"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Faithful",
           "Invulnerable Save"
         ]
@@ -1394,7 +1394,7 @@
         ],
         "specialRules": [
           "Reinforced Armour",
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Counts as a Dreadnought for the purposes of being transported."
       },
@@ -1411,7 +1411,7 @@
           "Siege Drill"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ],
         "notes": "Counts as a Dreadnought for the purposes of being transported."
       },
@@ -1448,7 +1448,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter Sturmkanone",
-          "Multi-Melta|2"
+          "Multimelter|2"
         ],
         "specialRules": [
           "Lucifer Pattern Engine"
@@ -1511,7 +1511,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit (except Terminators) without Jump Packs or Mounted. Armed with either Synchronisierte Laserkanone or Synchronisierter schwerer Bolter. Razorbacks armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
+        "notes": "May transport one infantry unit (except Terminators) without Jump Packs or Beritten. Armed with either Synchronisierte Laserkanone or Synchronisierter schwerer Bolter. Razorbacks armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Blood Angels Razorback",
@@ -1544,7 +1544,7 @@
           "Transport",
           "Lucifer Pattern Engine"
         ],
-        "notes": "May transport one infantry unit (except Terminators) without Jump Packs or Mounted. Armed with either Synchronisierte Laserkanone or Synchronisierter schwerer Bolter. Razorbacks armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
+        "notes": "May transport one infantry unit (except Terminators) without Jump Packs or Beritten. Armed with either Synchronisierte Laserkanone or Synchronisierter schwerer Bolter. Razorbacks armed with Synchronisierter schwerer Bolter have their firefight value increased to 4+."
       },
       {
         "name": "Deathwatch Razorback",
@@ -1559,7 +1559,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit (except a Terminator unit) without Jump Packs or Mounted."
+        "notes": "May transport one infantry unit (except a Terminator unit) without Jump Packs or Beritten."
       },
       {
         "name": "Vortimer Razorback",
@@ -1576,7 +1576,7 @@
           "Faithful",
           "Invulnerable Save"
         ],
-        "notes": "May transport one infantry unit (except a Terminator unit) without Jump Packs or Mounted."
+        "notes": "May transport one infantry unit (except a Terminator unit) without Jump Packs or Beritten."
       },
       {
         "name": "Rhino",
@@ -1591,7 +1591,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Blood Angels Rhino",
@@ -1607,7 +1607,7 @@
           "Transport",
           "Lucifer Pattern Engine"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Siege Rhino",
@@ -1620,10 +1620,10 @@
           "Storm Bolter"
         ],
         "specialRules": [
-          "Walker",
+          "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Damocles Command Rhino",
@@ -1639,7 +1639,7 @@
           "Extended Command",
           "Transport"
         ],
-        "notes": "May transport one infantry unit (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport one infantry unit (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Grey Knights Rhino",
@@ -1656,7 +1656,7 @@
           "Faithful",
           "Invulnerable Save"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Mounted."
+        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
       },
       {
         "name": "Hunter",
@@ -1719,7 +1719,7 @@
           "Demolisher"
         ],
         "specialRules": [
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1771,7 +1771,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Land Raider Redeemer",
@@ -1789,7 +1789,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Jump Packs or Mounted; Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport three infantry units without Jump Packs or Beritten; Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Deathwing Land Raider",
@@ -1808,7 +1808,7 @@
           "Transport",
           "Invulnerable Save"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Vortimer Land Raider",
@@ -1828,7 +1828,7 @@
           "Transport",
           "Invulnerable Save"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Vortimer Land Raider Redeemer",
@@ -1846,7 +1846,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Jump Packs or Mounted; Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport three infantry units without Jump Packs or Beritten; Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Ares",
@@ -1863,7 +1863,7 @@
         "specialRules": [
           "Reinforced Armour",
           "Thick Rear Armour",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -1875,15 +1875,15 @@
         "ff": 3,
         "weapons": [
           "Thunderfire Geschütz",
-          "Synchronisierter Multi-Melta|2|"
+          "Synchronisierter Multimelter|2|"
         ],
         "specialRules": [
-          "Leader",
+          "Anführer",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Jump Packs or Mounted. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport one infantry unit without Jump Packs or Beritten. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Anvilarum",
@@ -1899,7 +1899,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport one Dreadnought or two infantry units without Jump Packs or Mounted. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport one Dreadnought or two infantry units without Jump Packs or Beritten. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Crusader",
@@ -1917,7 +1917,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Jump Packs or Mounted. Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport three infantry units without Jump Packs or Beritten. Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Deathwatch Land Raider",
@@ -1936,7 +1936,7 @@
           "Teleport Homer",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Jump Packs or Mounted. Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
+        "notes": "May transport three infantry units without Jump Packs or Beritten. Terminators count as one and a half units each, rounding up. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Helios",
@@ -1955,7 +1955,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "Armed with either a Hyperios or Whirlwind Launcher. May transport one infantry unit (except a Terminator unit) without Jump Packs or Mounted. Counts as a Land Raider for the purposes of being transported."
+        "notes": "Armed with either a Hyperios or Whirlwind Launcher. May transport one infantry unit (except a Terminator unit) without Jump Packs or Beritten. Counts as a Land Raider for the purposes of being transported."
       },
       {
         "name": "Land Raider Prometheus",
@@ -1973,7 +1973,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Land Raider Wrath of Mjalnar",
@@ -1991,7 +1991,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Mounted."
+        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
       },
       {
         "name": "Bastion",
@@ -2008,7 +2008,7 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Fearless",
+          "Furchtlos",
           "Reinforced Armour",
           "Thick Rear Armour"
         ],
@@ -2065,7 +2065,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Planetfall",
           "Reinforced Armour",
           "Transport"
@@ -2086,7 +2086,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Faithful",
           "Planetfall",
           "Reinforced Armour",
@@ -2113,7 +2113,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Mounted; Terminators and Dreadnoughts count as two units each. Counts as a Landing Craft for the purposes of being transported.",
+        "notes": "May transport six infantry units without Beritten; Terminators and Dreadnoughts count as two units each. Counts as a Landing Craft for the purposes of being transported.",
         "crit": "The Stormwolf and all units being carried are destroyed."
       },
       {
@@ -2184,7 +2184,7 @@
           "Descent of Angels",
           "Transport"
         ],
-        "notes": "May transport one Terminator or two infantry units without Mounted. May in addition transport one Dreadnought. Counts as a Drop Pod for the purpose of being transported."
+        "notes": "May transport one Terminator or two infantry units without Beritten. May in addition transport one Dreadnought. Counts as a Drop Pod for the purpose of being transported."
       },
       {
         "name": "Corvus Blackstar Dropship",
@@ -2267,7 +2267,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport four infantry units without Mounted; Terminators and Dreadnoughts count as two units each. Counts as a Thunderhawk for the purpose of being transported.",
+        "notes": "May transport four infantry units without Beritten; Terminators and Dreadnoughts count as two units each. Counts as a Thunderhawk for the purpose of being transported.",
         "crit": "The Storm Eagle and all units being carried are destroyed."
       },
       {
@@ -2289,7 +2289,7 @@
           "Invulnerable Save",
           "Transport"
         ],
-        "notes": "May transport four infantry units without Mounted; Terminators and Dreadnoughts count as two units each.",
+        "notes": "May transport four infantry units without Beritten; Terminators and Dreadnoughts count as two units each.",
         "crit": "The Storm Eagle and all units being carried are destroyed."
       },
       {
@@ -2427,7 +2427,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Fearless",
+          "Furchtlos",
           "Planetfall",
           "Reinforced Armour",
           "Transport"
@@ -2586,7 +2586,7 @@
           "Schwere Boltpistole & Kettenschwert"
         ],
         "specialRules": [
-          "Infiltrators"
+          "Infiltratoren"
         ]
       },
       {
@@ -2638,7 +2638,7 @@
           "Schwere Boltpistole & Kettenschwert"
         ],
         "specialRules": [
-          "Mounted"
+          "Beritten"
         ]
       },
       {
@@ -2649,7 +2649,7 @@
         "cc": 3,
         "ff": 3,
         "weapons": [
-          "Heavy Melta Rifle"
+          "Heavy Melter Rifle"
         ],
         "specialRules": [
           "Reinforced Armor"
@@ -2695,9 +2695,9 @@
         "weapons": [
         ],
         "specialRules": [
-          "Infiltrators",
+          "Infiltratoren",
           "Overlord Insertion",
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -2711,7 +2711,7 @@
           "Bolt Sniper Rife"
         ],
         "specialRules": [
-          "Scout"
+          "Aufklärer"
         ]
       },
       {
@@ -2751,7 +2751,7 @@
         ],
         "specialRules": [
           "Reinforced Armor",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -2768,7 +2768,7 @@
         ],
         "specialRules": [
           "Reinforced Armor",
-          "Walker"
+          "Geländegängig"
         ]
       },
       {
@@ -2784,7 +2784,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Aggressors and Eradicators counts as two units each."
+        "notes": "May transport two infantry units without Jump Packs or Beritten. Aggressors and Eradicators counts as two units each."
       },
       {
         "name": "Repulsor",
@@ -2801,7 +2801,7 @@
           "Reinforced Armor",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Mounted. Aggressors and Eradicators counts as two units each."
+        "notes": "May transport two infantry units without Jump Packs or Beritten. Aggressors and Eradicators counts as two units each."
       },
       {
         "name": "Gladiator, Lancer",
@@ -2823,7 +2823,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter Las-Talon",
-          "Multi-Melta|2"
+          "Multimelter|2"
         ]
       },
       {
@@ -2861,7 +2861,7 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Melta Destroyer",
+          "Melter Destroyer",
           "Hammerstrike Launcher"
         ],
         "specialRules": [

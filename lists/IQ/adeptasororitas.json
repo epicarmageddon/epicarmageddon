@@ -45,7 +45,7 @@
     {
       "from": "IG.json",
       "units": [
-        "Storm Troopers",
+        "Sturmtruppen",
         "Chimera",
         "Hydra",
         "Hellhound",
@@ -85,7 +85,7 @@
       },
       {
         "name": "0-1 Ordo Hereticus Inquisitor Retinue",
-        "units": "One Ordo Hereticus Inquisitor, five Storm Troopers, three Chimeras",
+        "units": "One Ordo Hereticus Inquisitor, five Sturmtruppen, three Chimeras",
         "extraUnits": [
           "Add one Hydra: 50 points",
           "Replace three Chimeras with three Valkyries: 50 points",

@@ -252,7 +252,7 @@
     "description": "Each upgrade may be taken once per formation. Max 4 different upgrades per formation.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Choose one of the following:",
         "options": [
           {

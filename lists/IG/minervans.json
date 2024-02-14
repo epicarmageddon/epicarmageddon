@@ -1,10 +1,10 @@
 {
   "fraction": "Astra Militarum",
-  "army": "Minervan Tank Legion",
+  "army": "Minervan Panzer Legion",
   "version": "1.0.Beta-2",
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_Minervans",
-  "strategy": "Minervan Tank Legion armies have a Strategy Rating of 2.",
+  "strategy": "Minervan Panzer Legion armies have a Strategy Rating of 2.",
   "Initiative": "All formations have an Initiative Rating of 2+.",
   "specialRules": [
     "Courage, Discipline and Loyalty"
@@ -19,7 +19,7 @@
         "Infantry",
         "Deathstrike",
         "Hellhound",
-        "Salamander Scout Tank",
+        "Salamander Aufklärer Panzer",
         "Basilisk",
         "Bombard",
         "Manticore",
@@ -71,12 +71,12 @@
       "name": "Minervan Company Formations",
       "formations": [
         {
-          "name": "Minervan Tank Company",
+          "name": "Minervan Panzer Company",
           "units": "One Leman Russ Vanquisher with a Commissar-Captain, seven Leman Russ",
           "extraUnits": [
             "Replace seven Leman Russ with seven Leman Russ Thunderers: Free",
             "Replace the Leman Russ Vanquisher with a Leman Russ Thunderer: Free",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Flak",
             "Hellhounds"
           ],
@@ -87,7 +87,7 @@
           "units": "Three Baneblades, Stormblades, Stormswords, and/or Shadowswords, one with a Commissar-Captain",
           "extraUnits": [
             "Upgrade one Baneblade to a Stormhammer: 25 points",
-            "Supreme Commander",
+            "Oberbefehlshaber",
             "Flak",
             "Leman Russ"
           ],
@@ -143,7 +143,7 @@
           "points": 175
         },
         {
-          "name": "Tank Hunter Squadron",
+          "name": "Panzer Hunter Squadron",
           "units": "Three Leman Russ Destroyers",
           "extraUnits": [
           ],
@@ -173,7 +173,7 @@
         },
         {
           "name": "Salamander Squadron",
-          "units": "Four Salamander Scout Tanks",
+          "units": "Four Salamander Aufklärer Panzers",
           "extraUnits": [
           ],
           "points": 150
@@ -214,11 +214,11 @@
     }
   ],
   "upgrades": {
-    "title": "Minervan Tank Legion Upgrades",
+    "title": "Minervan Panzer Legion Upgrades",
     "description": "Each upgrade may be taken once per formation.",
     "items": [
       {
-        "name": "0-1 Supreme Commander",
+        "name": "0-1 Oberbefehlshaber",
         "description": "Replace one Commissar-Captain in the army with a Lord Commissar",
         "points": "75 points"
       },

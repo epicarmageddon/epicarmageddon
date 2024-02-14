@@ -93,7 +93,7 @@
       ]
     },
     {
-      "name": ">Tank Hunter Configuration<",
+      "name": ">Panzer Hunter Configuration<",
       "modes": [
         {
         }
@@ -1144,7 +1144,7 @@
       ]
     },
     {
-      "name": "AC Tankbusta Rokkits",
+      "name": "AC Panzerbusta Rokkits",
       "modes": [
         {
           "firepower": "AT4+",
@@ -1311,7 +1311,7 @@
       ]
     },
     {
-      "name": "Karacnos Mortar Battery",
+      "name": "Karacnos Mörser Battery",
       "modes": [
         {
           "firepower": "3BP",
@@ -1803,7 +1803,7 @@
       ]
     },
     {
-      "name": "Siege Mortar Battle Car",
+      "name": "Siege Mörser Battle Car",
       "modes": [
         {
           "firepower": "2BP",
@@ -3945,7 +3945,7 @@
       ]
     },
     {
-      "name": "Eldar Power Weapon",
+      "name": "Eldar Energiewaffe",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -5367,7 +5367,7 @@
       ]
     },
     {
-      "name": "Heavy Mortar",
+      "name": "Heavy Mörser",
       "modes": [
         {
           "firepower": "1BP",
@@ -5379,7 +5379,7 @@
       ]
     },
     {
-      "name": "Accatran Mortar",
+      "name": "Accatran Mörser",
       "modes": [
         {
           "firepower": "1BP",
@@ -5403,7 +5403,7 @@
       ]
     },
     {
-      "name": "Heavy Plague Mortar",
+      "name": "Heavy Plague Mörser",
       "modes": [
         {
           "firepower": "3BP",
@@ -5949,7 +5949,7 @@
       ]
     },
     {
-      "name": "Hunting Lances",
+      "name": "Sprenglanzen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -5960,7 +5960,7 @@
       ]
     },
     {
-      "name": "Exodite Hunting Lances",
+      "name": "Exodite Sprenglanzen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -6265,7 +6265,7 @@
       ]
     },
     {
-      "name": "Jungle Knives",
+      "name": "Dschungelmesser",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -6666,7 +6666,7 @@
       ]
     },
     {
-      "name": "Laspistols",
+      "name": "Laserpistolen",
       "modes": [
         {
           "firepower": "Handfeuerwaffen"
@@ -6674,7 +6674,7 @@
       ]
     },
     {
-      "name": "Lasguns",
+      "name": "Lasergewehre",
       "modes": [
         {
           "firepower": "Handfeuerwaffen"
@@ -7090,7 +7090,7 @@
       ]
     },
     {
-      "name": "Melta Bombs",
+      "name": "Melter Bombs",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -7102,7 +7102,7 @@
       ]
     },
     {
-      "name": "Titan Melta Geschütz",
+      "name": "Titan Melter Geschütz",
       "modes": [
         {
           "firepower": "MW2+",
@@ -7123,7 +7123,7 @@
       ]
     },
     {
-      "name": "Titan Melta Geschütz ",
+      "name": "Titan Melter Geschütz ",
       "modes": [
         {
           "firepower": "MW2+",
@@ -7144,7 +7144,7 @@
       ]
     },
     {
-      "name": "Zwilligs-Titan Melta Cannons",
+      "name": "Zwilligs-Titan Melter Cannons",
       "modes": [
         {
           "firepower": "2x MW2+",
@@ -7165,7 +7165,7 @@
       ]
     },
     {
-      "name": "Melta Cutter",
+      "name": "Melter Cutter",
       "modes": [
         {
           "firepower": "Assault Weapon",
@@ -7176,7 +7176,7 @@
       ]
     },
     {
-      "name": "Meltagun",
+      "name": "Melter",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -7187,7 +7187,7 @@
       ]
     },
     {
-      "name": "Meltaguns",
+      "name": "Melter",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -7198,7 +7198,7 @@
       ]
     },
     {
-      "name": "Melta-Gun",
+      "name": "Melter-Gun",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -7342,7 +7342,7 @@
       ]
     },
     {
-      "name": "Mole Mortars",
+      "name": "Mole Mörsers",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -7355,7 +7355,7 @@
       ]
     },
     {
-      "name": "Multi-Melta",
+      "name": "Multimelter",
       "modes": [
         {
           "firepower": "MW5+",
@@ -7371,7 +7371,7 @@
       ]
     },
     {
-      "name": "Multi-Meltas",
+      "name": "Multimelters",
       "modes": [
         {
           "firepower": "MW4+",
@@ -7412,7 +7412,7 @@
       ]
     },
     {
-      "name": "Mortar",
+      "name": "Mörser",
       "modes": [
         {
           "firepower": "AP5+",
@@ -7424,7 +7424,7 @@
       ]
     },
     {
-      "name": "Mounted Guns",
+      "name": "Beritten Guns",
       "modes": [
         {
           "firepower": "Handfeuerwaffen"
@@ -7936,7 +7936,7 @@
       ]
     },
     {
-      "name": "Plague Mortar",
+      "name": "Plague Mörser",
       "modes": [
         {
           "firepower": "3BP",
@@ -8198,7 +8198,7 @@
       ]
     },
     {
-      "name": "Plasma Gun",
+      "name": "Plasmawerfer",
       "modes": [
         {
           "firepower": "AP5+/AT5+",
@@ -8209,7 +8209,7 @@
       ]
     },
     {
-      "name": "Plasma Guns",
+      "name": "Plasmawerfers",
       "modes": [
         {
           "firepower": "AP5+/AT5+",
@@ -8516,7 +8516,7 @@
       ]
     },
     {
-      "name": "Power Weapons",
+      "name": "Energiewaffes",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -8539,7 +8539,7 @@
       ]
     },
     {
-      "name": "Power Weapon",
+      "name": "Energiewaffe",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -9556,7 +9556,7 @@
       ]
     },
     {
-      "name": "Scout Turbo-Laser Destructor",
+      "name": "Aufklärer Turbo-Laser Destructor",
       "modes": [
         {
           "firepower": "4x AP5+/AT3+",
@@ -9831,7 +9831,7 @@
       ]
     },
     {
-      "name": "Siege Mortar",
+      "name": "Siege Mörser",
       "modes": [
         {
           "firepower": "2BP",
@@ -11778,7 +11778,7 @@
       ]
     },
     {
-      "name": "Quad Meltagun",
+      "name": "Quad Melter",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -11823,7 +11823,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Multi-Melta",
+      "name": "Synchronisierter Multimelter",
       "modes": [
         {
           "firepower": "MW4+",
@@ -11839,7 +11839,7 @@
       ]
     },
     {
-      "name": "Melta Geschütz",
+      "name": "Melter Geschütz",
       "modes": [
         {
           "firepower": "MW4+",
@@ -12761,7 +12761,7 @@
       ]
     },
     {
-      "name": "Heavy Melta Rifle",
+      "name": "Heavy Melter Rifle",
       "modes": [
         {
           "firepower": "MW4+",
@@ -12898,7 +12898,7 @@
       ]
     },
     {
-      "name": "Melta Destroyer",
+      "name": "Melter Destroyer",
       "modes": [
         {
           "firepower": "MW4+",
