@@ -1,0 +1,128 @@
+{
+   "id": "EA-R Tau Vior'la",
+   "version": "Approved 1.0.Beta",
+   "by": "EA-Ragnarok",
+   "sections": [
+      { "name": "VIOR'LA CADRES",
+         "formations": [
+            {"id": 500,"name": "XV8 Crisis Battlesuit Cadre","pts": 325, "upgrades": [15,16,17,18]},
+            {"id": 512,"name": "Heavy Battlesuit Cadre","pts": 325, "upgrades": [15,16,17,18]}
+         ]
+      },
+      {"name": "VIOR'LA SUPPORT GROUPS <br/> Max 3 for each Cadre",
+         "formations": [
+             {"id": 501,"name": "Fire Warrior Strike Group","pts": 225,"upgrades": [22,25, 15,16,17,18]},
+             {"id": 502,"name": "Drone Group","pts": 50, "upgrades": []},
+            {"id": 516,"name": "Stealth Group","pts": 225, "upgrades": [15,16,17,18]},
+            {"id": 517,"name": "Skysweep Support Group","pts": 250,"units": "3 Sky Ray Gunships","upgrades": [15,16,17,18]},
+            {"id": 514,"name": "XV88 Broadside Group","pts": 300, "units": "6 XV88 Broadside Battlesuits", "upgrades": [15,16,17,18]}         ]
+      },
+      { "name": "VIOR'LA WAR ENGINES & AIR CASTE <br/> Max 33%",
+         "formations": [
+             {"id": 511,"name": "KV128 Stormsurge Ballistic Suit","pts": 225, "upgrades": []},
+            {"id": 519,"name": "Supremacy Armour", "pts": 500, "units": "Shas'el, KX139 Ta'unar Supremacy Armour", "upgrades": []},
+            {"id": 524,"name": "Barracuda Squadron","pts": 150, "units": "2 Barracudas", "upgrades": []},
+            {"id": 520,"name": "Tiger Shark Squadron","pts": 175,"units": "2 Tiger Shark Bombers","upgrades": [34,35]},
+            {"id": 523,"name": "Spacecraft","pts": 200,"upgrades": []}
+         ]
+      }
+   ],
+   "upgrades": [
+
+       {"id": 9,"name": "Shas'el", "pts": 0},
+      {"id": 10,"name": "Shas'o", "pts": 75},
+
+      {"id": 15,"name": "2 Missile Drones","pts": 25},
+      {"id": 16,"name": "2 Gun Drones","pts": 25},
+      {"id": 17,"name": "2 Shield Drones","pts": 25},
+      {"id": 18,"name": "2 Marker Drones","pts": 50},
+
+
+      {"id": 22,"name": "3 XV88 Broadsides","pts": 125},
+      {"id": 25,"name": "Sky Ray","pts": 100},
+      {"id": 26,"name": "2 Pathfinders","pts": 75},
+      {"id": 27,"name": "2 Pathfinders, Devilfish","pts": 100},
+      {"id": 28,"name": "Piranha","pts": 25},
+      {"id": 29,"name": "Tetra","pts": 25},
+
+      {"id": 30,"name": "8 Fire Warriors","pts": 0},
+      {"id": 31,"name": "6 Fire Warriors, 3 Devilfish","pts": 0},
+
+      {"id": 32,"name": "6 XV15 Stealth Battlesuits","pts": 0},
+      {"id": 33,"name": "3 XV15 Stealth Battlesuits, 3 XV95 Ghostkeel Battlesuit","pts": 75},
+
+      {"id": 34,"name": "6 Gun Drones","pts": 100},
+      {"id": 35,"name": "6 Missile Drones","pts": 100},
+
+      {"id": 38,"name": "6 XV8 Crisis Battlesuits","pts": 0},
+      {"id": 39,"name": "8 XV8 Crisis Battlesuits","pts": 75},
+
+      {"id": 40,"name": "3 XV107 R'Varna Battlesuits (Pulse Submunition Cannons)","pts": 0},
+      {"id": 41,"name": "4 XV107 R'Varna Battlesuits (Pulse Submunition Cannons)","pts": 75},
+      {"id": 42,"name": "5 XV107 R'Varna Battlesuits (Pulse Submunition Cannons)","pts": 150},
+      {"id": 43,"name": "3 XV104 Riptide Battlesuits (Ion Accelerator)","pts": 0},
+      {"id": 44,"name": "4 XV104 Riptide Battlesuits (Ion Accelerator)","pts": 75},
+      {"id": 45,"name": "5 XV104 Riptide Battlesuits (Ion Accelerator)","pts": 150},
+      {"id": 46,"name": "3 XV109 Y'Vahra Battlesuits (Plasma Flamer)","pts": 0},
+      {"id": 47,"name": "4 XV109 Y'Vahra Battlesuits (Plasma Flamer)","pts": 75},
+      {"id": 48,"name": "5 XV109 Y'Vahra Battlesuits (Plasma Flamer)","pts": 150},
+
+
+      {"id": 50,"name": "Nexus Missile Array","pts": 0},
+      {"id": 51,"name": "Heavy Railcannon","pts": 0},
+      {"id": 52,"name": "Pulse Ordnance Multi-Driver","pts": 0},
+
+      {"id": 55,"name": "Standard Configuration (Pulse Driver Cannon, Destroyer Missiles)","pts": 0},
+      {"id": 56,"name": "Support Configuration (Pulse Blastcannon, Twin Smart Missiles Systems)","pts": 0},
+
+      {"id": 59,"name": "8 Gun Drones","pts": 100},
+      {"id": 60,"name": "6 Gun Drones, 2 Missile Drones","pts": 100},
+      {"id": 61,"name": "6 Gun Drones, 2 Shield Drones","pts": 100},
+      {"id": 62,"name": "6 Gun Drones, 2 Marker Drones","pts": 125},
+
+      {"id": 110,"name": "Protector Class Cruiser","pts": 0},
+      {"id": 111,"name": "Custodian Class Battleship","pts": 25}
+
+   ],
+   "formationConstraints": [
+      {"max": 1,"from": [523]},
+      {"maxPercent": 33.5,"name": "War Engines & Air Caste","from": [511,519,520,521,522,523,524]},
+      {"max": 3,"name": "Support Groups","from": [502,510,501,513,514,515,516],"forEach": [500,512],"name2": "Cadre"}
+   ],
+   "upgradeConstraints": [
+		{"max":1, "perArmy":true, "from":[10]},
+
+      {"min": 1, "max": 1, "from": [9,10], "appliesTo": [500,512]},
+      {"max": 1, "from": [15,16,17,18]},
+      {"max": 1, "from": [21]},
+      {"max": 1, "from": [22]},
+      {"max": 1, "from": [23,24]},
+      {"max": 1, "from": [25]},
+      {"max": 1, "from": [26,27]},
+
+
+      {"max": 1, "from": [34,35]},
+
+      {"max": 3, "from": [10,11,12,20,21,22,25,26,27,32,33,35], "appliesTo": [501]},
+
+      {"max": 1,"min": 1,"from": [38,39],"appliesTo": [500]},
+
+      {"max": 1,"min": 1,"from": [30,31],"appliesTo": [501]},
+
+      {"max": 1,"min": 1,"from": [59,60,61,62],"appliesTo": [502]},
+
+      {"max": 1,"min": 1,"from": [40,41,42,43,44,45,46,47,48],"appliesTo": [512]},
+
+      {"max": 8,"min": 6,"from": [28,29],"appliesTo": [515]},
+      {"max": 6, "from": [29],"appliesTo": [515]},
+
+      {"max": 1,"min": 1,"from": [32,33],"appliesTo": [516]},
+      {"max": 3,"min": 0,"from": [33],"appliesTo": [516]},
+
+      {"max": 1,"min": 1,"from": [55,56],"appliesTo": [511]},
+
+      {"max": 1,"min": 1,"from": [50,51,52],"appliesTo": [519]},
+
+      {"max": 1,"min": 1,"from": [110,111],"appliesTo": [523]}
+   ]
+}

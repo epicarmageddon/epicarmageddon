@@ -1,0 +1,133 @@
+{
+	"id":"EA-R Minervan Tank Legion",
+	"version":"Approved 1.0.Beta",
+	"by":"EA-Ragnarok",
+	"sections":[
+		{"name":"MINERVAN COMPANIES", "formations":[
+			{"id":500, "name":"Minervan Tank Company", 			"pts":500, "upgrades":[42,17]},
+			{"id":501, "name":"Minervan Super-Heavy Company", 	"pts":525, "upgrades":[42, 43,44,45,46,47,48,49]},
+			{"id":503, "name":"Artillery Company", 				"pts":400, "units":"Commissar-Captain", "upgrades":[42]}
+		]},
+		{"name":"MINERVAN SUPPORT FORMATIONS <br/> Max 3 for each Company", "formations":[
+			{"id":512, "name":"Leman Russ Squadron", 					"pts":275, "upgrades":[17, 42]},
+			{"id":509, "name":"Mechanized Infantry Platoon", 			"pts":225, "units":"6 Infantry, 3 Chimeras", "upgrades":[17, 43,44,45,46,47,48,49]},
+			{"id":516, "name":"Artillery Battery",						"pts":225, "upgrades":[]},
+			{"id":514, "name":"Deathstrike Battery", "pts":225, "units":"2 Deathstrike", "upgrades":[]},
+			{"id":513, "name":"Tank Hunter Squadron",					"pts":200,  "units":"3 Leman Russ Destroyers", "upgrades":[]},
+			{"id":511, "name":"Super-Heavy Platoon", 					"pts":200, "upgrades":[]},
+			{"id":515, "name":"Salamander Squadron",					"pts":150, "units":"4 Salamander Scout Tanks", "upgrades":[]},
+			{"id":517, "name":"Flak Battery",					"pts":150, "units":"3 Hydras", "upgrades":[]},
+			{"id":518, "name":"Griffon Battery",				"pts":175,  "units":"3 Griffons", "upgrades":[]}
+		]},
+		{"name":"COLLEGIA TITANICA & IMPERIAL NAVY FORMATIONS <br/> Max 33%", "formations":[
+			{"id":527, "name":"Warhounds",			"pts":75, "upgrades":[70]},
+			{"id":530, "name":"Thunderbolt Squadron",	"pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
+			{"id":531, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
+			{"id":532, "name":"Orbital Support",		"pts":150, "upgrades":[]}
+		]}
+	],
+	"upgrades":[
+		{"id":9,  "name":"Leman Russ Vanquisher with a Commissar-Captain",					"pts":0},
+		{"id":10, "name":"Leman Russ Vanquisher with a Lord Commissar",			"pts":75},
+		{"id":11,  "name":"Leman Russ Thunderer with a Commissar-Captain",					"pts":0},
+		{"id":12, "name":"Leman Russ Thunderer with a Lord Commissar",			"pts":75},
+
+        {"id":13, "name":"Commissar-Captain",						"pts":0},
+		{"id":14, "name":"Lord Commissar",				"pts":75},
+
+		{"id":17, "name":"Hellhound",		       	  "pts":25},
+
+		{"id":20, "name":"7 Leman Russ",				"pts":0},
+		{"id":21, "name":"7 Leman Russ Thunderers",	"pts":0},
+
+		{"id":25, "name":"Deathstrike",					"pts":50},
+
+		{"id":26, "name":"Baneblade",					"pts":0},
+		{"id":27, "name":"Shadowsword",					"pts":0},
+		{"id":28, "name":"Stormhammer",					"pts":0},
+		{"id":29, "name":"Stormblade",					"pts":0},
+		{"id":30, "name":"Stormsword",					"pts":0},
+
+		{"id":33, "name":"4 Leman Russ Exterminators",	"pts":0},
+		{"id":34, "name":"4 Leman Russ Punishers",		"pts":0},
+		{"id":35, "name":"4 Leman Russ Demolishers",	"pts":0},
+		{"id":36, "name":"4 Leman Russ Conquerors",		"pts":0},
+        {"id":37, "name":"4 Leman Russ",				"pts":0},
+		{"id":38, "name":"4 Leman Russ Executioners",	"pts":0},
+		{"id":39, "name":"4 Leman Russ Thunderers",		"pts":0},
+
+		{"id":40, "name":"Lunar Class Cruiser",			"pts":0},
+		{"id":41, "name":"Emperor Class Battleship",	"pts":50},
+
+		{"id":42, "name":"Hydra",		"pts":50},
+
+		{"id":43, "name":"3 Leman Russ Exterminators",	"pts":150},
+		{"id":44, "name":"3 Leman Russ Punishers",		"pts":150},
+		{"id":45, "name":"3 Leman Russ Demolishers",	"pts":150},
+		{"id":46, "name":"3 Leman Russ Conquerors",		"pts":150},
+        {"id":47, "name":"3 Leman Russ",				"pts":150},
+		{"id":48, "name":"3 Leman Russ Executioners",	"pts":150},
+		{"id":49, "name":"3 Leman Russ Thunderers",		"pts":150},
+
+
+		{"id":50, "name":"3 Basilisks",					"pts":0},
+		{"id":51, "name":"3 Bombards",					"pts":0},
+		{"id":52, "name":"3 Manticores",				"pts":25},
+
+		{"id":53, "name":"3 Griffons",					"pts":50},
+
+		{"id":54, "name":"6 Basilisks",					"pts":0},
+		{"id":55, "name":"6 Manticores",				"pts":50},
+
+		{"id":56, "name":"3 Basilisks",					"pts":0},
+		{"id":57, "name":"3 Bombards ",					"pts":0},
+		{"id":58, "name":"3 Manticores",				"pts":25},
+		{"id":59, "name":"4 Medusa",					"pts":0},
+
+        {"id":60, "name":"Baneblade",					"pts":0},
+        {"id":61, "name":"Shadowsword",					"pts":0},
+        {"id":62, "name":"Stormhammer",					"pts":25},
+        {"id":63, "name":"Stormblade",					"pts":0},
+		{"id":64, "name":"Stormsword",					"pts":0},
+
+		{"id":70, "name":"Warhound Titan",					"pts":200}
+
+
+
+	],
+	"formationConstraints":[
+		{"max":3, "name":"Support Formations", "from":[509,510,511,512,513,514,515,516,517,518], "forEach":[500,501,503], "name2":"Minervan Company"},
+		{"maxPercent": 33.5, "name":"Collegia Titanica & Imperial Navy", "from":[527,530,531,532]},
+		{"max":1, "from":[510]},
+		{"max":1, "from":[532]}
+
+	],
+	"upgradeConstraints":[
+		{"max":1, "perArmy":true, "from":[10,12,14]},
+		{"max":1, "from":[42]},
+		{"max":3, "from":[17]},
+		{"max":1, "from":[43,44,45,46,47,48,49]},
+		{"max":1, "from":[53]},
+		{"max":1, "from":[62]},
+
+   		{"min":1, "max":1, "from":[9,10,11,12], "appliesTo":[500]},
+   		{"min":1, "max":1, "from":[20,21], "appliesTo":[500]},
+
+   		{"min":1, "max":1, "from":[13,14], "appliesTo":[501]},
+   		{"min":3, "max":3, "from":[60,61,62,63,64], "appliesTo":[501]},
+
+   		{"min":1, "max":1, "from":[54,55], "appliesTo":[503]},
+		{"max":2, "from":[25], "appliesTo":[503]},
+
+   		{"min":1, "max":1, "from":[26,29,30,27], "appliesTo":[511]},
+
+  		{"min":1, "max":1, "from":[37,39,36,35,34,38,33], "appliesTo":[512]},
+
+ 		{"min":1, "max":1, "from":[56,57,59,58], "appliesTo":[516]},
+		{"max":1, "from":[25], "appliesTo":[516]},
+
+  		{"min":1, "max":2, "from":[70], "appliesTo":[527]},
+
+  		{"min":1, "max":1, "from":[40,41], "appliesTo":[532]}
+	]
+}

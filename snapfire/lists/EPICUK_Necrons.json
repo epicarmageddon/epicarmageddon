@@ -1,0 +1,71 @@
+{
+   "id": "NetEA Necrons",
+   "version": "v14-05-16",
+   "by": "EA-Ragnarok",
+   "sections": [
+      {"name": "INDIVIDUALS", "formations": [
+            {"id": 601, "name": "Tomb Complex", "pts": 75, "upgrades": []}
+         ]
+      },
+      {"name": "NECRON PHALANX",
+         "formations": [
+            {"id": 701, "name": "Infantry Phalanx", "pts": 200, "units": "6 Necron Warriors", "upgrades": [100,101,102]}
+         ]
+      },
+      {"name": "NECRON SUPPORT <br/> Max 2 for each Necron Phalanx",
+         "formations": [
+			 {"id": 501, "name": "Flayer Maniple", "pts": 200, "units": "6 Flayed Ones", "upgrades": [9,10,11,12,100,101]},
+			 {"id": 502, "name": "Destroyer Maniple", "pts": 300, "upgrades": [9,10,11,12]},
+            {"id": 503, "name": "Monolith Maniple", "pts": 200, "upgrades": []},
+            {"id": 504, "name": "Wraith Maniple", "pts": 200, "units": "4 Wraiths", "upgrades": []},
+			{"id": 505, "name": "Obelisk Maniple", "pts": 300, "units": "6 Obelisks"}
+         ]
+      },
+      {"name": "HARVESTERS <br/> Max 33%",
+         "formations": [
+			 {"id": 801, "name": "Abattoir", "pts": 650},
+			 {"id": 803, "name": "Æonic Orb", "pts": 650},
+            {"id": 802, "name": "Scythe Class Cruiser", "pts": 200},
+            {"id": 804, "name": "Pylon", "pts": 200, "upgrades": []},
+            {"id": 805, "name": "Warbarque", "pts": 300, "upgrades": [9,10,11,12]}
+         ]
+      }
+   ],
+   "upgrades": [
+	   {"id": 9, "name": "Necron Lord", "pts": 25},
+      {"id": 10, "name": "Necron Overlord", "pts": 75},
+      {"id": 11, "name": "C'tan (The Nightbringer)", "pts": 325},
+	  {"id": 12, "name": "C'tan (The Deceiver)", "pts": 325},
+
+   	  {"id": 100, "name": "Tomb Spyder", "pts": 50},
+      {"id": 101, "name": "Pariahs", "pts": 50},
+      {"id": 102, "name": "2 Immortals", "pts": 75},
+
+	  {"id": 106, "name": "Monolith, 2 Obelisks", "pts": 0},
+	  {"id": 107, "name": "2 Monoliths, Obelisk", "pts": 50},
+      {"id": 108, "name": "3 Monoliths", "pts": 100},
+
+      {"id": 109, "name": "Destroyers", "pts": 0},
+      {"id": 110, "name": "Heavy Destroyers","pts": 0}
+
+   ],
+   "formationConstraints": [
+      {"max": 1, "from": [601]},
+      {"max": 1, "from": [802]},
+      {"maxPercent": 33.5, "name": "Harvesters", "from": [801,802,803,804,805]},
+      {"max": 2, "name": "Necron Support", "from": [501,502,503,504,505], "forEach": [701], "name2": "Necron Phalanx"}
+   ],
+   "upgradeConstraints": [
+   	{"max": 1, "from": [10,11,12], "perArmy": true},
+	{"max": 1, "from": [9,10,11,12]},
+	{"min": 1, "from": [9,10,11,12], "appliesTo": [701]},
+
+      {"max": 3, "from": [100], "appliesTo": [701,501]},
+      {"max": 1, "from": [101], "appliesTo": [701,501]},
+      {"max": 1, "from": [102], "appliesTo": [701]},
+
+      {"max": 6, "min": 6, "from": [109,110], "appliesTo": [502]},
+
+      {"max": 1, "min": 1, "from": [106,107,108], "appliesTo": [503]}
+  ]
+}

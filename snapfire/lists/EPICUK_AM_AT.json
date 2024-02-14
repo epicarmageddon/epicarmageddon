@@ -1,0 +1,98 @@
+{
+"id":"EpicUK Adeptus Titanicus",
+"version":"v26-01-19",
+"notes":["At least 1 Battle Titan must be selected at 2000 points, with an additional required for every 1000 points"],
+"by":"EA-Ragnarok",
+"sections":[
+{
+"name":"TITANS & KNIGHTS",
+"formations":[
+        {"id":501,"name":"Warlord Battle Titan","pts":850, "upgrades":[10,11,12]},
+        {"id":502,"name":"Reaver Battle Titan","pts":650, "upgrades":[10,11,12]},
+        {"id":503,"name":"Warhound Pack","pts":550, "upgrades":[]},
+        {"id":504,"name":"Warhound","pts":300, "upgrades":[]},
+        {"id":505,"name":"Questoris Knight", "pts":0, "upgrades":[13,14,15, 40,41,42]},
+        {"id":506,"name":"Cerastus Knight", "pts":0, "upgrades":[13,14, 45]}
+]},
+{"name":"AUXILIA",
+"formations":[
+        {"id":531,"name":"Adeptus Mechanicus Cruiser","pts":150, "upgrades":[]}
+]}
+],
+"upgrades":[
+        {"id":10,"name":"Legate","pts":50},
+        {"id":11,"name":"Veteran Princeps","pts":25},
+        {"id":12,"name":"Carapace Multilasers","pts":50},
+
+        {"id":13,"name":"Knight Seneschal","pts":25},
+        {"id":14,"name":"Knight Seasoned Veteran","pts":25},
+        {"id":15,"name":"Carapace Rocket Launcher","pts":50},
+
+        {"id":40,"name":"Questoris w/ Rapid Fire Battle Cannon","pts":175},
+        {"id":41,"name":"Questoris w/ Knight Thermal Cannon","pts":175},
+        {"id":42,"name":"Questoris w/ Knight Gatling Cannon","pts":175},
+
+        {"id":45,"name":"Cerastus Lancer","pts":175},
+
+        {"id":50,"name":"Mori Quake Cannon","pts":0},
+        {"id":51,"name":"Belicosa Volcano Cannon","pts":0},
+        {"id":52,"name":"Sunfury Plasma Annihilator","pts":0},
+        {"id":53,"name":"Macro-Gatling Blaster","pts":0},
+        {"id":54,"name":"Arioch Titan Power Claw","pts":0},
+
+        {"id":60,"name":"Paired Gatling Blasters","pts":0},
+        {"id":61,"name":"Paired Turbo Lasers","pts":0},
+        {"id":62,"name":"Paired Laser Blaster","pts":0},
+        {"id":63,"name":"Apocalypse Missile Launchers","pts":0},
+        {"id":64,"name":"Paired Melta Cannons","pts":0},
+        {"id":65,"name":"Vulcan Mega Bolters","pts":0},
+
+        {"id":70,"name":"Apocalypse Missile Launcher","pts":0},
+        {"id":71,"name":"Vulcan Mega Bolter","pts":0},
+        {"id":72,"name":"Turbo Laser Destructor","pts":0},
+        {"id":73,"name":"Warp Missile","pts":0},
+
+        {"id":80,"name":"Gatling Blaster","pts":0},
+        {"id":81,"name":"Laser Blaster","pts":0},
+        {"id":82,"name":"Reaver Titan Power Fist","pts":0},
+        {"id":83,"name":"Reaver Titan Chainfist","pts":0},
+        {"id":84,"name":"Melta Cannon","pts":0},
+        {"id":85,"name":"Volcano Cannon","pts":0},
+
+        {"id":90,"name":"2x Scout Turbo Laser","pts":0},
+        {"id":91,"name":"Scout Turbo Laser, Plasma Blastgun","pts":0},
+        {"id":92,"name":"Scout Turbo Laser, Scout Inferno Gun","pts":0},
+        {"id":93,"name":"Scout Turbo Laser, Vulcan Mega Bolter","pts":0},
+        {"id":94,"name":"2x Plasma Blastgun","pts":0},
+        {"id":95,"name":"Plasma Blastgun, Scout Inferno Gun","pts":0},
+        {"id":96,"name":"Plasma Blastgun, Vulcan Mega Bolter","pts":0},
+        {"id":97,"name":"2x Scout Inferno Gun","pts":0},
+        {"id":98,"name":"Scout Inferno Gun, Vulcan Mega Bolter","pts":0},
+        {"id":99,"name":"2x Vulcan Mega Bolter","pts":0}
+],
+"formationConstraints":[
+        {"max":1, "perArmy":true, "from":[531]}
+],
+"upgradeConstraints":[
+        {"max":1, "perArmy":true, "from":[10]},
+
+        {"max":1,"from":[10]},
+        {"max":1,"from":[11]},
+        {"max":1,"from":[12]},
+        {"max":1,"from":[13]},
+        {"max":1,"from":[14]},
+        {"max":1,"from":[15]},
+
+        {"min":1,"max":3, "from":[40,41,42],"appliesTo":[505]},
+        {"min":1,"max":3, "from":[45],"appliesTo":[506]},
+
+        {"min":2,"max":2, "from":[50,51,52,53,54],"appliesTo":[501]},
+        {"min":1,"max":1, "from":[60,61,62,63,64,65],"appliesTo":[501]},
+
+        {"min":1,"max":1, "from":[70,71,72,73],"appliesTo":[502]},
+        {"min":2,"max":2, "from":[80,81,82,83,84,85],"appliesTo":[502]},
+
+        {"min":2,"max":2, "from":[90,91,92,93,94,95,96,97,98,99],"appliesTo":[503]},
+        {"min":1,"max":1, "from":[90,91,92,93,94,95,96,97,98,99],"appliesTo":[504]}
+]
+}

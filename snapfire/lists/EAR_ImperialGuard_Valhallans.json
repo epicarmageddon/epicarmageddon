@@ -1,0 +1,94 @@
+{
+	"id":"EA-R Valhallan Ice Warriors",
+	"version":"0.6.0",
+	"by":"EA-Ragnarok",
+	"sections":[
+		{"name":"VALHALLAN CORE COMPANIES", "formations":[
+			{"id":500, "name":"Regimental HQ", 				"pts":300, "units":"Valhallan Supreme Commander with a Ministorum Priest, 11 Valhallan Infantry", "upgrades":[45,46,47,49,51,53,64,65,70]},
+			{"id":501, "name":"Infantry Company", 			"pts":250, "units":"Valhallan Commander with a Ministorum Priest", "upgrades":[45,46,47,49,51,53,64,65,70]},
+	 		{"id":502, "name":"Artillery Company", 			"pts":400, "units":"Ministorum Priest", "upgrades":[45]}
+		]},
+		{"name":"VALHALLAN SUPPORT FORMATIONS <br/> Max 2 for each Core Company", "formations":[
+			{"id":513, "name":"Heavy Tank Platoon", 				"pts":375, "units":"6 Ragnarok Heavy Tanks", "upgrades":[45,53]},
+			{"id":509, "name":"Macharius Company", 					"pts":375,  "units":"2 Macharius", "upgrades":[45]},
+			{"id":511, "name":"Deathstrike Battery", "pts":225, "units":"2 Deathstrike", "upgrades":[]},
+			{"id":512, "name":"Super-Heavy Platoon", 				"pts":200, "upgrades":[]},
+			{"id":515, "name":"Hellhound Squadron", 				"pts":175, "units":"4 Hellhounds", "upgrades":[45]},
+			{"id":510, "name":"Armoured Sentinel Squadron",					"pts":125, "units":"4 Armoured Sentinels", "upgrades":[]}
+		]},
+		{"name":"ADEPTUS MINISTORUM & IMPERIAL NAVY ALLIES <br/> Max 25%", "formations":[
+			{"id":521, "name":"Ministorum Mission",		"pts":200, "units":"6 Battle Sisters, 3 Sororitas Rhinos", "upgrades":[]},
+			{"id":522, "name":"Lightning Squadron",		"pts":175, "units":"2 Lightning Interceptors", "upgrades":[]},
+			{"id":523, "name":"Marauder Destroyer",		"pts":175, "upgrades":[]},
+			{"id":524, "name":"Orbital Support",		"pts":150, "upgrades":[]}
+		]}
+	],
+	"upgrades":[
+		{"id":20, "name":"9 Valhallan Infantry",					"pts":0},
+		{"id":21, "name":"7 Valhallan Infantry, Stormlord",					"pts":125},
+
+		{"id":26, "name":"Baneblade",					"pts":0},
+		{"id":27, "name":"Shadowsword",					"pts":0},
+		{"id":28, "name":"Stormlord",					"pts":0},
+		{"id":29, "name":"Banehammer",					"pts":0},
+
+		{"id":30, "name":"6 Basilisks",					"pts":0},
+		{"id":31, "name":"6 Manticores",				"pts":50},
+
+		{"id":37, "name":"Lunar Class Cruiser",			"pts":0},
+		{"id":38, "name":"Emperor Class Battleship",	"pts":50},
+
+		{ "id":40, "name":"Macharius Command Tank with a Ministorum Priest (Twin Vanquishers)", "pts":0 },
+		{ "id":41, "name":"Macharius Command Tank with a Ministorum Priest (Vulcan Mega-Bolter)", "pts":0 },
+
+		{"id":45, "name":"Hydra",	"pts":50},
+
+		{"id":46, "name":"Ogryns",						"pts":25},
+		{"id":47, "name":"2 Ogryns",					"pts":50},
+
+		{"id":49, "name":"2 Fire Support Squads",		"pts":50},
+		{"id":51, "name":"4 Fire Support Squads",		"pts":100},
+
+		{"id":53, "name":"3 Valhallan Griffons",		"pts":100},
+
+		{"id":54, "name":"3 Ragnarok Heavy Tanks",		"pts":150},
+
+		{"id":60, "name":"Deathstrike",		"pts":50},
+
+		{"id":64, "name":"Snipers",						"pts":25},
+		{"id":65, "name":"2 Snipers",					"pts":50},
+
+		{"id":70, "name":"Entrenchments (40cm Razor Wire, 40cm Trenches)",		"pts":50}
+
+	],
+	"formationConstraints":[
+		{"max":2, "name":"Support Formations", "from":[509,510,511,512,514,515], "forEach":[500,501,502], "name2":"Company"},
+		{"maxPercent": 25.5, "name":"Ministorum Allies & Navy", "from":[520,521,522,523,524]},
+		{"max":1, "from":[500]},
+		{"max":1, "from":[511]},
+		{"max":1, "from":[524]}
+
+	],
+	"upgradeConstraints":[
+   		{"max":3, "from":[45,46,47,49,51,53,54,64,65,70], "appliesTo":[500,501]},
+
+		{"max":2, "from":[60]},
+
+   		{"min":1, "max":1, "from":[30,31], "appliesTo":[502]},
+
+   		{"min":1, "max":1, "from":[40,41], "appliesTo":[509]},
+
+		{"min":1, "max":1, "from":[20,21], "appliesTo":[501]},
+		{"max":1, "from":[45,21], "appliesTo":[500,501]},
+		{"max":1, "from":[46,47], "appliesTo":[500,501]},
+		{"max":1, "from":[49,51,21], "appliesTo":[500,501]},
+		{"max":1, "from":[53,21], "appliesTo":[500,501]},
+		{"max":1, "from":[54,21], "appliesTo":[500,501]},
+		{"max":1, "from":[64,65,21], "appliesTo":[500,501]},
+		{"max":1, "from":[70,21], "appliesTo":[500,501]},
+
+   		{"min":1, "max":1, "from":[26,27,28], "appliesTo":[512]},
+
+  		{"min":1, "max":1, "from":[37,38], "appliesTo":[524]}
+	]
+}

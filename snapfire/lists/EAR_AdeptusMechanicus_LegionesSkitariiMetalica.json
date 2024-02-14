@@ -1,0 +1,123 @@
+{
+	"id":"<a href=\"https://magnusdurr.github.io/list-view/site.html\">EA-R</a> Legiones Skitarii: Metalica",
+	"version":"Approved 1.0.Beta <a href=\"https://magnusdurr.github.io/list-view/index.html?race=AM&list=legionesskitariimetalica\">Listview</a>",
+	"notes":["No more transports than needed to transport the formation."],
+	"by":"EA-Ragnarok",
+	"sections":[
+		{"name":"LEGIONES METALICA CORE FORMATIONS", "formations":[
+			{"id":501, "name":"Hypaspist Maniple",	"pts":225, "upgrades":[102,103,104,107, 130,131,132,133,128,129]}
+		]},
+		{"name":"LEGIONES METALICA LINE FORMATIONS <br/> Max 3 for each Core Formation", "formations":[
+			{"id":510, "name":"Ballistae Cohort",			"pts":150,	 "upgrades":[107,108,109]},
+			{"id":514, "name":"Kastelan Maniple",		"pts":50, "units":"Tech-Priest", "upgrades":[114]},
+			{"id":511, "name":"Castellax Maniple",		"pts":175, "units":"4 Castellax Battle-Automata, Tech-Priest", "upgrades":[]},
+			{"id":512, "name":"Praetorian Maniple",		"pts":250, "units":"5 Praetorian Combat Servitors, Tech-Priest", "upgrades":[]},
+			{"id":513, "name":"Cataphractii Maniple",		"pts":375, "upgrades":[107]},
+			{"id":515, "name":"Minoris Cohort",		"pts":75, "upgrades":[130,131,132,133,128,129,135,136,137]},
+			{"id":516, "name":"Ordinatus Majoris",		"pts":425, "upgrades":[]}
+		]},
+
+		{"name":"FORGE WORLD NAVY, QUESTORIS MECHANICUS & COLLEGIA TITANICA SUPPORT <br/> Max 33%", "formations":[
+		    {"id":519,"name":"Paladin Household", "units":"5 Knight-Paladins", "pts":450, "upgrades":[]},
+
+		    {"id":520,"name":"Warhound Pack","pts":475, "upgrades":[]},
+
+		    {"id":521,"name":"Reaver Titan","pts":600, "upgrades":[]},
+		    {"id":522,"name":"Warlord Titan","pts":750, "upgrades":[]},
+
+			{"id":523, "name":"Avenger Squadron",			"pts":175, "units":"2 Avenger Strike Fighters", "upgrades":[]},
+			{"id":525, "name":"Ark Mechanicus Battleship",		"pts":225, "upgrades":[]}
+		]}
+
+
+	],
+	"upgrades":[
+		{"id":100, "name":"Magos",								"pts":0},
+		{"id":101, "name":"Magos Dominus",						"pts":75},
+
+		{"id":102, "name":"5 Chimera",							"pts":125},
+		{"id":103, "name":"5 Chimedons",						"pts":125},
+		{"id":104, "name":"Gorgon",								"pts":100},
+
+		{"id":107, "name":"Hydra",								"pts":50},
+
+		{"id":108, "name":"Chimera",							"pts":25},
+		{"id":109, "name":"Chimedon",							"pts":25},
+
+		{"id":110, "name":"9 Hypaspists",						"pts":0},
+		{"id":111, "name":"6 Hypaspists, 3 Rapiers",			"pts":0},
+
+		{"id":112, "name":"4 Sagitarii",						"pts":0},
+		{"id":113, "name":"3 Sagitarii, 3 Rapiers",				"pts":25},
+
+		{"id":114, "name":"Kastelan Robot",						"pts":25},
+
+		{"id":115, "name":"7 Hypaspists, 2 Sagitarii",			"pts":25},
+		{"id":116, "name":"4 Hypaspists, 2 Sagitarii, 3 Rapiers",	"pts":25},
+
+		{"id":117, "name":"6 Leman Russ",						"pts":0},
+		{"id":118, "name":"6 Leman Russ Demolishers",			"pts":0},
+		{"id":119, "name":"6 Leman Russ Executioners",			"pts":0},
+
+		{"id":120, "name":"Ordinatus Armageddon (Nova Cannon)",		"pts":0},
+		{"id":121, "name":"Ordinatus Mars (Sonic Disruptor)",		"pts":0},
+		{"id":122, "name":"Ordinatus Golgotha (Hellfire Missiles)",	"pts":50},
+
+		{"id":128, "name":"Ordinatus Minoris (Gatling Blaster)",		"pts":125},
+		{"id":129, "name":"Ordinatus Minoris (Melta Cannon)",	"pts":125},
+		{"id":130, "name":"Ordinatus Minoris (Heavy Icarus Array)",	"pts":125},
+		{"id":131, "name":"Ordinatus Minoris (Titan Plasma Cannon)",			"pts":125},
+		{"id":132, "name":"Ordinatus Minoris (Turbo-Laser Destructor)",		"pts":125},
+		{"id":133, "name":"Ordinatus Minoris (Apocalypse Missile Launcher)",	"pts":125},
+
+		{"id":135, "name":"Ordinatus Minoris (Quake Cannon)",			"pts":150},
+		{"id":136, "name":"Ordinatus Minoris (Volcano Cannon)",			"pts":150},
+		{"id":137, "name":"Ordinatus Minoris (Plasma Destructor)",		"pts":150},
+
+		{"id":150, "name":"2 Warhound Titans (Standard Configuration)",		"pts":0},
+		{"id":151, "name":"2 Warhound Titans (Support Configuration)",		"pts":0},
+		{"id":152, "name":"2 Warhound Titans (Tank Hunter Configuration)",		"pts":50},
+
+		{"id":160, "name":"Paired Turbo-Laser Destructors",		"pts":0},
+		{"id":161, "name":"Paired Apocalypse Missile Launchers",		"pts":0}
+
+
+
+
+
+	],
+	"formationConstraints":[
+		{"max":1, "perArmy":true, "from":[516]},
+		{"max":1, "perArmy":true, "from":[525]},
+		{"max":3, "name":"Line formations", "from":[510,511,512,513,514,515,516], "forEach":[501], "name2":"Hypaspist Maniple"},
+		{"maxPercent": 33.5, "name":"Mechanicus Allies", "from":[519,520,521,522,523,524,525]}
+	],
+	"upgradeConstraints":[
+		{"max":1,  "perArmy":true,  "from":[101]},
+
+		{"max":2, "from":[105]},
+ 		{"max":1, "from":[107]},
+
+		{"max":1, "min":1, "from":[110,111,115,116], "appliesTo":[501]},
+   		{"max":1, "min":0, "from":[104,102,103,134], "appliesTo":[501]},
+   		{"max":1, "min":1, "from":[100,101], "appliesTo":[501]},
+   		{"max":1, "min":0, "from":[130,131,132,133,128,129], "appliesTo":[501]},
+
+		{"max":1, "min":1, "from":[112,113], "appliesTo":[510]},
+  		{"max":3, "from":[108,109], "appliesTo":[510]},
+
+		{"max":1, "min":1, "from":[117,118,119], "appliesTo":[513]},
+
+		{"max":7, "min":5, "from":[114], "appliesTo":[514]},
+
+		{"min":2, "max":3, "from":[130,131,132,133,128,129,135,136,137], "appliesTo":[515]},
+		{"max":1, "from":[135,136,137,138], "appliesTo":[515]},
+
+		{"max":1, "min":1, "from":[120,121,122], "appliesTo":[516]},
+
+   		{"max":1,"min":1, "from":[150,151,152], "appliesTo":[520]},
+
+   		{"max":1,"min":1, "from":[160,161], "appliesTo":[522]}
+
+	]
+}

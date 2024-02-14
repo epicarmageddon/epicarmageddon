@@ -1,0 +1,97 @@
+{
+   "id": "EA-R Necrons Maynarkh Dynasty",
+   "version": "1.0.Beta",
+   "by": "EA-Ragnarok",
+   "notes": [],
+   "sections": [
+      {"name": "MAYNARKH DYNASTY SPECIALS", "formations": [
+            {"id": 601, "name": "Necron Tomb Complex", "pts": 50, "units":"Tomb Complex", "upgrades": []}
+         ]
+      },
+      {"name": "NECRON CORE",
+         "formations": [
+            {"id": 701, "name": "Necron Phalanx", "pts": 250, "units": "6 Necron Warriors", "upgrades": [100,102,103,99]}
+         ]
+      },
+      {"name": "NECRON PORTALS <br/> Max 1 for each Necron Phalanx",
+         "formations": [
+            {"id": 503, "name": "Monolith Phalanx", "pts": 250, "units": "3 Monoliths", "upgrades": [105]},
+            {"id": 505, "name": "Monolith Maniple", "pts": 0, "upgrades": [105]}
+         ]
+      },
+      {"name": "NECRON SUPPORT <br/> Max 2 for each Necron Phalanx",
+         "formations": [
+            {"id": 702, "name": "The Unbidden", "pts": 200, "units": "6 Flayed Ones", "upgrades": []},
+            {"id": 501, "name": "Obelisk Phalanx", "pts": 275, "units": "6 Obelisks", "upgrades": []},
+            {"id": 502, "name": "Destroyer Phalanx", "pts": 75, "upgrades": [100,99]},
+            {"id": 504, "name": "Tomb Guardian", "pts": 175, "units":"Pylon", "upgrades": []},
+            {"id": 506, "name": "Stalker Maniple", "pts": 175, "upgrades": []}
+         ]
+      },
+      {"name": "HARVESTERS & NECRON NAVY <br/> Max 33%",
+         "formations": [
+             {"id": 805, "name": "Megalith Conduit", "pts": 350, "units":"Megalith", "upgrades": [105,106]},
+            {"id": 803, "name": "Harvester Engine", "pts": 450},
+            {"id": 804, "name": "Doom Scythes",  "units":"2 Doom Scythe Fighters", "pts": 200, "upgrades": []},
+            {"id": 806, "name": "Night Shroud", "units":"Night Shroud Bomber", "pts": 225},
+            {"id": 802, "name": "Tomb Ship", "units":"Cairn Class Tomb Ship", "pts": 200}
+         ]
+      }
+   ],
+   "upgrades": [
+      {"id": 20, "name": "Abattoir", "pts": 0},
+      {"id": 21, "name": "Æonic Orb", "pts": 0},
+      {"id": 22, "name": "Necron Lord", "pts": 0},
+      {"id": 87, "name": "Triarch Stalker", "pts": 0},
+      {"id": 88, "name": "Seraptek Heavy Construct", "pts": 75},
+      {"id": 97, "name": "Wraiths", "pts": 25},
+      {"id": 99, "name": "C'tan Shard", "pts": 75},
+      {"id": 100, "name": "Tomb Spyder", "pts": 50},
+      {"id": 102, "name": "3 Immortals", "pts": 75},
+      {"id": 103, "name": "Wraiths", "pts": 25},
+
+      {"id": 104, "name": "3 Obelisks", "pts": 125},
+      {"id": 105, "name": "Obelisk", "pts": 50},
+      {"id": 106, "name": "Monolith", "pts": 75},
+      {"id": 107, "name": "Necron Overlord", "pts": 75},
+      {"id": 108, "name": "Necron Destroyer Lord", "pts": 50},
+      {"id": 109, "name": "Destroyers", "pts": 25},
+      {"id": 110, "name": "Heavy Destroyers","pts": 25},
+      {"id": 112, "name": "Necron Destroyer Overlord", "pts": 125}
+   ],
+   "formationConstraints": [
+      {"min": 1, "from": [702]},
+      {"max": 1, "from": [601]},
+      {"max": 1, "from": [602]},
+      {"max": 1, "from": [802]},
+      {"max": 1, "from": [803]},
+      {"maxPercent": 33.5, "name": "War Engines & Allies", "from": [801,802,803,804,805,806]},
+      {"max": 1, "name": "Necron Portals", "from": [503,505], "forEach": [701], "name2": "Necron Phalanx"},
+      {"max": 2, "name": "Necron Support", "from": [702,501,502,504,506], "forEach": [701], "name2": "Necron Phalanx"}
+   ],
+   "upgradeConstraints": [
+      {"max": 1, "from": [107,112], "perArmy": true},
+      {"max": 1, "from": [99], "perArmy": true},
+      {"max": 1, "from": [104]},
+      {"max": 1, "from": [102]},
+      {"max": 2, "from": [88]},
+      {"max": 4, "min": 4, "from": [87,88], "appliesTo": [506]},
+
+      {"max": 1, "from": [105], "appliesTo": [503]},
+      {"max": 3, "min": 2, "from": [105], "appliesTo": [505]},
+      {"max": 2, "min": 1, "from": [106], "appliesTo": [505]},
+      {"max": 2, "min": 0, "from": [105,106], "appliesTo": [805]},
+
+      {"max": 1, "from": [111]},
+
+      {"max": 1, "min": 1, "from": [22,107], "appliesTo": [701]},
+      {"max": 3, "from": [100], "appliesTo": [701,502]},
+      {"max": 2, "from": [103], "appliesTo": [701,502]},
+
+      {"max": 1, "from": [108,112]},
+      {"max": 3, "from": [97]},
+      {"max": 6, "min": 6, "from": [109,110,108,112,97], "appliesTo": [502]},
+
+      {"min": 1, "max": 1, "from": [21,20], "appliesTo": [803]}
+   ]
+}

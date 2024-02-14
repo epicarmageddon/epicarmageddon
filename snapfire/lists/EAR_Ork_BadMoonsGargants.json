@@ -1,0 +1,164 @@
+{
+   "id": "EA-R Bad Moons Gargants",
+   "version": "Approved 1.0.Beta",
+   "notes": ["If the army includes a Mega Gargant, the Big Mek must be in it. Otherwise the Big Mek will be located in a Great Gargant."],
+   "by": "Mrdiealot",
+   "sections": [
+      {
+         "name": "BAD MOONS BIG MOB GARGANTS <br/> At least 1 Mega Gargant or Great Gargant",
+         "formations": [
+            {"id": 501, "name": "Mega Gargant", "pts": 950, "upgrades": [10,15]},
+            {"id": 502, "name": "Great Gargant", "pts": 750, "upgrades": [10,15,16]},
+            {"id": 503, "name": "Gargant", "pts": 550, "upgrades": [16]}
+	       ]
+      },
+	  {
+		 "name": "BAD MOONS BIG MOB MOBS <br/> Max 3 for each Gargant",
+         "formations": [
+             {"id": 511, "name": "Bad Moons Warband", "pts": 0, "upgrades": [90,91,99,100,101,102,104,105,106,107,108,98,109,103,12,13,14]},
+             {"id": 517, "name": "Bad Moons Blitz Brigade", "pts": 30, "upgrades": [102,104,105,73,13,12,14,109]},
+             {"id": 512, "name": "Bad Moons Rokkitzmob", "pts": 0, "upgrades": [95,99,102,109,12,13,14]},
+             {"id": 518, "name": "Bad Moons Gunzmob", "pts": 25, "upgrades": [99, 102, 109, 90,91, 12,13,14]},
+             {"id": 516, "name": "Bad Moons Fortressmob", "pts": 225, "units":"Flash Gitz, 3 Boyz, Grotz, Gunfortress", "upgrades": [12,13,14,102,104,105]},
+
+            {"id": 510, "name": "Big Mek Stompamob", "pts": 55, "upgrades": [90,91,100,101,96,102,110,111,112,113,114,115]},
+
+            {"id": 513, "name": "Big Mek Dreadmob", "pts": 15, "upgrades": [100,101,102,96]},
+            {"id": 514, "name": "Big Mek Dreadmob (Big)", "pts": -20, "upgrades": [100,101,102,96]},
+            {"id": 515, "name": "Big Mek Dreadmob ('Uge)", "pts": -55, "upgrades": [100,101,102,96]}
+
+         ]
+      },
+      {
+         "name": "BAD MOONS 'CRAFT <br/> Max 33%",
+         "formations": [
+            {"id": 530, "name": "Fighta-Bommer Skwadron", "pts": 25, "upgrades": [20]},
+            {"id": 531, "name": "Bommer", "pts": 175, "upgrades": []},
+            {"id": 532, "name": "Kroozer", "pts": 0, "upgrades": []}
+
+         ]
+      }
+   ],
+   "upgrades": [
+      {"id": 10, "name": "Big Mek", "pts": 0},
+      {"id": 13, "name": "Oddboy (Supa-Zzap-Gun)", "pts": 50},
+      {"id": 12, "name": "Oddboy (Soopagun)", "pts": 50},
+      {"id": 14, "name": "Oddboy (D3+1 Powerfields)", "pts": 50},
+	  {"id": 15, "name": "'Uge Banner of Gork (Inspiring)", "pts": 50},
+      {"id": 16, "name": "Big Banner of Mork (Leader)", "pts": 25},
+
+      {"id": 20, "name": "Fighta-Bommer", "pts": 50},
+
+      {"id": 73, "name": "Gunfortress", "pts": 100},
+
+      {"id": 90, "name": "Stompa w/ 3 Big Gunz", "pts": 60},
+      {"id": 91, "name": "Stompa w/ Kombat 'Ammer, 2 Big Gunz", "pts": 60},
+
+      {"id": 95, "name": "Pulsa Rokkitz", "pts": 30},
+      {"id": 96, "name": "Meka Dread", "pts": 60},
+
+      {"id": 98, "name": "Kommandos", "pts": 25},
+      {"id": 99, "name": "Big Gunz", "pts": 20},
+	  {"id": 100, "name": "Killa Kan", "pts": 25},
+      {"id": 101, "name": "Deff Dread", "pts": 35},
+      {"id": 102, "name": "Flakwagon", "pts": 30},
+      {"id": 103, "name": "Battlefortress", "pts": 100},
+      {"id": 104, "name": "Deffkopta", "pts": 30},
+      {"id": 105, "name": "Gunwagon", "pts": 30},
+      {"id": 106, "name": "Battlewagon", "pts": 20},
+      {"id": 107, "name": "Boyz", "pts": 15},
+      {"id": 108, "name": "Boyz + Grotz", "pts": 35},
+      {"id": 109, "name": "Flash Gitz", "pts": 35},
+
+      {"id": 110, "name": "Supa Stompa w/ Gaze of Mork, 3 Soopaguns", "pts": 225},
+      {"id": 111, "name": "Supa Stompa w/ Gaze of Gork, 3 Soopaguns", "pts": 225},
+      {"id": 112, "name": "Supa Stompa w/ Gaze of Mork, 2 Soopaguns, Killa-Choppa", "pts": 225},
+      {"id": 113, "name": "Supa Stompa w/ Gaze of Gork, 2 Soopaguns, Killa-Choppa", "pts": 225},
+      {"id": 114, "name": "Supa Stompa w/ Gaze of Mork, 2 Soopaguns, Dakka Kannon", "pts": 225},
+      {"id": 115, "name": "Supa Stompa w/ Gaze of Gork, 2 Soopaguns, Dakka Kannon", "pts": 225},
+      {"id": 116, "name": "Supa Stompa w/ Gaze of Mork, Soopagun, Killa-Choppa, Dakka Kannon", "pts": 225},
+      {"id": 117, "name": "Supa Stompa w/ Gaze of Gorks, Soopagun, Killa-Choppa, Dakka Kannon", "pts": 225},
+
+
+      {"id": 130, "name": "Soopagun (Arm)", "pts": 0},
+      {"id": 131, "name": "Dakka Kannon (Arm)", "pts": 0},
+      {"id": 132, "name": "Mega-Choppa (Arm)", "pts": 0},
+      {"id": 133, "name": "Zzap-Gun (Arm)", "pts": 0},
+
+      {"id": 120, "name": "Gaze of Mork ('Ed)", "pts": 0},
+      {"id": 121, "name": "Gaze of Gork ('Ed)", "pts": 0},
+
+      {"id": 134, "name": "Supa-Skorcha (Belly)", "pts": 0},
+      {"id": 135, "name": "Supa-Zzap-Gun (Belly)", "pts": 0},
+      {"id": 136, "name": "Snappa (Belly)", "pts": 0},
+      {"id": 137, "name": "Soopagun (Belly)", "pts": 0},
+
+      {"id": 140, "name": "Twin Soopagun (Arm)", "pts": 0},
+      {"id": 141, "name": "Dakka-Dakka Kannon (Arm)", "pts": 0},
+      {"id": 142, "name": "Mega-Lobba (Arm)", "pts": 0},
+      {"id": 143, "name": "Lifta-Droppa (Arm)", "pts": 0},
+
+      {"id": 201, "name": "Kill Kroozer", "pts": 100},
+      {"id": 202, "name": "Battlekroozer", "pts": 150}
+   ],
+   "formationConstraints": [
+      {"max": 1, "name": "Mega Gargant", "from": [501]},
+      {"max": 1, "name": "Spacecraft", "from": [532]},
+      {"max": 3, "name": "Bad Moons Big Mob Mobs", "from": [510,511,512,513,514,515,516,518],  "forEach": [501,502,503], "name2": "Gargant" },
+      {"maxPercent": 33.5, "name": "Bad Moons 'Craft", "from": [530,531,532]}
+   ],
+   "upgradeConstraints": [
+      {"max": 1, "from": [10], "perArmy": true},
+      {"max": 1, "from": [10,16]},
+      {"max": 1, "from": [15,16]},
+
+      {"min": 2, "max": 4, "from": [109], "appliesTo": [511]},
+      {"min": 4, "from": [107], "appliesTo": [511]},
+      {"min": 2, "from": [108], "appliesTo": [511]},
+      {"max": 1, "from": [103], "appliesTo": [511]},
+      {"max": 1, "from": [12,13,14], "appliesTo": [511]},
+      {"max": 3, "from": [90,91], "appliesTo": [511]},
+
+      {"max": 1, "from": [15,16], "appliesTo": [501,502,503]},
+
+      {"max": 1, "from": [11,12,13,14], "appliesTo": [516]},
+
+      {"max": 1, "from": [11,12,13,14], "appliesTo": [518]},
+      {"min": 5, "from": [99], "appliesTo": [518]},
+      {"max": 1, "from": [109], "appliesTo": [518]},
+
+      {"min": 2, "max": 5, "from": [90,91], "appliesTo": [510]},
+      {"max": 1, "from": [110,111,112,113,114,115,116,117], "appliesTo": [510]},
+      {"max": 1, "from": [96], "appliesTo": [510]},
+
+      {"min": 5, "from": [95], "appliesTo": [512]},
+      {"max": 1, "from": [109], "appliesTo": [512]},
+      {"max": 1, "from": [12,13,14], "appliesTo": [512]},
+
+      {"min": 1, "from": [101], "appliesTo": [513]},
+      {"max": 1, "from": [96], "appliesTo": [513]},
+      {"min": 2, "from": [101], "appliesTo": [514]},
+      {"max": 2, "from": [96], "appliesTo": [514]},
+      {"min": 3, "from": [101], "appliesTo": [515]},
+      {"max": 3, "from": [96], "appliesTo": [515]},
+      {"min": 4, "from": [100], "appliesTo": [513]},
+      {"min": 8, "from": [100], "appliesTo": [514]},
+      {"min": 12, "from": [100], "appliesTo": [515]},
+
+      {"min": 4, "from": [102,104,105], "appliesTo": [517]},
+      {"max": 1, "from": [109], "appliesTo": [517]},
+      {"max": 1, "from": [12,13,14], "appliesTo": [517]},
+
+      {"min": 1, "max": 1, "from": [120,121], "appliesTo": [502]},
+      {"min": 2, "max": 2, "from": [140,141,142,143], "appliesTo": [502]},
+      {"min": 1, "max": 1, "from": [137,134,135,136], "appliesTo": [502]},
+
+      {"min": 1, "max": 1, "from": [120,121], "appliesTo": [503]},
+      {"min": 2, "max": 2, "from": [130,131,132,133], "appliesTo": [503]},
+      {"min": 1, "max": 1, "from": [137,134,135,136], "appliesTo": [503]},
+
+      {"min": 3, "max": 9, "from": [20], "appliesTo": [530]},
+
+      {"min": 1, "max": 1, "from": [201,202], "appliesTo": [532]}
+   ]
+}

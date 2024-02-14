@@ -1,0 +1,110 @@
+{
+        "id":"EpicUK Imperial Fists",
+        "version":"v03-11-19",
+        "by":"EA-Ragnarok",
+
+        "sections":[
+                {"name":"IMPERIAL FISTS DETACHMENTS", "formations": [
+    { "id":501, "name":"Centurions",                               "pts":0,   "upgrades":[28,31, 26] },
+    { "id":502, "name":"Devastators",   "units":"4 Devastators plus transport / 2 Bunkers, 50cm Minefields/Trenches",   "pts":250, "upgrades":[11,12,13,14, 16, 17,18, 26, 28,31,33, 45,46, 50,51]},
+    { "id":503, "name":"Scouts",        "units":"4 Scouts plus transport",        "pts":150, "upgrades":[11,12,13,14, 44, 50,51] },
+    { "id":504, "name":"Tacticals",     "units":"6 Tacticals plus transport / 2 Bunkers, 50cm Minefields/Trenches",     "pts":300, "upgrades":[11,12,13,14, 16, 17,18, 26, 28,31,33, 45,46, 50,51] },
+    { "id":505, "name":"Terminators",   "units":"4 Terminators",   "pts":350, "upgrades":[11,12,13,14, 17,18, 26, 28,31] },
+    { "id":506, "name":"Thunderfires",  "units":"4 Thunderfire Cannons",  "pts":250, "upgrades":[15, 17,18] },
+    { "id":507, "name":"Land Raiders",                             "pts":50, "upgrades":[11,12,13,14, 16, 26] },
+    { "id":508, "name":"Land Speeders",                            "pts":200, "upgrades":[11,12,13,14] },
+    { "id":509, "name":"Vindicators",                              "pts":50, "upgrades":[11,12,13,14, 16, 27] },
+    { "id":510, "name":"Whirlwinds",                                "pts":300, "upgrades":[11,12,13,14, 16] },
+    { "id":511, "name":"Predators",                                "pts":225, "upgrades":[11,12,13,14, 16, 26]},
+    { "id":512, "name":"Fellblade",                                "pts":325, "upgrades":[] },
+    { "id":513, "name":"Bastion",                                  "pts":200, "upgrades":[15,45,46,70,71] }
+                ]},
+                {"name":"STATIC DEFENSES, NAVY & TITAN LEGIONS <br/> Max 33% <br/> Max 1 Hyperios and Tarantula for each Scout Detachment", "formations":[
+                    { "id":521, "name":"Fortified Positions", "pts":50, "upgrades":[] },
+                    { "id":522, "name":"Hyperios",        "units":"3 Hyperios Platforms",              "pts":125, "upgrades":[] },
+                    { "id":523, "name":"Tarantulas",     "pts":0, "upgrades": [] },
+                    { "id":531, "name":"Storm Talons",  "units":"2 Storm Talons",  "pts":200, "upgrades":[] },
+                    { "id":532, "name":"Thunderhawk Bomber",            "pts":250, "upgrades":[] },
+                    { "id":541, "name":"Reaver Titan",          "pts":650, "upgrades":[] },
+                    { "id":542, "name":"Warlord Titan (Deathstrike Configuration)",           "pts":850, "upgrades":[] }
+                ]}
+        ],
+        "upgrades":[
+                { "id":11, "name":"Captain", "pts":50 },
+                { "id":12, "name":"Chaplain", "pts":50 },
+                { "id":13, "name":"Librarian", "pts":50 },
+                { "id":14, "name":"Supreme Commander", "pts":100 },
+
+                { "id":15, "name":"Techmarine", "pts":25 },
+
+                { "id":16, "name":"Hunter", "pts":75 },
+                { "id":17, "name":"Dreadnought w/ Missile Launcher, Twin Lascannon", "pts":50 },
+                { "id":18, "name":"Dreadnought w/ Siege Drill, Heavy Flamers", "pts":50 },
+
+                { "id":19, "name":"Land speeder", "pts":0 },
+                { "id":20, "name":"Land Speeder Tornado", "pts":0 },
+                { "id":21, "name":"Land Speeder Typhoon", "pts":10 },
+
+                { "id":26, "name":"Vindicator", "pts":50},
+                { "id":27, "name":"Vindicator", "pts":50},
+
+                { "id":28, "name":"Land Raider", "pts":75 },
+
+                { "id":31, "name":"Land Raider Crusader", "pts":75 },
+
+                { "id":33, "name":"Land Raider Achilles", "pts":100 },
+
+                { "id":38, "name":"4 Whirlwinds", "pts":0 },
+                { "id":39, "name":"6 Whirlwinds", "pts":125 },
+
+                { "id":42, "name":"Assault Centurion", "pts":75 },
+                { "id":43, "name":"Devastator Centurion","pts":75 },
+
+                { "id":44, "name":"Snipers","pts":50 },
+
+                { "id":45, "name":"Imperial Fists Rapier", "pts":25 },
+                { "id":46, "name":"Imperial Fists Thudd Gun", "pts":25 },
+
+                {"id":50, "name":"Razorback w/ Twin Heavy Bolter", "pts":25},
+                {"id":51, "name":"Razorback w/ Twin Lascannon", "pts":25},
+
+                {"id":55, "name":"4 Predator Destructors", "pts":0},
+                {"id":56, "name":"2 Predator Destructors, 2 Predator Annihilators", "pts":25},
+                {"id":57, "name":"4 Predator Annihilators", "pts":50},
+
+                { "id":70, "name":"Tarantula (Twin Heavy Bolter), Gun Emplacement","pts":25 },
+                { "id":71, "name":"Tarantula (Twin Lascannon), Gun Emplacement","pts":25 }
+        ],
+        "formationConstraints":[
+                {"maxPercent":33.5, "name":"Static Defenses, Navy and Titan Legion Allies", "from":[521,522,523,531,532,541,542]},
+                {"max": 1, "name": "Hyperios", "from": [522], "forEach": [503], "name2": "Scout Detachment"},
+                {"max": 1, "name": "Tarantulas", "from": [523], "forEach": [503], "name2": "Scout Detachment"}
+        ],
+        "upgradeConstraints":[
+                {"max":1, "perArmy":true, "from":[14]},
+                {"max":1, "name":"Commander", "from":[11,12,13,14,15]},
+
+
+                {"max":1, "from":[16]},
+                {"max":2, "from":[17,18]},
+                {"max":2, "from":[26]},
+                {"max":1, "from":[44]},
+                {"max":4, "from":[45,46]},
+                {"max":4, "from":[28,31]},
+
+
+                {"min":4, "max":4, "from":[42,43], "appliesTo":[501]},
+                {"min":4, "max":4, "from":[28,31,33], "appliesTo":[507]},
+                {"min":0, "max":2, "from":[33]},
+                {"min":5, "max":5, "from":[19,20,21], "appliesTo":[508]},
+                {"min":4, "max":6, "from":[27], "appliesTo":[509]},
+                {"min":1, "max":1, "from":[38,39], "appliesTo":[510]},
+                {"min":1, "max":1, "from":[55,56,57], "appliesTo":[511]},
+                {"min":0, "max":4, "from":[70,71], "appliesTo":[513]},
+                {"min":1, "max":1, "from":[60,61], "appliesTo":[521]},
+                {"min":4, "max":4, "from":[70,71], "appliesTo":[523]}
+
+
+
+        ]
+}

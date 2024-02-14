@@ -1,0 +1,69 @@
+{
+	"id":"EpicUK White Scars",
+	"version":"v03-11-19",
+	"by":"EA-Ragnarok",
+	"sections":[
+		{"name":"WHITE SCARS DETACHMENTS", "formations":[
+			{"id":501, "name":"Assaults", "pts":175, "units":"4 Assaults", "upgrades":[11,12,13,14]},
+			{"id":502, "name":"Bikes", "pts":375, "upgrades":[11,12,13,14]},
+			{"id":505, "name":"Land Speeders", "pts":0, "upgrades":[11,12,13,14]},
+			{"id":506, "name":"Landing Craft", "pts":350},
+			{"id":507, "name":"Predators", "pts":225, "upgrades":[11,12,13,14,19,15]},
+			{"id":508, "name":"Scouts", "pts":150, "units":"4 Scouts plus Transport", "upgrades":[11,12,13,14,21,22,28]},
+			{"id":509, "name":"Spaceship", "pts":0, "upgrades":[29,30]},
+			{"id":510, "name":"Tacticals", "pts":300, "units":"6 Tacticals plus Transport", "upgrades":[11,12,13,14,19,21,22]},
+			{"id":511, "name":"Terminators", "pts":600, "units":"4 Terminators and 4 Land Raiders", "upgrades":[11,12,13,14]},
+			{"id":514, "name":"Whirlwinds", "pts":300, "units":"4 Whirlwinds", "upgrades":[11,12,13,14,19,15]}
+		]},
+		{"name":"WHITE SCARS NAVY & TITANS <br/> Max 33%", "formations":[
+			{"id":551, "name":"Thunderbolt Squadron", "pts":150, "units":"2 Thunderbolt Fighters" },
+			{"id":552, "name":"Marauder Squadron", "pts":250, "units":"2 Marauder Bombers" },
+			{"id":512, "name":"Thunderhawk", "pts":200},
+			{"id":555, "name":"Warhound Pack", "pts":500, "units":"2 Warhound Titans" },
+			{"id":556, "name":"Warhound Titan", "pts":275}
+		]}
+	],
+	"upgrades":[
+		{"id":11, "name":"Captain", "pts":50},
+		{"id":12, "name":"Chaplain", "pts":50},
+		{"id":13, "name":"Librarian", "pts":50},
+		{"id":14, "name":"Supreme Commander", "pts":100},
+		{"id":15, "name":"Vindicator", "pts":50},
+		{"id":16, "name":"White Scars Attack Bike", "pts":0},
+		{"id":17, "name":"White Scars Bikes", "pts":0},
+		{"id":19, "name":"Hunter", "pts":75},
+		{"id":20, "name":"Land Raider", "pts":75},
+		{"id":21, "name":"Razorback w/ Twin Heavy Bolter", "pts":25},
+		{"id":22, "name":"Razorback w/ Twin Lascannon", "pts":25},
+		{"id":23, "name":"Land Speeder", "pts":40},
+		{"id":24, "name":"Land Speeder Tornado", "pts":40},
+		{"id":25, "name":"Land Speeder Typhoon", "pts":50},
+		{"id":28, "name":"Snipers", "pts":50},
+		{"id":29, "name":"Strike Cruiser", "pts":200},
+		{"id":30, "name":"Battle Barge", "pts":350},
+		{"id":40, "name":" 4 Predator Destructors", "pts":0},
+		{"id":41, "name":" 2 Predator Destructors, 2 Predator Annihilators", "pts":25},
+		{"id":42, "name":" 4 Predator Annihilators", "pts":50}
+
+	],
+	"formationConstraints":[
+		{"maxPercent":33, "name":"Titan/Air",
+			"from":[512,551,552,555,556] },
+		{"max":1, "perArmy":true, "from":[509]}
+	],
+	"upgradeConstraints":[
+		{"max":1, "from":[11,12,13,14], "appliesTo":[501,502,505,507,508,510,511,514]},
+		{"max":1, "perArmy":true, "from":[14]},
+		{"min":8, "max":8, "from":[17,16], "appliesTo":[502]},
+		{"max":1, "from":[19], "appliesTo":[503,504,507,510,513,514]},
+		{"min":5, "max":5, "from":[23,24,25], "appliesTo":[505]},
+		{"min":1, "max":1, "from":[40,41,42], "appliesTo":[507]},
+		{"max":4, "from":[21,22], "appliesTo":[508]},
+		{"min":1, "max":1, "from":[29,30], "appliesTo":[509]},
+		{"max":1, "perArmy":true, "from":[29,30]},
+		{"max":6, "from":[21,22], "appliesTo":[510]},
+		{"max":1, "from":[28]},
+		{"max":2, "from":[15]}
+
+	]
+}

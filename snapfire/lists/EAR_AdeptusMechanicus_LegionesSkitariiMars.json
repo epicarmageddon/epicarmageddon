@@ -1,0 +1,151 @@
+{
+	"id":"<a href=\"https://magnusdurr.github.io/list-view/site.html\">EA-R</a> Legiones Skitarii: Mars",
+	"version":"Alpha v0.6.0 <a href=\"https://magnusdurr.github.io/list-view/index.html?race=AM&list=legionesskitariimars\">Listview</a>",
+	"by":"EA-Ragnarok",
+	"sections":[
+		{"name":"LEGIONES MARS CORE FORMATIONS", "formations":[
+			{"id":501, "name":"Vanguard Maniple",	"pts":225, "upgrades":[109,107,108,80,81,82,83,90]},
+			{"id":502, "name":"Onager Cataphractii",			 "units":"8 Onager Dunecrawlers",	"pts":450, "upgrades":[]}
+		]},
+		{"name":"LEGIONES MARS LINE FORMATIONS <br/> Max 3 for each Core Formation", "formations":[
+			{"id":507, "name":"Sicarian Killclade",			"pts":175, "units":"4 Sicarian Ruststalkers, 2 Sicarian Infiltrators",		 "upgrades":[]},
+			{"id":508, "name":"Ranger Cohort",			"pts":150,  "units":"4 Skitarii Rangers",		 "upgrades":[112,113]},
+			{"id":514, "name":"Kastelan Maniple",		"pts":50, "units":"Tech-Priest", "upgrades":[114]},
+			{"id":511, "name":"Kataphron Maniple",		"pts":250, "units":"Tech-Priest", "upgrades":[]},
+			{"id":512, "name":"Onager Maniple",			 "units":"4 Onager Dunecrawlers",	"pts":225, "upgrades":[]},
+			{"id":513, "name":"Skorpius Maniple",		"pts":25, "upgrades":[90]},
+			{"id":515, "name":"Minoris Maniple",		"pts":75, "upgrades":[130,131,132,133,128,129,135,136,137]},
+			{"id":516, "name":"Ordinatus Majoris",		"pts":425, "upgrades":[]}
+		]},
+
+		{"name":"FORGE WORLD NAVY, QUESTORIS MECHANICUS & COLLEGIA TITANICA SUPPORT <br/> Max 33%", "formations":[
+		    {"id":519,"name":"Questoris Banner", "pts":325, "upgrades":[]},
+
+		    {"id":520,"name":"Warhound Pack","pts":475, "upgrades":[]},
+			{"id":521, "name":"Warbringer Titan",	"pts":650, "upgrades":[]},
+
+			{"id":523, "name":"Avenger Squadron",			"pts":175, "units":"2 Avenger Strike Fighters", "upgrades":[]},
+			{"id":525, "name":"Ark Mechanicus Battleship",		"pts":225, "upgrades":[]}
+		]}
+
+
+	],
+	"upgrades":[
+
+		{"id":80, "name":"Onager Dunecrawler (Icarus Array)",	"pts":50},
+		{"id":81, "name":"Onager Dunecrawler (Neutron Laser)",	"pts":50},
+		{"id":82, "name":"Onager Dunecrawler (Eradication Beamer)",	"pts":50},
+		{"id":83, "name":"Onager Dunecrawler (Twin Hvy Phosphor Blaster)",	"pts":50},
+
+		{"id":90, "name":"Skorpius Disintegrator",	"pts":50},
+
+		{"id":100, "name":"Magos",						"pts":0},
+		{"id":101, "name":"Magos Dominus",					"pts":75},
+
+		{"id":105, "name":"9 Skitarii Vanguards",						"pts":0},
+		{"id":106, "name":"6 Skitarii Vanguards, 4 Rapiers",						"pts":0},
+
+		{"id":107, "name":"Gorgon",						"pts":100},
+		{"id":108, "name":"5 Skorpius Duneriders",						"pts":100},
+		{"id":109, "name":"5 Termites",						"pts":75},
+
+		{"id":110, "name":"4 Sicarian Ruststalkers, 2 Sicarian Infiltrators",				"pts":0},
+		{"id":111, "name":"2 Sicarian Ruststalkers, 2 Sicarian Infiltrators, 2 Archaeopters",		"pts":0},
+
+		{"id":112, "name":"2 Scorpius Duneriders",				"pts":50},
+		{"id":113, "name":"3 Rapiers",				"pts":50},
+
+		{"id":114, "name":"Kastelan Robot",					"pts":25},
+
+		{"id":115, "name":"5 Kataphron Breacher Battle Servitors",					"pts":0},
+		{"id":116, "name":"5 Kataphron Destroyer Battle Servitors",					"pts":0},
+
+		{"id":120, "name":"Ordinatus Armageddon (Nova Cannon)",				"pts":0},
+		{"id":121, "name":"Ordinatus Mars (Sonic Disruptor)",			"pts":0},
+		{"id":122, "name":"Ordinatus Golgotha (Hellfire Missiles)",				"pts":50},
+
+		{"id":128, "name":"Ordinatus Minoris (Gatling Blaster)",		"pts":125},
+		{"id":129, "name":"Ordinatus Minoris (Melta Cannon)",	"pts":125},
+		{"id":130, "name":"Ordinatus Minoris (Heavy Icarus Array)",	"pts":125},
+		{"id":131, "name":"Ordinatus Minoris (Titan Plasma Cannon)",			"pts":125},
+		{"id":132, "name":"Ordinatus Minoris (Turbo-Laser Destructor)",		"pts":125},
+		{"id":133, "name":"Ordinatus Minoris (Apocalypse Missile Launcher)",	"pts":125},
+
+		{"id":135, "name":"Ordinatus Minoris (Quake Cannon)",			"pts":150},
+		{"id":136, "name":"Ordinatus Minoris (Volcano Cannon)",			"pts":150},
+		{"id":137, "name":"Ordinatus Minoris (Plasma Destructor)",		"pts":150},
+
+		{"id":140, "name":"2 Knight-Paladin (Rapid Fire Battle Cannon, Chainsword)",												"pts":0},
+		{"id":141, "name":"2 Knight-Errant (Thermal Cannon, Chainsword)",										         				"pts":0},
+		{"id":142, "name":"2 Knight-Crusader (Rapid Fire Battle Cannon, Gatling Cannon)",											"pts":0},
+		{"id":143, "name":"2 Knight-Gallant (Gauntlet, Chainsword, Twin Icarus Autocannon)",						             			"pts":0},
+		{"id":144, "name":"2 Knight-Warden (Gatling Cannon, Chainsword, Ironstorm Missile Pod)",		     							     "pts":0},
+
+		{"id":150, "name":"2 Warhound Titans (Standard Configuration)",		"pts":0},
+		{"id":151, "name":"2 Warhound Titans (Support Configuration)",		"pts":0},
+		{"id":152, "name":"2 Warhound Titans (Tank Hunter Configuration)",		"pts":50},
+
+		{"id":160, "name":"(Paired Turbo-Laser Destructors)",		"pts":0},
+		{"id":161, "name":"(Paired Apocalypse Missile Launchers)",		"pts":0},
+
+		{"id":170, "name":"3x Eradication Beamer, 1x Icarus Array",				"pts":0},
+		{"id":171, "name":"3x Neutron Laser, 1x Icarus Array",				"pts":0},
+		{"id":172, "name":"3x Twin Heavy Phosphor Blaster, 1x Icarus Array",				"pts":0},
+
+		{"id":175, "name":"6x Eradication Beamer, 2x Icarus Array",				"pts":0},
+		{"id":176, "name":"6x Neutron Laser, 2x Icarus Array",				"pts":0},
+		{"id":177, "name":"6x Twin Heavy Phosphor Blaster, 2x Icarus Array",				"pts":0},
+
+		{"id":190,"name":"Nemesis Quake Cannon","pts":0},
+	    {"id":191,"name":"Volcano Cannon","pts":0},
+		{"id":192,"name":"Plasma Destructor","pts":0},
+
+		{"id":200,"name":"Titan Plasma Cannon","pts":0},
+	    {"id":201,"name":"Laser Blaster","pts":0},
+		{"id":202,"name":"Turbo-Laser Destructor","pts":0},
+        {"id":203,"name":"Gatling Blaster","pts":0},
+	    {"id":204,"name":"Volcano Cannon","pts":0},
+		{"id":205,"name":"Plasma Destructor","pts":0}
+
+	],
+	"formationConstraints":[
+		{"max":1, "perArmy":true, "from":[516]},
+		{"max":1, "perArmy":true, "from":[525]},
+		{"max":3, "name":"Line formations", "from":[507,508,509,510,511,512,513,514,515,516], "forEach":[501], "name2":"Core formation"},
+		{"maxPercent": 33.5, "name":"Mechanicus Allies", "from":[519,520,521,522,523,524,525]}
+	],
+	"upgradeConstraints":[
+		{"max":1,  "perArmy":true,  "from":[101]},
+
+		{"max":1, "min":1, "from":[100,101], "appliesTo":[501]},
+		{"max":1, "min":1, "from":[105,106], "appliesTo":[501]},
+		{"min":0, "max":1, "from":[107,108,109], "appliesTo":[501]},
+		{"min":0, "max":2, "from":[80,81,82,83], "appliesTo":[501]},
+		{"min":0, "max":2, "from":[90,91], "appliesTo":[501]},
+
+		{"max":1, "min":1, "from":[175,176,177], "appliesTo":[502]},
+
+		{"max":1, "min":0, "from":[112,113], "appliesTo":[508]},
+
+		{"max":1, "min":1, "from":[170,171,172], "appliesTo":[512]},
+
+		{"max":1, "min":1, "from":[115,116], "appliesTo":[511]},
+
+		{"max":6, "min":4, "from":[90], "appliesTo":[513]},
+
+		{"max":7, "min":5, "from":[114], "appliesTo":[514]},
+
+		{"min":2, "max":3, "from":[130,131,132,133,128,129,135,136,137], "appliesTo":[515]},
+		{"max":1, "from":[135,136,137,138], "appliesTo":[515]},
+
+		{"max":1, "min":1, "from":[120,121,122], "appliesTo":[516]},
+
+		{"max":1,"min":1, "from":[140,141,142,143,144], "appliesTo":[519]},
+
+   		{"max":1,"min":1, "from":[150,151,152], "appliesTo":[520]},
+
+		{"min":1,"max":1,"from":[190,191,192],"appliesTo":[521]},
+        {"min":0,"max":1,"from":[204,205],"appliesTo":[521]},
+        {"min":2,"max":2,"from":[202,201,200,203,204,205],"appliesTo":[521]}
+	]
+}

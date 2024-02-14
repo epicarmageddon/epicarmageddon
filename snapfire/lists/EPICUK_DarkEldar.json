@@ -1,0 +1,83 @@
+{
+	"id":"EpicUK Dark Eldar",
+	"version":"v05-06-15",
+	"by":"EA-Ragnarok",
+	"notes":["Raiders / Venoms may carry Incubi, Warrior, Wych, Haemonculi and Wrack units. No Raider / Venom transport space may be left over after any other transport upgrades have been added to the formation."],
+	"sections":[
+		{"name":"INDIVIDUALS", "formations":[
+			{"id":530, "name":"Wraithgate", "pts":50, "upgrades":[]},
+			{"id":531, "name":"Portable Webway Portal", "pts":50, "units":"Add a Portable Webway Portal to a Dark Eldar character in the army", "upgrades":[]}
+		]},
+		{"name":"KABALS", "formations":[
+			{"id":511, "name":"Kabal Coterie", "pts":250, "upgrades":[71,61,70,57,76]},
+			{"id":512, "name":"Kabal Syndicate", "pts":200,	"upgrades":[71,61,70,76,17,81], "units":"6 Dark Eldar Warriors"},
+			{"id":513, "name":"Kabal Flotilla",	"pts":25, "upgrades":[61]}
+		]},
+		{"name":"PARTISANS <br/> Max 2 for each Kabal", "formations":[
+			{"id":501, "name":"Haemonculi Coven", "pts":250, "units":"2 Haemonculi, 4 Wracks", "upgrades":[71,60,73,70,76,22,83]},
+			{"id":502, "name":"Talos", "pts":225, "upgrades":[73]},
+			{"id":503, "name":"Wych Cult", "pts":200, "units":"6 Wyches", "upgrades":[71,75,70,76,18,82]},
+			{"id":504, "name":"Hellions", "pts":200, "units":"6 Hellions", "upgrades":[18,82]},
+			{"id":505, "name":"Reavers", "pts":200, "units":"6 Reavers", "upgrades":[18,82]},
+			{"id":506, "name":"Mandrakes", "pts":200, "units":"6 Mandrakes", "upgrades":[]},
+			{"id":507, "name":"Scourges", "pts":250, "units":"6 Scourges", "upgrades":[]},
+			{"id":508, "name":"Vessel of Pain", "pts":250, "upgrades":[]}
+		]},
+		{"name":"DARK ELDAR NAVY <br/> Max 33%", "formations":[
+			{"id":522, "name":"Torture Class Cruiser", "pts":250, "upgrades":[]},
+			{"id":523, "name":"Slavebringer Assault Boat", "pts":200, "upgrades":[]},
+			{"id":525, "name":"Executioner Landing Module", "pts":650, "upgrades":[]},
+			{"id":526, "name":"Razorwings", "pts":200, "units":"2 Razorwing Fighters", "upgrades":[]},
+			{"id":527, "name":"Voidravens", "pts":225, "units":"2 Voidraven Bombers", "upgrades":[]}
+		]}
+	],
+	"upgrades":[
+		{"id":17, "name":"Dracon", "pts":50},
+		{"id":18, "name":"Succubus", "pts":50},
+		{"id":22, "name":"Haemonculus Ancient", "pts":25},
+
+		{"id":23, "name":"Vessel of Pain", "pts":250},
+
+		{"id":52, "name":"Archon", "pts":0},
+		{"id":54, "name":"4 Incubi", "pts":0},
+		{"id":55, "name":"6 Incubi", "pts":75},
+		{"id":57, "name":"2 Dark Eldar Warriors", "pts":50},
+		{"id":60, "name":"2 Grotesques", "pts":75},
+		{"id":61, "name":"Ravager", "pts":50},
+		{"id":75, "name":"2 Warp Beasts", "pts":50},
+		{"id":70, "name":"Raider", "pts":0},
+		{"id":71, "name":"Barge", "pts":100},
+		{"id":73, "name":"Talos", "pts":50},
+		{"id":76, "name":"2 Venoms", "pts":25},
+
+		{"id":80, "name":"Archon w/ Portable Webway Portal", "pts":0},
+		{"id":81, "name":"Dracon w/ Portable Webway Portal", "pts":50},
+		{"id":82, "name":"Succubus w/ Portable Webway Portal", "pts":50},
+		{"id":83, "name":"Haemonculus Ancient w/ Portable Webway Portal", "pts":25}
+
+	],
+	"formationConstraints":[
+		{"maxPercent":33.5, "name": "Dark Eldar Navy", "from":[522,523,525,526,527]},
+		{"max":1, "from":[530]},
+		{"max":1, "from":[531]},
+		{"min":1, "max":1, "from":[511]},
+		{"max":2, "name":"Partisans", "from":[501,502,503,504,505,506,507,508], "forEach":[511,512,513], "name2":"Kabal"},
+		{"max":1, "name":"Spacecraft", "from":[522]}
+	],
+	"upgradeConstraints":[
+		{"max": 1, "from": [80,81,82,83], "perArmy": true},
+		{"max":1, "min":1, "from":[52,80], "appliesTo":[511]},
+		{"max":1, "name":"Dracon", "from":[17,81], "appliesTo":[512]},
+		{"max":1, "name":"Ancient", "from":[22,83], "appliesTo":[501]},
+		{"max":1, "name":"Succubus", "from":[18,82], "appliesTo":[503,504,505]},
+		{"max":1, "from":[60]},
+		{"max":4, "from":[70,76]},
+		{"max":2, "from":[71]},
+		{"max":2, "from":[73]},
+		{"max":1, "from":[61], "appliesTo":[511,512]},
+		{"max":1, "min":1, "from":[54,55], "appliesTo":[511]},
+		{"max":5, "min":4, "from":[61], "appliesTo":[513]},
+		{"max":1, "from":[57]},
+		{"max":1, "from":[55,57,75,75,77], "appliesTo":[503,504,505,506,507]}
+	]
+}
