@@ -37,9 +37,9 @@
                         {{/if}}
                     </div>
                     <div class="col-3 order-lg-9" style="text-align: right">
-                        {{#if Points}}{{appendOnNumber Points ' Points'}}{{/if}}
+                        {{#if points}}{{appendOnNumber points ' points'}}{{/if}}
                         {{#if pointsOptions}}
-                        {{#each pointsOptions}}{{this.name}} - {{appendOnNumber Points ' Points'}}{{#unless @last}}<br>{{/unless}}{{/each}}
+                        {{#each pointsOptions}}{{this.name}} - {{appendOnNumber points ' points'}}{{#unless @last}}<br>{{/unless}}{{/each}}
                         {{/if}}
                     </div>
                     <div class="col-12 col-lg-5">
@@ -92,8 +92,8 @@
                         {{description}}
                     </div>
                     <div class="col-4 col-md-3" style="text-align: right">
-                        {{#if (isArray Points)}}
-                        {{#each Points}}{{this}}{{#unless @last}}<br>{{/unless}}{{/each}}
+                        {{#if (isArray points)}}
+                        {{#each points}}{{this}}{{#unless @last}}<br>{{/unless}}{{/each}}
                         {{else}}
                         {{points}}
                         {{/if}}
@@ -112,10 +112,10 @@
                     <div class="row">
                         <div class="col-8" style="text-align: right">{{description}}</div>
                         <div class="col-4" style="text-align: right">
-                            {{#if (isArray Points)}}
-                            {{#each Points}}{{appendOnNumber this ' Points'}}{{#unless @last}}<br>{{/unless}}{{/each}}
+                            {{#if (isArray points)}}
+                            {{#each points}}{{appendOnNumber this ' points'}}{{#unless @last}}<br>{{/unless}}{{/each}}
                             {{else}}
-                            {{appendOnNumber Points ' Points'}}
+                            {{appendOnNumber points ' points'}}
                             {{/if}}
                         </div>
                     </div>
