@@ -146,7 +146,7 @@ function replaceWeapon(weapon, weapons, unit) {
             return {
                 "name": "ERROR",
                 "modes": [{
-                    "Feuerkraft": "ERROR"
+                    "firepower": "ERROR"
                 }]
             }
         }
