@@ -25,7 +25,7 @@
         "weapons": [
           "Shuriken Catapults"
         ],
-        "specialRules": ["Jump packs"]
+        "specialRules": ["Sprungmodule"]
       },
       {
         "name": "Corsair Veteran",
@@ -38,7 +38,7 @@
           "Shuriken Pistols",
           "Eldar Energiewaffe"
         ],
-        "specialRules": ["Jump packs"]
+        "specialRules": ["Sprungmodule"]
       },
       {
         "name": "Ghostwalker",
@@ -50,7 +50,7 @@
         "weapons": [
           "Ghostwalker Long Rifles"
         ],
-        "specialRules": ["Jump packs", "Aufklärer"]
+        "specialRules": ["Sprungmodule", "Aufklärer"]
       },
       {
         "name": "Corsair Wasp Walker",
@@ -64,7 +64,7 @@
         ],
         "specialRules": [
           "Geländegängig",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -79,7 +79,7 @@
           "Synchronisierter Splinter Rifle"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May carry eine unit of Corsair Warriors, Corsair Veterans oder Ghostwalkers"
@@ -94,7 +94,7 @@
           "AC Bright Lanze|2"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -109,9 +109,9 @@
           "AC Scatter Laser"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May carry bis zu acht of the following: Corsair Warriors, Corsair Veterans, Ghostwalker, Corsair Wasp Walker. Corsair Wasp Walkers take zwei spaces jeweils.",

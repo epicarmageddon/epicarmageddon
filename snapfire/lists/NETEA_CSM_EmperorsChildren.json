@@ -13,7 +13,7 @@
 		{"name":"EMPEROR'S CHILDREN ELITE <br/> Max 1 für jeweils Retinue ", "formations": [
 			{ "id":510, "name":"Chosen", "pts":125, "units":"4 Chaos Space Marine Chosen", "Erweiterungen":[19,20,17,29] },
 			{ "id":511, "name":"Noise Marines", "pts":90, "Erweiterungen":[31,22,19,20,17,21,38,29] },
-			{ "id":512, "name":"Emperor's Children Terminators", "pts":35, "Erweiterungen":[37,22,19,20,17,21,30] }
+			{ "id":512, "name":"Emperor's Children Terminatoren", "pts":35, "Erweiterungen":[37,22,19,20,17,21,30] }
 		]},
 		{"name":"EMPEROR'S CHILDREN SUPPORT <br/> Max 1 für jeweils Retinue", "formations": [
 			{ "id":521, "name":"Bike Kompanie", "pts":300, "units":"8 Emperor's Children Bike units", "Erweiterungen":[19,21] },
@@ -41,7 +41,7 @@
 		{ "id":14, "name":"Sorcerer Lord", "pts":0 },
 		{ "id":15, "name":"Chaos Warlord (Supreme Commander)", "pts":50 },
 		{ "id":16, "name":"Daemon Prince", "pts":50 },
-		{ "id":17, "name":"Emperor's Children Dreadnought", "pts":50 },
+		{ "id":17, "name":"Emperor's Children Cybot", "pts":50 },
 		{ "id":18, "name":"Chaos Space Marines", "pts":25 },
 		{ "id":19, "name":"Daemonic Pact", "pts":25 },
 		{ "id":20, "name":"Dreadclaw", "pts":5 },
@@ -61,7 +61,7 @@
 		{ "id":34, "name":"Hell-Strider", "pts":50 },
 		{ "id":35, "name":"Hell-Knight", "pts":75 },
 		{ "id":36, "name":"Hell-Scourge", "pts":90 },
-		{ "id":37, "name":"Emperor's Children Terminators", "pts":60 },
+		{ "id":37, "name":"Emperor's Children Terminatoren", "pts":60 },
 		{ "id":38, "name":"Emperor's Children Land Raider", "pts":75 }
 
 	],

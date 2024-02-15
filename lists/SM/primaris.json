@@ -19,8 +19,8 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
         "Assault Intercessor",
         "Intercessor",
@@ -35,7 +35,7 @@
         "Eradicator",
         "Invader",
         "Invictor Warsuit",
-        "Redemptor Dreadnought",
+        "Redemptor Cybot",
         "Impulsor",
         "Repulsor",
         "Gladiator, Lancer",
@@ -185,11 +185,11 @@
         "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
-            "description": "Captain, Librarian",
+            "description": "Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
+            "description": "Ordenspriester",
             "points": "50 Punkte"
           },
           {
@@ -217,7 +217,7 @@
         "description": "Choose eine of the following",
         "options": [
           {
-            "description": "Füge bis zu zwei Redemptor Dreadnoughts",
+            "description": "Füge bis zu zwei Redemptor Cybots",
             "points": "75 Punkte jeweils"
           },
           {

@@ -27,7 +27,7 @@
         "Daemon Prince of Khorne",
         "Chaos Assault Marines",
         "Chaos Space Marines",
-        "Skullseeker Terminators",
+        "Skullseeker Terminatoren",
         "Khorne Berzerkers",
         "Chaos Destroyers",
         "Mutilators",
@@ -38,7 +38,7 @@
         "World Eaters Vindicator",
         "Chaos Land Raider",
         "Chaos Spartan Assault Panzer",
-        "Berzerker Dreadnought"
+        "Berzerker Cybot"
       ],
       "unitRules": [
           "Augment Summoning (+x)",
@@ -93,7 +93,7 @@
           "name": "World Eaters Retinue",
           "units": "Ein Chaos Lord, vier Khorne Berzerkers, vier World Eaters Assault Marines, vier World Eaters Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Füge zwei Berzerker Dreadnoughts: 75 Punkte",
+            "Füge zwei Berzerker Cybots: 75 Punkte",
             "Oberbefehlshaber",
             "Berzerker Transport",
             "Champion",
@@ -104,8 +104,8 @@
           "points": 350
         },
         {
-          "name": "Skullseeker Terminators",
-          "units": "Ein Chaos Lord, vier Skullseeker Terminators, Daemonic Pact",
+          "name": "Skullseeker Terminatoren",
+          "units": "Ein Chaos Lord, vier Skullseeker Terminatoren, Daemonic Pact",
           "extraUnits": [
             "Füge bis zu zwei Mutilators: 50 Punkte jeweils",
             "Oberbefehlshaber",

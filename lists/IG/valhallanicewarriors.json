@@ -47,7 +47,7 @@
         "Sororitas Rhino"
       ],
       "unitRules": [
-              "Faithful"
+              "Gläubig"
       ]
     },
     {
@@ -247,7 +247,7 @@
       },
       {
         "name": "Stormlord",
-        "description": "Ersetze zwei Valhallan Infanterie units with eine Stormlord (may not be combined with other Erweiterungen)",
+        "description": "Ersetze zwei Valhallan Infanterie Einheiten with eine Stormlord (may not be combined with other Erweiterungen)",
         "points": "125 Punkte"
       }
     ]

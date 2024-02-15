@@ -18,25 +18,25 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
+        "Sturmtrupp",
         "Death Kompanie Marines",
-        "Devastators",
+        "Devastoren",
         "Sanguinary Guards",
         "Aufklärers",
-        "Tacticals",
-        "Death Kompanie Dreadnought",
-        "Assault Terminators",
+        "Taktischer Trupp",
+        "Death Kompanie Cybot",
+        "Assault Terminatoren",
         "Assault Bikes",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
         "Melter Bike",
-        "Attack Bike",
-        "Dreadnought, Furioso",
-        "Dreadnought",
+        "Trike",
+        "Cybot, Furioso",
+        "Cybot",
         "Blood Angels Hunter",
         "Blood Angels Razorback",
         "Blood Angels Rhino",
@@ -76,20 +76,20 @@
       "formations": [
         {
           "name": "1 Death Kompanie",
-          "units": "Ein Chaplain, vier Death Kompanie Marines plus transport (Drop Pods oder on foot only)",
+          "units": "Ein Ordenspriester, vier Death Kompanie Marines plus transport (Drop Pods oder on foot only)",
           "extraUnits": [
             "Füge zwei Death Kompanie Marines: 75 Punkte",
-            "Füge bis zu zwei Death Kompanie Dreadnoughts: 75 Punkte jeweils"
+            "Füge bis zu zwei Death Kompanie Cybots: 75 Punkte jeweils"
           ],
           "points": 250
         },
         {
-          "name": "Assaults",
-          "units": "Vier Assaults",
+          "name": "Sturmtrupp",
+          "units": "Vier Sturmtrupp",
           "extraUnits": [
-            "Assaults",
+            "Sturmtrupp",
             "Befehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Honor Guards",
             "Predators",
             "Stormraven Transports"
@@ -97,12 +97,12 @@
           "points": 175
         },
         {
-          "name": "Tacticals",
-          "units": "Sechs Tacticals plus transport",
+          "name": "Taktischer Trupp",
+          "units": "Sechs Taktischer Trupp plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Honor Guards",
             "Land Raider Transport",
             "Predators",
@@ -112,11 +112,11 @@
           "points": 275
         },
         {
-          "name": "Assault Terminators",
-          "units": "Vier Assault Terminators",
+          "name": "Assault Terminatoren",
+          "units": "Vier Assault Terminatoren",
           "extraUnits": [
             "Befehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Ersetze eine Assault Terminator with drei Stormravens oder drei Land Raiders: 100 Punkte, oder add zwei Land Raider Redeemers: 100 Punkte"
           ],
           "points": 325
@@ -139,18 +139,18 @@
           "name": "Bikes",
           "units": "Fünf Assault Bikes",
           "extraUnits": [
-            "Attack Bikes",
+            "Trikes",
             "Befehlshaber"
           ],
           "points": 200
         },
         {
-          "name": "Devastators",
-          "units": "Vier Devastators plus transport",
+          "name": "Devastoren",
+          "units": "Vier Devastoren plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Land Raider Transport",
             "Predators",
             "Razorbacks",
@@ -229,13 +229,13 @@
         ]
       },
       {
-        "name": "Assaults",
-        "description": "Füge zwei Assaults to the formation",
+        "name": "Sturmtrupp",
+        "description": "Füge zwei Sturmtrupp to the formation",
         "points": "75 Punkte"
       },
       {
-        "name": "Attack Bikes",
-        "description": "Ersetze any number of Assault Bikes mit einem equal number of Attack Bikes oder Melter Bikes",
+        "name": "Trikes",
+        "description": "Ersetze any number of Assault Bikes mit einem equal number of Trikes oder Melter Bikes",
         "points": "Free"
       },
       {
@@ -243,11 +243,11 @@
         "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
-            "description": "Captain, Librarian",
+            "description": "Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
+            "description": "Ordenspriester",
             "points": "50 Punkte"
           },
           {
@@ -257,13 +257,13 @@
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu zwei Dreadnoughts oder Furioso Dreadnoughts to the formation",
+        "name": "Cybots",
+        "description": "Füge bis zu zwei Cybots oder Furioso Cybots to the formation",
         "points": "50 Punkte jeweils"
       },
       {
         "name": "Honor Guards",
-        "description": "In a formation containing a Oberbefehlshaber character: replace bis zu zwei Assaults oder Tacticals with Sanguinary Guards",
+        "description": "In a formation containing a Oberbefehlshaber character: replace bis zu zwei Sturmtrupp oder Taktischer Trupp with Sanguinary Guards",
         "points": "25 Punkte jeweils"
       },
       {

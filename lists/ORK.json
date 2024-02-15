@@ -211,7 +211,7 @@
           "Shootas"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Aufklärer"
         ]
       },
@@ -269,7 +269,7 @@
           "Synchronisierter Big Shoota"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -283,7 +283,7 @@
           "Shootas"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "Ein unit of Kommandos. Units may Shoot und Firefight while being transported"
@@ -412,7 +412,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Demolisher"
+          "Demolisher Geschütz"
         ],
         "specialRules": [
           "Geländegängig"
@@ -537,7 +537,7 @@
           "Kombat 'Ammer|0-1|"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig",
           "‘Ere we Go"
         ],
@@ -628,7 +628,7 @@
           "Damage Capacity 4",
           "Power Fields 1D3",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The Supa-Stompa's head is blown off, und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
@@ -655,7 +655,7 @@
           "Damage Capacity 4",
           "Power Fields 1D3",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The Supa-Stompa's head is blown off, und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
@@ -676,7 +676,7 @@
           "Damage Capacity 7",
           "Power Fields 1D3+3",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig",
           "Armed with either drei Soopaguns oder zwei Soopaguns und either Supa-Zzap-Gun oder a Mega-Choppa"
         ],
@@ -708,7 +708,7 @@
           "Damage Capacity 7",
           "Power Fields 1D3+3",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
@@ -733,7 +733,7 @@
           "Gottgleiche Maschine",
           "Feuer aufteilen",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig",
           "Armed with either zwei Synchronisierter Soopaguns oder eine Synchronisierter Soopagun und a Lifta-Droppa"
         ],
@@ -768,7 +768,7 @@
           "Gottgleiche Maschine",
           "Feuer aufteilen",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The Great Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
@@ -795,7 +795,7 @@
           "Feuer aufteilen",
           "Geländegängig",
           "Furchtlos",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Mega Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
@@ -876,7 +876,7 @@
         "specialRules": [
           "Damage Capacity 3",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "Ten Killa Kans, Warbikes, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Big Gunz, Warbuggies, Skorchas, Deff Dreads takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported",
@@ -895,7 +895,7 @@
         "specialRules": [
           "Damage Capacity 3",
           "Planetfall[*]",
-          "Thick Rear Armour",
+          "Verstärkte Heckpanzerung",
           "Transport"
         ],
         "notes": "Ten Killa Kans, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Deff Dreads und Mega Dreads takes zwei spaces jeweils. [*] Must start the game loaded into a Blood Axes Kill Kroozer oder Battlekroozer. May only enter the game through Planetfall",
@@ -909,7 +909,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "1D6BP, MW"
+                "Feuerkraft": "1D6BP, MW"
               }
             ]
           }
@@ -923,7 +923,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "1D6BP, MW"
+                "Feuerkraft": "1D6BP, MW"
               }
             ]
           }
@@ -941,7 +941,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "1D6+4BP, MW"
+                "Feuerkraft": "1D6+4BP, MW"
               }
             ]
           }
@@ -959,7 +959,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "1D6+3BP, MW"
+                "Feuerkraft": "1D6+3BP, MW"
               }
             ]
           }
@@ -1180,7 +1180,7 @@
           "Supa-Lobba"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität 4",
           "Geländegängig",
           "Transport"
         ],
@@ -1200,7 +1200,7 @@
           "Goring Tusks"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität 6",
           "Furchtlos",
           "Geländegängig",
           "Transport"
@@ -1220,9 +1220,9 @@
           "Mega-Choppa"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität 4",
           "Furchtlos",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Steam Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       }

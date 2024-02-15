@@ -38,7 +38,7 @@
           "Inspirierend",
           "Regeneration",
           "Beritten",
-          "Skimmer",
+          "Antigrav",
           "Enduring"
         ]
       },
@@ -73,7 +73,7 @@
           "Befehlshaber",
           "Regeneration",
           "Beritten",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -104,7 +104,7 @@
         "specialRules": [
           "Infiltratoren",
           "Regeneration",
-          "Teleport"
+          "Teleportieren"
         ],
         "notes": "'The Unbidden': Albträume may only contest objectives, must start the game in the reserves, und may not use Necron Portals."
       },
@@ -200,7 +200,7 @@
         "specialRules": [
           "Beritten",
           "Regeneration",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -216,7 +216,7 @@
         "specialRules": [
           "Beritten",
           "Regeneration",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -232,7 +232,7 @@
         "specialRules": [
           "Regeneration",
           "Aufklärer",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -248,7 +248,7 @@
         "specialRules": [
           "Regeneration",
           "Beritten",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -264,7 +264,7 @@
         "specialRules": [
           "Furchtlos",
           "Regeneration",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -282,8 +282,8 @@
           "Furchtlos",
           "Living Metal",
           "Portal",
-          "Skimmer",
-          "Teleport"
+          "Antigrav",
+          "Teleportieren"
         ]
       },
       {
@@ -300,8 +300,8 @@
         "specialRules": [
           "Furchtlos",
           "Living Metal",
-          "Skimmer",
-          "Teleport"
+          "Antigrav",
+          "Teleportieren"
         ]
       },
       {
@@ -315,8 +315,8 @@
           "Gauss Flayers Array"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Enduring"
         ],
         "notes": "Transport: 2 Infanterie Units"
@@ -333,8 +333,8 @@
           "Tesla Geschütz"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Enduring"
         ]
       },
@@ -349,8 +349,8 @@
           "Gauss Cannons"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Enduring",
           "Befehlshaber",
           "Anführer"
@@ -368,8 +368,8 @@
           "Gauss Flayers Array"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Enduring"
         ]
       },
@@ -422,7 +422,7 @@
           "Regeneration",
           "Furchtlos",
           "Machine Spirit",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -461,7 +461,7 @@
           "Furchtlos",
           "Machine Spirit",
           "Living Metal",
-          "Teleport",
+          "Teleportieren",
           "Enduring"
         ],
         "crit": "The Pylon is destroyed. All units within 5cm suffer a hit on a roll of 4+."
@@ -482,8 +482,8 @@
           "Furchtlos",
           "Portal",
           "Living Metal",
-          "Skimmer",
-          "Teleport",
+          "Antigrav",
+          "Teleportieren",
           "Transport",
           "Enduring"
         ],
@@ -506,7 +506,7 @@
           "Support Craft",
           "Enduring"
         ],
-        "crit": "The Æonic Orb is destroyed. All units within 5cm suffer a hit."
+        "crit": "The Æonic Orb is destroyed. Alle Einheiten innerhalb von 5 cm erleiden einen Treffer."
       },
       {
         "name": "Abattoir",
@@ -524,7 +524,7 @@
           "Furchtlos",
           "Living Metal",
           "Portal",
-          "Skimmer",
+          "Antigrav",
           "Enduring"
         ],
         "crit": "The Abattoir's Portal is destroyed. Subsequent critical hits cause eine additional damage."

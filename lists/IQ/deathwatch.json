@@ -8,7 +8,7 @@
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Deathwatch detachments und Aircraft formations.",
   "specialRules": [
     "Ad Hoc Detachments",
-    "Teleport Homer",
+    "Telemetrieempfänger",
     "Wings of the Sky Angel"
   ],
   "usage": [
@@ -32,15 +32,15 @@
       "units": [
         "Watch Befehlshaber",
         "Watch Sergeant",
-        "Chaplain",
-        "Librarian",
-        "Deathwatch Tacticals",
-        "Deathwatch Assaults",
+        "Ordenspriester",
+        "Scriptor",
+        "Deathwatch Taktischer Trupp",
+        "Deathwatch Sturmtrupp",
         "Deathwatch Black Shields",
-        "Deathwatch Devastators",
-        "Deathwatch Terminators",
-        "Deathwatch Dreadnought",
-        "Deathwatch Attack Bike",
+        "Deathwatch Devastoren",
+        "Deathwatch Terminatoren",
+        "Deathwatch Cybot",
+        "Deathwatch Trike",
         "Deathwatch Land Speeder Tornado",
         "Deathwatch Land Raider",
         "Corvus Blackstar Dropship",
@@ -85,10 +85,10 @@
       "formations": [
         {
           "name": "Deathwatch Kill-Team",
-          "units": "Ein Watch Sergeant, drei Deathwatch Tacticals",
+          "units": "Ein Watch Sergeant, drei Deathwatch Taktischer Trupp",
           "extraUnits": [
-            "Ersetze drei Deathwatch Tacticals with drei Deathwatch Black Shields: 25 Punkte",
-            "Ersetze drei Deathwatch Tacticals with drei Deathwatch Devastators: 50 Punkte",
+            "Ersetze drei Deathwatch Taktischer Trupp with drei Deathwatch Black Shields: 25 Punkte",
+            "Ersetze drei Deathwatch Taktischer Trupp with drei Deathwatch Devastoren: 50 Punkte",
             "Oberbefehlshaber",
             "Deathwatch Specialists",
             "Deathwatch Support"
@@ -97,7 +97,7 @@
         },
         {
           "name": "Deathwatch Attack",
-          "units": "Ein Watch Sergeant, drei Deathwatch Attack Bikes, eine Deathwatch Landspeeder Tornado",
+          "units": "Ein Watch Sergeant, drei Deathwatch Trikes, eine Deathwatch Landspeeder Tornado",
           "extraUnits": [
             "Oberbefehlshaber",
             "Deathwatch Specialists"
@@ -105,8 +105,8 @@
           "points": 175
         },
         {
-          "name": "Deathwatch Assaults",
-          "units": "Ein Watch Sergeant, drei Deathwatch Assaults",
+          "name": "Deathwatch Sturmtrupp",
+          "units": "Ein Watch Sergeant, drei Deathwatch Sturmtrupp",
           "extraUnits": [
             "Füge eine Deathwatch Landspeeder Tornado: 25 Punkte",
             "Oberbefehlshaber",
@@ -115,8 +115,8 @@
           "points": 175
         },
         {
-          "name": "Deathwatch Terminators",
-          "units": "Ein Watch Sergeant, zwei Deathwatch Terminators",
+          "name": "Deathwatch Terminatoren",
+          "units": "Ein Watch Sergeant, zwei Deathwatch Terminatoren",
           "extraUnits": [
             "Oberbefehlshaber",
             "Deathwatch Specialists",
@@ -210,15 +210,15 @@
       },
       {
         "name": "Deathwatch Specialists",
-        "description": "Füge a Librarian oder Chaplain to the formation.",
+        "description": "Füge a Scriptor oder Ordenspriester to the formation.",
         "points": [
-          "Librarian: 25 Punkte",
-          "Chaplain: 50 Punkte"
+          "Scriptor: 25 Punkte",
+          "Ordenspriester: 50 Punkte"
         ]
       },
       {
         "name": "Deathwatch Support",
-        "description": "Füge either eine Deathwatch Dreadnought oder a Land Raider Crusader to the formation.",
+        "description": "Füge either eine Deathwatch Cybot oder a Land Raider Crusader to the formation.",
         "points": "50 Punkte"
       }
     ]

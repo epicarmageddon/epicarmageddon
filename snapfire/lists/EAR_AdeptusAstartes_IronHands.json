@@ -4,11 +4,11 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"IRON HANDS CORE DETACHMENTS", "formations":[
-			{"id":500, "name":"Dreadnought Clan", "pts":200, "Erweiterungen":[20,21,22,23,24, 56,57,58,59, 31,32,33,42,43,44,45,46]},
+			{"id":500, "name":"Cybot Clan", "pts":200, "Erweiterungen":[20,21,22,23,24, 56,57,58,59, 31,32,33,42,43,44,45,46]},
 			{"id":501, "name":"Mechanisierte Clan", "pts":275,	"Erweiterungen":[49, 56,57,58,59, 31,32,33,42,43,44,45,46]}
 		]},
 		{"name":"IRON HANDS SUPPORT DETACHMENTS <br/> Max 2 pro Core Detachment", "formations":[
-			{"id":510, "name":"Dreadnought Talon", "pts":50, "units":"plus transport", "Erweiterungen":[20,21,22,23,24]},
+			{"id":510, "name":"Cybot Talon", "pts":50, "units":"plus transport", "Erweiterungen":[20,21,22,23,24]},
 			{"id":511, "name":"Land Raiders", "pts":125,"Erweiterungen":[40,39,41, 56,57,58,59, 50]},
 			{"id":513, "name":"Predators", "pts":250, "Erweiterungen":[56,57,58,59]},
 			{"id":514, "name":"Scouts", "pts":200, "units":"3 Scouts", "Erweiterungen":[]},
@@ -30,29 +30,29 @@
 		{"id":2, "name":"Techmarine", 	"pts":25},
 		{"id":3, "name":"Iron Hands Supreme Commander",	"pts":75},
 
-		{"id":10, "name":"4 Tacticals plus transport",				"pts":0},
-		{"id":11, "name":"4 Iron Hands Devastators plus transport",			"pts":50},
+		{"id":10, "name":"4 Taktischer Trupp plus transport",				"pts":0},
+		{"id":11, "name":"4 Iron Hands Devastoren plus transport",			"pts":50},
 
-		{"id":12, "name":"3 Razorbacks (Twin Lascannon)",			"pts":0},
-		{"id":13, "name":"2 Razorbacks (Twin Lascannon), Razorback (Twin Heavy Bolter)",			"pts":0},
-		{"id":14, "name":"Razorbacks (Twin Lascannon), 2 Razorbacks (Twin Heavy Bolter)",			"pts":0},
-		{"id":15, "name":"3 Razorbacks (Twin Heavy Bolter)",			"pts":0},
-		{"id":16, "name":"3 Dreadnoughts",			"pts":75},
-		{"id":17, "name":"3 Hellfire Dreadnoughts",			"pts":75},
-		{"id":18, "name":"3 Siege Dreadnoughts",			"pts":75},
+		{"id":12, "name":"3 Razorbacks (Synchronisierte Laserkanone)",			"pts":0},
+		{"id":13, "name":"2 Razorbacks (Synchronisierte Laserkanone), Razorback (Synchronisierte Heavy Bolter)",			"pts":0},
+		{"id":14, "name":"Razorbacks (Synchronisierte Laserkanone), 2 Razorbacks (Synchronisierte Heavy Bolter)",			"pts":0},
+		{"id":15, "name":"3 Razorbacks (Synchronisierte Heavy Bolter)",			"pts":0},
+		{"id":16, "name":"3 Cybots",			"pts":75},
+		{"id":17, "name":"3 Hellfire Cybots",			"pts":75},
+		{"id":18, "name":"3 Siege Cybots",			"pts":75},
 
 
-		{"id":20, "name":"Dreadnought",				"pts":50},
-		{"id":21, "name":"Hellfire Dreadnought",	"pts":50},
-		{"id":22, "name":"Siege Dreadnought",		"pts":50},
-		{"id":23, "name":"Ironclad Dreadnought",	"pts":75},
+		{"id":20, "name":"Cybot",				"pts":50},
+		{"id":21, "name":"Hellfire Cybot",	"pts":50},
+		{"id":22, "name":"Siege Cybot",		"pts":50},
+		{"id":23, "name":"Ironclad Cybot",	"pts":75},
 
-		{"id":24, "name":"Venerable Dreadnought (add to a Dreadnought of any configuration)",	"pts":50},
+		{"id":24, "name":"Venerable Cybot (add to a Cybot of any configuration)",	"pts":50},
 
 		{"id":30, "name":"May deploy in Drop Pods",				"pts":25},
 
-		{"id":31, "name":"Razorback (Twin Lascannon)",			"pts":25},
-		{"id":32, "name":"Razorback (Twin Heavy Bolter)",			"pts":25},
+		{"id":31, "name":"Razorback (Synchronisierte Laserkanone)",			"pts":25},
+		{"id":32, "name":"Razorback (Synchronisierte Heavy Bolter)",			"pts":25},
 
 		{"id":33, "name":"May replace Rhinos with Siege Rhinos",			"pts":25},
 
@@ -96,7 +96,7 @@
 
         {"id":80,"name":"Turbo-Laser Destructor","pts":0},
         {"id":81,"name":"Gatling Blaster","pts":0},
-	    {"id":83,"name":"Titan Power Fist","pts":0},
+	    {"id":83,"name":"Titan Energiefaust","pts":0},
         {"id":84,"name":"Laser Burner","pts":0},
 	    {"id":85,"name":"Melta Cannon","pts":0},
         {"id":86,"name":"Titan Chainfist","pts":0},

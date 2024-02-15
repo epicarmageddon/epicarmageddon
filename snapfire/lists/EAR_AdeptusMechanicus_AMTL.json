@@ -59,7 +59,7 @@
 
 	    {"id":40,"name":"Gatling Blaster","pts":0},
         {"id":41,"name":"Turbo-Laser Destructor","pts":0},
-	    {"id":42,"name":"Titan Power Fist","pts":0},
+	    {"id":42,"name":"Titan Energiefaust","pts":0},
         {"id":43,"name":"Laser Burner","pts":0},
         {"id":44,"name":"Titan Plasma Cannon","pts":0},
         {"id":45,"name":"Volcano Cannon","pts":0},
@@ -84,7 +84,7 @@
 
         {"id":80,"name":"Turbo-Laser Destructor","pts":0},
         {"id":81,"name":"Gatling Blaster","pts":0},
-	    {"id":83,"name":"Titan Power Fist","pts":0},
+	    {"id":83,"name":"Titan Energiefaust","pts":0},
         {"id":84,"name":"Laser Burner","pts":0},
 	    {"id":85,"name":"Melta Cannon","pts":0},
         {"id":86,"name":"Titan Chainfist","pts":0},
@@ -107,7 +107,7 @@
 		{"id":100, "name":"2 Knight-Paladins (Rapid Fire Battle Cannon, Reaper Chainsword)",													"pts":0},
 		{"id":101, "name":"2 Knight-Errants (Thermal Cannon, Reaper Chainsword)",											         				"pts":0},
 		{"id":102, "name":"2 Knight-Crusaders (Rapid Fire Battle Cannon, Gatling Cannon)",							"pts":0},
-		{"id":103, "name":"2 Knight-Gallants (Gauntlet, Reaper Chainsword, Twin Icarus Autocannon)",							             			"pts":0},
+		{"id":103, "name":"2 Knight-Gallants (Gauntlet, Reaper Chainsword, Synchronisierte Icarus Autocannon)",							             			"pts":0},
 		{"id":104, "name":"2 Knight-Wardens (Gatling Cannon, Reaper Chainsword, Ironstorm Missile Pod)",											     "pts":0},
 
     	{"id":130, "name":"Ordinatus Minoris (Heavy Icarus Array)",	"pts":125},

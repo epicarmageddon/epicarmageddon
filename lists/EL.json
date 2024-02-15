@@ -17,7 +17,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Inspirierend"
         ]
       },
@@ -31,10 +31,10 @@
         "weapons": [
         ],
         "specialRules": [
-          "Jump Packs",
-          "Teleport",
+          "Sprungmodule",
+          "Teleportieren",
           "Oberbefehlshaber",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Inspirierend"
         ]
       },
@@ -46,7 +46,7 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -80,7 +80,7 @@
         "specialRules": [
           "Oberbefehlshaber",
           "Farsight",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "The Seer Council can be used to summon the Avatar."
       },
@@ -110,7 +110,7 @@
           "Inspirierend",
           "Furchtlos",
           "Befehlshaber",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Geländegängig"
         ],
         "crit": "The Avatar is destroyed. All Craftworld Eldar formations (friend und foe) mit einemline of sight to the Avatar receive eine Blast Marker."
@@ -144,9 +144,9 @@
         "specialRules": [
           "Befehlshaber",
           "Farsight",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Beritten",
-          "Skimmer"
+          "Antigrav"
         ],
         "notes": "The Beritten Farseer can be used to summon the Avatar."
       },
@@ -201,7 +201,7 @@
           "Vibro Geschütz|0-1",
           "Support D-Geschütz|0-1"
         ],
-        "notes": "Armed with either a Vibro Geschütz oder a Support D-Geschütz"
+        "notes": "Entweder mit Vibro Geschütz oder a Support D-Geschütz"
       },
       {
         "name": "Eldar Rangers",
@@ -231,7 +231,7 @@
         ],
         "specialRules": [
           "Aufklärers",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -247,7 +247,7 @@
         "specialRules": [
           "Aufklärer",
           "Geländegängig",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -262,7 +262,7 @@
         ],
         "specialRules": [
           "Beritten",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -277,7 +277,7 @@
         ],
         "specialRules": [
           "Beritten",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -292,8 +292,8 @@
         ],
         "specialRules": [
           "Beritten",
-          "Skimmer",
-          "Invulnerable Save"
+          "Antigrav",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -374,7 +374,7 @@
         ],
         "specialRules": [
           "Beritten",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -388,9 +388,9 @@
           "Lasblasters"
         ],
         "specialRules": [
-          "Jump packs",
+          "Sprungmodule",
           "Aufklärer",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -404,8 +404,8 @@
           "Prism Rifles"
         ],
         "specialRules": [
-          "Teleport",
-          "Jump packs"
+          "Teleportieren",
+          "Sprungmodule"
         ]
       },
       {
@@ -420,7 +420,7 @@
         ],
         "specialRules": [
           "First Strike",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -435,7 +435,7 @@
         "specialRules": [
           "Furchtlos"
         ],
-        "notes": "Counts as a unit of Wraithguards für the purposes of being transported."
+        "notes": "Counts as a unit of Wraithguards für die Transport Regel."
       },
       {
         "name": "Wraithguards",
@@ -476,7 +476,7 @@
           "Scatter Laser"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -490,8 +490,8 @@
           "Scatter Laser"
         ],
         "specialRules": [
-          "Skimmer",
-          "Invulnerable Save"
+          "Antigrav",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -506,8 +506,8 @@
           "Synchronisierter Splinter Rifle"
         ],
         "specialRules": [
-          "Skimmer",
-          "Transport may carry eine unit of INF without Jump Packs oder Beritten."
+          "Antigrav",
+          "Transport may carry eine unit of INF ohne Sprungmodule oder Beritten Eigenschaft transportieren."
         ]
       },
       {
@@ -537,7 +537,7 @@
           "Synchronisierter Hornet Pulse Laser"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Aufklärer"
         ]
       },
@@ -552,9 +552,9 @@
           "Synchronisierter Hornet Pulse Laser"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Aufklärer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -572,7 +572,7 @@
           "Oberbefehlshaber",
           "Farsight",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "notes": "The Wraithseer can be used to summon the Avatar."
@@ -585,12 +585,12 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Eldar Power Fist",
+          "Eldar Energiefaust",
           "Synchronisierter Bright Lanze"
         ],
         "specialRules": [
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -605,8 +605,8 @@
           "Synchronisierter Shuriken Geschütz"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Skimmer",
+          "Verstärkte Panzerung",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May carry bis zu zwei of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades oder Wraithguards. Wraithblades und Wraithguards take zwei spaces jeweils."
@@ -623,7 +623,7 @@
           "Scatter Laser"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May carry bis zu eine of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
@@ -639,7 +639,7 @@
           "Prism Geschütz"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -653,7 +653,7 @@
           "Warp Hunter D-Geschütz"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -667,7 +667,7 @@
           "Night Spinner"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -681,7 +681,7 @@
           "Firestorm Batterie"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May carry bis zu eine of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
@@ -698,10 +698,10 @@
           "Shuriken Geschütz"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
-          "Reinforced Armour",
+          "Schadenskapazität 2",
+          "Verstärkte Panzerung",
           "Holofield (5+)",
-          "Skimmer"
+          "Antigrav"
         ],
         "crit": "The Lynx is destroyed. Any units within 5cm take a hit on 6+."
       },
@@ -718,10 +718,10 @@
           "Scatter Laser|2"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
-          "Reinforced Armour",
+          "Schadenskapazität 3",
+          "Verstärkte Panzerung",
           "Holofield (4+)",
-          "Skimmer"
+          "Antigrav"
         ],
         "crit": "The Scorpion is destroyed. Any units within 5cm take a hit on 6+."
       },
@@ -738,10 +738,10 @@
           "Shuriken Geschütz"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
-          "Reinforced Armour",
+          "Schadenskapazität 3",
+          "Verstärkte Panzerung",
           "Holofield (4+)",
-          "Skimmer"
+          "Antigrav"
         ],
         "crit": "The Cobra is destroyed. Any units within 5cm take a hit on 6+."
       },
@@ -757,11 +757,11 @@
           "Scatter Laser"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
-          "Reinforced Armour",
+          "Schadenskapazität 3",
+          "Verstärkte Panzerung",
           "Holofield (4+)",
           "Webway Portal",
-          "Skimmer"
+          "Antigrav"
         ],
         "crit": "The Storm Serpent is destroyed. Any units within 5cm take a hit on 6+."
       },
@@ -776,9 +776,9 @@
           "Void Spinner"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
-          "Reinforced Armour",
-          "Skimmer"
+          "Schadenskapazität 3",
+          "Verstärkte Panzerung",
+          "Antigrav"
         ],
         "crit": "The Void Spinner is destroyed. Any units within 5cm take a hit on 6+."
       },
@@ -797,7 +797,7 @@
           "Holofield (3+)",
           "Furchtlos",
           "Geländegängig",
-          "Teleport"
+          "Teleportieren"
         ],
         "notes": "Skathach Wraithknights are armed with either a Synchronisierter Deathshroud Geschütz oder Synchronisierter Inferno Lanze."
       },
@@ -816,11 +816,11 @@
         ],
         "specialRules": [
           "Holofield (3+)",
-          "Reinforced Armour (Scattershield)",
+          "Verstärkte Panzerung (Scattershield)",
           "Furchtlos",
           "Geländegängig"
         ],
-        "notes": "Must be armed with either Synchronisierter Heavy Wraithcannons, Ghostglaive und Scattershield, oder a Suncannon. Spec[*]: Scattershield grants the model Reinforced Armour."
+        "notes": "Must be armed with either Synchronisierter Heavy Wraithcannons, Ghostglaive und Scattershield, oder a Suncannon. Spec[*]: Scattershield grants the model Verstärkte Panzerung."
       },
       {
         "name": "Revenant Titan",
@@ -834,7 +834,7 @@
           "Eldar Raketenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität 3",
           "Furchtlos",
           "Holofield (3+)",
           "Jump Pack",
@@ -851,15 +851,15 @@
         "ff": 3,
         "weapons": [
           "Titan Pulsar|1-2|",
-          "Eldar Titan Power Fist|0-1|",
+          "Eldar Titan Energiefaust|0-1|",
           "Synchronisierter Eldar Raketenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität 6",
           "Furchtlos",
           "Holofield (3+)",
           "Anführer",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
@@ -878,17 +878,17 @@
           "Star Pulsar",
           "Titan Vibro Geschütz",
           "Titan D-Geschütz",
-          "Eldar Titan Power Fist|0-1|",
+          "Eldar Titan Energiefaust|0-1|",
           "Ashuna-Valcry'le|0-1|",
           "SCHULTER",
           "Synchronisierter Eldar Raketenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität 6",
           "Furchtlos",
           "Holofield (3+)",
           "Anführer",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
@@ -902,17 +902,17 @@
         "ff": 3,
         "weapons": [
           "Psychic Lanze",
-          "Eldar Titan Power Fist",
+          "Eldar Titan Energiefaust",
           "Synchronisierter Eldar Raketenwerfer|2|"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität 6",
           "Furchtlos",
           "Holofield (3+)",
           "Inspirierend",
           "Farsight",
           "Anführer",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The Warlock Titan’s Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."

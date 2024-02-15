@@ -12,7 +12,7 @@
 			{"id":501, "name":"Night Raptor Kompanie",	"pts":45,  "Erweiterungen":[20,15]}
 		]},
 		{"name":"NIGHT LORDS ELITE FORMATIONS <br/> Max 1 für jeweils Core formation", "formations":[
-			{"id":510, "name":"Terminator Kompanie", "pts":275, "units":"4 Atramentar Terminators", "Erweiterungen":[15,24,42,46]},
+			{"id":510, "name":"Terminator Kompanie", "pts":275, "units":"4 Atramentar Terminatoren", "Erweiterungen":[15,24,42,46]},
 			{"id":512, "name":"Warp Talon Cult", "pts":225, "units":"3 Warp Talons, Daemonic Pact", "Erweiterungen":[]},
 			{"id":511, "name":"Chosen", "pts":150, "units":"4 Night Lords Chosen", "Erweiterungen":[]}
 		]},
@@ -20,7 +20,7 @@
 			{"id":519, "name":"Destroyers", "pts":175, "units":"4 Chaos Destroyers", "Erweiterungen":[]},
 			{"id":520, "name":"Terror Kompanie", "pts":125,  "units":"4 Chaos Assault Marines", "Erweiterungen":[15,46,42]},
 			{"id":522, "name":"Support Kompanie", "pts":250,  "units":"6 Chaos Space Marines", "Erweiterungen":[15,44]},
-			{"id":521, "name":"Attack Kompanie",	"pts":250, "units":"6 Chaos Attack Bikes", "Erweiterungen":[15,44]}
+			{"id":521, "name":"Attack Kompanie",	"pts":250, "units":"6 Chaos Trikes", "Erweiterungen":[15,44]}
 		]},
 		{"name":"NIGHT LORDS STATIC DEFENSES & NAVY <br/> Max 33% <br/> Max 1 Tarantula formation für jeweils Chosen formation", "formations":[
 			{"id":529, "name":"Tarantula",	"pts":125, "units":"4 Chaos Tarantulas", "Erweiterungen":[]},
@@ -48,7 +48,7 @@
 		{"id":25, "name":"2 Chaos Rhinos", 	"pts":25},
 		{ "id":26, "name":"4 Chaos Tarantulas","pts":50 },
 
-		{"id":42, "name":"Night Lords Dreadnought", "pts":50},
+		{"id":42, "name":"Night Lords Cybot", "pts":50},
 		{"id":44, "name":"Chaos Stalker", "pts":50},
 		{"id":46, "name":"Dreadclaw", 	"pts":5},
 

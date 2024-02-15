@@ -71,7 +71,7 @@
       {"id": 54, "name": "Nightwing Interceptors", "pts": 75},
 
       {"id": 60, "name": "Phantom Titan (2 Titan Pulsar)", "pts": 0},
-      {"id": 61, "name": "Phantom Titan (Titan Pulsar und Eldar Titan Power Fist)", "pts": 0}
+      {"id": 61, "name": "Phantom Titan (Titan Pulsar und Eldar Titan Energiefaust)", "pts": 0}
    ],
    "formationConstraints": [
       {"max": 1, "from": [507]},

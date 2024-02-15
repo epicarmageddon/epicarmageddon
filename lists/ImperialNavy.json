@@ -102,7 +102,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "3BP, MW"
+                "Feuerkraft": "3BP, MW"
               }
             ]
           },
@@ -117,7 +117,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "8BP, MW"
+                "Feuerkraft": "8BP, MW"
               }
             ]
           }

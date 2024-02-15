@@ -15,7 +15,7 @@
           "Ethereal",
           "Inspirierend",
           "Anführer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -180,7 +180,7 @@
           "Synchronisierter Fusion Blaster"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Tau Jet Packs"
         ]
       },
@@ -196,7 +196,7 @@
           "Synchronisierter Fusion Blaster"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Markerlights",
           "Tau Jet Packs"
         ]
@@ -213,11 +213,11 @@
         ],
         "specialRules": [
           "First Strike",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Markerlights",
           "Aufklärers",
           "Tau Jet Packs",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -232,11 +232,11 @@
         ],
         "specialRules": [
           "First Strike",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Markerlights",
           "Aufklärers",
           "Tau Jet Packs",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -251,7 +251,7 @@
         ],
         "specialRules": [
           "Aufklärer",
-          "Teleport",
+          "Teleportieren",
           "Tau Jet Packs",
           "Counts as Gun Drone für the purpose of being transported."
         ]
@@ -267,7 +267,7 @@
           "Scharfschütze Drone"
         ],
         "specialRules": [
-          "Teleport",
+          "Teleportieren",
           "Markerlights",
           "Aufklärers",
           "Counts as Fire Warrior für the purpose of being transported."
@@ -283,7 +283,7 @@
           "Neutron Blasters"
         ],
         "specialRules": [
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -368,7 +368,7 @@
           "Phased Ion Guns"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig",
           "Tau Jet Pack"
         ]
@@ -386,11 +386,11 @@
         ],
         "specialRules": [
           "First Strike",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Markerlights",
           "Tau Jet Pack",
-          "Teleport",
+          "Teleportieren",
           "Geländegängig"
         ]
       },
@@ -406,7 +406,7 @@
           "Smart Rakete System"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -422,7 +422,7 @@
           "Seeker Raketen"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -439,7 +439,7 @@
           "Coordinated Fire",
           "Markerlights",
           "Aufklärer",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -454,7 +454,7 @@
           "Seeker Raketen"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May transport zwei units of Fire Warriors, Pathfinders."
@@ -470,7 +470,7 @@
           "Synchronisierter Light Railgun"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May transport eine unit of Gun Drones."
@@ -488,7 +488,7 @@
           "Seeker Raketen"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May transport eine unit of Gun Drones."
@@ -506,7 +506,7 @@
           "Seeker Raketen"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May transport eine unit of Gun Drones."
@@ -524,7 +524,7 @@
           "Seeker Raketen"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -540,7 +540,7 @@
           "Seeker Raketen"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -556,7 +556,7 @@
           "Hunter Raketen|2|"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Markerlights"
         ]
       },
@@ -571,8 +571,8 @@
           "Pulse Submunition Cannons"
         ],
         "specialRules": [
-          "Invulnerable Save",
-          "Reinforced Armour",
+          "Unmodifizierter Rettungswurf",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -606,9 +606,9 @@
           "Ionic Discharge Geschütz"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Tau Jet Pack",
-          "Thick Rear Armour",
+          "Verstärkte Heckpanzerung",
           "Geländegängig"
         ]
       },
@@ -630,8 +630,8 @@
           "Velocity Tracker"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
-          "Invulnerable Save",
+          "Schadenskapazität 3",
+          "Unmodifizierter Rettungswurf",
           "Geländegängig"
         ],
         "crit": "The Stormsurge takes einen zusätzlichen point of damage."
@@ -652,12 +652,12 @@
           "Pulse Ordnance Multi-Driver|0-1|FwA"
         ],
         "specialRules": [
-          "Damage Capacity: 5",
+          "Schadenskapazität 5",
           "Furchtlos",
           "Tau Deflector Shield",
           "Geländegängig"
         ],
-        "notes": "Armed with either a Nexus Rakete Array, Heavy Railcannon, oder Pulse Ordnance Multi Driver.",
+        "notes": "Entweder mit Nexus Rakete Array, Heavy Railcannon, oder Pulse Ordnance Multi Driver.",
         "crit": "The Tau Deflector Shield is knocked offline und may not be used für the remainder of the game. Subsequent critical hits cause einen zusätzlichen point of damage."
       },
       {
@@ -674,16 +674,16 @@
           "Synchronisierter Burst Geschütz|4|"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität 6",
           "Furchtlos",
           "Markerlights",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Support Craft",
           "Tau Deflector Shield",
           "Transport"
         ],
-        "notes": "May transport zwölf Fire Warriors, Pathfinders, XV15 Stealth Battlesuits, XV25 Stealth Battlesuits, Gun Drones, Kroot Warriors, Kroot Master Shapers und Kroot Hounds. Krootox, XV8 Crisis, XV9-04 Hazard, XV88 Broadside und XV95 Ghostkeel Battlesuits counts as zwei units jeweils. In addition may carry acht Piranha und Tetra. Devilfish, Hammerhead und Sky Ray counts as zwei units jeweils.",
+        "notes": "May transport zwölf Fire Warriors, Pathfinders, XV15 Stealth Battlesuits, XV25 Stealth Battlesuits, Gun Drones, Kroot Warriors, Kroot Master Shapers und Kroot Hounds. Krootox, XV8 Crisis, XV9-04 Hazard, XV88 Broadside und XV95 Ghostkeel Battlesuits counts as zwei Einheiten. In addition may carry acht Piranha und Tetra. Devilfish, Hammerhead und Sky Ray counts as zwei Einheiten.",
         "crit": "The Tau Deflector Shield is knocked offline und may not be used für the remainder of the game. Subsequent critical hits cause einen zusätzlichen point of damage."
       }
     ]

@@ -70,7 +70,7 @@
       {"id": 62, "name": "Wraithseer", "pts": 100},
 
       {"id":70, "name":"2x Titan Pulsar",	"pts":0},
-      {"id":71, "name":"Titan Pulsar, Titan Power Fist",	"pts":0}
+      {"id":71, "name":"Titan Pulsar, Titan Energiefaust",	"pts":0}
 
    ],
    "formationConstraints": [

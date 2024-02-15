@@ -10,8 +10,8 @@
 		
 		{"name":"ADEPTUS CUSTODES ELITE DETACHMENTS ( Bis zu 1 für jeweils Core Detachment)", "formations":[
 			{"id":510, "name":"Warden Wing",		"pts":325, "units":" 5 Wardens", "Erweiterungen":[12,10,11,24,25,22,23]},
-			{"id":511, "name":"Dreadnaught Wing",		"pts":0, "Erweiterungen":[24,25]},
-			{"id":512, "name":"Aquilon Custodians",		"pts":375, "units":"Vier Aquilon Terminators", "Erweiterungen":[12,10,11,24,25,22,23]}
+			{"id":511, "name":"Cybot Wing",		"pts":0, "Erweiterungen":[24,25]},
+			{"id":512, "name":"Aquilon Custodians",		"pts":375, "units":"Vier Aquilon Terminatoren", "Erweiterungen":[12,10,11,24,25,22,23]}
 		]},
 
 		{"name":"ADEPTUS CUSTODES SUPPORT DETACHMENTS ( Bis zu 2 für jeweils Core Detachment)", "formations":[
@@ -37,8 +37,8 @@
 		{"id":22, "name":"Venerable Land Raider",		"pts":50},
 		{"id":23, "name":"Coronus",				"pts":50},
 		
-		{"id":24, "name":"Contemptor Dreadnought Achilles",	"pts":100},
-		{"id":25, "name":"Telemon Heavy Dreadnought",		"pts":100},
+		{"id":24, "name":"Contemptor Cybot Achilles",	"pts":100},
+		{"id":25, "name":"Telemon Heavy Cybot",		"pts":100},
 
 		{"id":26, "name":"2 Venerable Land Raiders",		"pts":0},
 		{"id":27, "name":"2 Coronus",				"pts":0}

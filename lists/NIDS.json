@@ -13,7 +13,7 @@
         "specialRules": [
           "Inspirierend",
           "Anführer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -30,7 +30,7 @@
           "Inspirierend",
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer"
         ]
@@ -49,7 +49,7 @@
           "Inspirierend",
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
           "Jump Pack"
@@ -71,7 +71,7 @@
           "Inspirierend",
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer"
         ]
@@ -92,7 +92,7 @@
           "Inspirierend",
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
           "Jump Pack"
@@ -112,7 +112,7 @@
         "specialRules": [
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer"
         ]
@@ -131,7 +131,7 @@
         "specialRules": [
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Befehlshaber",
           "Anführer",
           "Jump Pack"
@@ -165,7 +165,7 @@
         "specialRules": [
           "Synapse",
           "Furchtlos",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -181,7 +181,7 @@
         "specialRules": [
           "Synapse",
           "Furchtlos",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -250,7 +250,7 @@
         ],
         "specialRules": [
           "Gaunts",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -295,8 +295,8 @@
           "First Strike",
           "Infiltratoren",
           "Aufklärer",
-          "Invulnerable Save",
-          "Teleport"
+          "Unmodifizierter Rettungswurf",
+          "Teleportieren"
         ]
       },
       {
@@ -327,7 +327,7 @@
           "Grasping Talons"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -343,7 +343,7 @@
           "Grasping Talons"
         ],
         "specialRules": [
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -370,7 +370,7 @@
           "Bio-Plasmic Geschütz"
         ],
         "specialRules": [
-            "Reinforced Armour"
+            "Verstärkte Panzerung"
         ]
       },
       {
@@ -385,7 +385,7 @@
           "Massive Klauen"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -400,10 +400,10 @@
           "Large Klauen"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport bis zu vier units of Termagants, Hormagaunts, Gargoyles und Raveners. Biovores, Tyranid Warriors und Zoanthropes counts as eine und a half units jeweils, rounded up."
+        "notes": "May transport bis zu vier units of Termagants, Hormagaunts, Gargoyles und Raveners. Biovores, Tyranid Warriors und Zoanthropes counts as anderthalb Einheiten, rounded up."
       },
       {
         "name": "Barbed Carnifex",
@@ -417,7 +417,7 @@
           "Klauen"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -432,7 +432,7 @@
           "Large Klauen"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -450,7 +450,7 @@
         "specialRules": [
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport",
           "Swarm (2)"
         ],
@@ -469,7 +469,7 @@
           "Gaunt Pouch"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport",
           "Swarm (1)"
         ],
@@ -487,10 +487,10 @@
           "Massive Scything Talons"
         ],
         "specialRules": [
-          "Damage Capacity: 4",
+          "Schadenskapazität 4",
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Regeneration",
           "Tunneler"
         ],
@@ -510,7 +510,7 @@
         "specialRules": [
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Tunneler"
         ]
       },
@@ -526,7 +526,7 @@
           "Large Klauen"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Tunneler"
         ]
       },
@@ -542,11 +542,11 @@
           "Large Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität 3",
           "Synapse",
           "Furchtlos",
-          "Skimmer",
-          "Reinforced Armour",
+          "Antigrav",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May transport bis zu vier units of Gargoyles.",
@@ -566,11 +566,11 @@
           "Gaunt Pouch"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität 3",
           "Synapse",
           "Furchtlos",
-          "Skimmer",
-          "Reinforced Armour",
+          "Antigrav",
+          "Verstärkte Panzerung",
           "Transport",
           "Swarm (1)"
         ],
@@ -589,10 +589,10 @@
           "Large Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität 3",
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Hierodule Prime is killed."
       },
@@ -608,8 +608,8 @@
           "Large Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
-          "Reinforced Armour"
+          "Schadenskapazität 3",
+          "Verstärkte Panzerung"
         ],
         "crit": "The Hierodule is killed."
       },
@@ -625,10 +625,10 @@
           "Massive Scything Talons"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität 3",
           "Synapse",
           "Furchtlos",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Scythed Hierodule Prime is killed."
       },
@@ -644,8 +644,8 @@
           "Massive Scything Talons"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
-          "Reinforced Armour"
+          "Schadenskapazität 3",
+          "Verstärkte Panzerung"
         ],
         "crit": "The Scythed Hierodule is killed."
       },
@@ -660,7 +660,7 @@
           "Ripper Swarms"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität 3",
           "Synapse",
           "Furchtlos",
           "Regeneration"
@@ -681,14 +681,14 @@
           "Massive Scything Talons"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität 6",
           "Hive Mind Locus",
           "Synapse",
           "Furchtlos",
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Regeneration"
         ],
         "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
@@ -707,14 +707,14 @@
           "Gaunt Pouch"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität 6",
           "Hive Mind Locus",
           "Synapse",
           "Furchtlos",
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Regeneration",
           "Transport",
           "Swarm (3)"
@@ -735,9 +735,9 @@
           "Massive Scything Talons"
         ],
         "specialRules": [
-          "Damage Capacity: 5",
+          "Schadenskapazität 5",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Regeneration"
         ],
         "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
@@ -758,9 +758,9 @@
           "Monströse Klauen"
         ],
         "specialRules": [
-          "Damage Capacity: 7",
+          "Schadenskapazität 7",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Regeneration"
         ],
         "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",

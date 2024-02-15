@@ -5,16 +5,16 @@
 
 	"sections":[
 		{"name":"BLOOD ANGELS CORE DETACHMENTS", "formations":[
-			{"id":500, "name":"1 Death Kompanie", 					"pts":250, "units":"Chaplain",  "Erweiterungen":[3]},
-			{"id":503, "name":"Tacticals",							"pts":275, "Erweiterungen":[10,11,12, 31,32, 33,34, 36,38, 40,42]},
-			{"id":505, "name":"Assaults", 							"pts":250, "Erweiterungen":[10,11,12, 36,38, 40,42]},
-			{"id":512, "name":"Assault Terminators",		"pts":325, "units":"4 Assault Terminators", "Erweiterungen":[10,11,12, 33,34, 40,42]}
+			{"id":500, "name":"1 Death Kompanie", 					"pts":250, "units":"Ordenspriester",  "Erweiterungen":[3]},
+			{"id":503, "name":"Taktischer Trupp",							"pts":275, "Erweiterungen":[10,11,12, 31,32, 33,34, 36,38, 40,42]},
+			{"id":505, "name":"Sturmtrupp", 							"pts":250, "Erweiterungen":[10,11,12, 36,38, 40,42]},
+			{"id":512, "name":"Assault Terminatoren",		"pts":325, "units":"4 Assault Terminatoren", "Erweiterungen":[10,11,12, 33,34, 40,42]}
 
 		]},
 		{"name":"BLOOD ANGELS SUPPORT DETACHMENTS <br/> Max 2 für jeweils Core Detachment", "formations":[
 			{"id":509, "name":"Baal Predators",					"pts":250, "Erweiterungen":[31,32]},
 			{"id":510, "name":"Bikes",							"pts":200, "Erweiterungen":[10,11,12]},
-			{"id":511, "name":"Devastators","pts":250, "units":"4 Devastators plus transport", "Erweiterungen":[10,11,12, 31,32, 33,34, 36,38, 40,42]},
+			{"id":511, "name":"Devastoren","pts":250, "units":"4 Devastoren plus transport", "Erweiterungen":[10,11,12, 31,32, 33,34, 36,38, 40,42]},
 			{"id":513, "name":"Scouts",							"pts":150, "Erweiterungen":[29,30]},
 			{"id":514, "name":"Land Speeders",					"pts":200, "Erweiterungen":[]},
 			{"id":516, "name":"Whirlwinds",				"pts":275, "units":"4 Blood Angels Whirlwinds", "Erweiterungen":[31,32]},
@@ -31,12 +31,12 @@
 	],
 	"Erweiterungen":[
 		{"id":1, "name":"4 Death Kompanie Marines plus transport (Death Kompanie Rhinos, Drop Pods oder on foot)",				"pts":0},
-		{"id":2, "name":"4 Death Kompanie Assaults", 										"pts":0},
-		{"id":3, "name":"Death Kompanie Dreadnought", 	"pts":75},
+		{"id":2, "name":"4 Death Kompanie Sturmtrupp", 										"pts":0},
+		{"id":3, "name":"Death Kompanie Cybot", 	"pts":75},
 
 		{"id":10, "name":"Captain",		"pts":25},
-		{"id":12, "name":"Chaplain", 		"pts":50},
-		{"id":11, "name":"Librarian", 		"pts":25},
+		{"id":12, "name":"Ordenspriester", 		"pts":50},
+		{"id":11, "name":"Scriptor", 		"pts":25},
 		{"id":13, "name":"Supreme Commander", 		"pts":75},
 
 		{"id":15, "name":"4 Scouts plus transport",								"pts":0},
@@ -45,7 +45,7 @@
 
 		{"id":19, "name":"Assault Bikes",						"pts":0},
 		{"id":20, "name":"Melta Bike",							"pts":0},
-		{"id":21, "name":"Attack Bike", 						"pts":0},
+		{"id":21, "name":"Trike", 						"pts":0},
 
 		{"id":22, "name":"Baal Predator Hades",						"pts":0},
 		{"id":23, "name":"Baal Predator Infernus",					"pts":0},
@@ -54,11 +54,11 @@
 		{"id":25, "name":"Land Speeder Tornado",						"pts":0},
 		{"id":26, "name":"Land Speeder Typhoon",						"pts":10},
 
-		{"id":27, "name":"Terminators",									"pts":75},
-		{"id":28, "name":"Assault Terminators",							"pts":75},
+		{"id":27, "name":"Terminatoren",									"pts":75},
+		{"id":28, "name":"Assault Terminatoren",							"pts":75},
 
-		{"id":29, "name":"Blood Angels Razorback (Twin Lascannon)", 				"pts":25},
-		{"id":30, "name":"Blood Angels Razorback (Twin Heavy Bolter)", 			"pts":25},
+		{"id":29, "name":"Blood Angels Razorback (Synchronisierte Laserkanone)", 				"pts":25},
+		{"id":30, "name":"Blood Angels Razorback (Synchronisierte Heavy Bolter)", 			"pts":25},
 
 		{"id":31, "name":"Blood Angels Hunter", 										"pts":75},
 		{"id":32, "name":"Blood Angels Stalker", 									"pts":50},
@@ -69,12 +69,12 @@
 		{"id":36, "name":"2 Baal Predator Hades",							"pts":75},
 		{"id":38, "name":"2 Baal Predator Infernus",						"pts":75},
 
-		{"id":40, "name":"Dreadnought",						"pts":50},
-		{"id":41, "name":"Hellfire Dreadnought",						"pts":50},
-		{"id":42, "name":"Furioso Dreadnought",						"pts":50},
+		{"id":40, "name":"Cybot",						"pts":50},
+		{"id":41, "name":"Hellfire Cybot",						"pts":50},
+		{"id":42, "name":"Furioso Cybot",						"pts":50},
 
-		{"id":44, "name":"4 Assaults",									"pts":0},
-		{"id":45, "name":"6 Assaults",									"pts":50},
+		{"id":44, "name":"4 Sturmtrupp",									"pts":0},
+		{"id":45, "name":"6 Sturmtrupp",									"pts":50},
 
 		{"id":48, "name":"Land Raider", 								"pts":50},
 		{"id":49, "name":"Land Raider Redeemer",						"pts":50},
@@ -82,10 +82,10 @@
 		{"id":50, "name":"Strike Cruiser",								"pts":200},
 		{"id":51, "name":"Battle Barge",								"pts":275},
 
-		{"id":54, "name":"6 Assaults",		"pts":0},
-		{"id":55, "name":"Supreme Commander, 2 Sanguinary Guards, 4 Assaults",		"pts":125},
-		{"id":56, "name":"6 Tacticals plus transport", 		"pts":0},
-		{"id":57, "name":"Supreme Commander, 2 Sanguinary Guards, 4 Tacticals plus transport", 		"pts":125},
+		{"id":54, "name":"6 Sturmtrupp",		"pts":0},
+		{"id":55, "name":"Supreme Commander, 2 Sanguinary Guards, 4 Sturmtrupp",		"pts":125},
+		{"id":56, "name":"6 Taktischer Trupp plus transport", 		"pts":0},
+		{"id":57, "name":"Supreme Commander, 2 Sanguinary Guards, 4 Taktischer Trupp plus transport", 		"pts":125},
 
 
 		{"id":60, "name":"Warhound Titan",						"pts":200}

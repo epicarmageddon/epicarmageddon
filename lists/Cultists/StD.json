@@ -355,7 +355,7 @@
       },
       {
         "name": "Transport",
-        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie units in the formation",
+        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie Einheiten in the formation",
         "options": [
           {
             "description": "Füge any number of Land Transporters",

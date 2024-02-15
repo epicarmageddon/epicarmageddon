@@ -69,7 +69,7 @@
 		{"id":50, "name":"3 Wraithlords",	"pts":175},
 
 		{"id":70, "name":"2x Titan Pulsar",	"pts":0},
-		{"id":71, "name":"Titan Pulsar, Titan Power Fist",	"pts":0}
+		{"id":71, "name":"Titan Pulsar, Titan Energiefaust",	"pts":0}
 	],
 	"formationConstraints":[
 		{"max":1, "name":"Guardian Host", "from":[511], "forEach":[510], "name2":"Ranger Host"},

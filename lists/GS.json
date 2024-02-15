@@ -18,7 +18,7 @@
           "Inspirierend",
           "Aufklärer",
           "Infiltratoren",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -28,7 +28,7 @@
           "Psyker powers"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
       },
@@ -51,7 +51,7 @@
         "specialRules": [
           "Anführer",
           "Inspirierend",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -162,7 +162,7 @@
           "Metamorph Biomorphs"
         ],
         "specialRules": [
-          "Teleport",
+          "Teleportieren",
           "Infiltratoren"
         ]
       },
@@ -181,8 +181,8 @@
           "First Strike",
           "Infiltratoren",
           "Aufklärer",
-          "Invulnerable Save",
-          "Teleport"
+          "Unmodifizierter Rettungswurf",
+          "Teleportieren"
         ]
       },
       {
@@ -198,7 +198,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
       },
       {
         "name": "Coven Technical",
@@ -241,7 +241,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
       },
       {
         "name": "Coven Thunderbolt",
@@ -269,7 +269,7 @@
         "specialRules": [
           "Brood Brothers"
         ],
-        "notes": "Ein in every zwei Cult Infanterie units has an Maschinenkanone"
+        "notes": "Ein in every zwei Cult Infanterie Einheiten has an Maschinenkanone"
       },
       {
         "name": "Cult Unterstützungstrupps",
@@ -328,7 +328,7 @@
         ],
         "specialRules": [
           "Brood Brothers",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -339,13 +339,13 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Demolisher",
+          "Demolisher Geschütz",
           "Laserkanone",
-          "Plasma Geschütz|2|"
+          "Plasmakanone|2|"
         ],
         "specialRules": [
           "Brood Brothers",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -408,7 +408,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Cult Land Transporter",
@@ -424,7 +424,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Cult Baneblade",
@@ -442,7 +442,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -460,7 +460,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -477,7 +477,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       }

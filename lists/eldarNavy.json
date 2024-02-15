@@ -15,7 +15,7 @@
           "AC Bright Lanze|2"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -40,7 +40,7 @@
           "AC Spinner Array"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -67,9 +67,9 @@
           "AC Scatter Laser"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May carry bis zu acht of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Support Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders, Swooping Hawks. Wraithguards und Wraithblades take zwei spaces jeweils.",
@@ -86,8 +86,8 @@
           "AC Scatter Laser"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
-          "Reinforced Armour"
+          "Schadenskapazität 2",
+          "Verstärkte Panzerung"
         ],
         "crit": "The Vampire Hunter is destroyed."
       },
@@ -102,8 +102,8 @@
           "AC Scatter Laser"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
-          "Reinforced Armour",
+          "Schadenskapazität 2",
+          "Verstärkte Panzerung",
           "Holofield (5+)",
           "Transport"
         ],
@@ -118,7 +118,7 @@
             "name": "0-1x Orbital Bombardment",
             "modes": [
               {
-                "firepower": "4BP, MW"
+                "Feuerkraft": "4BP, MW"
               }
             ]
           },
@@ -136,7 +136,7 @@
             "name": "0-1x Orbital Bombardment",
             "modes": [
               {
-                "firepower": "8BP, MW"
+                "Feuerkraft": "8BP, MW"
               }
             ]
           },

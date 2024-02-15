@@ -5,11 +5,11 @@
 
 	"sections":[
 		{"name":"CODEX ASTARTES DETACHMENTS (Max 1 Scout Detachment für every non-Scout Detachment)", "formations":[
-			{"id":500, "name":"Assaults", 				"pts":175, "units":"4 Assaults", "Erweiterungen":[10,11,12,13, 37,38]},
+			{"id":500, "name":"Sturmtrupp", 				"pts":175, "units":"4 Sturmtrupp", "Erweiterungen":[10,11,12,13, 37,38]},
 			{"id":501, "name":"Bikes", 					"pts":200, "Erweiterungen":[10,11,12,13]},
-			{"id":504, "name":"Tacticals",				"pts":275, "units":"6 Tacticals plus transport", "Erweiterungen":[10,11,12,13, 27,28, 31,32, 33, 34,35, 37,38]},
-			{"id":505, "name":"Devastators",			"pts":250, "units":"4 Devastators plus transport", "Erweiterungen":[10,11,12,13, 27,28, 31,32, 33, 34,35, 37,38]},
-			{"id":514, "name":"Terminators",			"pts":350, "units":"4 Terminators", "Erweiterungen":[10,11,12,13, 33]},
+			{"id":504, "name":"Taktischer Trupp",				"pts":275, "units":"6 Taktischer Trupp plus transport", "Erweiterungen":[10,11,12,13, 27,28, 31,32, 33, 34,35, 37,38]},
+			{"id":505, "name":"Devastoren",			"pts":250, "units":"4 Devastoren plus transport", "Erweiterungen":[10,11,12,13, 27,28, 31,32, 33, 34,35, 37,38]},
+			{"id":514, "name":"Terminatoren",			"pts":350, "units":"4 Terminatoren", "Erweiterungen":[10,11,12,13, 33]},
 			{"id":502, "name":"Land Raiders",			"pts":125, "Erweiterungen":[31,32, 40]},
 			{"id":503, "name":"Predators",				"pts":250, "Erweiterungen":[31,32]},
 			{"id":510, "name":"Land Speeders",			"pts":200, "Erweiterungen":[]},
@@ -31,15 +31,15 @@
 	],
 	"Erweiterungen":[
 		{"id":10, "name":"Captain",		"pts":25},
-		{"id":12, "name":"Chaplain", 		"pts":50},
-		{"id":11, "name":"Librarian", 		"pts":25},
+		{"id":12, "name":"Ordenspriester", 		"pts":50},
+		{"id":11, "name":"Scriptor", 		"pts":25},
 		{"id":13, "name":"Supreme Commander",	"pts":75},
 
 		{"id":15, "name":"4 Scouts plus transport",							"pts":0},
 		{"id":17, "name":"4 Scouts with 'Scharfschütze' plus transport",				"pts":25},
 
 		{"id":20, "name":"Assault Bikes",		"pts":0},
-		{"id":21, "name":"Attack Bike", 	"pts":0},
+		{"id":21, "name":"Trike", 	"pts":0},
 
 		{"id":23, "name":"Predator Annihilator",		"pts":0},
 		{"id":22, "name":"Predator Destructor",		"pts":0},
@@ -48,16 +48,16 @@
 		{"id":25, "name":"Land Speeder Tornado",		"pts":0},
 		{"id":26, "name":"Land Speeder Typhoon",		"pts":10},
 
-		{"id":27, "name":"Hellfire Dreadnought", 					"pts":50},
-		{"id":28, "name":"Dreadnought", 					"pts":50},
+		{"id":27, "name":"Hellfire Cybot", 					"pts":50},
+		{"id":28, "name":"Cybot", 					"pts":50},
 
 		{"id":31, "name":"Hunter", 						"pts":75},
 		{"id":32, "name":"Stalker", 						"pts":50},
 
 		{"id":33, "name":"Land Raider", 					"pts":50},
 
-		{"id":34, "name":"Razorback (Twin Heavy Bolter)",						"pts":25},
-		{"id":35, "name":"Razorback (Twin Lascannon)",						"pts":25},
+		{"id":34, "name":"Razorback (Synchronisierte Heavy Bolter)",						"pts":25},
+		{"id":35, "name":"Razorback (Synchronisierte Laserkanone)",						"pts":25},
 
 		{"id":37, "name":"Vindicator",						"pts":50},
 		{"id":38, "name":"2 Vindicators",						"pts":75},

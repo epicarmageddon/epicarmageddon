@@ -15,7 +15,7 @@
             {"id": 514,"name": "XV88 Broadside Group","pts": 300,"units": "6 XV88 Broadside Battlesuits","Erweiterungen": [35]},
             {"id": 518,"name": "Kroot Kindred","pts": 175,"units": "Kroot Master Shapers","Erweiterungen": [58,59]},
             {"id": 512,"name": "Pathfinder Group","pts": 175, "units": "4 Pathfinders, 2 Devilfish", "Erweiterungen": [35]},
-            {"id": 515,"name": "Recon Skimmer Group","pts": 25,"Erweiterungen": [25,26]},
+            {"id": 515,"name": "Recon Antigrav Group","pts": 25,"Erweiterungen": [25,26]},
             {"id": 517,"name": "Skysweep Support Group","pts": 250,"units": "3 Sky Ray Gunships","Erweiterungen": [35]},
             {"id": 513,"name": "XV15 Stealth Group","pts": 225,"units": "6 XV15 Stealth Battlesuits","Erweiterungen": [35]}
          ]

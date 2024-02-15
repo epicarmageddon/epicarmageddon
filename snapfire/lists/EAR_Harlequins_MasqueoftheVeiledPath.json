@@ -66,8 +66,8 @@
 
 		{"id":60, "name":"Wraithgate", 				"pts":75},
 
-		{"id": 75, "name": "2 Skathach Wraithknights (Twin Deathshroud Cannon)", "pts": 0},
-        {"id": 76, "name": "2 Skathach Wraithknights (Twin Inferno Lance)", "pts": 0}
+		{"id": 75, "name": "2 Skathach Wraithknights (Synchronisierte Deathshroud Cannon)", "pts": 0},
+        {"id": 76, "name": "2 Skathach Wraithknights (Synchronisierte Inferno Lance)", "pts": 0}
 
 	],
 

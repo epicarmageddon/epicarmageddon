@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tyranid Hive Fleet",
+    "name": "Tyranid Schwarmflotte",
     "specialRules": [
       {
       }
@@ -27,7 +27,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "3BP, MW"
+                "Feuerkraft": "3BP, MW"
               }
             ]
           }
@@ -45,7 +45,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "6BP, MW"
+                "Feuerkraft": "6BP, MW"
               }
             ]
           }
@@ -53,7 +53,7 @@
         "specialRules": [
           "Slow to Arrive (May only arrive from turn 2 onwards), Transport"
         ],
-        "notes": "May transport drei Mycetic Spores including cargo."
+        "notes": "Darf drei Mycetic Spores including cargo."
       }
     ]
   }

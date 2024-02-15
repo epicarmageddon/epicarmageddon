@@ -12,7 +12,7 @@
         ],
         "specialRules": [
           "Inspirierend",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Oberbefehlshaber"
         ]
       },
@@ -24,7 +24,7 @@
         ],
         "specialRules": [
           "Inspirierend",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -35,7 +35,7 @@
         ],
         "specialRules": [
           "Farsight",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
       },
@@ -66,7 +66,7 @@
         ],
         "specialRules": [
           "Beritten",
-          "Skimmer"
+          "Antigrav"
         ]
       },
       {
@@ -122,7 +122,7 @@
           "Support D-Geschütz|0-1",
           "Shadow Weaver|0-1"
         ],
-        "notes": "Armed with either a Support D-Geschütz oder a Shadow Weaver"
+        "notes": "Entweder mit Support D-Geschütz oder a Shadow Weaver"
       },
       {
         "name": "Bloodfang Megadon",
@@ -214,7 +214,7 @@
           "Prism Launcher||FxF"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität 3",
           "Geländegängig"
         ],
         "crit": "The Great Megadon is killed."
@@ -231,10 +231,10 @@
           "Klauen, Teeth & Tail"
         ],
         "specialRules": [
-          "Damage Capacity: 3",
+          "Schadenskapazität 3",
           "Befehlshaber",
           "Furchtlos",
-          "Jump Packs"
+          "Sprungmodule"
         ],
         "crit": "The Great Drake is killed."
       },
@@ -250,9 +250,9 @@
           "Ferocious Bite"
         ],
         "specialRules": [
-          "Damage Capacity: 6",
+          "Schadenskapazität 6",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Geländegängig"
         ],
         "crit": "The Colossal Carnosaur is killed."

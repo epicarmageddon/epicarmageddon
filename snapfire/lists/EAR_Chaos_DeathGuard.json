@@ -13,7 +13,7 @@
       {"name": "DEATH GUARD ELITE FORMATIONS <br/> Max 1 für jeweils Death Guard Core Formation", "formations": [
             {"id": 531, "name": "Chosen", "pts": 175, "units": "4 Chosen, Daemonic Pact", "Erweiterungen": [30]},
             {"id": 533, "name": "Armored Kompanie", "pts": 250, "Erweiterungen": [28]},
-            {"id": 532, "name": "Death Guard Terminators", "pts": 375, "units": "4 Blightlord Terminators, Daemonic Pact", "Erweiterungen": [22,26,27,30,32,33]}
+            {"id": 532, "name": "Death Guard Terminatoren", "pts": 375, "units": "4 Blightlord Terminatoren, Daemonic Pact", "Erweiterungen": [22,26,27,30,32,33]}
        ]},
       {"name": "DEATH GUARD UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Death Guard Core Formation. Max 1 Plague Zombie Infestation für jeweils part of 1500 Punkte in the army", "formations": [
           {"id": 551, "name": "Plague Zombie Infestation", "pts": 200, "units": "7 Plague Zombies", "Erweiterungen": []},
@@ -41,7 +41,7 @@
       {"id": 19, "name": "3 Plague Marines", "pts": 0},
       {"id": 20, "name": "Plaguehound Titan", "pts": 225},
       {"id": 21, "name": "Desecrator", "pts": 50},
-      {"id": 22, "name": "Chaos Dreadnought", "pts": 50},
+      {"id": 22, "name": "Chaos Cybot", "pts": 50},
       {"id": 23, "name": "4 Death Guard Rhinos", "pts": 50},
 	  {"id": 24, "name": "2 Chaos Spartan Assault Tanks", "pts": 150},
       {"id": 25, "name": "Daemonic Pact", "pts": 25},
@@ -56,7 +56,7 @@
       {"id": 33, "name": "4 Chaos Land Raiders", "pts": 200},
 
       {"id": 35, "name": "2 Death Guard Rhinos", "pts": 0},
-      {"id": 36, "name": "2 Chaos Dreadnoughts", "pts": 75},
+      {"id": 36, "name": "2 Chaos Cybots", "pts": 75},
 
       {"id": 40, "name": "5 Death Guard Vindicators", "pts": 0},
       {"id": 41, "name": "4 Chaos Land Raiders", "pts": 25},

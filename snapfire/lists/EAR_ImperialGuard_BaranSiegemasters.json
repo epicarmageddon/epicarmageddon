@@ -50,7 +50,7 @@
 		{"id":25, "name":"40cm Razor Wire, 40cm Trenches",		"pts":0},
 		{"id":28, "name":"40cm Razor Wire, 20cm Trenches, 2 Bunkers",		"pts":25},
 
-		{ "id":40, "name":"Macharius Command Tank mit einem Kommissar (Twin Vanquishers)", "pts":0 },
+		{ "id":40, "name":"Macharius Command Tank mit einem Kommissar (Synchronisierte Vanquishers)", "pts":0 },
 		{ "id":41, "name":"Macharius Command Tank mit einem Kommissar (Vulcan Mega-Bolter)", "pts":0 },
 
 		{ "id":44, "name":"3 Ragnarok Heavy Tanks, 3 Gun Emplacements",	"pts":175},

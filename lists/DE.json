@@ -13,7 +13,7 @@
         "specialRules": [
           "Furchtlos",
           "Oberbefehlshaber",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Inspirierend"
         ]
       },
@@ -24,7 +24,7 @@
           "Agonizer"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Anführer",
           "Inspirierend"
         ]
@@ -48,7 +48,7 @@
         ],
         "specialRules": [
           "Anführer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -77,7 +77,7 @@
           "Splinter Geschütz"
         ],
         "specialRules": [
-            "Wind-Swift"
+            "Schnell wie der Wind"
         ]
       },
       {
@@ -108,9 +108,9 @@
           "Splinter Geschütz"
         ],
         "specialRules": [
-          "Jump Packs",
-          "Teleport",
-          "Wind-Swift"
+          "Sprungmodule",
+          "Teleportieren",
+          "Schnell wie der Wind"
         ]
       },
       {
@@ -169,7 +169,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -186,7 +186,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -201,7 +201,7 @@
           "Wych Weapons"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Infiltratoren"
         ]
       },
@@ -230,7 +230,7 @@
           "Splinter Pods"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Aufklärers"
         ]
       },
@@ -246,7 +246,7 @@
           "Blades"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Beritten"
         ]
       },
@@ -262,9 +262,9 @@
           "Synchronisierter Splinter Rifle"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport",
-          "Wind-Swift"
+          "Schnell wie der Wind"
         ],
         "notes": "May carry eine unit of Warriors, Incubi, Haemonculi, Wracks oder Wyches"
       },
@@ -279,9 +279,9 @@
           "Dark Lanze"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport",
-          "Wind-Swift"
+          "Schnell wie der Wind"
         ],
         "notes": "May carry zwei units of Warriors, Incubi, Haemonculi, Wracks oder Wyches."
       },
@@ -297,8 +297,8 @@
           "Splinter Blast"
         ],
         "specialRules": [
-          "Skimmer",
-          "Wind-Swift"
+          "Antigrav",
+          "Schnell wie der Wind"
         ]
       },
       {
@@ -312,8 +312,8 @@
           "Storm Vortex Projector"
         ],
         "specialRules": [
-          "Skimmer",
-          "Wind-Swift"
+          "Antigrav",
+          "Schnell wie der Wind"
         ]
       },
       {
@@ -327,11 +327,11 @@
           "Pulse Disintegrator|2|"
         ],
         "specialRules": [
-          "Skimmer",
-          "Wind-Swift",
+          "Antigrav",
+          "Schnell wie der Wind",
           "Transport"
         ],
-        "notes": "May carry zwei units of Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei units jeweils."
+        "notes": "May carry zwei units of Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei Einheiten."
       },
       {
         "name": "Barge of Pleasure",
@@ -348,11 +348,11 @@
         "specialRules": [
             "Damage Capacity 3",
             "Shadowfields 2",
-            "Skimmer",
+            "Antigrav",
             "Transport",
-            "Wind-Swift"
+            "Schnell wie der Wind"
         ],
-        "notes": "May carry sechs units of Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei units jeweils. May only Transport units from its own formation.",
+        "notes": "May carry sechs units of Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei Einheiten. May only Transport units from its own formation.",
         "crit": "The Barge takes einen zusätzlichen damage. 1D3 random units inside takes a hit."
       },
       {
@@ -370,8 +370,8 @@
         "specialRules": [
           "Damage Capacity 3",
           "Shadowfields 2",
-            "Skimmer",
-            "Wind-Swift"
+            "Antigrav",
+            "Schnell wie der Wind"
         ],
         "crit": "The Vessel of Pain is destroyed. All units within 5cm take a hit on 6+."
       },
@@ -390,8 +390,8 @@
           "Damage Capacity 4",
           "Shadowfields 3",
           "Furchtlos",
-          "Jump Packs",
-          "Reinforced Armour",
+          "Sprungmodule",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The Tormentor Titan takes eine additional damage und loses any remaining Shadowfields."
@@ -412,11 +412,11 @@
           "Shadowfields 4",
           "Planetfall",
           "Support Craft",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport bis zu ten Infanterie units. Grotesques counts as zwei units jeweils. In addition it may carry bis zu fünf Light Vehicles oder Armoured Vehicles, oder bis zu eine Vessel of Pain oder Barge of Pleasure.",
+        "notes": "May transport bis zu ten Infanterie Einheiten. Grotesques counts as zwei Einheiten. In addition it may carry bis zu fünf Light Vehicles oder Armoured Vehicles, oder bis zu eine Vessel of Pain oder Barge of Pleasure.",
         "crit": "The Executioner takes einen zusätzlichen damage. D3 random units inside takes a hit."
       }
     ]

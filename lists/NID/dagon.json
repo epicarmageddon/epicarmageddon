@@ -1,6 +1,6 @@
 {
   "fraction": "Tyranid",
-  "army": "Hive Fleet Dagon",
+  "army": "Schwarmflotte Dagon",
   "version": "Beta 1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Tyranid_HiveFleetDagon",
@@ -248,6 +248,6 @@
     ]
   },
   "about": [
-    "The EA-R Hive Fleet Dagon list is essentially the same as the NetEA variant, but has some significant differences..."
+    "The EA-R Schwarmflotte Dagon list is essentially the same as the NetEA variant, but has some significant differences..."
   ]
 }

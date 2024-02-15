@@ -29,13 +29,13 @@
         "Warp Talons",
         "Night Lords Chosen",
         "Chaos Destroyers",
-        "Atramentar Terminators",
+        "Atramentar Terminatoren",
         "Chaos Rhino",
         "Chaos Land Raider",
         "Chaos Spartan Assault Panzer",
         "Chaos Stalker",
-        "Chaos Attack Bike",
-        "Night Lords Dreadnought"
+        "Chaos Trike",
+        "Night Lords Cybot"
       ],
       "unitRules": [
         "Augment Summoning (+x)",
@@ -110,12 +110,12 @@
         },
         {
           "name": "Terminator Kompanie",
-          "units": "Ein Night Lords Captain, vier Atramentar Terminators",
+          "units": "Ein Night Lords Captain, vier Atramentar Terminatoren",
           "extraUnits": [
             "Füge zwei Chaos Spartan Assault Panzers: 150 Punkte",
             "Oberbefehlshaber",
             "Icon Bearer",
-            "Dreadnoughts",
+            "Cybots",
             "Dreadclaws"
           ],
           "points": 325
@@ -135,11 +135,11 @@
         },
         {
           "name": "Terror Kompanie",
-          "units": "Ein Night Lords Captain, vier Night Lords Assault Marines, zwei Night Lords Dreadnoughts",
+          "units": "Ein Night Lords Captain, vier Night Lords Assault Marines, zwei Night Lords Cybots",
           "extraUnits": [
             "Oberbefehlshaber",
             "Icon Bearer",
-            "Dreadnoughts",
+            "Cybots",
             "Dreadclaws"
           ],
           "points": 275
@@ -157,7 +157,7 @@
         },
         {
           "name": "Attack Kompanie",
-          "units": "Ein Night Lords Captain, sechs Chaos Attack Bikes",
+          "units": "Ein Night Lords Captain, sechs Chaos Trikes",
           "extraUnits": [
             "Oberbefehlshaber",
             "Icon Bearer",
@@ -239,12 +239,12 @@
       },
       {
         "name": "Dreadclaws",
-        "description": "Transport a formation containing only Infanterie units und Dreadnoughts in Drop Pods (formation must be deployed on a spacecraft)",
+        "description": "Transport a formation containing only Infanterie Einheiten und Cybots in Drop Pods (formation must be deployed on a spacecraft)",
         "points": "10 Punkte pro unit"
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu zwei Night Lords Dreadnoughts",
+        "name": "Cybots",
+        "description": "Füge bis zu zwei Night Lords Cybots",
         "points": "50 Punkte jeweils"
       },
       {

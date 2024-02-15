@@ -7,9 +7,9 @@
 	    {"id": 501, "name": "Daemon Pool", "pts": 0, "Erweiterungen": [71,72,74]}
       ]},
 
-      {"name": "WORLD EATERS CORE FORMATIONS <br/> Max 1 World Eaters Terminators für jeweils World Eaters Retinue", "formations": [
+      {"name": "WORLD EATERS CORE FORMATIONS <br/> Max 1 World Eaters Terminatoren für jeweils World Eaters Retinue", "formations": [
             {"id": 521, "name": "World Eaters Retinue", "pts": 350, "units": "4 Chaos Assault Marines, 4 Khorne Berzerkers, Daemonic Pact", "Erweiterungen": [26,27,22,18,30]},
-            {"id": 532, "name": "World Eaters Terminators", "pts": 400, "units": "4 Skullseeker Terminators, Daemonic Pact", "Erweiterungen": [17,21,26,27,39]}
+            {"id": 532, "name": "World Eaters Terminatoren", "pts": 400, "units": "4 Skullseeker Terminatoren, Daemonic Pact", "Erweiterungen": [17,21,26,27,39]}
        ]},
 
       {"name": "WORLD EATERS ELITE FORMATIONS <br/> Max 1 für jeweils World Eaters Core Formation", "formations": [
@@ -43,7 +43,7 @@
       {"id": 18, "name": "Chaos Stalker", "pts": 50},
 	  {"id": 20, "name": "2 Chaos Rhinos", "pts": 0},
 	  {"id": 21, "name": "2 Chaos Spartan Assault Tanks", "pts": 100},
-      {"id": 22, "name": "2 Berzerker Dreadnoughts", "pts": 75},
+      {"id": 22, "name": "2 Berzerker Cybots", "pts": 75},
       {"id": 23, "name": "4 Chaos Rhinos", "pts": 0},
       {"id": 24, "name": "2 Chaos Spartan Assault Tanks", "pts": 100},
       {"id": 25, "name": "Daemonic Pact", "pts": 25},
@@ -56,7 +56,7 @@
 
       {"id": 34, "name": "Greater Brass Scorpion", "pts": 175},
       {"id": 35, "name": "Slaughterfiend", "pts": 50},
-      {"id": 37, "name": "Skullseeker Terminators", "pts": 0},
+      {"id": 37, "name": "Skullseeker Terminatoren", "pts": 0},
       {"id": 38, "name": "Mutilators", "pts": 75},
       {"id": 39, "name": "Dreadclaws", "pts": 0},
       {"id": 40, "name": "Devastation Class Cruiser ", "pts": 0},
@@ -75,7 +75,7 @@
       {"max": 1, "name": "Spacecraft", "from": [557]},
       {"min": 1,"max": 1, "from": [501]},
       {"maxPercent": 33.5, "name": "War Engines & Allies", "from": [551,552,553,554,555,557]},
-      {"max": 1, "name": "World Eaters Terminators", "from": [532],  "forEach": [521], "name2": "World Eaters Retinue"},
+      {"max": 1, "name": "World Eaters Terminatoren", "from": [532],  "forEach": [521], "name2": "World Eaters Retinue"},
       {"max": 1, "name": "Elite Formations", "from": [530,531,533,536,534],  "forEach": [521,532], "name2": "Core Formation"},
       {"max": 2, "name": "Unterstützungsverbände", "from": [535,541,542,543,544,545],  "forEach": [521,532], "name2": "Core Formation"}
    ],

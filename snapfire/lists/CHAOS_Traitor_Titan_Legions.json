@@ -27,7 +27,7 @@
 			{"id":551, "name":"FORGEHOUND (Chaos Warhound of Chaos Undivided)",		"pts":300, "units":"Ein Forgehound Chaos Warhound", "Erweiterungen":[]},
 			{"id":552, "name":"FORGEHOUND Pack (Chaos Warhounds of Chaos Undivided)",	"pts":500, "units": "Zwei Forgehound Chaos Warhounds", "Erweiterungen":[]},
 
-			{"id":553, "name":"FERAL WARHOUND Pack (Chaos Warhounds of Khorne)",	"pts":500, "units": "Zwei Feral Warhounds", "Erweiterungen":[]},
+			{"id":553, "name":"WILD WARHOUND Pack (Chaos Warhounds of Khorne)",	"pts":500, "units": "Zwei Wild Warhounds", "Erweiterungen":[]},
 
 			{"id":554, "name":"PLAGUEHOUND (Chaos Warhound of Nurgle)",		"pts":300, "units":"Ein Plaguehound Chaos Warhound",  "Erweiterungen":[]},
 			{"id":555, "name":"PLAGUEHOUND Pack (Chaos Warhounds of Nurgle)",	"pts":500, "units": "Zwei Plaguehound Chaos Warhounds", "Erweiterungen":[]},

@@ -60,7 +60,7 @@
 		{"id":63, "name":"Nightwing",	"pts":75},
 
 		{"id":70, "name":"2x Titan Pulsar",	"pts":0},
-		{"id":71, "name":"Titan Pulsar, Titan Power Fist",	"pts":0}
+		{"id":71, "name":"Titan Pulsar, Titan Energiefaust",	"pts":0}
 	],
 	"formationConstraints":[
 		{"max":2, "name":"Troupes", "from":[520,521,522,524,525,526,527,528], "forEach":[510,511], "name2":"Vaulhost"},

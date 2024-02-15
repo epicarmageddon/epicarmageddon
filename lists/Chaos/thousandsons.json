@@ -5,7 +5,7 @@
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_ThousandSons",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "The Thousand Sons Retinue, Havocs, Terminators, Armoured Kompanie, Disc Riders, und Warphound Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "The Thousand Sons Retinue, Havocs, Terminatoren, Armoured Kompanie, Disc Riders, und Warphound Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Changer of Ways",
     "Fickle Masters",
@@ -27,13 +27,13 @@
         "Daemon Prince of Tzeentch",
         "Thousand Sons Marines",
         "Thousand Sons Havocs",
-        "Scarab Occult Terminators",
+        "Scarab Occult Terminatoren",
         "Rubric Marines",
         "Sorcerer Disc Riders",
         "Thousand Sons Rhino",
         "Thousand Sons Land Raider",
         "Thousand Sons Predator",
-        "Thousand Sons Dreadnought"
+        "Thousand Sons Cybot"
       ],
       "unitRules": [
         "Augment Summoning (+x)",
@@ -99,31 +99,31 @@
   "sections": [
     {
       "name": "Thousand Sons Core Formations",
-      "description": " Bis zu eine Thousand Sons Terminators formation für jeweils Thousand Sons Retinue.",
+      "description": " Bis zu eine Thousand Sons Terminatoren formation für jeweils Thousand Sons Retinue.",
       "formations": [
         {
           "name": "Thousand Sons Retinue",
           "units": "Ein Aspiring Sorcerer, fünf Rubric Marines, vier Thousand Sons Marines, Daemonic Pact",
           "extraUnits": [
             "Ersetze vier Thousand Sons Marines with vier Thousand Sons Havocs: 50 Punkte",
-            "Ersetze bis zu drei Rubric Marines with Thousand Sons Dreadnoughts: 25 Punkte jeweils",
+            "Ersetze bis zu drei Rubric Marines with Thousand Sons Cybots: 25 Punkte jeweils",
             "Oberbefehlshaber",
             "Icon Bearer",
             "Champion of Chaos",
             "Thousand Sons Transport",
             "Predators",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 375
         },
         {
-          "name": "Thousand Sons Terminators",
-          "units": "Ein Aspiring Sorcerer, vier Scarab Occult Terminators, Daemonic Pact",
+          "name": "Thousand Sons Terminatoren",
+          "units": "Ein Aspiring Sorcerer, vier Scarab Occult Terminatoren, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Icon Bearer",
             "Champion of Chaos",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 400
         }
@@ -160,7 +160,7 @@
           "name": "Havocs",
           "units": "Ein Aspiring Sorcerer, vier Thousand Sons Havocs, zwei Thousand Sons Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Ersetze zwei Thousand Sons Rhinos with zwei Thousand Sons Dreadnoughts: 75 Punkte",
+            "Ersetze zwei Thousand Sons Rhinos with zwei Thousand Sons Cybots: 75 Punkte",
             "Icon Bearer",
             "Predators"
           ],
@@ -257,7 +257,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Aspiring Sorcerer und its unit mit einemDaemon Prince of Tzeentch (Terminators Only).",
+            "description": "Ersetze the Aspiring Sorcerer und its unit mit einemDaemon Prince of Tzeentch (Terminatoren Only).",
             "points": "50 Punkte"
           },
           {
@@ -268,7 +268,7 @@
       },
       {
         "name": "Thousand Sons Transport",
-        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie units in the formation",
+        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie Einheiten in the formation",
         "options": [
           {
             "description": "Thousand Sons Rhinos",
@@ -291,8 +291,8 @@
         "points": "25 Punkte"
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu zwei Thousand Sons Dreadnoughts to the formation",
+        "name": "Cybots",
+        "description": "Füge bis zu zwei Thousand Sons Cybots to the formation",
         "points": "50 Punkte jeweils"
       },
       {

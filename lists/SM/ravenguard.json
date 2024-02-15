@@ -17,19 +17,19 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
+        "Sturmtrupp",
         "Assault Bikes",
         "Raven Guard Aufklärers",
         "Sternguard Veterans",
-        "Tacticals",
-        "Devastators",
-        "Cyclone Terminators",
-        "Terminators",
+        "Taktischer Trupp",
+        "Devastoren",
+        "Cyclone Terminatoren",
+        "Terminatoren",
         "Vanguard Veterans",
-        "Attack Bike",
+        "Trike",
         "Land Speeder",
         "Land Speeder Storm",
         "Land Speeder Tempest",
@@ -74,8 +74,8 @@
           "points": 175
         },
         {
-          "name": "Tacticals",
-          "units": "Vier Tacticals plus transport",
+          "name": "Taktischer Trupp",
+          "units": "Vier Taktischer Trupp plus transport",
           "extraUnits": [
             "Befehlshaber",
             "Anti-Air",
@@ -111,8 +111,8 @@
           "points": 250
         },
         {
-          "name": "Terminators",
-          "units": "Any vier of the following units: Terminators, Cyclone Terminators",
+          "name": "Terminatoren",
+          "units": "Any vier of the following units: Terminatoren, Cyclone Terminatoren",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -125,8 +125,8 @@
       "description": "Zwei Support Detachment may be taken pro Core Detachment",
       "formations": [
         {
-          "name": "Assaults",
-          "units": "Vier Assaults",
+          "name": "Sturmtrupp",
+          "units": "Vier Sturmtrupp",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -135,7 +135,7 @@
         },
         {
           "name": "Bikes",
-          "units": "Any fünf of the following units: Attack Bike, Assault Bikes",
+          "units": "Any fünf of the following units: Trike, Assault Bikes",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -143,8 +143,8 @@
           "points": 200
         },
         {
-          "name": "Devastators",
-          "units": "Vier Devastators plus transport",
+          "name": "Devastoren",
+          "units": "Vier Devastoren plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -229,11 +229,11 @@
         "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
-            "description": "Captain, Librarian",
+            "description": "Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
+            "description": "Ordenspriester",
             "points": "50 Punkte"
           },
           {

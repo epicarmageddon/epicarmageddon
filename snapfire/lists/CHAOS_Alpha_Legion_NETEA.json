@@ -11,7 +11,7 @@
 		{"name":"Alpha Legion Elite Formatons / / Ein Alpha Legion Elite formation may be taken pro Alpha Legion Core formation", "formations": [
 			{ "id":521, "name":"Alpha Legion Headhunter Kill-Team", "pts":225, "units":"4 Headhunter units w. Transport", "Erweiterungen":[31] },
 			{ "id":522, "name":"Alpha Legion Destroyers", "pts":225,"units":"4 Alpha Legion Destroyers", "Erweiterungen":[] },
-			{ "id":523, "name":"Lernaean Terminators", "pts":300,"units":"4 Lernaean Terminators", "Erweiterungen":[38] },
+			{ "id":523, "name":"Lernaean Terminatoren", "pts":300,"units":"4 Lernaean Terminatoren", "Erweiterungen":[38] },
 			{ "id":524, "name":"Alpha Legion Predators", "pts":225, "units":"4 Alpha Legion Predators", "Erweiterungen":[30] }
 		]},
 			{"name":"Alpha Legion Cultist Formatons / / Ein Alpha Legion Cultist formation may be taken pro Alpha Legion Core formation", "formations": [
@@ -47,7 +47,7 @@
 		{ "id":28, "name":"1 Alpha Legion Daemon Prince w. Wings, Daemonic Icon", "pts":100},
 		
 		{ "id":30, "name":"2 Vindicators", "pts":50 },
-		{ "id":31, "name":"2 Alpha Legion Dreadnoughts", "pts":75 },
+		{ "id":31, "name":"2 Alpha Legion Cybots", "pts":75 },
 		{ "id":32, "name":"8 Alpha Legion Marines w. Transport", "pts":325 },
 		{ "id":33, "name":"4 Alpha Legion Marines, 4 Alpha Legion Havocs w. Transport", "pts":375 },
 		{ "id":34, "name":"4 Land Raiders", "pts":200 },

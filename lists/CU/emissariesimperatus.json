@@ -26,8 +26,8 @@
         "Venatari",
         "Sister of Silence",
         "Vertus Praetors",
-        "Contemptor Dreadnought Achilles",
-        "Telemon Heavy Dreadnought",
+        "Contemptor Cybot Achilles",
+        "Telemon Heavy Cybot",
         "Pallas",
         "Caladius",
         "Coronus",
@@ -71,25 +71,25 @@
           "units": "5 Wardens",
           "Erweiterungen": [
             "Befehlshaber",
-            "Dreadnaught",
+            "Cybot",
             "Transport"
           ],
           "points": 325
         },
         {
-          "name": "Dreadnaught Wing",
-          "units": "3 of the following in any combination: Contemptor Dreadnought Achilles oder Telemon Heavy Dreadnoughts",
+          "name": "Cybot Wing",
+          "units": "3 of the following in any combination: Contemptor Cybot Achilles oder Telemon Heavy Cybots",
           "Erweiterungen": [
-            "Dreadnaught"
+            "Cybot"
           ],
           "points": 300
         },
         {
           "name": "Aquilon Custodians",
-          "units": "Vier Aquilon Terminators",
+          "units": "Vier Aquilon Terminatoren",
           "Erweiterungen": [
             "Befehlshaber",
-            "Dreadnaught",
+            "Cybot",
             "Transport"
           ],
           "points": 375
@@ -181,15 +181,15 @@
         "points": "75 Punkte jeweils"
       },
       {
-        "name": "Dreadnaught",
+        "name": "Cybot",
         "description": "Füge bis zu zwei of the following Dreadnaughts to the formation",
         "options": [
           {
-            "description": "Contemptor Dreadnought Achilles",
+            "description": "Contemptor Cybot Achilles",
             "points": "100 Punkte"
           },
           {
-            "description": "Telemon Heavy Dreadnought",
+            "description": "Telemon Heavy Cybot",
             "points": "100 Punkte"
           }
         ]

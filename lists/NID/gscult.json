@@ -215,7 +215,7 @@
       },
       {
         "name": "Acolyte Transports",
-        "description": "Füge Land Transporters, Coven Limousines, Goliath Trucks oder Goliath Rockgrinders to the formation, bis zu the number required to transport all Infanterie units in the formation",
+        "description": "Füge Land Transporters, Coven Limousines, Goliath Trucks oder Goliath Rockgrinders to the formation, bis zu the number required to transport all Infanterie Einheiten in the formation",
         "options": [
           {
             "description": "Land Transporter (Acolyte Coven only)",

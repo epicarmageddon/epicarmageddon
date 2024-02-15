@@ -13,8 +13,8 @@
         "specialRules": [
           "Extended Command",
           "Inspirierend",
-          "Invulnerable Save",
-          "Reinforced Armour",
+          "Unmodifizierter Rettungswurf",
+          "Verstärkte Panzerung",
           "Oberbefehlshaber"
         ]
       },
@@ -27,7 +27,7 @@
         "specialRules": [
           "Befehlshaber",
           "Extended Command",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
       },
@@ -39,7 +39,7 @@
         ],
         "specialRules": [
           "Inspirierend",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -49,7 +49,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
       },
@@ -62,7 +62,7 @@
         "specialRules": [
           "Inspirierend",
           "Anführer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -194,7 +194,7 @@
           "Heavy Mining Laser|0-1",
           "Seismic Heavy Geschütz|0-1"
         ],
-        "notes": "Armed with either a Heavy Mining Laser oder a Seismic Heavy Geschütz."
+        "notes": "Entweder mit Heavy Mining Laser oder a Seismic Heavy Geschütz."
       },
       {
         "name": "Technical",
@@ -217,7 +217,7 @@
         "weapons": [
           "Schweres Maschinengewehr"
         ],
-        "notes": "May transport zwei Infanterie units without Beritten oder Jump Packs. Aberrants takes zwei spaces jeweils."
+        "notes": "May transport zwei Infanterie Einheiten without Beritten oder Sprungmodule. Aberrants takes zwei spaces jeweils."
       },
       {
         "name": "Coven Limousine",
@@ -232,7 +232,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Goliath Truck",
@@ -244,7 +244,7 @@
         "weapons": [
           "Seismic Heavy Geschütz"
         ],
-        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten. Aberrants takes zwei spaces jeweils."
+        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Aberrants takes zwei spaces jeweils."
       },
       {
         "name": "Goliath Rockgrinder",
@@ -259,7 +259,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "May transport zwei Infanterie unit without Jump Packs oder Beritten. Aberrants takes zwei spaces jeweils."
+        "notes": "May transport zwei Infanterie unit ohne Sprungmodule oder Beritten Eigenschaft transportieren. Aberrants takes zwei spaces jeweils."
       },
       {
         "name": "Haul Truck Geschütz",
@@ -292,7 +292,7 @@
         "specialRules": [
           "Damage Capacity 4",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ],
         "crit": "The unit takes an extra point of damage."

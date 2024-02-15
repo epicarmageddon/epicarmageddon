@@ -17,21 +17,21 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
+        "Sturmtrupp",
         "Aufklärers",
-        "Tacticals",
-        "Devastators",
-        "Terminators",
+        "Taktischer Trupp",
+        "Devastoren",
+        "Terminatoren",
         "Assault Bikes",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
-        "Attack Bike",
-        "Dreadnought",
-        "Dreadnought, Hellfire",
+        "Trike",
+        "Cybot",
+        "Cybot, Hellfire",
         "Hunter",
         "Stalker",
         "Land Raider",
@@ -77,8 +77,8 @@
       "description": " Bis zu eine Aufklärer Detachment für jeweils non-Aufklärer Detachment.",
       "formations": [
         {
-          "name": "Assaults",
-          "units": "Vier Assaults",
+          "name": "Sturmtrupp",
+          "units": "Vier Sturmtrupp",
           "extraUnits": [
             "Befehlshaber",
             "Vindicators"
@@ -89,19 +89,19 @@
           "name": "Bikes",
           "units": "Fünf Assault Bikes",
           "extraUnits": [
-            "Attack Bikes",
+            "Trikes",
             "Befehlshaber"
           ],
           "points": 200
         },
         {
-          "name": "Devastators",
-          "units": "Vier Devastators plus transport",
+          "name": "Devastoren",
+          "units": "Vier Devastoren plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
             "Land Raider Transport",
-            "Dreadnoughts",
+            "Cybots",
             "Razorback",
             "Vindicators"
           ],
@@ -142,12 +142,12 @@
           "points": 150
         },
         {
-          "name": "Tacticals",
-          "units": "Sechs Tacticals plus transport",
+          "name": "Taktischer Trupp",
+          "units": "Sechs Taktischer Trupp plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Land Raider Transport",
             "Razorback",
             "Vindicators"
@@ -155,8 +155,8 @@
           "points": 275
         },
         {
-          "name": "Terminators",
-          "units": "Vier Terminators",
+          "name": "Terminatoren",
+          "units": "Vier Terminatoren",
           "extraUnits": [
             "Befehlshaber",
             "Land Raider Transport"
@@ -255,8 +255,8 @@
         ]
       },
       {
-        "name": "Attack Bikes",
-        "description": "Ersetze any number of Assault Bikes mit einem equal number of Attack Bikes",
+        "name": "Trikes",
+        "description": "Ersetze any number of Assault Bikes mit einem equal number of Trikes",
         "points": "Free"
       },
       {
@@ -269,11 +269,11 @@
         "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
-            "description": "Captain, Librarian",
+            "description": "Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
+            "description": "Ordenspriester",
             "points": "50 Punkte"
           },
           {
@@ -283,8 +283,8 @@
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge any zwei of the following: Dreadnought, Hellfire Dreadnought",
+        "name": "Cybots",
+        "description": "Füge any zwei of the following: Cybot, Hellfire Cybot",
         "points": [
           "50 Punkte jeweils"
         ]

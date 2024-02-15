@@ -27,12 +27,12 @@
         "Daemon Prince of Nurgle",
         "Chaos Space Marines",
         "Havocs",
-        "Blightlord Terminators",
+        "Blightlord Terminatoren",
         "Plague Marines",
         "Death Guard Rhino",
         "Death Guard Land Raider",
         "Death Guard Vindicator",
-        "Chaos Dreadnought",
+        "Chaos Cybot",
         "Death Guard Stalker"
       ],
       "unitRules": [
@@ -111,20 +111,20 @@
             "Icon Bearer",
             "Vindicators",
             "Havocs",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 325
         },
         {
-          "name": "Death Guard Terminators",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Blightlord Terminators, Daemonic Pact",
+          "name": "Death Guard Terminatoren",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Blightlord Terminatoren, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Terminator Transport",
             "Champion",
             "Icon Bearer",
             "Vindicators",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 400
         }
@@ -139,7 +139,7 @@
           "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, Daemonic Pact",
           "extraUnits": [
             "Havoc Transport",
-            "Dreadnoughts",
+            "Cybots",
             "Vindicators",
             "Icon Bearer",
             "Stalker"
@@ -314,8 +314,8 @@
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu zwei Dreadnoughts to the formation",
+        "name": "Cybots",
+        "description": "Füge bis zu zwei Cybots to the formation",
         "points": "50 Punkte jeweils"
       },
       {

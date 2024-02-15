@@ -5,15 +5,15 @@
 	"sections":[
 		{"name":"SCIONS OF IRON DETACHMENTS", "formations": [
 			{ "id":502, "name":"Bike", "pts":175, "Erweiterungen":[1,2,3, 61,62,63] },
-			{ "id":503, "name":"Heavy Tactical", "pts":325, "units":"4 Tacticals", "Erweiterungen":[1,2,3, 22,23,24,25,26, 85]},
+			{ "id":503, "name":"Heavy Tactical", "pts":325, "units":"4 Taktischer Trupp", "Erweiterungen":[1,2,3, 22,23,24,25,26, 85]},
 			{ "id":504, "name":"Helios", "pts":425, "units":"4 Land Raider Helios", "Erweiterungen":[1,2,3, 85] },
 			{ "id":505, "name":"Land Raider", "pts":325, "Erweiterungen":[1,2,3, 22,23,24,25,26, 85]},
 			{ "id":506, "name":"Landing Craft", "pts":350},
 			{ "id":507, "name":"Predator", "pts":50, "Erweiterungen":[1,2,3, 34,35,36, 85] },
 			{ "id":508, "name":"Scout", "pts":150, "units":"plus transport", "Erweiterungen":[1,2,3,61,62,63,81,82] },
 			{ "id":509, "name":"Spacecraft", "pts":150},
-			{ "id":511, "name":"Tactical", "pts":200, "units":"4 Tacticals plus transport", "Erweiterungen":[1,2,3, 34,35,36, 7, 81,82, 85] },
-			{ "id":512, "name":"Terminator", "pts":350, "units":"4 Terminators", "Erweiterungen":[1,2,3, 8,9, 22,23,24,25] },
+			{ "id":511, "name":"Tactical", "pts":200, "units":"4 Taktischer Trupp plus transport", "Erweiterungen":[1,2,3, 34,35,36, 7, 81,82, 85] },
+			{ "id":512, "name":"Terminator", "pts":350, "units":"4 Terminatoren", "Erweiterungen":[1,2,3, 8,9, 22,23,24,25] },
 			{ "id":513, "name":"Thunderhawk Transporters", "pts":50, "Erweiterungen":[111] },
 			{ "id":514, "name":"Vindicator", "pts":25, "Erweiterungen":[1,2,3, 34,35,36, 7] },
 			{ "id":515, "name":"Whirlwind", "pts":275, "units":"4 Whirlwinds", "Erweiterungen":[1,2,3, 85] }
@@ -32,8 +32,8 @@
 		],
 	"Erweiterungen":[
 		{ "id":1, "name":"Captain", "pts":50 },
-		{ "id":2, "name":"Librarian", "pts":50 },
-		{ "id":3, "name":"Chaplain", "pts":50 },
+		{ "id":2, "name":"Scriptor", "pts":50 },
+		{ "id":3, "name":"Ordenspriester", "pts":50 },
 
 		{ "id":5, "name":"Supreme Commander in Land Raider", "pts":100},
 		{ "id":6, "name":"Supreme Commander in Land Raider Prometheus", "pts":100},
@@ -44,7 +44,7 @@
 
 
 		{ "id":11, "name":"Bikes", "pts":0 },
-		{ "id":12, "name":"Attack Bike", "pts":0 },
+		{ "id":12, "name":"Trike", "pts":0 },
 
 		{ "id":19, "name":"Land Raider", "pts":0 },
 		{ "id":20, "name":"Land Raider Crusader", "pts":0 },
@@ -67,8 +67,8 @@
 		{ "id":62, "name":"Land Speeder Tornado", "pts":35 },
 		{ "id":63, "name":"Land Speeder Typhoon", "pts":45 },
 
-		{ "id":81, "name":"Razorback w/ Twin Lascannon)", "pts":25 },
-		{ "id":82, "name":"Razorback w/ Twin Heavy Bolter)", "pts":25 },
+		{ "id":81, "name":"Razorback w/ Synchronisierte Laserkanone)", "pts":25 },
+		{ "id":82, "name":"Razorback w/ Synchronisierte Heavy Bolter)", "pts":25 },
 
 		{ "id":85, "name":"Hunter", "pts":75 },
 

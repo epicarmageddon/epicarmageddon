@@ -6,15 +6,15 @@
 
 	"sections":[
 		{"name":"IMPERIAL FISTS CORE DETACHMENTS", "formations":[
-			{"id":501, "name":"Tacticals",					"pts":275, "units":"6 Tacticals", "Erweiterungen":[10,11,12,13,14, 15,16, 26,27, 28,29, 50,51]},
-            {"id":502, "name":"Devastators",				"pts":225, "units":"4 Devastators", "Erweiterungen":[10,11,12,13,14, 15,16, 26,27, 28,29, 50,51, 65,66,67]},
+			{"id":501, "name":"Taktischer Trupp",					"pts":275, "units":"6 Taktischer Trupp", "Erweiterungen":[10,11,12,13,14, 15,16, 26,27, 28,29, 50,51]},
+            {"id":502, "name":"Devastoren",				"pts":225, "units":"4 Devastoren", "Erweiterungen":[10,11,12,13,14, 15,16, 26,27, 28,29, 50,51, 65,66,67]},
             {"id":503, "name":"Land Raiders",		     	"pts":125, "Erweiterungen":[15,16, 26,27, 35]},
 			{"id":516, "name":"Support Batterie",				"pts":250, "Erweiterungen":[65,66,67]}
 
 		]},
 		{"name":"IMPERIAL FISTS SUPPORT DETACHMENTS <br/> Max 2 für jeweils Core Detachment", "formations":[
             {"id":510, "name":"Land Speeders",	         		"pts":200, "Erweiterungen":[]},
-            {"id":511, "name":"Terminators",	               	"pts":325, "units":"4 Terminators", "Erweiterungen":[10,11,12,13,14, 26,27, 28,29]},
+            {"id":511, "name":"Terminatoren",	               	"pts":325, "units":"4 Terminatoren", "Erweiterungen":[10,11,12,13,14, 26,27, 28,29]},
             {"id":512, "name":"Centurions",		                "pts":275, "Erweiterungen":[26,27, 28,29]},
 			{"id":513, "name":"Scouts",							"pts":150, "units":"4 Scouts",  "Erweiterungen":[26,27, 44, 50,51]},
 			{"id":515, "name":"Predators",						"pts":250, "Erweiterungen":[15,16]},
@@ -34,8 +34,8 @@
 	],
 	"Erweiterungen":[
         { "id":10, "name":"Captain", "pts":25 },
-        { "id":12, "name":"Chaplain", "pts":50 },
-        { "id":11, "name":"Librarian", "pts":25 },
+        { "id":12, "name":"Ordenspriester", "pts":50 },
+        { "id":11, "name":"Scriptor", "pts":25 },
         { "id":13, "name":"Supreme Commander", "pts":75 },
         { "id":14, "name":"Land Raider Achilles", "pts":75 },
 
@@ -72,8 +72,8 @@
         { "id":45, "name":"Space Marine Rapiers", "pts":0 },
         { "id":46, "name":"Space Marine Thunderfires", "pts":0 },
 
-        { "id":50, "name":"Razorback (Twin Heavy Bolter)",  "pts":25},
-        { "id":51, "name":"Razorback (Twin Lascannon)",  "pts":25},
+        { "id":50, "name":"Razorback (Synchronisierte Heavy Bolter)",  "pts":25},
+        { "id":51, "name":"Razorback (Synchronisierte Laserkanone)",  "pts":25},
 
 		{"id":54, "name":"plus transport",	"pts":0},
 		{"id":55, "name":"plus transport (Siege Rhinos)",	"pts":25},
@@ -85,14 +85,14 @@
 		{ "id":60, "name":"w/ Rapier Laser Destructors", "pts":0 },
         { "id":61, "name":"w/ Thunderfires", "pts":0 },
 
-       { "id":65, "name":"Dreadnought", "pts":50 },
-       { "id":66, "name":"Hellfire Dreadnought", "pts":50 },
-       { "id":67, "name":"Siege Dreadnought", "pts":50 },
+       { "id":65, "name":"Cybot", "pts":50 },
+       { "id":66, "name":"Hellfire Cybot", "pts":50 },
+       { "id":67, "name":"Siege Cybot", "pts":50 },
 
 		{"id":69, "name":"Fellblade",	"pts":300},
 
-        { "id":70, "name":"Tarantula (Twin Heavy Bolter)","pts":0 },
-        { "id":71, "name":"Tarantula (Twin Lascannon)","pts":0 },
+        { "id":70, "name":"Tarantula (Synchronisierte Heavy Bolter)","pts":0 },
+        { "id":71, "name":"Tarantula (Synchronisierte Laserkanone)","pts":0 },
 
 		{"id":80,"name":"Turbo-Laser Destructor","pts":0},
         {"id":81,"name":"Gatling Blaster","pts":0},

@@ -38,7 +38,7 @@
           "AC Piston-Driven Klauen"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -51,7 +51,7 @@
           "AC Piston-Driven Klauen"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -63,7 +63,7 @@
           "AC Flammengeschütz||FxF"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -77,7 +77,7 @@
           "AC Synchronisierte Laserkanone||FxF"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
     },
       {
@@ -92,7 +92,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "crit": "The Harbringer Bomber is destroyed."
       },
@@ -108,7 +108,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "crit": "The Blightbringer Bomber is destroyed."
       },
@@ -140,10 +140,10 @@
           "Damage Capacity 2",
           "Planetfall",
           "Stubborn",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport vier Infanterie units without Beritten; Terminators, Daemon Princes, Chaos Spawn, Big Mutants und Dreadnoughts counts as zwei units jeweils. Counts as a Chaos Thunderhawk für being transported.",
+        "notes": "May transport vier Infanterie Einheiten without Beritten; Terminatoren, Daemon Princes, Chaos Spawn, Big Mutants und Cybots counts as zwei Einheiten. Counts as a Chaos Thunderhawk für being transported.",
         "crit": "The Storm Eagle und all units being carried are destroyed."
       },
       {
@@ -158,7 +158,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Fire Raptor is destroyed."
       },
@@ -178,10 +178,10 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport acht Infanterie units; Terminators, Daemon Princes, Chaos Spawn, Big Mutants und Dreadnoughts counts as zwei units jeweils.",
+        "notes": "May transport acht Infanterie Einheiten; Terminatoren, Daemon Princes, Chaos Spawn, Big Mutants und Cybots counts as zwei Einheiten.",
         "crit": "The Thunderhawk und all units being carried are destroyed."
       },
       {
@@ -200,10 +200,10 @@
         "specialRules": [
           "Damage Capacity 2",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport acht Infanterie units; Terminators, Daemon Princes, Chaos Spawn, Big Mutants und Dreadnoughts counts as zwei units jeweils.",
+        "notes": "May transport acht Infanterie Einheiten; Terminatoren, Daemon Princes, Chaos Spawn, Big Mutants und Cybots counts as zwei Einheiten.",
         "crit": " The Thunderhawk und all units being carried are destroyed."
       },
       {
@@ -223,10 +223,10 @@
           "Damage Capacity 2",
           "Stubborn",
           "Planetfall",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport acht Infanterie units; Terminators, Daemon Princes, Chaos Spawn, Big Mutants und Dreadnoughts counts as zwei units jeweils.",
+        "notes": "May transport acht Infanterie Einheiten; Terminatoren, Daemon Princes, Chaos Spawn, Big Mutants und Cybots counts as zwei Einheiten.",
         "crit": " The Thunderhawk und all units being carried are destroyed."
       },
       {
@@ -244,11 +244,11 @@
         "specialRules": [
           "Damage Capacity 3",
           "Furchtlos",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport zwölf Infanteristen units; Chaos Spawn, Terminators und Dreadnoughts count as zwei units jeweils. Counts as a Thunderhawk für being transported.",
+        "notes": "May transport zwölf Infanteristen units; Chaos Spawn, Terminatoren und Cybots zählen als zwei Einheiten. Counts as a Thunderhawk für being transported.",
         "crit": "The Stormbird und all units being carried are destroyed. All units within 5cm takes a hit."
       },
       {
@@ -257,7 +257,7 @@
         "weapons": [
           "Pin Point"
         ],
-        "notes": "Transport. May transport 8 Infanterie units. These may only enter the battlefield by Teleport."
+        "notes": "Transport. May transport 8 Infanterie Einheiten. These may only enter the battlefield by Teleportieren."
       },
       {
         "name": "Devastation Class Cruiser",
@@ -267,13 +267,13 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "3BP, MW"
+                "Feuerkraft": "3BP, MW"
               }
             ]
           },
           "Pin Point"
         ],
-        "notes": "Transport. May transport 20 Infanterie units oder Dreadnoughts; plus drei Thunderhawks to transport und enough Dreadclaws to transport any other units being carried."
+        "notes": "Transport. May transport 20 Infanterie Einheiten oder Cybots; plus drei Thunderhawks to transport und enough Dreadclaws to transport any other units being carried."
       },
       {
         "name": "Plagueship",
@@ -283,7 +283,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "4BP, MW"
+                "Feuerkraft": "4BP, MW"
               }
             ]
           }
@@ -310,7 +310,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "3BP, MW"
+                "Feuerkraft": "3BP, MW"
               }
             ]
           },
@@ -319,7 +319,7 @@
         "specialRules": [
           "Slow to Arrive (May only arrive from turn 2 onwards)"
         ],
-        "notes": "Transport. May transport 30 Infanterie units oder Dreadnoughts; plus sechs Thunderhawks und enough Dreadclaws to transport any other units being carried."
+        "notes": "Transport. May transport 30 Infanterie Einheiten oder Cybots; plus sechs Thunderhawks und enough Dreadclaws to transport any other units being carried."
       },
       {
         "name": "Chaos Strike Cruiser",
@@ -329,7 +329,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "4BP, MW"
+                "Feuerkraft": "4BP, MW"
               }
             ]
           }
@@ -337,7 +337,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport 20 Infanterie units oder Dreadnoughts; plus twenty light vehicles oder armoured vehicle units (except Dreadnoughts); plus sechs Thunderhawks und enough Drop Pods und Thunderhawk Transporters to transport any other units being carried."
+        "notes": "May transport 20 Infanterie Einheiten oder Cybots; plus twenty light vehicles oder armoured vehicle units (except Cybots); plus sechs Thunderhawks und enough Drop Pods und Thunderhawk Transporters to transport any other units being carried."
       },
       {
         "name": "Alpha Legion Drop Pod",
@@ -346,7 +346,7 @@
             "name": "Deathwind",
             "modes": [
               {
-                "firepower": "AP6+/AT6+",
+                "Feuerkraft": "AP6+/AT6+",
                 "range": 15
               }
             ]
@@ -356,7 +356,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport eine formation of only the following units: Alpha Legion Marines, Alpha Legion Havocs, Alpha Legion Headhunters, Lernaean Terminators, Alpha Legion Dreadnoughts. After the Drop Pod lands, its Deathwind attacks all enemy units within 15cm. Jeweils enemy formation attacked receives a Blast Marker für coming under fire, und an extra Blast Marker für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop Pod models should be removed from the board once the formation they transport has disembarked."
+        "notes": "May transport eine formation of only the following units: Alpha Legion Marines, Alpha Legion Havocs, Alpha Legion Headhunters, Lernaean Terminatoren, Alpha Legion Cybots. After the Drop Pod lands, its Deathwind attacks all enemy units within 15cm. Jeweils enemy formation attacked receives a Blast Marker für coming under fire, und an extra Blast Marker für jeweils casualty. Then any troops carried in the Drop Pod must disembark within 5cm of the Drop Pod oder within 5cm of another unit from the same formation that has already landed, so long as all units are placed within 15cm of the Drop Pod. Drop Pod models should be removed from the board once the formation they transport has disembarked."
       }
     ]
   }

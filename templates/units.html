@@ -27,9 +27,9 @@
                     <table class="table-sm stats-table">
                         <tbody>
                         <tr>
-                            <td>Type</td>
-                            <td>Speed</td>
-                            <td>Armour</td>
+                            <td>Typ</td>
+                            <td>Geschw</td>
+                            <td>Arm/td>
                             <td>CC</td>
                             <td>FF</td>
                         </tr>
@@ -50,13 +50,13 @@
             <div class="row">
                 <div class="col">
                     <small>
-                        <b>Notes:</b>
+                        <b>Anmerkungen:</b>
                         {{#jeweils specialRules}}
                         {{#unless @last}}<i>{{this}}</i>,{{/unless}}
                         {{#if @last}}<i>{{this}}</i>.{{/if}}
                         {{/jeweils}}
                         {{notes}}
-                        {{#if crit}}<b>Critical hit effect:</b> {{crit}}{{/if}}
+                        {{#if crit}}<b>Kritischer Treffer:</b> {{crit}}{{/if}}
                     </small>
                 </div>
             </div>

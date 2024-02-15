@@ -1,6 +1,6 @@
 {
   "fraction": "Ork",
-  "army": "Evil Sunz Speed Freeks, WAAAGH! Gazbag",
+  "army": "Evil Sunz Heizakult, WAAAGH! Gazbag",
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Ork_EvilSunzSpeedFreeks",
@@ -10,8 +10,8 @@
   "specialRules": [
     "Mob Rule",
     "Power of the Waaagh!",
-    "Speed Freeks",
-    "Speed Freeks Warlord"
+    "Heizakult",
+    "Heizakult Warlord"
   ],
   "units": [
     {

@@ -55,7 +55,7 @@
 		{"id":65, "name":"2 Falcons",	"pts":50},
 
 		{"id":70, "name":"2x Titan Pulsar",	"pts":0},
-		{"id":71, "name":"Titan Pulsar, Titan Power Fist",	"pts":0}
+		{"id":71, "name":"Titan Pulsar, Titan Energiefaust",	"pts":0}
 	],
 	"formationConstraints":[
 		{"max":2, "name":"Troupes", "from":[520,521,524,525,526,527,528,529], "forEach":[510,511], "name2":"Warhost"},

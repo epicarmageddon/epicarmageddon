@@ -10,9 +10,9 @@
       ]},
         {"name": "DEATHWATCH DETACHMENTS", "formations": [
             {"id": 501, "name": "Deathwatch Kill-Team", "pts": 150, "Erweiterungen": [3,4, 13,15]},
-            {"id": 510, "name": "Deathwatch Terminators", "pts": 200, "units": "2 Deathwatch Terminators", "Erweiterungen": [3,4, 13,15]},
-    	    {"id": 511, "name": "Deathwatch Attack", "pts": 175, "units": "3 Deathwatch Attack Bikes, Deathwatch Land Speeder Tornado", "Erweiterungen": [3,4]},
-    	    {"id": 512, "name": "Deathwatch Assaults", "pts": 175, "units": "3 Deathwatch Assaults", "Erweiterungen": [3,4, 14]},
+            {"id": 510, "name": "Deathwatch Terminatoren", "pts": 200, "units": "2 Deathwatch Terminatoren", "Erweiterungen": [3,4, 13,15]},
+    	    {"id": 511, "name": "Deathwatch Attack", "pts": 175, "units": "3 Deathwatch Trikes, Deathwatch Land Speeder Tornado", "Erweiterungen": [3,4]},
+    	    {"id": 512, "name": "Deathwatch Sturmtrupp", "pts": 175, "units": "3 Deathwatch Sturmtrupp", "Erweiterungen": [3,4, 14]},
     	    {"id": 513, "name": "Dark Hunter Class Destroyer", "pts": 75, "Erweiterungen": []}
 	  ]},
         {"name": "ORDO XENOS & PLANETARY DEFENSE FORCE FORMATIONS <br/> Max 1 für jeweils Deathwatch Detachment Formation", "formations": [
@@ -30,20 +30,20 @@
    "Erweiterungen": [
 	  {"id": 1, "name": "Watch Commander","pts": 100},
       {"id": 2, "name": "Watch Sergeant","pts": 0},
-      {"id": 3, "name": "Chaplain","pts": 50},
-	  {"id": 4, "name": "Librarian","pts": 25},
+      {"id": 3, "name": "Ordenspriester","pts": 50},
+	  {"id": 4, "name": "Scriptor","pts": 25},
 
       {"id": 5, "name": "Ordo Xenos Inquisitor Lord","pts": 50},
 	  {"id": 6, "name": "Ordo Xenos Inquisitor","pts": 0},
 
-      {"id": 13, "name": "Deathwatch Dreadnought", "pts": 50},
+      {"id": 13, "name": "Deathwatch Cybot", "pts": 50},
 
       {"id": 14, "name": "Deathwatch Land Speeder Tornado", "pts": 25},
       {"id": 15, "name": "Deathwatch Land Raider", "pts": 50},
 
-      {"id": 20, "name": "3 Deathwatch Tacticals","pts": 0},
+      {"id": 20, "name": "3 Deathwatch Taktischer Trupp","pts": 0},
       {"id": 21, "name": "3 Deathwatch Black Shields", "pts": 25},
-      {"id": 22, "name": "3 Deathwatch Devastators", "pts": 50},
+      {"id": 22, "name": "3 Deathwatch Devastoren", "pts": 50},
 
 	  {"id": 30, "name": "3 Thudd Guns","pts": 25},
 	  {"id": 31, "name": "3 Flakk Teams","pts": 25},

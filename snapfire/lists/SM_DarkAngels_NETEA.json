@@ -4,25 +4,25 @@
 	"by":"Mrdiealot",
 "sections":[
 		{"name":"Dark Angles Core Detachments", "formations": [
-            { "id":501, "name":"Tacticals", "units":"6 Tacticals plus Transport",        "pts":275, "Erweiterungen":[13,14,16,17,19,31] },
+            { "id":501, "name":"Taktischer Trupp", "units":"6 Taktischer Trupp plus Transport",        "pts":275, "Erweiterungen":[13,14,16,17,19,31] },
 			{ "id":532, "name":"Land Raiders", "units":"3 Land Raiders",   "pts":250, "Erweiterungen":[13,14,16,30] }
    	 ]},
 	 		{"name":"Dark Angles Support Detachments (Vier Support Detachments may be taken für jeweils Core Detachment)", "formations": [
             { "id":502, "name":"Scouts", "units":"4 Space Marine Scharfschütze Scouts, 2 Rhinos",        "pts":200, "Erweiterungen":[17] },
-            { "id":503, "name":"Assaults", "units":"6 Dark Angels Assault Marines, 1 Dark Angels Captain",        "pts":275, "Erweiterungen":[] },
-            { "id":504, "name":"Devastators", "units":"4 Dark Angels Devastators plus Transport",        "pts":250, "Erweiterungen":[13,14,17,19,31] },
+            { "id":503, "name":"Sturmtrupp", "units":"6 Dark Angels Assault Marines, 1 Dark Angels Captain",        "pts":275, "Erweiterungen":[] },
+            { "id":504, "name":"Devastoren", "units":"4 Dark Angels Devastoren plus Transport",        "pts":250, "Erweiterungen":[13,14,17,19,31] },
 			{ "id":531, "name":"Predators", "units":"4 Predator Destructors", "pts":200, "Erweiterungen":[13,14,31] },
 	        { "id":533, "name":"Siege Breachers", "units":"3 Land Raider Ares", "pts":275, "Erweiterungen":[13,14,20] },
 			{ "id":534, "name":"Whirlwinds", "units":"4 Whirlwinds", "pts":275, "Erweiterungen":[29] }
      ]},
 	 		{"name":"Deathwing & Ravenwing Strike Detachments", "formations": [
-		    { "id":511, "name":"Deathwing Terminators", "units":"4 Deathwing Terminators",        "pts":350, "Erweiterungen":[13,14,15,16,22] },
+		    { "id":511, "name":"Deathwing Terminatoren", "units":"4 Deathwing Terminatoren",        "pts":350, "Erweiterungen":[13,14,15,16,22] },
 			{ "id":521, "name":"Ravenwing Attack", "units":"1x Ravenwing Black Knights, 3x Ravenwing Land Speeder",        "pts":325, "Erweiterungen":[13,14,15,16] }
      ]},
 	 		{"name":"Deathwing & Ravenwing Specialist Detachments (Vier Specialist Detachments may be taken für jeweils Strike Detachment)", "formations": [
-			{ "id":513, "name":"Deathwing Overwatch", "units":"4 Deathwing Cyclone Terminators",        "pts":350, "Erweiterungen":[13,14] },
-			{ "id":514, "name":"Deathwing Knights", "units":"3 Deathwing Knights, 1 Deathwing Terminators, 1 Interrogator Chaplain, 1 Librarian",        "pts":375, "Erweiterungen":[] },
-			{ "id":515, "name":"Deathwing Dreadnoughts", "units":"5 Deathwing Dreadnoughts plus Transport",        "pts":300, "Erweiterungen":[] },	  
+			{ "id":513, "name":"Deathwing Overwatch", "units":"4 Deathwing Cyclone Terminatoren",        "pts":350, "Erweiterungen":[13,14] },
+			{ "id":514, "name":"Deathwing Knights", "units":"3 Deathwing Knights, 1 Deathwing Terminatoren, 1 Interrogator Ordenspriester, 1 Scriptor",        "pts":375, "Erweiterungen":[] },
+			{ "id":515, "name":"Deathwing Cybots", "units":"5 Deathwing Cybots plus Transport",        "pts":300, "Erweiterungen":[] },	  
 			{ "id":516, "name":"Deathwing Land Raiders", "units":"3 Deathwing Land Raiders",        "pts":275, "Erweiterungen":[13,14] },	 
 			{ "id":522, "name":"Ravenwing Support",       "pts":200, "Erweiterungen":[] }
      ]},
@@ -39,20 +39,20 @@
   ],
 	"Erweiterungen":[
 		{"id":13, "name":"Dark Angels Captain",		"pts":50},
-		{"id":14, "name":"Librarian",	"pts":50},
-		{"id":15, "name":"Interrogator Chaplain",		"pts":50},
+		{"id":14, "name":"Scriptor",	"pts":50},
+		{"id":15, "name":"Interrogator Ordenspriester",		"pts":50},
 		{"id":16, "name":"Grand Master", 	"pts":100},
 		{"id":17, "name":"Dark Angels Razorback", 	"pts":25},
-		{"id":19, "name":"2 Mortis Dreadnoughts", 		"pts":75},
+		{"id":19, "name":"2 Mortis Cybots", 		"pts":75},
 		{"id":20, "name":"3 Vindicators", 			"pts":100},
 		{"id":21, "name":"Dark Angels Thunderhawk Transporter", 			"pts":100},
 		{"id":22, "name":"4 Deathwing Land Raiders", 			"pts":225},	
 		{"id":25, "name":"Ravenwing Assault Bikes",		"pts":0},
-		{"id":26, "name":"Ravenwing Attack Bike",	"pts":0},
+		{"id":26, "name":"Ravenwing Trike",	"pts":0},
 		{"id":27, "name":"5 Ravenwing Land Speeder Tornado",		"pts":0},
 		{"id":28, "name":"5 Ravenwing Land Speeder Venegance",	"pts":50},
 		{"id":29, "name":"2 Hunters","pts":125},
-		{"id":30, "name":"6 Tacticals",		"pts":175},
+		{"id":30, "name":"6 Taktischer Trupp",		"pts":175},
 		{"id":31, "name":"2 Dark Angels Stalkers",		"pts":100},
 		{"id":34, "name":"Glaive",		"pts":250},
 		{"id":35, "name":"Strike Cruiser",		"pts":200},

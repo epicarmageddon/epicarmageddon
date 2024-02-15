@@ -17,8 +17,8 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
@@ -42,8 +42,8 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Inspirierend",
           "Daemonic Focus",
           "Geländegängig",
@@ -64,7 +64,7 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -81,7 +81,7 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -96,7 +96,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -110,7 +110,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -124,7 +124,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Beritten",
           "Geländegängig"
         ]
@@ -142,8 +142,8 @@
         ],
         "specialRules": [
           "Damage Capacity 5",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
@@ -167,8 +167,8 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Inspirierend",
           "Daemonic Focus",
           "Geländegängig",
@@ -189,7 +189,7 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -207,8 +207,8 @@
         "specialRules": [
           "Daemonic Focus",
           "Beritten",
-          "Jump Packs",
-          "Invulnerable Save",
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -224,7 +224,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -238,7 +238,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -255,8 +255,8 @@
         "specialRules": [
           "Entbehrlich",
           "Beritten",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -272,8 +272,8 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
@@ -298,8 +298,8 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Inspirierend",
           "Daemonic Focus",
           "Geländegängig",
@@ -321,7 +321,7 @@
         "specialRules": [
             "Daemonic Focus",
             "Infiltratoren",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -339,7 +339,7 @@
           "Beritten",
           "Geländegängig",
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -354,7 +354,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -368,7 +368,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -382,7 +382,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Beritten",
           "Geländegängig"
         ]
@@ -400,8 +400,8 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Anführer",
           "Befehlshaber",
           "Inspirierend",
@@ -426,8 +426,8 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Inspirierend",
           "Daemonic Focus",
           "Geländegängig",
@@ -448,7 +448,7 @@
         ],
         "specialRules": [
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -463,9 +463,9 @@
           "Violet Fire of Tzeentch"
         ],
         "specialRules": [
-          "Jump Packs",
+          "Sprungmodule",
           "Daemonic Focus",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+1)"
         ]
       },
@@ -481,7 +481,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -496,7 +496,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -510,8 +510,8 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -525,7 +525,7 @@
         ],
         "specialRules": [
           "Entbehrlich",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -540,8 +540,8 @@
         "specialRules": [
           "In Midnight Clad",
           "Entbehrlich",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -559,7 +559,7 @@
           "Daemonic Focus",
           "Infiltratoren",
           "Geländegängig",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       }
     ]

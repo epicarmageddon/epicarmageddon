@@ -7,9 +7,9 @@
    "sections": [
         {"name": "BLOOD RAVENS CORE FORMATIONS", "formations": [
 	        {"id":500, "name":"1 Orbital Support", "pts": 150, "Erweiterungen": [] },
-            {"id":501, "name":"Tacticals",			    "pts":275, "units":"6 Tacticals plus transport", "Erweiterungen":[18,19,27,28,29,30, 31,32]},
-            {"id":510, "name":"Devastators",			    "pts":250, "units":"4 Devastators plus transport", "Erweiterungen":[27,28,29,30, 33,34,35]},
-            {"id":504, "name":"Assaults",			    "pts":225, "units":"6 Assaults", "Erweiterungen":[]},
+            {"id":501, "name":"Taktischer Trupp",			    "pts":275, "units":"6 Taktischer Trupp plus transport", "Erweiterungen":[18,19,27,28,29,30, 31,32]},
+            {"id":510, "name":"Devastoren",			    "pts":250, "units":"4 Devastoren plus transport", "Erweiterungen":[27,28,29,30, 33,34,35]},
+            {"id":504, "name":"Sturmtrupp",			    "pts":225, "units":"6 Sturmtrupp", "Erweiterungen":[]},
             {"id":513, "name":"Land Raiders",			"pts":25, "Erweiterungen":[40,41,42]}
 	  ]},
       {"name": "BLOOD RAVENS SUPPORT DETACHMENTS <br/> Max 2 für jeweils Core Detachment", "formations": [
@@ -22,7 +22,7 @@
         {"id": 522, "name": "Interceptor Squads", "pts": 200, "units": "2 Grey Knights Interceptor Squads", "Erweiterungen": [14]},
         {"id": 524, "name": "Strike Squads", "pts": 200, "units": "2 Grey Knights Strike Squads plus transport", "Erweiterungen": [14,48,52,53]},
         {"id": 523, "name": "Purgation Squads", "pts": 225, "units": "2 Grey Knights Purgation Squads plus transport", "Erweiterungen": [14,48,52,53]},
-        {"id": 525, "name": "Terminators", "pts": 275, "units": "2 Grey Knights Terminators", "Erweiterungen": [14,52]},
+        {"id": 525, "name": "Terminatoren", "pts": 275, "units": "2 Grey Knights Terminatoren", "Erweiterungen": [14,52]},
 	    {"id": 521, "name": "Dreadknights", "pts": 300, "units": "2 Nemesis Dreadknights", "Erweiterungen": [14]}
          ]},
         {"name": "BLOOD RAVENS AIRCRAFT <br/> Max 33%", "formations": [
@@ -32,7 +32,7 @@
          ]}
    ],
    "Erweiterungen": [
-      {"id":10, "name":"Blood Ravens Librarian", 		"pts":25},
+      {"id":10, "name":"Blood Ravens Scriptor", 		"pts":25},
       {"id":11, "name":"Blood Ravens Supreme Commander",	"pts":75},
 
       {"id":13, "name":"Grey Knights Captain","pts": 75},
@@ -42,11 +42,11 @@
       {"id":15, "name":"4 Scouts plus transport",							"pts":0},
       {"id":16, "name":"4 Scouts with 'Scharfschütze' plus transport",				"pts":25},
 
-      {"id":18, "name":"Razorback (Twin Heavy Bolter)",						"pts":25},
-      {"id":19, "name":"Razorback (Twin Lascannon)",						"pts":25},
+      {"id":18, "name":"Razorback (Synchronisierte Heavy Bolter)",						"pts":25},
+      {"id":19, "name":"Razorback (Synchronisierte Laserkanone)",						"pts":25},
 
       {"id":20, "name":"Assault Bikes",		"pts":0},
-      {"id":21, "name":"Attack Bike", 	"pts":0},
+      {"id":21, "name":"Trike", 	"pts":0},
 
       {"id":22, "name":"Predator Annihilator",		"pts":0},
       {"id":23, "name":"Predator Destructor",		"pts":0},
@@ -57,10 +57,10 @@
       {"id":25, "name":"Land Speeder Tornado",		"pts":0},
       {"id":26, "name":"Land Speeder Typhoon",		"pts":10},
 
-      {"id":27, "name":"Dreadnought (Hellfire)", 					"pts":50},
-      {"id":28, "name":"Dreadnought", 					"pts":50},
-      {"id":29, "name":"2 Dreadnoughts (Hellfire)", 				"pts":75},
-      {"id":30, "name":"2 Dreadnoughts", 					"pts":75},
+      {"id":27, "name":"Cybot (Hellfire)", 					"pts":50},
+      {"id":28, "name":"Cybot", 					"pts":50},
+      {"id":29, "name":"2 Cybots (Hellfire)", 				"pts":75},
+      {"id":30, "name":"2 Cybots", 					"pts":75},
 
       {"id":31, "name":"Hunter", 						"pts":75},
       {"id":32, "name":"Stalker", 						"pts":50},
@@ -73,10 +73,10 @@
       {"id":41, "name":"Land Raider Helios (Whirlwind)", 					"pts":100},
       {"id":42, "name":"Land Raider Helios (Hyperios)", 					"pts":100},
 
-      {"id":48, "name":"Doomglaive Dreadnought", 					"pts":75},
+      {"id":48, "name":"Doomglaive Cybot", 					"pts":75},
 
       {"id":50, "name":"4 Vortimer Razorbacks", 					"pts":150},
-      {"id":51, "name":"2 Doomglaive Dreadnoughts", 					"pts":150},
+      {"id":51, "name":"2 Doomglaive Cybots", 					"pts":150},
 
       {"id":52, "name":"Vortimer Land Raider Redeemer", 					"pts":75},
       {"id":53, "name":"Vortimer Land Raider", 					"pts":75},

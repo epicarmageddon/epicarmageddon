@@ -16,7 +16,7 @@
 			{"id":505, "name":"Iconoclasts",	"pts":225, "units":"Diabolist, 4 Word Bearers Iconoclasts, Daemonic Pact", "Erweiterungen":[14]},
 			{"id":507, "name":"Havocs",	"pts":225, "units":"Diabolist, 4 Havocs, Daemonic Pact", "Erweiterungen":[14]},
 			{"id":504, "name":"Bike Kompanie",	"pts":325, "units":"Diabolist, 8 Chaos Assault Bikes, Daemonic Pact", "Erweiterungen":[14]},
-			{"id":502, "name":"Chaos Terminators", "pts":150, "units":"Daemonic Pact", "Erweiterungen":[50,14,41,47,80]}
+			{"id":502, "name":"Chaos Terminatoren", "pts":150, "units":"Daemonic Pact", "Erweiterungen":[50,14,41,47,80]}
 		]},
 		{"name":"DAEMON ENGINE FORMATIONS <br/> Max 2 für jeweils Cultist Coven", "formations":[
 			{"id":512, "name":"Cerberites", "pts":200, "units": "3 Cerberites", "Erweiterungen":[]},
@@ -62,10 +62,10 @@
 		{"id":41, "name":"Chaos Land Raider", 	"pts":50},
 		{"id":45, "name":"Chaos Stalker", "pts":50},
 
-		{"id":47, "name":"Chaos Dreadnought", "pts":50},
+		{"id":47, "name":"Chaos Cybot", "pts":50},
 
 
-		{"id":50, "name":"Chaos Terminators", "pts":50},
+		{"id":50, "name":"Chaos Terminatoren", "pts":50},
 
 		{"id":60, "name":"Death Wheel", "pts":225},
 		{"id":61, "name":"Decimator", "pts":175},

@@ -7,7 +7,7 @@
   "Initiative": "All formations have an Initiative of 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all formations.",
   "specialRules": [
-    "Teleport Homer",
+    "Telemetrieempfänger",
     "Navis Nobilite",
     "Space Marine Transports",
     "Grey Knights Transports",
@@ -21,18 +21,18 @@
       "from": "SM.json",
       "units": [
         "Blood Ravens Oberbefehlshaber",
-        "Blood Ravens Librarian",
+        "Blood Ravens Scriptor",
         "Grey Knights Justicar",
         "Aufklärers",
-        "Tacticals",
-        "Devastators",
-        "Assaults",
+        "Taktischer Trupp",
+        "Devastoren",
+        "Sturmtrupp",
         "Grey Knights Strike Squad",
-        "Grey Knights Terminators",
+        "Grey Knights Terminatoren",
         "Grey Knights Interceptor Squad",
         "Grey Knights Purgation Squad",
         "Assault Bikes",
-        "Attack Bike",
+        "Trike",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
@@ -43,9 +43,9 @@
         "Predator Destructor",
         "Hunter",
         "Stalker",
-        "Doomglaive Dreadnought",
-        "Dreadnought",
-        "Dreadnought, Hellfire",
+        "Doomglaive Cybot",
+        "Cybot",
+        "Cybot, Hellfire",
         "Land Raider",
         "Land Raider Helios",
         "Vortimer Land Raider",
@@ -59,7 +59,7 @@
         "Drop Pod"
       ],
       "unitRules": [
-        "Faithful",
+        "Gläubig",
         "Psybolts"
       ]
     }
@@ -78,29 +78,29 @@
           "points": 150
         },
         {
-          "name": "Tacticals",
-          "units": "Ein Blood Ravens Librarian, sechs Tacticals plus transport",
+          "name": "Taktischer Trupp",
+          "units": "Ein Blood Ravens Scriptor, sechs Taktischer Trupp plus transport",
           "extraUnits": [
             "Anti-Air",
             "Oberbefehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Razorbacks"
           ],
           "points": 300
         },
         {
-          "name": "Devastators",
-          "units": "Ein Blood Ravens Librarian, vier Devastators plus transport",
+          "name": "Devastoren",
+          "units": "Ein Blood Ravens Scriptor, vier Devastoren plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Land Raiders"
           ],
           "points": 275
         },
         {
-          "name": "Assaults",
-          "units": "Ein Blood Ravens Librarian, sechs Assaults",
+          "name": "Sturmtrupp",
+          "units": "Ein Blood Ravens Scriptor, sechs Sturmtrupp",
           "extraUnits": [
             "Oberbefehlshaber"
           ],
@@ -108,7 +108,7 @@
         },
         {
           "name": "Land Raiders",
-          "units": "Ein Blood Ravens Librarian, drei Land Raiders",
+          "units": "Ein Blood Ravens Scriptor, drei Land Raiders",
           "extraUnits": [
             "Füge eine Land Raider: 75 Punkte",
             "Ersetze bis zu vier Land Raiders with Land Raider Helios: 25 Punkte jeweils"
@@ -123,18 +123,18 @@
       "formations": [
         {
           "name": "Aufklärers",
-          "units": "Ein Blood Ravens Librarian, vier Aufklärers plus transport",
+          "units": "Ein Blood Ravens Scriptor, vier Aufklärers plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
             "Scharfschützen",
-            "Dreadnoughts",
+            "Cybots",
             "Razorbacks"
           ],
           "points": 175
         },
         {
           "name": "Bikes",
-          "units": "Ein Blood Ravens Librarian, any fünf of the following units: Assault Bikes, Attack Bike",
+          "units": "Ein Blood Ravens Scriptor, any fünf of the following units: Assault Bikes, Trike",
           "extraUnits": [
             "Oberbefehlshaber"
           ],
@@ -142,7 +142,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Ein Blood Ravens Librarian, any fünf of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Ein Blood Ravens Scriptor, any fünf of the following units: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Oberbefehlshaber",
             "Typhoons"
@@ -151,7 +151,7 @@
         },
         {
           "name": "Predators",
-          "units": "Ein Blood Ravens Librarian, any vier of the following units: Predator Annihilators, Predator Destructors",
+          "units": "Ein Blood Ravens Scriptor, any vier of the following units: Predator Annihilators, Predator Destructors",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -190,8 +190,8 @@
           "points": 225
         },
         {
-          "name": "Terminators",
-          "units": "Zwei Grey Knights Terminators",
+          "name": "Terminatoren",
+          "units": "Zwei Grey Knights Terminatoren",
           "extraUnits": [
             "Füge eine Vortimer Land Raider Redeemer: 75 Punkte",
             "Justicar"
@@ -240,7 +240,7 @@
     "items": [
       {
         "name": "(0-1 pro army) Oberbefehlshaber",
-        "description": "Ersetze a Blood Ravens Librarian mit einemBlood Ravens Oberbefehlshaber",
+        "description": "Ersetze a Blood Ravens Scriptor mit einemBlood Ravens Oberbefehlshaber",
         "points": [
           "25 Punkte"
         ]
@@ -254,14 +254,14 @@
       },
       {
         "name": "Grey Knights Support",
-        "description": "Füge eine Vortimer Land Raider oder Vortimer Land Raider Redeemer, oder eine Doomglaive Dreadnought.",
+        "description": "Füge eine Vortimer Land Raider oder Vortimer Land Raider Redeemer, oder eine Doomglaive Cybot.",
         "points": [
           "75 Punkte"
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu zwei Dreadnoughts oder Hellfire Dreadnoughts",
+        "name": "Cybots",
+        "description": "Füge bis zu zwei Cybots oder Hellfire Cybots",
         "points": [
           "50 Punkte jeweils",
           "75 Punkte pro pair"

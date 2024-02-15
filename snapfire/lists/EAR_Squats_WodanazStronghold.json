@@ -1,7 +1,7 @@
 {
 	"id":"EA-R Squats - Wodanaz Stronghold",
 	"version":"Approved 1.0.Beta",
-	"notes":["No more transports than needed to carry the formation with no space left over.", "Leviathans und Hellbores may transport 12 units, und may only be taken if the transported formation fits inside. Squat Warlords und Grand Warlords counts as zwei units jeweils.", "Hellbores are bought separately from their transported formation."],
+	"notes":["No more transports than needed to carry the formation with no space left over.", "Leviathans und Hellbores may transport 12 units, und may only be taken if the transported formation fits inside. Squat Warlords und Grand Warlords counts as zwei Einheiten.", "Hellbores are bought separately from their transported formation."],
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"WODANAZ STRONGHOLD BROTHERHOODS", "formations":[
@@ -32,8 +32,8 @@
 		{"id":101, "name":"Squat Grand Warlord",					"pts":100},
 
 		{"id":105, "name":"Rapier",					"pts":0},
-		{"id":106, "name":"Tarantula (Twin Heavy Bolter)",			"pts":0},
-		{"id":107, "name":"Tarantula (Twin Lascannon)",			"pts":0},
+		{"id":106, "name":"Tarantula (Synchronisierte Heavy Bolter)",			"pts":0},
+		{"id":107, "name":"Tarantula (Synchronisierte Laserkanone)",			"pts":0},
 
 		{"id":111, "name":"Living Ancestor",				"pts":25},
 

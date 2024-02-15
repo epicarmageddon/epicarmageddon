@@ -16,19 +16,19 @@
     {
       "from": "SM.json",
       "units": [
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
-        "Tacticals",
-        "Terminators",
+        "Sturmtrupp",
+        "Taktischer Trupp",
+        "Terminatoren",
         "White Scars Assault Bikes",
         "White Scars Aufklärer Bikes",
         "White Scars Land Speeder",
         "White Scars Land Speeder Tornado",
         "White Scars Land Speeder Typhoon",
         "White Scars Land Speeder Tempest",
-        "White Scars Attack Bike",
+        "White Scars Trike",
         "White Scars Melter Bike",
         "Hunter",
         "Land Raider",
@@ -46,8 +46,8 @@
         "Drop Pod"
       ],
       "unitRules": [
-        "Born in the Saddle",
-        "Wind-Swift"
+        "Im Sattel geboren",
+        "Schnell wie der Wind"
       ]
     },
     {
@@ -68,14 +68,14 @@
           "name": "Bikes",
           "units": "Acht White Scars Assault Bikes",
           "extraUnits": [
-            "Attack Bikes",
+            "Trikes",
             "Befehlshaber"
           ],
           "points": 325
         },
         {
-          "name": "Tacticals",
-          "units": "Sechs Tacticals plus transport",
+          "name": "Taktischer Trupp",
+          "units": "Sechs Taktischer Trupp plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -85,8 +85,8 @@
           "points": 275
         },
         {
-          "name": "Terminators",
-          "units": "Vier Terminators, zwei Land Raider Crusaders",
+          "name": "Terminatoren",
+          "units": "Vier Terminatoren, zwei Land Raider Crusaders",
           "extraUnits": [
             "Ersetze bis zu zwei Land Raider Crusaders with zwei Land Raiders jeweils: 50 Punkte jeweils",
             "Anti-Air",
@@ -102,8 +102,8 @@
       "description": "Zwei Support Detachments may be taken pro Core Detachment",
       "formations": [
         {
-          "name": "Assaults",
-          "units": "Vier Assaults",
+          "name": "Sturmtrupp",
+          "units": "Vier Sturmtrupp",
           "extraUnits": [
             "Befehlshaber",
             "Vindicators"
@@ -122,7 +122,7 @@
           "name": "Aufklärer Bikes",
           "units": "Fünf White Scars Aufklärer Bikes",
           "extraUnits": [
-            "Attack Bikes"
+            "Trikes"
           ],
           "points": 150
         },
@@ -203,7 +203,7 @@
         ]
       },
       {
-        "name": "Attack Bikes",
+        "name": "Trikes",
         "description": "Ersetze bis zu drei White Scars Assault Bikes, oder eine White Scars Aufklärer Bikes, mit einem equal number of White Scars Attack oder Melter Bikes",
         "points": "Free"
       },
@@ -221,11 +221,11 @@
             "points": "25 Punkte"
           },
           {
-            "description": "Librarian",
+            "description": "Scriptor",
             "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
+            "description": "Ordenspriester",
             "points": "50 Punkte"
           },
           {

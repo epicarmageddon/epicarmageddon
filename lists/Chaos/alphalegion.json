@@ -26,8 +26,8 @@
         "Alpha Legion Havocs",
         "Alpha Legion Headhunters",
         "Alpha Legion Destroyers",
-        "Lernaean Terminators",
-        "Alpha Legion Dreadnought",
+        "Lernaean Terminatoren",
+        "Alpha Legion Cybot",
         "Alpha Legion Rhino",
         "Alpha Legion Vindicator",
         "Alpha Legion Predator",
@@ -105,7 +105,7 @@
             "Ersetze vier Alpha Legion Marines with vier Alpha Legion Havocs: 50 Punkte",
             "Füge bis zu zwei Alpha Legion Land Raiders: 50 Punkte jeweils",
             "Oberbefehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Vindicators",
             "Predators"
           ],
@@ -150,11 +150,11 @@
           "points": 250
         },
         {
-          "name": "Terminators",
-          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Lernaean Terminators plus transport",
+          "name": "Terminatoren",
+          "units": "Ein Alpha Legion Lord oder Alpha Legion Sorcerer, vier Lernaean Terminatoren plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 275
         },
@@ -277,8 +277,8 @@
         "points": "50 Punkte jeweils"
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu zwei Alpha Legion Dreadnoughts",
+        "name": "Cybots",
+        "description": "Füge bis zu zwei Alpha Legion Cybots",
         "points": "50 Punkte jeweils"
       }
     ]

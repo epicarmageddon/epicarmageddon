@@ -36,7 +36,7 @@
 		{"id":6,"name":"Seneschal","pts":25},
 		{"id":7,"name":"Lord Seneschal","pts":75},
 
-		{"id":8,"name":"Twin Icarus Autocannons","pts":25},
+		{"id":8,"name":"Synchronisierte Icarus Autocannons","pts":25},
 		{"id":9,"name":"Ironstorm Missile Pods","pts":25},
 
 		{"id":50, "name":"Gorgon",					"pts":0},
@@ -56,8 +56,8 @@
 		{"id":93, "name":"3 Knight-Errants (Thermal Cannon, Reaper Chainsword)",								"pts":125},
 		{"id":94, "name":"2 Knight-Crusaders (Rapid Fire Battle Cannon, Gatling Cannon)",					"pts":0},
 		{"id":95, "name":"3 Knight-Crusaders (Rapid Fire Battle Cannon, Gatling Cannon)",					"pts":125},
-		{"id":96, "name":"2 Knight-Gallants (Thunderstrike Gauntlet, Reaper Chainsword, Twin Icarus Autocannon)",		"pts":0},
-		{"id":97, "name":"3 Knight-Gallants (Thunderstrike Gauntlet, Reaper Chainsword, Twin Icarus Autocannon)",		"pts":125},
+		{"id":96, "name":"2 Knight-Gallants (Thunderstrike Gauntlet, Reaper Chainsword, Synchronisierte Icarus Autocannon)",		"pts":0},
+		{"id":97, "name":"3 Knight-Gallants (Thunderstrike Gauntlet, Reaper Chainsword, Synchronisierte Icarus Autocannon)",		"pts":125},
 		{"id":98, "name":"2 Knight-Wardens (Gatling Cannon, Reaper Chainsword, Ironstorm Missile Pod)",				"pts":0},
 		{"id":99, "name":"3 Knight-Wardens (Gatling Cannon, Reaper Chainsword, Ironstorm Missile Pod)",				"pts":125},
 
@@ -72,16 +72,16 @@
 
 		{"id":120, "name":"4 Knight-Warglaives (Thermal Spear, Reaper Chain-Cleaver)",			 								"pts":0},
 		{"id":121, "name":"5 Knight-Warglaives (Thermal Spear, Reaper Chain-Cleaver)",			 								"pts":50},
-		{"id":122, "name":"4 Knight-Helverins (Twin Autocannon)",																	"pts":0},
-		{"id":123, "name":"5 Knight-Helverins (Twin Autocannon)",																	"pts":50},
+		{"id":122, "name":"4 Knight-Helverins (Synchronisierte Autocannon)",																	"pts":0},
+		{"id":123, "name":"5 Knight-Helverins (Synchronisierte Autocannon)",																	"pts":50},
 
 		{"id":130, "name":"Knight-Valiant (Conflagration C. Thundercoil H. 2 Siegebreaker C. 2 Shieldbreaker M)",	"pts":0},
 		{"id":131, "name":"Knight-Castellan (Volcano Lance, Plasma Decimator, Siegebreaker C. 4 Shieldbreaker M)",		"pts":0},
 
-		{"id":158, "name":"Questoris Relic Knight-Styrix (Volkite Chieroville, Twin Rad Cleanser, Graviton Crusher, Siege Claw, Ionic Flare Shield)",	"pts":0},
-		{"id":159, "name":"2 Questoris Relic Knight-Styrix (Volkite Chieroville, Twin Rad Cleanser, Graviton Crusher, Siege Claw, Ionic Flare Shield)",	"pts":175},
-		{"id":160, "name":"Questoris Relic Knight-Magaera (Lightning C, Twin Phased Plasma Fusil, Reaper Chainsword, Ionic Flare Shield)",				"pts":0},
-		{"id":161, "name":"2 Questoris Relic Knight-Magaeras (Lightning C, Twin Phased Plasma Fusil, Reaper Chainsword, Ionic Flare Shield)",			"pts":175},
+		{"id":158, "name":"Questoris Relic Knight-Styrix (Volkite Chieroville, Synchronisierte Rad Cleanser, Graviton Crusher, Siege Claw, Ionic Flare Shield)",	"pts":0},
+		{"id":159, "name":"2 Questoris Relic Knight-Styrix (Volkite Chieroville, Synchronisierte Rad Cleanser, Graviton Crusher, Siege Claw, Ionic Flare Shield)",	"pts":175},
+		{"id":160, "name":"Questoris Relic Knight-Magaera (Lightning C, Synchronisierte Phased Plasma Fusil, Reaper Chainsword, Ionic Flare Shield)",				"pts":0},
+		{"id":161, "name":"2 Questoris Relic Knight-Magaeras (Lightning C, Synchronisierte Phased Plasma Fusil, Reaper Chainsword, Ionic Flare Shield)",			"pts":175},
 
 		{"id":163, "name":"Acastus Relic Knight-Porphyrion (2 Magna Lascannons, 2 Autocannons, Helios Defense Missiles)",  "pts":0},
 		{"id":164, "name":"2 Acastus Relic Knight-Porphyrions (2 Magna Lascannons, 2 Autocannons, Helios Defense Missiles)",  "pts":225},
@@ -90,7 +90,7 @@
 
 		{"id":170, "name":"3x Eradication Beamer, 1x Icarus Array",				"pts":0},
 		{"id":171, "name":"3x Neutron Laser, 1x Icarus Array",				"pts":0},
-		{"id":172, "name":"3x Twin Heavy Phosphor Blaster, 1x Icarus Array",				"pts":0}
+		{"id":172, "name":"3x Synchronisierte Heavy Phosphor Blaster, 1x Icarus Array",				"pts":0}
     ],
 	"formationConstraints":[
 		{"max":1, "name":"Dominus Banner", "from":[506], "forEach":[499,500], "name2":"Questoris Banner"},

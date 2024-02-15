@@ -14,7 +14,7 @@
           "AC Wormhole Portal"
         ],
         "specialRules": [
-          "Damage Capacity: 1",
+          "Schadenskapazität 1",
           "Furchtlos",
           "Regeneration",
           "Enduring",
@@ -31,7 +31,7 @@
           "AC Death Ray"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Enduring"
         ]
       },
@@ -45,7 +45,7 @@
           "AC Death Spheres||FxF"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Enduring"
         ]
       },
@@ -57,7 +57,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "4BP, MW"
+                "Feuerkraft": "4BP, MW"
               }
             ]
           },

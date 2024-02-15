@@ -20,7 +20,7 @@
           "Oberbefehlshaber",
           "Inspirierend",
           "Furchtlos",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -37,7 +37,7 @@
         "specialRules": [
           "Befehlshaber",
           "Anführer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -99,7 +99,7 @@
         "specialRules": [
           "Anführer",
           "Befehlshaber",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -224,7 +224,7 @@
         "ff": 5,
         "weapons": [
           "Phosphor Blaster",
-          "Power Fist"
+          "Energiefaust"
         ],
         "specialRules": [
           "Machine Spirit",
@@ -243,7 +243,7 @@
         "weapons": [
           "Maschinenkanone",
           "Schwerer Bolter",
-          "Power Fist"
+          "Energiefaust"
         ],
         "specialRules": [
           "Machine Spirit",
@@ -266,7 +266,7 @@
           "Machine Spirit",
           "Furchtlos",
           "Entbehrlich",
-          "Skimmer",
+          "Antigrav",
           "Ponderous"
         ]
       },
@@ -286,7 +286,7 @@
           "Furchtlos",
           "Entbehrlich",
           "Ponderous",
-          "Thick Rear Armour"
+          "Verstärkte Heckpanzerung"
         ]
       },
       {
@@ -317,7 +317,7 @@
             "name": "0-1x Synchronisierte Laserkanone",
             "modes": [
               {
-                "firepower": "AT4+",
+                "Feuerkraft": "AT4+",
                 "range": 45
               }
             ]
@@ -326,7 +326,7 @@
             "name": "0-1x Synchronisierter schwerer Bolter",
             "modes": [
               {
-                "firepower": "AP4+",
+                "Feuerkraft": "AP4+",
                 "range": 30
               }
             ]
@@ -438,7 +438,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Skorpius Dunerider",
@@ -453,7 +453,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Skorpius Disintegrator",
@@ -498,7 +498,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Termite",
@@ -511,11 +511,11 @@
           "Bolter"
         ],
         "specialRules": [
-          "Thick Rear Armour",
+          "Verstärkte Heckpanzerung",
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten. Must start the game in the reserves, und may only enter the battlefield through Tunneling."
+        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren. Must start the game in the reserves, und may only enter the battlefield through Tunneling."
       },
       {
         "name": "Leman Russ",
@@ -530,7 +530,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -541,12 +541,12 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Demolisher",
+          "Demolisher Geschütz",
           "Laserkanone",
-          "Plasma Geschütz|2|"
+          "Plasmakanone|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -559,10 +559,10 @@
         "weapons": [
           "Plasma Destroyer",
           "Laserkanone",
-          "Plasma Geschütz|2|"
+          "Plasmakanone|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -578,7 +578,7 @@
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
-          "Titan Plasma Geschütz|0-1|FxF",
+          "Titan Plasmakanone|0-1|FxF",
           "Titan Melter Geschütz |0-1|",
           "Gatling Blaster|0-1|FxF",
           ">Support Weapons<",
@@ -589,7 +589,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Deflektorschilde 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon. May be upgraded to a Support Weapon.",
@@ -608,14 +608,14 @@
           "Turbo-Laser Destructor|0-1|FxF",
           "Apocalypse Raketenwerfer|0-1|FxF",
           "Heavy Icarus Array|0-1|",
-          "Titan Plasma Geschütz|0-1|FxF",
+          "Titan Plasmakanone|0-1|FxF",
           "Titan Melter Geschütz |0-1|",
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
           "Damage Capacity 2",
           "Deflektorschilde 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon.",
@@ -641,7 +641,7 @@
         "specialRules": [
           "Damage Capacity 4",
           "Deflektorschilde 4",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "crit": "The Ordinatus is destroyed, und any units within 5cm suffers a hit on 4+"
@@ -658,11 +658,11 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 Infanterie units without Jump Pack oder Beritten. Praetorian Combat Servitor counts as zwei units jeweils.",
+        "notes": "May carry 10 Infanterie Einheiten without Jump Pack oder Beritten Eigenschaft transportieren Praetorian Combat Servitor counts as zwei Einheiten.",
         "crit": "The Gorgon is Immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -672,15 +672,15 @@
         "armour": 5,
         "ff": 5,
         "weapons": [
-          "Storm Bolter Array"
+          "Sturmbolter Array"
         ],
         "specialRules": [
           "Damage capacity: 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport sechs Infanterie units without Jump Packs oder Beritten."
+        "notes": "May transport sechs Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Lysander Fighter",
@@ -727,7 +727,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "3BP, MW"
+                "Feuerkraft": "3BP, MW"
               }
             ]
           },
@@ -742,7 +742,7 @@
             "name": "0-1x Orbital Bombardment",
             "modes": [
               {
-                "firepower": "6BP, MW"
+                "Feuerkraft": "6BP, MW"
               }
             ]
           },

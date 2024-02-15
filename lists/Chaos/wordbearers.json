@@ -28,12 +28,12 @@
         "Havocs",
         "Word Bearers Possessed",
         "Word Bearers Iconoclasts",
-        "Chaos Terminators",
+        "Chaos Terminatoren",
         "Chaos Assault Bikes",
         "Chaos Rhino",
         "Chaos Stalker",
         "Chaos Land Raider",
-        "Chaos Dreadnought"
+        "Chaos Cybot"
       ],
       "unitRules": [
           "Augment Summoning (+x)",
@@ -111,7 +111,7 @@
             "Havocs",
             "Possessed",
             "Icon Bearer",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 350
         },
@@ -158,15 +158,15 @@
           "points": 325
         },
         {
-          "name": "Chaos Terminators",
-          "units": "Ein Dark Apostle, vier Chaos Terminators, Daemonic Pact",
+          "name": "Chaos Terminatoren",
+          "units": "Ein Dark Apostle, vier Chaos Terminatoren, Daemonic Pact",
           "extraUnits": [
-            "Füge bis zu zwei Chaos Terminators: 50 Punkte jeweils",
+            "Füge bis zu zwei Chaos Terminatoren: 50 Punkte jeweils",
             "Oberbefehlshaber",
             "Icon Bearer",
             "Transport",
             "Dreadclaws",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 350
         }
@@ -310,13 +310,13 @@
         "points": "25 Punkte"
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu drei Chaos Dreadnoughts",
+        "name": "Cybots",
+        "description": "Füge bis zu drei Chaos Cybots",
         "points": "50 Punkte jeweils"
       },
       {
         "name": "Dreadclaws",
-        "description": "Transport a formation containing only Infanterie units und Dreadnoughts in Dreadclaws (formation must be deployed on a spacecraft)",
+        "description": "Transport a formation containing only Infanterie Einheiten und Cybots in Dreadclaws (formation must be deployed on a spacecraft)",
         "points": "5 Punkte pro unit"
       },
       {

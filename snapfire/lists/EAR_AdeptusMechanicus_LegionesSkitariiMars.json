@@ -35,7 +35,7 @@
 		{"id":80, "name":"Onager Dunecrawler (Icarus Array)",	"pts":50},
 		{"id":81, "name":"Onager Dunecrawler (Neutron Laser)",	"pts":50},
 		{"id":82, "name":"Onager Dunecrawler (Eradication Beamer)",	"pts":50},
-		{"id":83, "name":"Onager Dunecrawler (Twin Hvy Phosphor Blaster)",	"pts":50},
+		{"id":83, "name":"Onager Dunecrawler (Synchronisierte Hvy Phosphor Blaster)",	"pts":50},
 
 		{"id":90, "name":"Skorpius Disintegrator",	"pts":50},
 
@@ -78,7 +78,7 @@
 		{"id":140, "name":"2 Knight-Paladin (Rapid Fire Battle Cannon, Chainsword)",												"pts":0},
 		{"id":141, "name":"2 Knight-Errant (Thermal Cannon, Chainsword)",										         				"pts":0},
 		{"id":142, "name":"2 Knight-Crusader (Rapid Fire Battle Cannon, Gatling Cannon)",											"pts":0},
-		{"id":143, "name":"2 Knight-Gallant (Gauntlet, Chainsword, Twin Icarus Autocannon)",						             			"pts":0},
+		{"id":143, "name":"2 Knight-Gallant (Gauntlet, Chainsword, Synchronisierte Icarus Autocannon)",						             			"pts":0},
 		{"id":144, "name":"2 Knight-Warden (Gatling Cannon, Chainsword, Ironstorm Missile Pod)",		     							     "pts":0},
 
 		{"id":150, "name":"2 Warhound Titans (Standard Configuration)",		"pts":0},
@@ -90,11 +90,11 @@
 
 		{"id":170, "name":"3x Eradication Beamer, 1x Icarus Array",				"pts":0},
 		{"id":171, "name":"3x Neutron Laser, 1x Icarus Array",				"pts":0},
-		{"id":172, "name":"3x Twin Heavy Phosphor Blaster, 1x Icarus Array",				"pts":0},
+		{"id":172, "name":"3x Synchronisierte Heavy Phosphor Blaster, 1x Icarus Array",				"pts":0},
 
 		{"id":175, "name":"6x Eradication Beamer, 2x Icarus Array",				"pts":0},
 		{"id":176, "name":"6x Neutron Laser, 2x Icarus Array",				"pts":0},
-		{"id":177, "name":"6x Twin Heavy Phosphor Blaster, 2x Icarus Array",				"pts":0},
+		{"id":177, "name":"6x Synchronisierte Heavy Phosphor Blaster, 2x Icarus Array",				"pts":0},
 
 		{"id":190,"name":"Nemesis Quake Cannon","pts":0},
 	    {"id":191,"name":"Volcano Cannon","pts":0},

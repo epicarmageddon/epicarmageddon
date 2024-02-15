@@ -24,8 +24,8 @@
         "Havocs",
         "Chosen",
         "Bezashk Destroyers",
-        "Tyrant Siege Terminators",
-        "Obliterators",
+        "Tyrant Siege Terminatoren",
+        "Kyborgs",
         "Iron Warriors Basilisk",
         "Bezashk Medusa",
         "Chaos Spartan Assault Panzer",
@@ -35,13 +35,13 @@
         "Chaos Predator",
         "Chaos Land Raider",
         "Chaos Vindicator",
-        "Chaos Dreadnought",
-        "Chaos Siege Dreadnought",
+        "Chaos Cybot",
+        "Chaos Siege Cybot",
         "Iron Warriors Stormsword"
       ],
       "unitRules": [
         "Bionics",
-        "Battlefield Repairs",
+        "Notreparaturen",
         "Heavy Armoured Vehicle (H-AV)"
       ]
     },
@@ -81,10 +81,10 @@
             "Ersetze zwei Chaos Space Marines with zwei Havocs: 25 Punkte",
             "Oberbefehlshaber",
             "Transport",
-            "Obliterators",
+            "Kyborgs",
             "Dreadclaws",
             "Vindicators",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 225
         },
@@ -116,7 +116,7 @@
           "name": "Chosen",
           "units": "Vier Chosen, zwei Chaos Rhinos",
           "extraUnits": [
-            "Ersetze zwei Chaos Rhinos with zwei Chaos Siege Rhinos (10 Punkte), oder zwei Chaos Dreadnoughts oder zwei Chaos Siege Dreadnoughts (75 Punkte)",
+            "Ersetze zwei Chaos Rhinos with zwei Chaos Siege Rhinos (10 Punkte), oder zwei Chaos Cybots oder zwei Chaos Siege Cybots (75 Punkte)",
             "Vindicators"
           ],
           "points": 150
@@ -130,21 +130,21 @@
           "points": 200
         },
         {
-          "name": "Dreadnought Assault Pack",
-          "units": "Vier Chaos Dreadnoughts",
+          "name": "Cybot Assault Pack",
+          "units": "Vier Chaos Cybots",
           "extraUnits": [
-            "Dreadnoughts",
+            "Cybots",
             "Dreadclaws"
           ],
           "points": 250
         },
         {
-          "name": "Tyrant Terminators",
-          "units": "Ein Iron Warriors Warpsmith, vier Tyrant Siege Terminators",
+          "name": "Tyrant Terminatoren",
+          "units": "Ein Iron Warriors Warpsmith, vier Tyrant Siege Terminatoren",
           "extraUnits": [
-            "Obliterators",
+            "Kyborgs",
             "Oberbefehlshaber",
-            "Dreadnoughts",
+            "Cybots",
             "Dreadclaws"
           ],
           "points": 275
@@ -159,9 +159,9 @@
           "name": "Heavy Siege Engine",
           "units": "Iron Warriors Stormsword",
           "extraUnits": [
-            "Obliterators",
+            "Kyborgs",
             "Vindicators",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 200
         },
@@ -275,7 +275,7 @@
       },
       {
         "name": "Transport",
-        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie units in the formation",
+        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie Einheiten in the formation",
         "options": [
           {
             "description": "Füge bis zu drei Chaos Rhinos",
@@ -296,18 +296,18 @@
         ]
       },
       {
-        "name": "Obliterators",
-        "description": "Füge bis zu zwei Obliterators",
+        "name": "Kyborgs",
+        "description": "Füge bis zu zwei Kyborgs",
         "points": "75 Punkte jeweils"
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge bis zu zwei Chaos Dreadnoughts, oder bis zu zwei Siege Dreadnoughts",
+        "name": "Cybots",
+        "description": "Füge bis zu zwei Chaos Cybots, oder bis zu zwei Siege Cybots",
         "points": "50 Punkte jeweils"
       },
       {
         "name": "Dreadclaws",
-        "description": "Transport a formation containing only Infanterie units und Dreadnoughts in Dreadclaws (formation must be deployed on a spacecraft)",
+        "description": "Transport a formation containing only Infanterie Einheiten und Cybots in Dreadclaws (formation must be deployed on a spacecraft)",
         "points": "5 Punkte pro unit"
       },
       {

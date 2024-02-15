@@ -47,7 +47,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May carry bis zu acht Infanterie units without Beritten. Grotesques counts as zwei units jeweils.",
+        "notes": "May carry bis zu acht Infanterie Einheiten without Beritten. Grotesques counts as zwei Einheiten.",
         "crit": "The Slavebringer und all units on board are destroyed."
       },
       {
@@ -58,7 +58,7 @@
             "name": "Orbital Bombardment",
             "modes": [
               {
-                "firepower": "6BP, MW"
+                "Feuerkraft": "6BP, MW"
               }
             ]
           },

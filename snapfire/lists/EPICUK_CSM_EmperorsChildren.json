@@ -9,7 +9,7 @@
             {"id": 552, "name": "Daemon Pool", "pts": 0, "Erweiterungen": [50,51,49]}
          ]},
 	  {"name": "EMPEROR'S CHILDREN ELITE <br/> Max 1 für jeweils Retinue", "formations": [
-            {"id": 503, "name": "Emperor's Children Terminators", "pts": 400, "units": "4 Emperor's Children Terminators", "Erweiterungen": [52,56,57,69,70,63,67,68,60,53,64,65,66]},
+            {"id": 503, "name": "Emperor's Children Terminatoren", "pts": 400, "units": "4 Emperor's Children Terminatoren", "Erweiterungen": [52,56,57,69,70,63,67,68,60,53,64,65,66]},
             {"id": 551, "name": "Emperor's Children Bike Kompanie", "pts": 300, "units": "6 Emperor's Children Bikes", "Erweiterungen": [56]}
          ]},
       {"name": "EMPEROR'S CHILDREN SUPPORT <br/> Max 2 für jeweils Retinue", "formations": [
@@ -53,12 +53,12 @@
     {"id": 60, "name": "Icon Bearer", "pts": 25},
     {"id": 61, "name": "2 Chaos Rhinos", "pts": 20},
     {"id": 62, "name": "3 Chaos Rhinos", "pts": 30},
-    {"id": 63, "name": "Chaos Dreadnought", "pts": 50},
+    {"id": 63, "name": "Chaos Cybot", "pts": 50},
     {"id": 64, "name": "2 Chaos Land Raiders", "pts": 150},
     {"id": 65, "name": "3 Chaos Land Raiders", "pts": 225},
     {"id": 66, "name": "4 Chaos Land Raiders", "pts": 300},
-	  {"id": 67, "name": "2 Chaos Dreadnoughts", "pts": 100},
-	  {"id": 68, "name": "3 Chaos Dreadnoughts", "pts": 150},
+	  {"id": 67, "name": "2 Chaos Cybots", "pts": 100},
+	  {"id": 68, "name": "3 Chaos Cybots", "pts": 150},
 	  {"id": 69, "name": "2 Emperor's Children Defilers", "pts": 150},
 	  {"id": 70, "name": "3 Emperor's Children Defilers", "pts": 225},
 	  {"id": 71, "name": "2 Chaos Vindicators", "pts": 70},

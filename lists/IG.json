@@ -517,7 +517,7 @@
         ],
         "specialRules": [
           "Aufklärer",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -835,7 +835,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Chimäre",
@@ -851,7 +851,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Death World Chimäre",
@@ -868,7 +868,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Höllenhund",
@@ -927,7 +927,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Taurox",
@@ -943,7 +943,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten"
+        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten"
       },
       {
         "name": "Centaur",
@@ -997,7 +997,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Todesstoss-Raketensilo is destroyed. All units within 10cm takes a hit."
       },
@@ -1185,7 +1185,7 @@
           "Schweres Maschinengewehr|2|"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -1202,7 +1202,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1218,7 +1218,7 @@
           "Multimelter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1234,7 +1234,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1247,10 +1247,10 @@
         "weapons": [
           "Plasma Destroyer",
           "Laserkanone",
-          "Plasma Geschütz|2|"
+          "Plasmakanone|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1261,10 +1261,10 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Demolisher"
+          "Demolisher Geschütz"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -1280,7 +1280,7 @@
           "Schwerer Bolter|3|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1291,12 +1291,12 @@
         "cc": 6,
         "ff": 3,
         "weapons": [
-          "Demolisher",
+          "Demolisher Geschütz",
           "Laserkanone",
-          "Plasma Geschütz|2|"
+          "Plasmakanone|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1310,7 +1310,7 @@
           "Laser Destroyer"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -1327,7 +1327,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1343,7 +1343,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1359,10 +1359,10 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie units oder eine Drop Sentinel. May not transport Ogryns."
+        "notes": "May transport zwei Infanterie Einheiten oder eine Drop Sentinel. May not transport Ogryns."
       },
       {
         "name": "Sky Talon",
@@ -1375,7 +1375,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
         "notes": "May transport eine Light Vehicle (LV) oder zwei Drop Sentinels."
@@ -1393,7 +1393,7 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Aufklärer"
         ]
       },
@@ -1409,10 +1409,10 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Skimmer",
+          "Antigrav",
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie units oder eine Drop Sentinel. May not transport Ogryns."
+        "notes": "May transport zwei Infanterie Einheiten oder eine Drop Sentinel. May not transport Ogryns."
       },
       {
         "name": "Malcador",
@@ -1426,7 +1426,7 @@
           "Schwerer Bolter|3|"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -1439,11 +1439,11 @@
         "ff": 4,
         "weapons": [
           "Synchronisierte Laserkanone",
-          "Demolisher",
+          "Demolisher Geschütz",
           "Schweres Maschinengewehr|2|"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -1455,11 +1455,11 @@
         "cc": 6,
         "ff": 4,
         "weapons": [
-          "Demolisher",
+          "Demolisher Geschütz",
           "Schwerer Bolter Array"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig"
         ]
       },
@@ -1490,7 +1490,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry sechs Infanterie units without Jump Packs oder Beritten"
+        "notes": "May carry sechs Infanterie Einheiten ohne Sprungmodule oder Beritten"
       },
       {
         "name": "Minotaur",
@@ -1519,7 +1519,7 @@
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -1537,7 +1537,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "notes": "Must be equipped with either Synchronisierter Vanquisher Geschütz oder a Vulcan Mega-Bolter.",
         "crit": "The Macharius is destroyed."
@@ -1555,7 +1555,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Macharius is destroyed."
       },
@@ -1572,7 +1572,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Macharius is destroyed."
       },
@@ -1589,7 +1589,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
       },
@@ -1605,11 +1605,11 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 Infanterie units without Jump Pack oder Beritten.",
+        "notes": "May carry 10 Infanterie Einheiten without Jump Pack oder Beritten Eigenschaft transportieren",
         "crit": "The Gorgon is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -1628,7 +1628,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1648,7 +1648,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1666,7 +1666,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "notes": "May transport zwölf Infanteristen units without Jump Pack oder Beritten, zwei may fire from the firing deck und participate with FF during assaults.",
@@ -1685,7 +1685,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
@@ -1703,7 +1703,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1721,7 +1721,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1739,7 +1739,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -1758,7 +1758,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
       }

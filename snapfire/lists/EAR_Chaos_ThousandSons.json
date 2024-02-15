@@ -8,9 +8,9 @@
 		{"name":"DAEMONS", "formations":[
 			{"id":500, "name":"Daemon Pool", "pts":0, "Erweiterungen":[71,72,73]}
 		]},
-		{"name":"THOUSAND SONS CORE FORMATIONS <br/> Max 1 Thousand Sons Terminators für jeweils Thousand Sons Retinue", "formations":[
+		{"name":"THOUSAND SONS CORE FORMATIONS <br/> Max 1 Thousand Sons Terminatoren für jeweils Thousand Sons Retinue", "formations":[
 			{"id":501, "name":"Thousand Sons Retinue", "pts":375, "units": "5 Rubric Marines, Daemonic Pact", "Erweiterungen":[15,16, 20,21, 30, 40]},
-			{"id":502, "name":"Thousand Sons Terminators", "pts":400, "units": "3 Scarab Occult Terminators, Daemonic Pact", "Erweiterungen":[15, 22]}
+			{"id":502, "name":"Thousand Sons Terminatoren", "pts":400, "units": "3 Scarab Occult Terminatoren, Daemonic Pact", "Erweiterungen":[15, 22]}
 		]},
 		{"name":"THOUSAND SONS UNTERSTÜTZUNGSVERBÄNDE <br/> Max 3 für jeweils Core formation", "formations":[
 			{"id":505, "name":"Tzaangor Host",	"pts":200, "units":"8 Tzaangors, Daemonic Pact", "Erweiterungen":[]},
@@ -30,9 +30,9 @@
 	],
 	"Erweiterungen":[
 		{"id":10, "name":"Aspiring Sorcerer", 				"pts":0},
-		{"id":11, "name":"Scarab Occult Terminators with Aspiring Sorcerer", 	"pts":0},
+		{"id":11, "name":"Scarab Occult Terminatoren with Aspiring Sorcerer", 	"pts":0},
 		{"id":12, "name":"Exalted Sorcerer", 				"pts":50},
-		{"id":13, "name":"Scarab Occult Terminators with Exalted Sorcerer", 	"pts":50},
+		{"id":13, "name":"Scarab Occult Terminatoren with Exalted Sorcerer", 	"pts":50},
 		{"id":14, "name":"Daemon Prince of Tzeentch (Replaces the Aspiring Sorcerer und its unit)", 	"pts":100},
 
 		{"id":15, "name":"Icon Bearer", 			"pts":25},
@@ -53,7 +53,7 @@
 		{"id":35, "name":"4 Thousand Sons Predators", 	"pts":225},
 		{"id":36, "name":"4 Thousand Sons Land Raiders", 	"pts":300},
 
-		{"id":40, "name":"Thousand Sons Dreadnought", "pts":50},
+		{"id":40, "name":"Thousand Sons Cybot", "pts":50},
 
 		{"id":41, "name":"Chaos Spawn", "pts":0},
 		{"id":42, "name":"Mutalith Vortex Beast", "pts":75},
@@ -73,7 +73,7 @@
 	],
 	"formationConstraints":[
 		{"max":1, "name":"Spacecraft", "from":[514]},
-		{"max":1, "name":"Thousand Sons Terminators", "from":[502], "forEach":[501], "name2":"Thousand Sons Retinue"},
+		{"max":1, "name":"Thousand Sons Terminatoren", "from":[502], "forEach":[501], "name2":"Thousand Sons Retinue"},
 		{"max":3, "name":"Unterstützungsverbände", "from":[503,504,506,507,505,508], "forEach":[501,502], "name2":"Core Formation"},
 		{"min":1, "max":1, "from":[500]},
 		{"maxPercent": 33.5, "name":"Dark Mechanicus und Thousand Sons Navy", "from":[509,510,511,512,513,514]}

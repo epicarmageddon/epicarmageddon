@@ -31,7 +31,7 @@
 		{"id":11, "name":"Knight-Baron",						"pts":150},
 		{"id":12, "name":"Seneschal",							"pts":25},
 		{"id":13, "name":"Knight-Paladin",					"pts":75},
-		{"id":14, "name":"Knight-Castellan (Twin Lascannon)",					"pts":125},
+		{"id":14, "name":"Knight-Castellan (Synchronisierte Laserkanone)",					"pts":125},
 		{"id":24, "name":"Knight-Castellan (Multi Barreled Autocannon)",					"pts":125},
 		{"id":15, "name":"Knight-Lancer",						"pts":100},
 		{"id":16, "name":"Knight-Warden Demolisher",			"pts":75},

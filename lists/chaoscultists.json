@@ -24,7 +24,7 @@
           "Daemonic Focus",
           "Augment Summoning (+1)",
           "Anführer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -39,7 +39,7 @@
           "Dämonenwaffen"
         ],
         "specialRules": [
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Augment Summoning (+2D3)"
         ]
       },
@@ -67,7 +67,7 @@
         "specialRules": [
           "Befehlshaber",
           "Anführer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -84,7 +84,7 @@
         "specialRules": [
           "Befehlshaber",
           "Anführer",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -100,11 +100,11 @@
         ],
         "specialRules": [
           "Oberbefehlshaber",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Jump Pack",
           "Furchtlos",
           "Daemonic Focus",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -175,7 +175,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ],
         "notes": "Counts as zwei units of INF für the purpose of being transported."
       },
@@ -192,7 +192,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Jump Packs"
+          "Sprungmodule"
         ]
       },
       {
@@ -222,7 +222,7 @@
         "specialRules": [
             "Transport"
         ],
-        "notes": "May transport zwei Infanterie units without Beritten oder Jump Packs."
+        "notes": "May transport zwei Infanterie Einheiten without Beritten oder Sprungmodule."
       },
       {
         "name": "Technical",
@@ -249,8 +249,8 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Furchtlos",
           "Inspirierend",
           "Daemonic Focus",
@@ -270,8 +270,8 @@
         ],
         "specialRules": [
             "Damage Capacity 3",
-            "Reinforced Armour",
-            "Invulnerable Save",
+            "Verstärkte Panzerung",
+            "Unmodifizierter Rettungswurf",
             "Furchtlos",
             "Inspirierend",
             "Daemonic Focus",
@@ -320,8 +320,8 @@
         ],
         "specialRules": [
           "Beritten",
-          "Jump Packs",
-          "Invulnerable Save"
+          "Sprungmodule",
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -338,7 +338,7 @@
         "specialRules": [
           "Furchtlos",
           "Geländegängig",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Regeneration",
           "Augment Summoning (+2D3)"
         ]

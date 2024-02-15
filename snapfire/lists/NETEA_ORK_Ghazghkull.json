@@ -50,7 +50,7 @@
       {"id": 57, "name": "Killa Kan", "pts": 25},
       {"id": 58, "name": "Battlewagon", "pts": 25},
       {"id": 59, "name": "Deffkopta", "pts": 35},
-      {"id": 60, "name": "Dreadnought", "pts": 35},
+      {"id": 60, "name": "Cybot", "pts": 35},
       {"id": 61, "name": "Flakwagon", "pts": 35},
       {"id": 62, "name": "Gunwagon", "pts": 35},
       {"id": 64, "name": "Nobz", "pts": 35},
@@ -69,7 +69,7 @@
       {"id": 91, "name": "Battle Kroozer", "pts": 50},
 
       {"id": 92, "name": "Soopagun", "pts": 0},
-      {"id": 93, "name": "Twin Soopagun", "pts": 0},
+      {"id": 93, "name": "Synchronisierte Soopagun", "pts": 0},
       {"id": 94, "name": "Supa-Zzap-Gun", "pts": 0},
       {"id": 95, "name": "Mega-Choppa", "pts": 0},
       {"id": 96, "name": "Lifta-Droppa", "pts": 0}

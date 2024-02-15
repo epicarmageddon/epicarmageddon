@@ -9,7 +9,7 @@
   "Initiative": "All Verbände haben eine Initiative von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Dark Angels detachments.",
   "specialRules": [
-    "Teleport Homer",
+    "Telemetrieempfänger",
     "Space Marine Transports",
     "They Shall Know No Fear"
   ],
@@ -18,23 +18,23 @@
       "from": "SM.json",
       "units": [
         "Dark Angels Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
-        "Assaults",
+        "Sturmtrupp",
         "Aufklärers",
-        "Tacticals",
-        "Dark Angels Devastators",
-        "Terminators",
+        "Taktischer Trupp",
+        "Dark Angels Devastoren",
+        "Terminatoren",
         "Deathwing Knights",
-        "Cyclone Terminators",
+        "Cyclone Terminatoren",
         "Ravenwing Black Knights",
         "Ravenwing Assault Bikes",
-        "Ravenwing Attack Bike",
+        "Ravenwing Trike",
         "Ravenwing Land Speeder",
         "Ravenwing Land Speeder Tornado",
         "Ravenwing Land Speeder Venegance",
-        "Dreadnought, Mortis",
+        "Cybot, Mortis",
         "Hunter",
         "Stalker",
         "Land Raider",
@@ -64,14 +64,14 @@
           "name": "Ravenwing Attack",
           "units": "Ein Black Knights, vier Ravenwing Assault Bikes, drei Ravenwing Land Speeders",
           "extraUnits": [
-            "Attack Bikes",
+            "Trikes",
             "Befehlshaber"
           ],
           "points": 350
         },
         {
-          "name": "Tacticals",
-          "units": "Sechs Tacticals plus transport",
+          "name": "Taktischer Trupp",
+          "units": "Sechs Taktischer Trupp plus transport",
           "extraUnits": [
             "Razorbacks",
             "Anti-Air",
@@ -82,7 +82,7 @@
         },
         {
           "name": "Deathwing Strike",
-          "units": "Any vier of the following units: Terminators, Cyclone Terminators",
+          "units": "Any vier of the following units: Terminatoren, Cyclone Terminatoren",
           "extraUnits": [
             "Deathwing Knights",
             "Befehlshaber"
@@ -113,8 +113,8 @@
           "points": 375
       },
       {
-        "name": "Devastators",
-        "units": "Vier Dark Angels Devastators plus transport",
+        "name": "Devastoren",
+        "units": "Vier Dark Angels Devastoren plus transport",
         "extraUnits": [
           "Razorbacks",
           "Anti-Air",
@@ -125,7 +125,7 @@
       },
       {
         "name": "Deathwing Armour",
-        "units": "Drei Land Raiders, drei Terminators",
+        "units": "Drei Land Raiders, drei Terminatoren",
         "extraUnits": [
           "Befehlshaber"
         ],
@@ -140,8 +140,8 @@
       "points": 250
     },
         {
-          "name": "Assaults",
-          "units": "Vier Assaults",
+          "name": "Sturmtrupp",
+          "units": "Vier Sturmtrupp",
           "extraUnits": [
             "Befehlshaber",
             "Vindicators"
@@ -213,13 +213,13 @@
     "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
       {
-        "name": "Attack Bikes",
-        "description": "Ersetze any number of Assault Bikes mit einem equal number of Attack Bikes",
+        "name": "Trikes",
+        "description": "Ersetze any number of Assault Bikes mit einem equal number of Trikes",
         "points": "Free"
       },
       {
         "name": "Deathwing Knights",
-        "description": "Ersetze eine unit of Terminators with Deathwing Knights",
+        "description": "Ersetze eine unit of Terminatoren with Deathwing Knights",
         "points": "25 Punkte"
       },
       {
@@ -240,11 +240,11 @@
         "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
-            "description": "Dark Angels Captain, Librarian",
+            "description": "Dark Angels Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
+            "description": "Ordenspriester",
             "points": "50 Punkte"
           },
           {
@@ -266,7 +266,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Füge zwei Mortis Dreadnoughts",
+            "description": "Füge zwei Mortis Cybots",
             "points": "100 Punkte"
           }
         ]
@@ -294,8 +294,8 @@
     ]
   },
   "usage": [
-    "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. Für example, while the Invulnerable Save on the Ravenwing formations has been retained, the Deathwing rule has been dropped, und the Teleport Homer rule is greatly expanded.",
-    "Apart from the rigid structure und the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault formations, but strongly encourages the player to concentrate on the Teleport aspects of the Dark Angels fluff, und bringing a strong ground game. The Battle Barge has been replaced with the Hunter Class Destroyer, which provides the army mit einemcheaper way to use the Teleport Homer special rule.",
-    "A great number of the Dark Angels' many special units has been added, somewhat compensating für the loss of air assault options und Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to eine formation für thematic purposes, while the normal Dreadnought loadouts have been replaced with the Mortis AA variant. The Land Speeder Typhoon has been replaced with the Land Speeder Venegance, und the formation reduced to vier units to keep the cost down, und make the formation more competitive with the Aufklärer formation. The Assaults detachment was expanded to sechs units und comes mit einemDark Angels Captain as standard (providing Teleport Homer), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon, und the Dark Talon provides the list mit einemFighter-Bomber option."
+    "The EA-R Dark Angels list is inspired by the E-UK version of the list, but the differences are obviously way more numerous than the similarities. Für example, while the Unmodifizierter Rettungswurf on the Ravenwing formations has been retained, the Deathwing rule has been dropped, und the Telemetrieempfänger rule is greatly expanded.",
+    "Apart from the rigid structure und the changes inherited from the EA-R Codex Astartes list, the most major difference is that it has no access to air assault formations, but strongly encourages the player to concentrate on the Teleportieren aspects of the Dark Angels fluff, und bringing a strong ground game. The Battle Barge has been replaced with the Hunter Class Destroyer, which provides the army mit einemcheaper way to use the Telemetrieempfänger special rule.",
+    "A great number of the Dark Angels' many special units has been added, somewhat compensating für the loss of air assault options und Collegia Titanica allies. The Glaive, being a relic Horus Heresy technology, has been restricted to eine formation für thematic purposes, while the normal Cybot loadouts have been replaced with the Mortis AA variant. The Land Speeder Typhoon has been replaced with the Land Speeder Venegance, und the formation reduced to vier units to keep the cost down, und make the formation more competitive with the Aufklärer formation. The Sturmtrupp detachment was expanded to sechs units und comes mit einemDark Angels Captain as standard (providing Telemetrieempfänger), making them more relevant in a list without Thunderhawks. The Nephilim is now more similar to the Storm Talon, und the Dark Talon provides the list mit einemFighter-Bomber option."
   ]
 }

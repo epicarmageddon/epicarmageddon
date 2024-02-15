@@ -50,7 +50,7 @@
           "Forbidden Technology"
         ],
         "specialRules": [
-          "Invulnerable Save"
+          "Unmodifizierter Rettungswurf"
         ]
       },
       {
@@ -116,7 +116,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter Reaper Maschinenkanone",
-          "Power Fist"
+          "Energiefaust"
         ],
         "specialRules": [
           "Machine Spirit",
@@ -153,7 +153,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten."
+        "notes": "May transport zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Hell-Rhino",
@@ -168,7 +168,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport eine Infanterie unit without Jump Packs oder Beritten."
+        "notes": "Darf eine Infanterie Einheit ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Macrocarid Exploitator",
@@ -181,12 +181,12 @@
           "Phospex Blaster|2|"
         ],
         "specialRules": [
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport drei Infanterie units without Jump Packs oder Beritten."
+        "notes": "Darf drei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Triaros Armoured Despoiler",
@@ -199,10 +199,10 @@
           "Phospex Blaster|3|"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport sechs Infanterie units without Jump Packs oder Beritten."
+        "notes": "May transport sechs Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Krios Lightning",
@@ -215,7 +215,7 @@
           "Lightning Geschütz"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -229,7 +229,7 @@
           "Pulsar-Fusil"
         ],
         "specialRules": [
-          "Reinforced Armour"
+          "Verstärkte Panzerung"
         ]
       },
       {
@@ -255,7 +255,7 @@
         "specialRules": [
           "Damage Capacity 2",
           "Deflektorschilde 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "notes": "Armed mit einemsingle Battle Weapon. May be upgraded to a Support Weapon.",
@@ -278,10 +278,10 @@
         "specialRules": [
           "Damage Capacity 2",
           "Deflektorschilde 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos"
         ],
-        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator oder Synchronisierter Hades Maschinenkanone.",
+        "notes": "Entweder mit Turbo Blaster, Doom Burner, Plasma Cremator oder Synchronisierter Hades Maschinenkanone.",
         "crit": "The Ordinatus is destroyed, und any units within 5cm suffers a hit on 5+."
       },
       {
@@ -304,7 +304,7 @@
         "specialRules": [
           "Damage Capacity 4",
           "Deflektorschilde 4",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "crit": "The Ordinatus is destroyed, und any units within 5cm suffers a hit on 4+"
@@ -324,7 +324,7 @@
         "specialRules": [
           "Damage Capacity 4",
           "Deflektorschilde 4",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "crit": "The Ordinatus is destroyed, und any units within 5cm suffers a hit on 4+"
@@ -345,7 +345,7 @@
           "Damage Capacity 2",
           "Deflektorschilde 2",
           "Anführer",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos"
         ],
         "crit": "The Kaban Machine is destroyed. All units within 5cm takes a hit."
@@ -367,7 +367,7 @@
           "Furchtlos",
           "Geländegängig",
           "Infiltratoren",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
@@ -383,7 +383,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
@@ -399,7 +399,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Geländegängig",
           "Daemon Engine (Chaos Undivided)"
         ]
@@ -416,7 +416,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Geländegängig",
           "Daemon Engine (Chaos Undivided)"
         ]
@@ -434,7 +434,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Infiltratoren",
           "Geländegängig",
           "Daemon Engine (Chaos Undivided)"
@@ -453,9 +453,9 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Reinforced Armour",
-          "Thick Rear Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
@@ -475,7 +475,7 @@
           "Geländegängig",
           "Aufklärer",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
@@ -494,7 +494,7 @@
           "Geländegängig",
           "Aufklärer",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ]
       },
@@ -511,12 +511,12 @@
           "Renegade Kettenschwert"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität 2",
           "Furchtlos",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
         "crit": "The Knight-Renegade is destroyed."
@@ -535,12 +535,12 @@
           "Hyperwave Clarion"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität 2",
           "Furchtlos",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
         "crit": "The Knight-Tyrant is destroyed."
@@ -569,10 +569,10 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemonic Focus",
           "Daemon Engine (Chaos Undivided)"
         ]
@@ -591,9 +591,9 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
         "crit": "The Vernichter is destroyed. All units within 5cm suffers a hit on 6+."
@@ -612,9 +612,9 @@
         "specialRules": [
           "Damage Capacity 4",
           "Deflektorschilde 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)"
         ],
         "crit": "The Death Wheel is destroyed."
@@ -633,12 +633,12 @@
         "specialRules": [
           "Damage Capacity 4",
           "Deflektorschilde 2",
-          "Reinforced Armour",
-          "Invulnerable Save",
+          "Verstärkte Panzerung",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Chaos Undivided)",
           "Transport"
         ],
-        "notes": "May transport fourteen Infanterie units without Beritten oder Jet Packs. Chaos Spawn, Terminators und Dreadnoughts count as zwei units jeweils.",
+        "notes": "May transport fourteen Infanterie Einheiten without Beritten oder Jet Packs. Chaos Spawn, Terminatoren und Cybots zählen als zwei Einheiten.",
         "crit": "The Shrine of Chaos takes eine additional damage. D3 transported units takes a hit."
       },
       {
@@ -658,7 +658,7 @@
           "Furchtlos",
           "Geländegängig",
           "Infiltratoren",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Slaanesh)"
         ]
       },
@@ -677,7 +677,7 @@
           "Geländegängig",
           "Aufklärer",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Slaanesh)"
         ]
       },
@@ -692,10 +692,10 @@
           "Thermal Lanze"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
           "Geländegängig",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Slaanesh)"
         ]
       },
@@ -710,10 +710,10 @@
           "Castigator Geschütz"
         ],
         "specialRules": [
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
           "Geländegängig",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Slaanesh)"
         ]
       },
@@ -731,9 +731,9 @@
         "specialRules": [
           "Damage Capacity 3",
           "Deflektorschilde 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Slaanesh)"
         ],
         "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide.",
@@ -754,9 +754,9 @@
         "specialRules": [
           "Damage Capacity 3",
           "Deflektorschilde 2",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Slaanesh)"
         ],
         "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide.",
@@ -795,7 +795,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Jump Packs",
+          "Sprungmodule",
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ]
@@ -833,7 +833,7 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
           "Daemon Engine (Nurgle)"
@@ -853,11 +853,11 @@
           "Renegade Kettenschwert"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität 2",
           "Furchtlos",
           "Geländegängig",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Regeneration",
           "Daemon Engine (Nurgle)"
         ],
@@ -883,7 +883,7 @@
           "Daemon Engine (Nurgle)",
           "Transport"
         ],
-        "notes": "May transport fourteen Infanterie units. Big Mutants, Chaos Spawns, Terminators, Daemon Princes, Blight Drones und Chaos Dreadnoughts count as zwei units jeweils.",
+        "notes": "May transport fourteen Infanterie Einheiten. Big Mutants, Chaos Spawns, Terminatoren, Daemon Princes, Blight Drones und Chaos Cybots zählen als zwei Einheiten.",
         "crit": "The Plague Tower takes einen zusätzlichen point of damage. 1D3 random units carried inside takes a hit."
       },
       {
@@ -902,7 +902,7 @@
           "Furchtlos",
           "Geländegängig",
           "Infiltratoren",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ]
       },
@@ -918,7 +918,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ]
       },
@@ -935,7 +935,7 @@
         "specialRules": [
           "Furchtlos",
           "Infiltratoren",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ]
       },
@@ -952,7 +952,7 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ]
       },
@@ -969,12 +969,12 @@
           "Renegade Kettenschwert"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität 2",
           "Furchtlos",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ],
         "crit": "The Knight-Rampager is destroyed."
@@ -997,7 +997,7 @@
           "Furchtlos",
           "Infiltratoren",
           "Geländegängig",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ],
         "crit": "The Greater Brass Scorpion is destroyed."
@@ -1016,9 +1016,9 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Khorne)"
         ],
         "crit": "The Lord of Battles takes eine additional damage."
@@ -1037,7 +1037,7 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
           "Regeneration",
           "Daemon Engine (Khorne)"
@@ -1061,7 +1061,7 @@
           "Furchtlos",
           "Geländegängig",
           "Infiltratoren",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Tzeentch)"
         ]
       },
@@ -1078,8 +1078,8 @@
         ],
         "specialRules": [
           "Furchtlos",
-          "Skimmer",
-          "Invulnerable Save",
+          "Antigrav",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Tzeentch)"
         ]
       },
@@ -1096,12 +1096,12 @@
           "Hyperwave Clarion"
         ],
         "specialRules": [
-          "Damage Capacity: 2",
+          "Schadenskapazität 2",
           "Furchtlos",
-          "Reinforced Armour",
-          "Thick Rear Armour",
+          "Verstärkte Panzerung",
+          "Verstärkte Heckpanzerung",
           "Geländegängig",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Tzeentch)"
         ],
         "crit": "The Knight-Despoiler is destroyed."
@@ -1121,7 +1121,7 @@
           "Damage Capacity 2",
           "Furchtlos",
           "Jump Pack",
-          "Invulnerable Save",
+          "Unmodifizierter Rettungswurf",
           "Daemon Engine (Tzeentch)"
         ],
         "crit": "The runes that bind the imprisoned daemon are broken, und the Mirrorfiend is destroyed. All models within 5cm take a hit on 4+."
@@ -1140,9 +1140,9 @@
         ],
         "specialRules": [
           "Damage Capacity 6",
-          "Reinforced Armour",
+          "Verstärkte Panzerung",
           "Furchtlos",
-          "Skimmer",
+          "Antigrav",
           "Daemon Engine (Tzeentch)",
           "Regeneration"
         ],

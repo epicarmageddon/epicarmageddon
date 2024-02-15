@@ -59,7 +59,7 @@
           "Holofield (5+)",
           "Aufklärer",
           "Infiltratoren",
-        "Teleport"
+        "Teleportieren"
         ]
       },
       {
@@ -74,8 +74,8 @@
         "specialRules": [
           "Holofield (5+)",
           "Infiltratoren",
-          "Teleport",
-          "Wind-Swift"
+          "Teleportieren",
+          "Schnell wie der Wind"
         ]
       },
       {
@@ -90,7 +90,7 @@
         "specialRules": [
           "Holofield (5+)",
           "Infiltratoren",
-          "Teleport"
+          "Teleportieren"
         ]
       },
       {
@@ -107,9 +107,9 @@
         "specialRules": [
           "Holofield (5+)",
           "Beritten",
-          "Skimmer",
-          "Teleport",
-          "Wind-Swift"
+          "Antigrav",
+          "Teleportieren",
+          "Schnell wie der Wind"
         ]
       },
       {
@@ -125,9 +125,9 @@
         ],
         "specialRules": [
             "Holofield (5+)",
-            "Skimmer",
-            "Teleport",
-            "Wind-Swift"
+            "Antigrav",
+            "Teleportieren",
+            "Schnell wie der Wind"
         ]
       },
       {
@@ -142,9 +142,9 @@
         ],
         "specialRules": [
         "Holofield (5+)",
-            "Skimmer",
-            "Teleport",
-            "Wind-Swift",
+            "Antigrav",
+            "Teleportieren",
+            "Schnell wie der Wind",
           "Transport 1 (May carry eine Harlequins Troupe oder Death Jesters)"
         ]
       }

@@ -19,23 +19,23 @@
       "from": "SM.json",
       "units": [
         "Captain",
-        "Chaplain",
-        "Librarian",
+        "Ordenspriester",
+        "Scriptor",
         "Oberbefehlshaber",
         "Assault Centurions",
         "Devastor Centurions",
-        "Devastators",
+        "Devastoren",
         "Aufklärers",
         "Space Marine Rapier",
         "Space Marine Thunderfire",
-        "Tacticals",
-        "Terminators",
+        "Taktischer Trupp",
+        "Terminatoren",
         "Land Speeder",
         "Land Speeder Tornado",
         "Land Speeder Typhoon",
-        "Dreadnought",
-        "Dreadnought, Hellfire",
-        "Dreadnought, Siege",
+        "Cybot",
+        "Cybot, Hellfire",
+        "Cybot, Siege",
         "Hunter",
         "Stalker",
         "Land Raider",
@@ -80,8 +80,8 @@
       "name": "Imperial Fists Core Detachments",
       "formations": [
         {
-          "name": "Devastators",
-          "units": "Vier Devastators plus transport",
+          "name": "Devastoren",
+          "units": "Vier Devastoren plus transport",
           "extraUnits": [
             "Achilles",
             "Anti-Air",
@@ -90,7 +90,7 @@
             "Razorbacks",
             "Siege Equipment",
             "Vindicators",
-            "Dreadnoughts"
+            "Cybots"
           ],
           "points": 225
         },
@@ -104,8 +104,8 @@
           "points": 225
       },
         {
-          "name": "Tacticals",
-          "units": "Sechs Tacticals plus transport",
+          "name": "Taktischer Trupp",
+          "units": "Sechs Taktischer Trupp plus transport",
           "extraUnits": [
             "Achilles",
             "Anti-Air",
@@ -163,8 +163,8 @@
           "points": 150
         },
         {
-          "name": "Terminators",
-          "units": "Vier Terminators",
+          "name": "Terminatoren",
+          "units": "Vier Terminatoren",
           "extraUnits": [
             "Achilles",
             "Befehlshaber",
@@ -265,11 +265,11 @@
         "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
-            "description": "Captain, Librarian",
+            "description": "Captain, Scriptor",
             "points": "25 Punkte"
           },
           {
-            "description": "Chaplain",
+            "description": "Ordenspriester",
             "points": "50 Punkte"
           },
           {
@@ -283,8 +283,8 @@
         ]
       },
       {
-        "name": "Dreadnoughts",
-        "description": "Füge any zwei of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
+        "name": "Cybots",
+        "description": "Füge any zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
         "points": [
           "50 Punkte jeweils"
         ]

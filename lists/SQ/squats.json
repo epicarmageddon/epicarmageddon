@@ -241,7 +241,7 @@
       },
       {
         "name": "Warrior Transport",
-        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie units in the formation. Termites, Hellbore und Leviathan transports can not be combined with other transport options. Transports can only be taken if the entire formation can be transported.",
+        "description": "Füge transports to the formation, bis zu the number required to transport all Infanterie Einheiten in the formation. Termites, Hellbore und Leviathan transports can not be combined with other transport options. Transports can only be taken if the entire formation can be transported.",
         "options": [
           {
             "description": "Squat Rhinos",

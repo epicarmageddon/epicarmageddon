@@ -44,13 +44,13 @@
           "abbreviation": "IG",
           "lists": [
             {
-              "name": "Baranische Belagerungsmeisters",
+              "name": "Baranische Belagerungsmeister",
               "file": "barans",
               "status": "approved",
               "img": "images/AstraMilitarum_Baran.jpg"
             },
             {
-              "name": "Cadian Shock Troops",
+              "name": "Cadianische Shock Troops",
               "file": "cadianshocktroops",
               "status": "experimental",
               "img": "images/AstraMilitarum_Cadian.jpg"
@@ -62,7 +62,7 @@
               "img": "images/AstraMilitarum_Catachan.jpg"
             },
             {
-              "name": "Death Korps of Krieg",
+              "name": "Todeskorps von Krieg",
               "file": "deathkorps",
               "status": "approved",
               "img": "images/AstraMilitarum_Korps.jpg"
@@ -378,7 +378,7 @@
           "abbreviation": "NC",
           "lists": [
             {
-              "name": "Maynarkh Dynasty",
+              "name": "Maynarkh Dynastie",
               "file": "maynarkhdynasty",
               "status": "approved",
               "img": "images/Necron_Maynarkh.jpg"
@@ -408,13 +408,13 @@
               "img": "images/Ork_Goffs.jpg"
             },
             {
-              "name": "Evil Sunz Speed Freeks",
+              "name": "Evil Sunz Heizakult",
               "file": "speedfreeks",
               "status": "approved",
               "img": "images/Ork_EvilSun.jpg"
             },
             {
-              "name": "Snakebite Clan Feral Orks",
+              "name": "Snakebite Clan Wild Orks",
               "file": "snakebiteclan",
               "status": "approved",
               "img": "images/Ork_Snakebite.jpg"
@@ -426,19 +426,19 @@
           "abbreviation": "TAU",
           "lists": [
             {
-              "name": "Fal'shia",
+              "name": "Fal'shia Septe",
               "file": "falshia",
               "status": "alpha",
               "img": "images/Tau_Falshia.jpg"
             },
             {
-              "name": "Sa'cea",
+              "name": "Sa'cea Septe",
               "file": "sacea",
               "status": "approved",
               "img": "images/Tau_Sacea.jpg"
             },
             {
-              "name": "Vior'la",
+              "name": "Vior'la Septe",
               "file": "viorla",
               "status": "approved",
               "img": "images/Tau_Viorla.jpg"
@@ -446,23 +446,23 @@
           ]
         },
         {
-          "name": "Tyranids",
+          "name": "Tyraniden",
           "abbreviation": "NID",
           "lists": [
             {
-              "name": "Cult of the Rusted Claw",
+              "name": "Kult der Rostigen Klaue",
               "file": "gscult",
               "status": "approved",
               "img": "images/Genestealer_Rust.jpg"
             },
             {
-              "name": "Hive Fleet Dagon",
+              "name": "Schwarmflotte Dagon",
               "file": "dagon",
               "status": "approved",
               "img": "images/Tyranid_Dagon.jpg"
             },
             {
-              "name": "Hive Fleet Hydra",
+              "name": "Schwarmflotte Hydra",
               "file": "hydra",
               "status": "alpha",
               "img": "images/Tyranid_Hydra.jpg"

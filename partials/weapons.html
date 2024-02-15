@@ -3,7 +3,7 @@
     <tr>
         <td>Weapon</td>
         <td>Range</td>
-        <td>Firepower</td>
+        <td>Feuerkraft</td>
     </tr>
     {{#jeweils weapons}}
     {{#jeweils modes}}
@@ -11,7 +11,7 @@
         <td scope="row">{{#if join}}<i>{{join}}</i>{{else}}{{#if ../count}}{{../count}}x {{/if}}{{../name}}{{/if}}</td>
         <td>{{appendOnNumber range 'cm'}}</td>
         <td>
-            {{firepower}}{{#jeweils specialRules}}, <i><abbr title="{{description}}">{{name}}</abbr></i>{{/jeweils}}
+            {{Feuerkraft}}{{#jeweils specialRules}}, <i><abbr title="{{description}}">{{name}}</abbr></i>{{/jeweils}}
         </td>
     </tr>
     {{/jeweils}}
