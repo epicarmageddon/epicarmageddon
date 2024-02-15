@@ -43,10 +43,10 @@
                         {{/if}}
                     </div>
                     <div class="col-12 col-lg-5">
-                        {{#if Upgrades}}<span class="d-inline"><i>Erweiterungen</i></span>{{/if}}
-                        {{#if Upgrades}}
+                        {{#if upgrades}}<span class="d-inline"><i>Erweiterungen</i></span>{{/if}}
+                        {{#if upgrades}}
                         <ul style="padding-left: 1rem">
-                            {{#each Upgrades}}
+                            {{#each upgrades}}
                             <li>{{this}}</li>
                             {{/each}}
                         </ul>
@@ -71,7 +71,7 @@
 </div>
 {{/each}}
 
-{{#with Upgrades}}
+{{#with upgrades}}
 {{> card-with-margin}}
 <div class="card-header"><b>{{title}}</b><br>
     <small>{{description}}</small>

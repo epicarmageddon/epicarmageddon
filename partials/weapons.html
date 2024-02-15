@@ -1,20 +1,20 @@
 <table class="table-sm stats-table">
     <tbody>
     <tr>
-        <td>Weapon</td>
-        <td>Range</td>
+        <td>Waffe</td>
+        <td>Reichweite</td>
         <td>Feuerkraft</td>
     </tr>
-    {{#jeweils weapons}}
-    {{#jeweils modes}}
+    {{#each weapons}}
+    {{#each modes}}
     <tr>
         <td scope="row">{{#if join}}<i>{{join}}</i>{{else}}{{#if ../count}}{{../count}}x {{/if}}{{../name}}{{/if}}</td>
         <td>{{appendOnNumber range 'cm'}}</td>
         <td>
-            {{Feuerkraft}}{{#jeweils specialRules}}, <i><abbr title="{{description}}">{{name}}</abbr></i>{{/jeweils}}
+            {{firepower}}{{#each specialRules}}, <i><abbr title="{{description}}">{{name}}</abbr></i>{{/each}}
         </td>
     </tr>
-    {{/jeweils}}
-    {{/jeweils}}
+    {{/each}}
+    {{/each}}
     </tbody>
 </table>
