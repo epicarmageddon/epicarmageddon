@@ -40,8 +40,8 @@ var eaTemplating = {
             return v1 !== v2;
         });
 
-        Handlebars.registerHelper('und', function (eine, zwei) {
-            return true === eine && true === zwei;
+        Handlebars.registerHelper('und', function (one, two) {
+            return true === one && true === two;
         });
 
         Handlebars.registerHelper('isArray', function (object) {
@@ -75,7 +75,7 @@ var eaTemplating = {
                 var data = Handlebars.createFrame(options.data);
 
                 var count = 0;
-                für (weapon in context.weapons)
+                for (weapon in context.weapons)
                 {
                     count += context.weapons[weapon].modes.length;
                 }

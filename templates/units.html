@@ -1,4 +1,4 @@
-{{#jeweils this}}
+{{#each this}}
 {{#if unit.length}}
 <h2>{{name}}</h2>
 
@@ -8,14 +8,14 @@
     <tr>
         <th scope="col" class="unit-table-header">
             <div class="row">
-                <div class="col-12 col-md-5">Units</div>
-                <div class="d-none d-md-inline col-md-7">Weapons</div>
+                <div class="col-12 col-md-5">Einheiten</div>
+                <div class="d-none d-md-inline col-md-7">Waffe</div>
             </div>
         </th>
     </tr>
     </thead>
     <tbody>
-    {{#jeweils unit}}
+    {{#each unit}}
     {{#unit this}}
     <tr class="unit-row-{{oddEven @index}}">
         <td>
@@ -51,10 +51,10 @@
                 <div class="col">
                     <small>
                         <b>Anmerkungen:</b>
-                        {{#jeweils specialRules}}
+                        {{#each specialRules}}
                         {{#unless @last}}<i>{{this}}</i>,{{/unless}}
                         {{#if @last}}<i>{{this}}</i>.{{/if}}
-                        {{/jeweils}}
+                        {{/each}}
                         {{notes}}
                         {{#if crit}}<b>Kritischer Treffer:</b> {{crit}}{{/if}}
                     </small>
@@ -63,13 +63,13 @@
             {{/if}}
         </td>
         {{/unit}}
-        {{/jeweils}}
+        {{/each}}
     </tbody>
 </table>
 </div>
 
 {{> special-rules}}
 {{/if}}
-{{/jeweils}}
+{{/each}}
 
 <p>&nbsp;</p>

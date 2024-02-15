@@ -12,10 +12,10 @@
 
 {{> special-rules}}
 
-<h2>{{army}} Army List</h2>
+<h2>{{army}} Armeeorganisationsplan</h2>
 <p>{{strategy}} {{Initiative}} {{{armyRules}}}</p>
 
-{{#jeweils sections}}
+{{#each sections}}
 {{> card-with-margin}}
 <div class="card-header"><b>{{name}}</b>{{#if description}}<br>
     <small>{{description}}</small>
@@ -24,7 +24,7 @@
 <div>
     <table class="table table-striped">
         <tbody>
-        {{#jeweils formations}}
+        {{#each formations}}
         <tr>
             <td>
                 <div class="row">
@@ -37,41 +37,41 @@
                         {{/if}}
                     </div>
                     <div class="col-3 order-lg-9" style="text-align: right">
-                        {{#if Punkte}}{{appendOnNumber Punkte ' Punkte'}}{{/if}}
+                        {{#if Points}}{{appendOnNumber Points ' Points'}}{{/if}}
                         {{#if pointsOptions}}
-                        {{#jeweils pointsOptions}}{{this.name}} - {{appendOnNumber Punkte ' Punkte'}}{{#unless @last}}<br>{{/unless}}{{/jeweils}}
+                        {{#each pointsOptions}}{{this.name}} - {{appendOnNumber Points ' Points'}}{{#unless @last}}<br>{{/unless}}{{/each}}
                         {{/if}}
                     </div>
                     <div class="col-12 col-lg-5">
-                        {{#if Erweiterungen}}<span class="d-inline"><i>Erweiterungen</i></span>{{/if}}
-                        {{#if Erweiterungen}}
+                        {{#if Upgrades}}<span class="d-inline"><i>Erweiterungen</i></span>{{/if}}
+                        {{#if Upgrades}}
                         <ul style="padding-left: 1rem">
-                            {{#jeweils Erweiterungen}}
+                            {{#each Upgrades}}
                             <li>{{this}}</li>
-                            {{/jeweils}}
+                            {{/each}}
                         </ul>
                         {{/if}}
 
                         {{#if extraUnits}}<span class="d-inline"><i>Erweiterungen</i></span>{{/if}}
                         {{#if extraUnits}}
                         <ul style="padding-left: 1rem">
-                            {{#jeweils extraUnits}}
+                            {{#each extraUnits}}
                             <li>{{this}}</li>
-                            {{/jeweils}}
+                            {{/each}}
                         </ul>
                         {{/if}}
                     </div>
                 </div>
             </td>
         </tr>
-        {{/jeweils}}
+        {{/each}}
         </tbody>
     </table>
 </div>
 </div>
-{{/jeweils}}
+{{/each}}
 
-{{#with Erweiterungen}}
+{{#with Upgrades}}
 {{> card-with-margin}}
 <div class="card-header"><b>{{title}}</b><br>
     <small>{{description}}</small>
@@ -79,7 +79,7 @@
 <div>
     <table  class="table table-striped">
         <tbody>
-        {{#jeweils items}}
+        {{#each items}}
         {{#upgrade this}}
         <tr>
             <td>
@@ -92,8 +92,8 @@
                         {{description}}
                     </div>
                     <div class="col-4 col-md-3" style="text-align: right">
-                        {{#if (isArray Punkte)}}
-                        {{#jeweils Punkte}}{{this}}{{#unless @last}}<br>{{/unless}}{{/jeweils}}
+                        {{#if (isArray Points)}}
+                        {{#each Points}}{{this}}{{#unless @last}}<br>{{/unless}}{{/each}}
                         {{else}}
                         {{points}}
                         {{/if}}
@@ -108,24 +108,24 @@
                         {{description}}
                     </div>
                     <div class="col-12 col-md-7">
-                    {{#jeweils options}}
+                    {{#each options}}
                     <div class="row">
                         <div class="col-8" style="text-align: right">{{description}}</div>
                         <div class="col-4" style="text-align: right">
-                            {{#if (isArray Punkte)}}
-                            {{#jeweils Punkte}}{{appendOnNumber this ' Punkte'}}{{#unless @last}}<br>{{/unless}}{{/jeweils}}
+                            {{#if (isArray Points)}}
+                            {{#each Points}}{{appendOnNumber this ' Points'}}{{#unless @last}}<br>{{/unless}}{{/each}}
                             {{else}}
-                            {{appendOnNumber Punkte ' Punkte'}}
+                            {{appendOnNumber Points ' Points'}}
                             {{/if}}
                         </div>
                     </div>
-                    {{/jeweils}}
+                    {{/each}}
                 </div>
                 {{/unless}}
             </td>
         </tr>
         {{/upgrade}}
-        {{/jeweils}}
+        {{/each}}
         </tbody>
     </table>
 </div>
