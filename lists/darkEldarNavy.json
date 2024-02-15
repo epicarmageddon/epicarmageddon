@@ -20,7 +20,7 @@
       {
         "name": "Voidraven Interdictor",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber",
         "armour": 4,
         "weapons": [
           "AC Synchronisierter Void Lanze",

@@ -792,7 +792,7 @@
         ]
       },
       {
-        "name": "Siegfried Light Panzer",
+        "name": "Leichter Siegfried Panzer",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -1123,14 +1123,14 @@
         ]
       },
       {
-        "name": "Howitzer",
+        "name": "Haubitzen",
         "type": "LV",
         "speed": 5,
         "armour": 6,
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Howitzer"
+          "Haubitzen"
         ],
         "specialRules": [
         ]
@@ -1171,10 +1171,10 @@
         ],
         "specialRules": [
         ],
-        "notes": "Formation must start the game in the reserves, und may only enter the board by Tunneling. When resolving tunnelers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, oder within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
+        "notes": "Formation must start the game in the reserves, und may only enter the board by Tunneling. When resolving Tunnelgräber, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, oder within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
       },
       {
-        "name": "Ragnarok Heavy Panzer",
+        "name": "Schwerer Ragnarok Panzer",
         "type": "AV",
         "speed": 15,
         "armour": 4,

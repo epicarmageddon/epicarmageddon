@@ -70,7 +70,7 @@
 		{"max":1, "name":"Spacecraft", "from":[533,534]},
 		{"max":1, "name":"Siege Assault Formation", "from":[503,504,510,511,512,513,514], "forEach":[501,502,540,541], "name2":"Retinue formation"},
 		{"max":2, "name":"Siege Unterstützungsverbände", "from":[505,506,507,508,509], "forEach":[501,502,540,541], "name2":"Retinue Formation"},
-		{"maxPercent":33.5, "name":"War Engines & Chaos Navy", "from":[530,531,532,533,534,520,521,522]}
+		{"maxPercent":33.5, "name":"Kriegsmaschinen & Chaos Navy", "from":[530,531,532,533,534,520,521,522]}
 	],
 	"upgradeConstraints":[
 		{"min":1, "max":1, "from":[17,18,19,20], "appliesTo":[501,503,510,512,513]},

@@ -12,7 +12,7 @@
     "Hive Mind",
     "Shoot the Big Ones!",
     "Extreme Mobility",
-    "Tunnelers",
+    "Tunnelgräber",
     "Dagon Vanguard Organisms"
   ],
   "units": [
@@ -58,7 +58,7 @@
       "unitRules": [
           "Gaunts",
           "Regeneration",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {

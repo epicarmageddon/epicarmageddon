@@ -24,7 +24,7 @@
       {
         "name": "Doom Scythe Fighter",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber",
         "armour": 5,
         "weapons": [
           "AC Synchronisierter Tesla Destructor",

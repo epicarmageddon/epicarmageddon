@@ -14,7 +14,7 @@
     "World Eaters Characters"
   ],
   "intro": [
-    "The following army list allows you to field an army based on the World Eaters Traitor Legion. The World Eaters cast away most of their long ranged weaponry to specialize in close combat as favored by their deity."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee World Eaters Traitor Legion. The World Eaters cast away most of their long ranged weaponry to specialize in close combat as favored by their deity."
   ],
   "units": [
     {
@@ -43,7 +43,7 @@
       "unitRules": [
           "Augment Summoning (+x)",
           "Daemonic Focus",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
@@ -77,7 +77,7 @@
       "from": "chaosnavy.json",
       "units": [
         "Hell Blade Interceptor",
-        "Hell Talon Fighter-Bomber",
+        "Hell Talon Jagdbomber",
         "Devastation Class Cruiser",
         "Despoiler Class Battleship"
       ],
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "name": "War Engines und Chaos Navy Formations",
+      "name": "Kriegsmaschinen und Chaos Navy Formations",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {

@@ -32,7 +32,7 @@
       {
         "name": "Phoenix Bomber",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber",
         "armour": 5,
         "weapons": [
           "AC Synchronisierter Shuriken Geschütz",

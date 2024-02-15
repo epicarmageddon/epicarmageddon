@@ -11,7 +11,7 @@
     "Iron Warriors Characters"
   ],
   "intro": [
-    "The following army list allows you to field an army based on the Iron Warriors Traitor Legion, which mirrors the loyalist Iron Hands und Imperial Fists in their use of siege weaponry. They abhor daemons, und may not summon these, but adore bionics und forbidden weaponry."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Warriors Traitor Legion, which mirrors the loyalist Iron Hands und Imperial Fists in their use of siege weaponry. They abhor daemons, und may not summon these, but adore bionics und forbidden weaponry."
   ],
   "units": [
     {
@@ -42,7 +42,7 @@
       "unitRules": [
         "Bionics",
         "Notreparaturen",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {

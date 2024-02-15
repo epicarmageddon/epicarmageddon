@@ -13,7 +13,7 @@
     "Death Guard Characters"
   ],
   "intro": [
-    "The following army list allows you to field an army based on the Death Guard Traitor Legion. The Death Guard is a slow moving force of relentless Infanterie, backed up by powerful daemon engines using toxic weaponry to destroy their enemies."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Death Guard Traitor Legion. The Death Guard is a slow moving force of relentless Infanterie, backed up by powerful daemon engines using toxic weaponry to destroy their enemies."
   ],
   "units": [
     {
@@ -38,7 +38,7 @@
       "unitRules": [
       "Augment Summoning (+x)",
       "Daemonic Focus",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {

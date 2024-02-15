@@ -12,7 +12,7 @@
     "Broodmind",
     "Extreme Mobility (Genestealer Cult)",
     "Genestealer Cult Characters",
-    "Tunnelers"
+    "Tunnelgräber"
   ],
   "units": [
     {
@@ -279,7 +279,7 @@
       },
       {
         "name": "Heavy Mining Machinery",
-        "description": "Füge eine of the following War Engines to the formation",
+        "description": "Füge eine of the following Kriegsmaschinen to the formation",
         "options": [
           {
             "description": "Assault Excavator",

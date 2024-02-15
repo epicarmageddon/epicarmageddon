@@ -13,7 +13,7 @@
     "Word Bearers Characters"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Word Bearers, using their preferred operational methods."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Word Bearers, using their preferred operational methods."
   ],
   "units": [
     {
@@ -52,7 +52,7 @@
       ],
       "unitRules": [
         "Daemon Engine (x)",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "name": "War Engines & Chaos Navy",
+      "name": "Kriegsmaschinen & Chaos Navy",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {

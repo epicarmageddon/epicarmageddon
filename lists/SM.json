@@ -2189,7 +2189,7 @@
       {
         "name": "Corvus Blackstar Dropship",
         "type": "AC/WE",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber",
         "armour": 4,
         "cc": 6,
         "ff": 5,
@@ -2222,7 +2222,7 @@
       {
         "name": "Ravenwing Dark Talon",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber",
         "armour": 5,
         "weapons": [
           "AC Rift Geschütz||FxF",

@@ -40,7 +40,7 @@
         "Shield Disruptor",
         "Tau Jet Packs",
         "Deflector Shield",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "name": "Vior'la War Engines & Air Caste Formations",
+      "name": "Vior'la Kriegsmaschinen & Air Caste Formations",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {

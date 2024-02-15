@@ -1,7 +1,7 @@
 {
   "rules": [
     {
-      "title": "Heavy Armoured Vehicle (H-AV)",
+      "title": "Schwergepanzertes Fahrzeug (H-AV)",
       "description": [
         "Units with the unit type H-AV can take zwei damage before they are killed, und counts as zwei units für Outnumber, Blast Markers, number of attacks in an assault, hit allocation und the maximum number of units in base contact. H-AV are treated as WE when hit by weapons that do multiple Punkte of damage (e.g. TK(D3)). In addition it is possible to critically hit H-AVs. If a Critical Hit is rolled, the unit is destroyed with no further effects. H-AVs may be targeted by Pin-Point attacks, but does not target individual models. Instead, hits are randomized in the formation. H-AVs are treated like normal Armoured Vehicles in all other respects."
       ]
@@ -15,15 +15,15 @@
     {
       "title": "Deflektorschilde",
       "description": [
-        "Jeweils void shield will automatically stop eine point of damage und then go down. Do not make armour saves für damage stopped by Deflektorschilde, nor allocate Blast markers. Once all of the shields have been knocked down, the War Engine may be damaged normally und you may make saving throws against any hits that are scored. Hits from close combat ignore Deflektorschilde but units using their firefight values must first knock down any shields before they can damage the Titan.",
-        "Deflektorschilde that have been knocked down can be repaired. Jeweils War Engine can repair eine downed Void Shield in the End Phase of jeweils turn.",
-        "In addition, if a War Engine regroups (either by performing a Hold oder a Marshal action) it can use the dice roll both to repair Deflektorschilde und remove Blast Markers. However, only half the Punkte generated (fractions rounded up) may be spent on restoring Deflektorschilde (e.g. if you rolled a 3 you could remove drei Blast Markers, oder repair zwei Deflektorschilde und remove eine Blast Marker)."
+        "Jeweils void shield will automatically stop eine point of damage und then go down. Do not make armour saves für damage stopped by Deflektorschilde, nor allocate Blast markers. Once all of the shields have been knocked down, the Kriegsmaschine may be damaged normally und you may make saving throws against any hits that are scored. Hits from close combat ignore Deflektorschilde but units using their firefight values must first knock down any shields before they can damage the Titan.",
+        "Deflektorschilde that have been knocked down can be repaired. Jeweils Kriegsmaschine can repair eine downed Void Shield in the End Phase of jeweils turn.",
+        "In addition, if a Kriegsmaschine regroups (either by performing a Hold oder a Marshal action) it can use the dice roll both to repair Deflektorschilde und remove Blast Markers. However, only half the Punkte generated (fractions rounded up) may be spent on restoring Deflektorschilde (e.g. if you rolled a 3 you could remove drei Blast Markers, oder repair zwei Deflektorschilde und remove eine Blast Marker)."
       ]
     },
     {
       "title": "Gottgleiche Maschine",
       "description": [
-        "War Engines with 8 oder more DC are subject to the Gottgleiche Maschine und Feuer aufteilen special rules.",
+        "Kriegsmaschinen with 8 oder more DC are subject to the Gottgleiche Maschine und Feuer aufteilen special rules.",
         "The magnificence of these awe-Inspirierend constructs comes at a price, für if such an incarnation of power were to falter oder be destroyed, the Streitmächte that are there to aid them would become greatly disturbed.",
         "Für this reason, whenever a unit with Gottgleiche Maschine special rule is broken (including if it is already broken but loses an Engage), all friendly formations suffer eine Blast Marker. Whenever a unit with Gottgleiche Maschine special rule is destroyed, all friendly formations on the battlefield suffer D3 Blast Markers.",
         "Units with the Gottgleiche Maschine special rule are themselves immune to this effect."
@@ -32,13 +32,13 @@
     {
       "title": "Feuer aufteilen",
       "description": [
-        "A War Engine with this special rule may declare that it will Feuer aufteilen when attempting to perform a Sustain Fire oder Advance action, suffering a -1 modifier on the roll. If the action is successful, the WE may fire at bis zu zwei enemy formations, but may not target more than eine formation pro individual weapon."
+        "A Kriegsmaschine with this special rule may declare that it will Feuer aufteilen when attempting to perform a Sustain Fire oder Advance action, suffering a -1 modifier on the roll. If the action is successful, the WE may fire at bis zu zwei enemy formations, but may not target more than eine formation pro individual weapon."
       ]
     },
     {
       "title": "Stomp ’em Good",
       "description": [
-        "A War Engine with this special rule may declare that it will Feuer aufteilen when attempting to perform a Sustain Fire action, suffering a -1 modifier on the roll. Regardless if the action succeeds oder if the formation is forced to Hold, the WE may fire at bis zu zwei enemy formations, but may not target more than eine formation pro individual weapon."
+        "A Kriegsmaschine with this special rule may declare that it will Feuer aufteilen when attempting to perform a Sustain Fire action, suffering a -1 modifier on the roll. Regardless if the action succeeds oder if the formation is forced to Hold, the WE may fire at bis zu zwei enemy formations, but may not target more than eine formation pro individual weapon."
       ]
     },
     {
@@ -68,7 +68,7 @@
     {
       "title": "Tunneling Transports",
       "description": [
-        "Formations including units with both the Transport und Tunneler special rules must start the game in the reserves, und may only enter the battlefield through tunneling. War Engines with these special rules may not start the game empty, but must transport another formation."
+        "Formations including units with both the Transport und Tunneler special rules must start the game in the reserves, und may only enter the battlefield through tunneling. Kriegsmaschinen with these special rules may not start the game empty, but must transport another formation."
       ]
     },
     {
@@ -202,18 +202,18 @@
       ]
     },
     {
-      "title": "Siegemasters",
+      "title": "Belagerungsmeister",
       "description": [
         "Units may re-roll failed dangerous terrain tests when making a move through Minefields oder Razor Wire on the friendly part of the table, und units with 'Geländegängig' may use it against Minefields oder Razor Wire on the enemy part of the table.",
         "In addition, bis zu drei formations that garrison may start on Overwatch instead of the usual zwei, und bis zu zwei formations that garrison ignore the requirement to have eine unit within 15cm of an objective on the friendly half of the table."
       ]
     },
     {
-      "title": "Tunnelers",
+      "title": "Tunnelgräber",
       "description": [
         "Tunnellers may be set up touching their own side's table edge before the battle starts at the same time that spacecraft are set up (see 4.3.1). Any units transported in tunnellers should be placed to eine side at this time too. Secretly write down the location where the tunneller will surface at the same time und in the same manner that you record the coordinates of a drop zone (see 4.3.1). You must also secretly record the turn the tunneller will surface. If it is going to surface within 30cm of a table edge within the deployment zone, it may arrive from the first turn. If it is going to surface within 65cm of a table edge within the deployment zone, it may appear on turn zwei. It can appear on any part of the battlefield from the third turn.",
         "Set up the tunneller units at the start of the stated turn, before determining who wins the strategy roll, at the location you wrote down. Surfacing does not Zählt als movement für the purposes of triggering enemy overwatch fire. If a tunneller would have surfaced on terrain that is impassable für it, under a friendly unit, oder in an enemy zone of control, then it is assumed that on-board sensor equipment would divert it towards another entry point. The unit should be moved to the nearest area where it can surface.",
-        "Formations of multiple tunnellers need only record eine location where they will surface. Place the first tunneller unit at this location. All other tunneller units must be placed within 5cm of another tunneller unit that has already been placed und fully within a 15cm radius of the original surfacing coordinates, which can be beyond where tunnellers could appear that turn. Tunnelers do not have to roll für dangerous oder difficult terrain when they appear. After all tunnellers have been placed any units being transported are allowed to disembark immediately, und may disembark on the enemy half of the table (if they appear in turn 2).",
+        "Formations of multiple tunnellers need only record eine location where they will surface. Place the first tunneller unit at this location. All other tunneller units must be placed within 5cm of another tunneller unit that has already been placed und fully within a 15cm radius of the original surfacing coordinates, which can be beyond where tunnellers could appear that turn. Tunnelgräber do not have to roll für dangerous oder difficult terrain when they appear. After all tunnellers have been placed any units being transported are allowed to disembark immediately, und may disembark on the enemy half of the table (if they appear in turn 2).",
         "Disembarking triggers overwatch fire as normal. Tunnellers, und any units being transported in them, may take an action on the turn they appear."
       ]
     },
@@ -352,7 +352,7 @@
     {
       "title": "Independent",
       "description": [
-        "The Independent special rule allows a War Engine formation to operate as zwei independent War Engines für all purposes, including für determining the army BTS (jeweils unit counts as its own formation worth half of the Punkte value of the original formation, including Erweiterungen). If eine of the zwei War Engines are destroyed, the surviving eine immediately recieves a Blast Marker.",
+        "The Independent special rule allows a Kriegsmaschine formation to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS (jeweils unit counts as its own formation worth half of the Punkte value of the original formation, including Erweiterungen). If eine of the zwei Kriegsmaschinen are destroyed, the surviving eine immediately recieves a Blast Marker.",
         ""
       ]
     },
@@ -597,7 +597,7 @@
     {
       "title": "Independent Twins",
       "description": [
-        "Allows a formation of Revenant Titans to operate as zwei independent War Engines für all purposes, including für determining the army BTS. If eine of the pair is destroyed, the surviving Revenant Synchronisierter receives a Blast Marker.",
+        "Allows a formation of Revenant Titans to operate as zwei independent Kriegsmaschinen für all purposes, including für determining the army BTS. If eine of the pair is destroyed, the surviving Revenant Synchronisierter receives a Blast Marker.",
         "In addition, Independent Twins may use the Befehlshaber ability with its Synchronisierter. In this case, the Befehlshaber ability counts as having an unlimited range instead of the normal 5cm."
       ]
     },
@@ -636,7 +636,7 @@
         "Summoned Lesser Daemons are Entbehrlich, but they are otherwise counted as normal units, und are included when working out if a formation outnumbers an opponent in an assault oder is broken by Blast Markers, etc. Note that Daemons that are killed in an assault do count towards the number of units killed by the enemy when working out modifiers für assault resolution.",
         "Summoned units remain in play until the End Phase of the turn in which they were summoned. After all formations have attempted to rally any summoned units are removed from play und the total of their Daemon Pool cost is returned to the relevant Daemon Pool. This may cause the formation to break, if the number of Blast Markers now equals oder exceeds the number of units in the formation.",
         "When a formation becomes broken all its summoned units are destroyed.",
-        "When calculating victory Punkte, the Lesser Daemon Pool scores half Punkte if the pool has less than oder equal to half (round up) its original number of daemons remaining. The Lesser Daemon Pool scores full Punkte if the pool has less than oder equal to a quarter (round up) its daemons remaining. Treat Greater Daemons as War Engines für the purpose of calculating victory Punkte."
+        "When calculating victory Punkte, the Lesser Daemon Pool scores half Punkte if the pool has less than oder equal to half (round up) its original number of daemons remaining. The Lesser Daemon Pool scores full Punkte if the pool has less than oder equal to a quarter (round up) its daemons remaining. Treat Greater Daemons as Kriegsmaschinen für the purpose of calculating victory Punkte."
       ]
     },
     {
@@ -979,10 +979,10 @@
     {
       "title": "Chaos Gate",
       "description": [
-        "Daemonic Incursion formations that are located in the Reserves may use Chaos Gates to enter the battlefield. Any number of formations can use a Chaos Gate pro turn if it is part of an objective, but only eine formation pro turn can use a Chaos Gate Beritten on a War Engine.",
+        "Daemonic Incursion formations that are located in the Reserves may use Chaos Gates to enter the battlefield. Any number of formations can use a Chaos Gate pro turn if it is part of an objective, but only eine formation pro turn can use a Chaos Gate Beritten on a Kriegsmaschine.",
         "First the action für the formation must be decided. After this roll to summon daemons, und then roll to activate. If the formation fails to activate it must take a Hold action. It may then either enter the battlefield through any available Chaos Gate, oder choose to remain in the reserves.",
-        "Chaos Gates that are part of objectives cannot be destroyed, while Chaos Gates Beritten on War Engines are destroyed if that War Engine is destroyed.",
-        "Any formation that enters the battlefield through a Chaos Gate Beritten on a War Engine that is broken recieves a Blast Marker. Measure all movement from the Chaos Gate from the centre of the token, oder the edge of the War Engine.",
+        "Chaos Gates that are part of objectives cannot be destroyed, while Chaos Gates Beritten on Kriegsmaschinen are destroyed if that Kriegsmaschine is destroyed.",
+        "Any formation that enters the battlefield through a Chaos Gate Beritten on a Kriegsmaschine that is broken recieves a Blast Marker. Measure all movement from the Chaos Gate from the centre of the token, oder the edge of the Kriegsmaschine.",
         "If a Chaos Gate is in an enemy zone of control, any formation that enters through it must Engage that formation(s). In addition, if it is also directly under an enemy formation, any formation that enters must maximize base contact as much as possible."
       ]
     },
@@ -1106,7 +1106,7 @@
     {
       "title": "Battlefortresses und Gunfortresses",
       "description": [
-        "Battlefortresses und Gunfortresses may only transport units from their own formation (i.e., the rules für War Engine transports do not apply to them when using the tournament army lists)."
+        "Battlefortresses und Gunfortresses may only transport units from their own formation (i.e., the rules für Kriegsmaschine transports do not apply to them when using the tournament army lists)."
       ]
     },
     {
@@ -1126,7 +1126,7 @@
     {
       "title": "Snakebite Clan Warlords",
       "description": [
-        "Every Snakebite Clan army must include a Supreme Command character called a Warlord. The Warlord character is free, you don’t have to pay any Punkte für it. The Warlord must be attached to a unit of Brutes in the scrappiest formation in the army (i.e. the formation with the most units that also contains a unit of Brutes. War Engines counts as eine unit pro DC)."
+        "Every Snakebite Clan army must include a Supreme Command character called a Warlord. The Warlord character is free, you don’t have to pay any Punkte für it. The Warlord must be attached to a unit of Brutes in the scrappiest formation in the army (i.e. the formation with the most units that also contains a unit of Brutes. Kriegsmaschinen counts as eine unit pro DC)."
       ]
     },
     {
@@ -1138,7 +1138,7 @@
     {
       "title": "Mob Rule",
       "description": [
-        "Orks believe that as long as there’s a bunch of them still fighting together (slightly more than they can count bis zu is ideal!) then there’s always a chance that they’ll prevail, no matter the odds. To represent this, Ork formations with more than fünf units (i.e., too many to count on the fingers of eine hand), not including Grotz oder Big Gunz units, receive a +1 modifier to any rally rolls they make, und formations with more than 10 such units receive a +2 modifier. Für the purposes of this rule War Engines count jeweils point of starting damage capacity as a unit. War Engines with the 'Gottgleiche Maschine' special rule always counts as being more than 10 units."
+        "Orks believe that as long as there’s a bunch of them still fighting together (slightly more than they can count bis zu is ideal!) then there’s always a chance that they’ll prevail, no matter the odds. To represent this, Ork formations with more than fünf units (i.e., too many to count on the fingers of eine hand), not including Grotz oder Big Gunz units, receive a +1 modifier to any rally rolls they make, und formations with more than 10 such units receive a +2 modifier. Für the purposes of this rule Kriegsmaschinen count jeweils point of starting damage capacity as a unit. Kriegsmaschinen with the 'Gottgleiche Maschine' special rule always counts as being more than 10 units."
       ]
     },
     {

@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_IronHands",
-  "intro": "The following army list allows you to field an army based on the Iron Hands Space Marine chapter oder any of its successor chapters. The Iron Hands are notable für their heavy use of bionics und their reverence für all things mechanical, und thus their close ties to the Adeptus Mechanicus.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Hands Space Marine chapter oder any of its successor chapters. The Iron Hands are notable für their heavy use of bionics und their reverence für all things mechanical, und thus their close ties to the Adeptus Mechanicus.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All Verbände haben eine Initiative von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Iron Hands detachments und aircraft formations.",
@@ -13,7 +13,7 @@
     "They Shall Know No Fear"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Iron Hands, oder eine of their successor chapters, using their preferred operational methods."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Iron Hands, oder eine of their successor chapters, using their preferred operational methods."
   ],
   "units": [
     {

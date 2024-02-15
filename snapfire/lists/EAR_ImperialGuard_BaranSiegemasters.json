@@ -1,5 +1,5 @@
 {
-	"id":"EA-R Baran Siegemasters",
+	"id":"EA-R Baran Belagerungsmeister",
 	"version":"0.6.4",
 	"by":"EA-Ragnarok",
 	"sections":[
@@ -14,7 +14,7 @@
 			{"id":518, "name":"Sapper Kompanie",					"pts":250, "Erweiterungen":[], "units":"Baran Commander mit einem Kommissar, 7 Sappers, Hades Breaching Drill"},
 			{"id":511, "name":"Siege Artillerie Emplacement", 	"pts":250, "Erweiterungen":[15]},
 			{"id":519, "name":"Superschwerer Zug", 			"pts":200, "Erweiterungen":[]},
-			{"id":510, "name":"Howitzer Emplacement", 			"pts":275, "Erweiterungen":[], "units":"4 Howitzers, 4 Gun Emplacements"},
+			{"id":510, "name":"Haubitzen Emplacement", 			"pts":275, "Erweiterungen":[], "units":"4 Howitzers, 4 Gun Emplacements"},
 			{"id":514, "name":"Flak Emplacement", 				"pts":175, "Erweiterungen":[], "units":"3 Heavy AA Guns, 3 Gun Emplacements"},
 			{"id":517, "name":"Death Rider Zug",			"pts":150, "Erweiterungen":[], "units":"6 Death Riders"},
 			{"id":516, "name":"Siege Recon Schwadron",			"pts":150, "Erweiterungen":[], "units":"4 Siegfried Light Tanks"}

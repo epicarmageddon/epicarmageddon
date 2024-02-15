@@ -15,7 +15,7 @@
     "Cegorach, the Laughing God"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Kabal of the Wraithkind, with Harlequin Allies."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Kabal of the Wraithkind, with Harlequin Allies."
   ],
   "units": [
     {
@@ -188,8 +188,8 @@
       ]
     },
     {
-      "name": "Commorragh Navy & War Engines",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und War Engine formations",
+      "name": "Commorragh Navy & Kriegsmaschinen",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und Kriegsmaschine formations",
         "formations": [
             {
                 "name": "Vessel of Pain",

@@ -16,7 +16,7 @@
 			{"id":521, "name":"Planetary Defence Zug",	"pts":150, "units":"8 PDF Infanterie", "Erweiterungen":[20,21,22,25]},
 			{"id":524, "name":"Kavalleriezug",		"pts":150, "units":"6 Kavallerieschwadron", "Erweiterungen":[]},
 			{"id":522, "name":"Flak Emplacement", 		"pts":175, "units":"3 Heavy AA, 3 Gun Emplacements", "Erweiterungen":[]},
-			{"id":523, "name":"Howitzer Emplacement",		"pts":275, "units":"4 Howitzers, 4 Gun Emplacements", "Erweiterungen":[]}
+			{"id":523, "name":"Haubitzen Emplacement",		"pts":275, "units":"4 Howitzers, 4 Gun Emplacements", "Erweiterungen":[]}
 
 		]},
 		{"name":"IMPERIALE LUFTSTREITKRÄFTE<br/> Max 33%", "formations":[

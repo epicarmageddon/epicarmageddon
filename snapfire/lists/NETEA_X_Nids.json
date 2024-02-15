@@ -86,7 +86,7 @@
    "formationConstraints": [
       {"max": 1, "name": "Independent Swarm", "from":[517,518,519,520,524], "forEach":[500,501,502], "name2":"Synapse Swarm"},
       {"max": 2, "name": "Lictor Swarms", "from": [524]},
-      {"maxPercent": 25, "name": "Tyranid War Engines", "from": [521,522,523,526]}
+      {"maxPercent": 25, "name": "Tyranid Kriegsmaschinen", "from": [521,522,523,526]}
   ],
    "upgradeConstraints": [
       {"max": 1, "from": [10,6], "perArmy": true},

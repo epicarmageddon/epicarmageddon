@@ -13,7 +13,7 @@
     ]},
     {"name":"SUPPORT LEVY <br/> Max 1 für jeweils Knight Household", "formations":[
       {"id":520, "name":"AA Gun Batterie", "pts":125, "units":"3 AA Guns", "Erweiterungen":[]},
-      {"id":521, "name":"Howitzer Batterie", "pts":175, "units":"3 Howitzers", "Erweiterungen":[]},
+      {"id":521, "name":"Haubitzen Batterie", "pts":175, "units":"3 Howitzers", "Erweiterungen":[]},
       {"id":522, "name":"Infanterie Zug", "pts":175, "units":"Levy Command, 8 Infanterie Levy", "Erweiterungen":[1,5,14,11,15,17]},
       {"id":523, "name":"Kavalleriezug", "pts":150, "units":"6 Kavallerieschwadron", "Erweiterungen":[1]}
     ]},

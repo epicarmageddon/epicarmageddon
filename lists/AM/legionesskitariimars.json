@@ -6,10 +6,10 @@
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
   "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. All other formations have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
   "specialRules": [
-    "Tunnelers"
+    "Tunnelgräber"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Skitarii of the Adeptus Mechancius"
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Skitarii of the Adeptus Mechancius"
   ],
   "units": [
     {
@@ -52,7 +52,7 @@
         "Questoris Knight-Warden"
       ],
       "unitRules": [
-        "Heavy Armoured Vehicle (H-AV)",
+        "Schwergepanzertes Fahrzeug (H-AV)",
         "Stubborn",
         "Chivalry",
         "Ion Shield (x)"

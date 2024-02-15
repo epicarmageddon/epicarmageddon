@@ -86,7 +86,7 @@
    ],
    "formationConstraints": [
       {"max": 1,"from": [523]},
-      {"maxPercent": 33.5,"name": "War Engines & Air Caste","from": [511,519,520,521,522,523,524]},
+      {"maxPercent": 33.5,"name": "Kriegsmaschinen & Air Caste","from": [511,519,520,521,522,523,524]},
       {"max": 3,"name": "Support Groups","from": [502,510,501,513,514,515,516],"forEach": [500,512],"name2": "Cadre"}
    ],
    "upgradeConstraints": [

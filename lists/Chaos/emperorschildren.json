@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_EmperorsChildren",
-  "intro": "The following army list allows you to field an army based on the Emperor's Children Traitor Legion. The Emperor's Children are a fast moving, agile army relying on daemons to bolster their relatively small formations.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Emperor's Children Traitor Legion. The Emperor's Children are a fast moving, agile army relying on daemons to bolster their relatively small formations.",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
   "Initiative": "All Emperor's Children Core, Support und the Chosen formation have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
@@ -53,7 +53,7 @@
       "unitRules": [
         "Deflektorschilde",
         "Daemon Engine (x)",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
@@ -71,7 +71,7 @@
       "from": "chaosnavy.json",
       "units": [
         "Hell Blade Interceptor",
-        "Hell Talon Fighter-Bomber",
+        "Hell Talon Jagdbomber",
         "Devastation Class Cruiser",
         "Despoiler Class Battleship"
       ],

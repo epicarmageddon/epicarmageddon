@@ -11,7 +11,7 @@
     "Fortified Positions"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Valhallan Ice Warriors"
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Valhallan Ice Warriors"
   ],
   "units": [
     {
@@ -29,7 +29,7 @@
         "Todesstoss-Raketensystem",
         "Armoured Sentinel",
         "Valhallan Greif",
-        "Ragnarok Heavy Panzer",
+        "Schwerer Ragnarok Panzer",
         "Macharius",
         "Macharius Command",
         "Baneblade",
@@ -157,7 +157,7 @@
     },
     {
       "name": "Adeptus Ministorum und Imperiale LuftstreitkräfteAllies",
-      "description": " Bis zu a fourth of the Punkte available may be spent on Adeptus Ministorum, Tunnelers und Imperiale LuftstreitkräfteAllies",
+      "description": " Bis zu a fourth of the Punkte available may be spent on Adeptus Ministorum, Tunnelgräber und Imperiale LuftstreitkräfteAllies",
       "formations": [
         {
           "name": "Ministorum Mission",

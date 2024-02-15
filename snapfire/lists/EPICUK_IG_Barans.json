@@ -4,7 +4,7 @@
 	"notes": ["Max 1 Kommissar für jeweils part of 500 Punkte in the army."],
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"BARAN SIEGEMASTERS COMPANIES", "formations":[
+		{"name":"BARAN Belagerungsmeister COMPANIES", "formations":[
 		 	{"id":513, "name":"Infanterie Kompanie", "pts":175, "Erweiterungen":[31,32,29,34,33,28,30 ,1], "units":"Commander, 9 Siege Infanterie"},
 			{"id":512, "name":"1 Regiments HQ", "pts":225, "Erweiterungen":[31,32,29,34,33,28,30], "units":"Supreme Commander, 9 Siege Infanterie"}
 		]},

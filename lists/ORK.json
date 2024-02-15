@@ -802,7 +802,7 @@
       {
         "name": "Fighta-Bommer",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber",
         "armour": 6,
         "weapons": [
           "AC Synchronisierter Big Shoota||FxF",

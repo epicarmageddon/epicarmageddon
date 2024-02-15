@@ -72,7 +72,7 @@
 
 	],
 	"formationConstraints":[
-		{"maxPercent": 33.5, "name": "Navy & War Engines", "from":[522,523,525,526,527,528]},
+		{"maxPercent": 33.5, "name": "Navy & Kriegsmaschinen", "from":[522,523,525,526,527,528]},
 		{"max":1, "from":[530]},
 		{"max":1, "from":[531]},
 		{"min":1, "max":1, "from":[511]},

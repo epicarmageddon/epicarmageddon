@@ -92,14 +92,14 @@
         "Regeneration",
         "Deflektorschilde",
         "Daemon Engine (x)",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
       "from": "chaosnavy.json",
       "units": [
         "Hell Blade Interceptor",
-        "Hell Talon Fighter-Bomber"
+        "Hell Talon Jagdbomber"
       ],
       "unitRules": []
     }

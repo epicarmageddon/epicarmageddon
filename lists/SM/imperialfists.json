@@ -4,7 +4,7 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_ImperialFists",
-  "intro": "The following army list allows you to field an army based on the Imperial Fists Space Marine chapter oder any of its successor chapters. The Imperial Fists specializes in siege warfare.",
+  "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Imperial Fists Space Marine chapter oder any of its successor chapters. The Imperial Fists specializes in siege warfare.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "Tarantula und Hyperios Emplacement Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all non-'Machine Spirit' Imperial Fists detachments.",

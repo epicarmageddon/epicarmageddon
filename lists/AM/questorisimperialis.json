@@ -27,7 +27,7 @@
       "unitRules": [
         "Ion Shield (x)",
         "Lightning Charge",
-        "Heavy Armoured Vehicle (H-AV)",
+        "Schwergepanzertes Fahrzeug (H-AV)",
         "Lanze"
       ]
     },
@@ -38,7 +38,7 @@
         "Thudd Gun",
         "Rapier",
         "Heavy AA Gun",
-        "Howitzer",
+        "Haubitzen",
         "Kavallerieschwadron",
         "Land Transporter"
       ],
@@ -142,7 +142,7 @@
           "points": 175
         },
         {
-          "name": "Howitzer Emplacement",
+          "name": "Haubitzen Emplacement",
           "units": "Vier Howitzers, vier Gun Emplacements",
           "extraUnits": [
           ],

@@ -12,11 +12,11 @@
     "Shoot the Big Ones!",
     "Extreme Mobility",
     "Swarm (x)",
-    "Tunnelers",
+    "Tunnelgräber",
     "Hydra Vanguard Organisms"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Tyranid Schwarmflotte Hydra."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Tyranid Schwarmflotte Hydra."
   ],
   "units": [
     {
@@ -59,7 +59,7 @@
       "unitRules": [
           "Regeneration",
           "Gaunts",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {

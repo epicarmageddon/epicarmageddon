@@ -79,7 +79,7 @@
 	"formationConstraints":[
 		{"max":2, "name":"Wodanaz Stronghold Unterstützungsverbände", "from":[510,511,513,514,515,516,517], "forEach":[501,509], "name2":"Brotherhood"},
 		{"max":1, "name":"Hellbore", "from":[521], "forEach":[501], "name2":"Brotherhood"},
-		{"maxPercent":33.5, "name":"Wodanaz Stronghold War Engines", "from":[512,520,521,522,523,524,525,526]}
+		{"maxPercent":33.5, "name":"Wodanaz Stronghold Kriegsmaschinen", "from":[512,520,521,522,523,524,525,526]}
 	],
 	"upgradeConstraints":[
 		{"max":1,  "perArmy":true,  "from":[101]},

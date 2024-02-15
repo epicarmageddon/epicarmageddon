@@ -246,7 +246,7 @@
       {
         "name": "Coven Thunderbolt",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber",
         "armour": 6,
         "weapons": [
           "AC Multilaser||FxF",

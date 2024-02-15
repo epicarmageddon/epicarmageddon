@@ -697,7 +697,7 @@
       {
         "name": "Avenger Strike Fighter",
         "type": "AC",
-        "speed": "Fighter-Bomber",
+        "speed": "Jagdbomber",
         "armour": 5,
         "weapons": [
           "AC Avenger Bolt Geschütz||FxF",

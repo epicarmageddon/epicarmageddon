@@ -236,7 +236,7 @@
       },
       {
         "name": "0-1 Bonesinger",
-        "description": "Füge eine Bonesinger to a War Engine unit in the formation.",
+        "description": "Füge eine Bonesinger to a Kriegsmaschine unit in the formation.",
         "points": "50 Punkte"
       }
     ]

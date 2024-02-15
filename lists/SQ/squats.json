@@ -7,7 +7,7 @@
   "strategy": "Squat Armeen haben einen Strategiewert von 2.",
   "Initiative": "All Verbände haben eine Initiative von 2+.",
   "specialRules": [
-    "Tunnelers",
+    "Tunnelgräber",
     "Tunneling Transports"
   ],
   "units": [
@@ -145,8 +145,8 @@
       ]
     },
     {
-      "name": "Wodanaz Stronghold War Engines",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Wodanaz Stronghold War Engines. Max eine Hellbore für jeweils Warrior Brotherhood formation with the 'Hellbore Transport' upgrade.",
+      "name": "Wodanaz Stronghold Kriegsmaschinen",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Wodanaz Stronghold Kriegsmaschinen. Max eine Hellbore für jeweils Warrior Brotherhood formation with the 'Hellbore Transport' upgrade.",
       "formations": [
         {
           "name": "Hellbore",

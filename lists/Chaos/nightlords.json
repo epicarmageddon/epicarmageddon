@@ -14,7 +14,7 @@
     "Night Lords Characters"
   ],
   "usage": [
-    "The following army list allows you to field an army based on the Night Lords, using their preferred operational methods."
+    "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Night Lords, using their preferred operational methods."
   ],
   "units": [
     {
@@ -40,7 +40,7 @@
       "unitRules": [
         "Augment Summoning (+x)",
         "Daemonic Focus",
-        "Heavy Armoured Vehicle (H-AV)"
+        "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
