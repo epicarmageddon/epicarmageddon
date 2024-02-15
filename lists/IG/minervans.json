@@ -4,26 +4,26 @@
   "version": "1.0.Beta-2",
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_Minervans",
-  "strategy": "Minervan Panzer Legion armies have a Strategy Rating of 2.",
-  "Initiative": "All formations have an Initiative Rating of 2+.",
+  "strategy": "Minervan Panzer Legion Armeen haben einen Strategiewert von 2.",
+  "Initiative": "All Verbände haben eine Initiative von 2+.",
   "specialRules": [
-    "Courage, Discipline and Loyalty"
+    "Mut, Disziplin und Loyalität"
   ],
   "units": [
     {
       "from": "IG.json",
       "units": [
-        "Lord Commissar",
-        "Commissar-Captain",
-        "Chimera",
-        "Infantry",
-        "Deathstrike",
-        "Hellhound",
+        "Lord Kommissar",
+        "Kommissar-Captain",
+        "Chimäre",
+        "Infanterie",
+        "Todesstoss-Raketensystem",
+        "Höllenhund",
         "Salamander Aufklärer Panzer",
         "Basilisk",
         "Bombard",
-        "Manticore",
-        "Griffon",
+        "Mantikor",
+        "Greif",
         "Medusa",
         "Hydra",
         "Leman Russ",
@@ -51,16 +51,16 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Deflektorschilde"
       ]
     },
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter",
+        "Thunderbolt",
         "Marauder Bomber",
-        "Lunar Class Cruiser",
-        "Emperor Class Battleship"
+        "Lunar-Klasse Kreuzer",
+        "Imperator-Klasse Schlachtschiff"
       ],
       "unitRules": [
       ]
@@ -68,25 +68,25 @@
   ],
   "sections": [
     {
-      "name": "Minervan Company Formations",
+      "name": "Minervan Kompanieverbände",
       "formations": [
         {
-          "name": "Minervan Panzer Company",
-          "units": "One Leman Russ Vanquisher with a Commissar-Captain, seven Leman Russ",
+          "name": "Minervan Panzer Kompanie",
+          "units": "Ein Leman Russ Vanquisher mit einem Kommissar-Captain, sieben Leman Russ",
           "extraUnits": [
-            "Replace seven Leman Russ with seven Leman Russ Thunderers: Free",
-            "Replace the Leman Russ Vanquisher with a Leman Russ Thunderer: Free",
+            "Ersetze sieben Leman Russ with sieben Leman Russ Thunderers: Free",
+            "Ersetze the Leman Russ Vanquisher mit einemLeman Russ Thunderer: Free",
             "Oberbefehlshaber",
             "Flak",
-            "Hellhounds"
+            "Höllenhunde"
           ],
           "points": 500
         },
         {
-          "name": "Minervan Super-Heavy Company",
-          "units": "Three Baneblades, Stormblades, Stormswords, and/or Shadowswords, one with a Commissar-Captain",
+          "name": "Minervan Superschwere Kompanie",
+          "units": "Drei Baneblades, Stormblades, Stormswords, und/oder Shadowswords, eine mit Kommissar-Captain",
           "extraUnits": [
-            "Upgrade one Baneblade to a Stormhammer: 25 points",
+            "Upgrade eine Baneblade to a Stormhammer: 25 Punkte",
             "Oberbefehlshaber",
             "Flak",
             "Leman Russ"
@@ -94,10 +94,10 @@
           "points": 500
         },
         {
-          "name": "Artillery Company",
-          "units": "Six Basilisks, one with a Commissar-Captain",
+          "name": "Artillerie Kompanie",
+          "units": "Sechs Basilisken, eine mit Kommissar-Captain",
           "extraUnits": [
-            "Replace six Basilisks with six Manticores: 50 points",
+            "Ersetze sechs Basilisken with sechs Mantikor: 50 Punkte",
             "Flak"
           ],
           "points": 400
@@ -105,75 +105,75 @@
       ]
     },
     {
-      "name": "Minervan Support Formations",
-      "description": "Up to three Support Formations for each Minervan Company.",
+      "name": "Minervan Unterstützungsverbände",
+      "description": " Bis zu drei Unterstützungsverbände für jeweils Minervan Kompanie.",
       "formations": [
         {
-          "name": "Leman Russ Squadron",
-          "units": "Four Leman Russ",
+          "name": "Leman Russ Schwadron",
+          "units": "Vier Leman Russ",
           "extraUnits": [
-            "Replace four Leman Russ with four Leman Russ Executioners, four Leman Russ Exterminators, four Leman Russ Demolishers, four Leman Russ Punishers, four Leman Russ Thunderers, or four Leman Russ Conquerors",
-            "Hellhounds",
+            "Ersetze vier Leman Russ with vier Leman Russ Executioners, vier Leman Russ Exterminators, vier Leman Russ Demolisher, vier Leman Russ Punishers, vier Leman Russ Thunderers, oder vier Leman Russ Conquerors",
+            "Höllenhunde",
             "Flak"
           ],
           "points": 275
         },
         {
-          "name": "Mechanized Infantry Platoon",
-          "units": "Six Infantry and three Chimeras",
+          "name": "Mechanisierte Infanterie Zug",
+          "units": "Sechs Infanteristen und drei Chimären",
           "extraUnits": [
-            "Hellhounds",
+            "Höllenhunde",
             "Leman Russ"
           ],
           "points": 200
         },
         {
-          "name": "Artillery Battery",
-          "units": "Three Basilisks, three Bombards or four Medusa",
+          "name": "Artillerie Batterie",
+          "units": "Drei Basilisken, drei Bombard oder vier Medusa",
           "extraUnits": [
-            "Replace three Basilisks with three Manticores: 25 points"
+            "Ersetze drei Basilisken mit drei Mantikoren: 25 Punkte"
           ],
           "points": 225
         },
         {
-          "name": "Griffon Battery",
-          "units": "Three Griffons",
+          "name": "Greifen Batterie",
+          "units": "Drei Greifen",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Panzer Hunter Squadron",
-          "units": "Three Leman Russ Destroyers",
+          "name": "Panzer Hunter Schwadron",
+          "units": "Drei Leman Russ Destroyers",
           "extraUnits": [
           ],
           "points": 200
         },
         {
-          "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormsword, Shadowsword, or Stormblade",
+          "name": "Superschwerer Zug",
+          "units": "Ein Baneblade, Stormsword, Shadowsword, oder Stormblade",
           "extraUnits": [
-              "Replace a Baneblade with a Shadowsword: 25 points"
+              "Ersetze a Baneblade mit einem Shadowsword: 25 Punkte"
           ],
           "points": 175
         },
         {
-          "name": "Deathstrike Battery",
-          "units": "Two Deathstrikes",
+          "name": "Todesstoss-Raketensystem Batterie",
+          "units": "Zwei Todesstoss-Raketensysteme",
           "extraUnits": [
           ],
           "points": 225
         },
         {
-          "name": "Flak Battery",
-          "units": "Three Hydras",
+          "name": "Flak Batterie",
+          "units": "Drei Hydra",
           "extraUnits": [
           ],
           "points": 150
         },
         {
-          "name": "Salamander Squadron",
-          "units": "Four Salamander Aufklärer Panzers",
+          "name": "Salamander Schwadron",
+          "units": "Vier Salamander Aufklärer Panzers",
           "extraUnits": [
           ],
           "points": 150
@@ -181,66 +181,66 @@
       ]
     },
     {
-      "name": "Collegia Titanica and Imperial Navy Formations",
-      "description": "Up to a third of the points available may be spent on Collegia Titanica and Imperial Navy Formations",
+      "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
       "formations": [
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
-            "Add an additional Warhound Titan: 200 points"
+            "Füge einen zusätzlichen Warhound Titan: 200 Punkte"
           ],
           "points": 275
         },
         {
-          "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "name": "Thunderbolt Schwadron",
+          "units": "Zwei Thunderbolts",
           "points": 175
         },
         {
-          "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "name": "Marauder Schwadron",
+          "units": "Zwei Marauder Bomber",
           "points": 250
         },
         {
           "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [
-            "Replace the Lunar Class Cruiser with an Emperor Class Battleship: 50 points"
+            "Ersetze the Lunar-Klasse Kreuzer mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
           ]
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Minervan Panzer Legion Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+  "Erweiterungen": {
+    "title": "Minervan Panzer Legion Erweiterungen",
+    "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
         "name": "0-1 Oberbefehlshaber",
-        "description": "Replace one Commissar-Captain in the army with a Lord Commissar",
-        "points": "75 points"
+        "description": "Ersetze eine Kommissar-Captain in the army mit einemLord Kommissar",
+        "points": "75 Punkte"
       },
       {
-        "name": "Griffons",
-        "description": "Add three Griffons",
-        "points": "50 points"
+        "name": "Greifen",
+        "description": "Füge drei Greifen",
+        "points": "50 Punkte"
       },
       {
         "name": "Leman Russ",
-        "description": "Add three Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Demolishers, Leman Russ Punishers, Leman Russ Thunderers, or Leman Russ Conquerors",
-        "points": "150 points"
+        "description": "Füge drei Leman Russ, Leman Russ Executioners, Leman Russ Exterminators, Leman Russ Demolisher, Leman Russ Punishers, Leman Russ Thunderers, oder Leman Russ Conquerors",
+        "points": "150 Punkte"
       },
       {
-        "name": "Hellhounds",
-        "description": "Add up to three Hellhounds",
-        "points": "25 points each"
+        "name": "Höllenhunde",
+        "description": "Füge bis zu drei Höllenhunde",
+        "points": "25 Punkte jeweils"
       },
       {
         "name": "Flak",
-        "description": "Add one Hydra",
-        "points": "50 points"
+        "description": "Füge eine Hydra",
+        "points": "50 Punkte"
       }
     ]
   }

@@ -6,28 +6,28 @@
 
    "sections": [
         {"name": "SORORITAS CORE FORMATIONS", "formations": [
-            {"id": 500, "name": "Mission", "pts": 225, "upgrades": [10,11,12,16,13]}
+            {"id": 500, "name": "Mission", "pts": 225, "Erweiterungen": [10,11,12,16,13]}
 	  ]},
-        {"name": "SORORITAS SUPPORT FORMATIONS <br/> Max 2 for each Core Formation", "formations": [
-        {"id": 515, "name": "Immolation", "pts": 275, "units": "Palatine, 3 Celestian Sisters, 3 Sororitas Immolators", "upgrades": []},
-	    {"id": 510, "name": "Exorcism", "pts": 225, "upgrades": [16]},
-	    {"id": 511, "name": "Seraph", "pts": 225,  "upgrades": []},
-	    {"id": 512, "name": "Retribution", "pts":200, "units": "Palatine, 4 Retributor Sisters", "upgrades": []},
-        {"id": 521, "name": "Repentance", "pts": 175, "units": "3 Repentia Sisters, 3 Mortifiers", "upgrades": []},
-        {"id": 513, "name": "Dominus", "pts": 175, "units": "Palatine, 4 Dominion Sisters", "upgrades": []}
+        {"name": "SORORITAS UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Core Formation", "formations": [
+        {"id": 515, "name": "Immolation", "pts": 275, "units": "Palatine, 3 Celestian Sisters, 3 Sororitas Immolators", "Erweiterungen": []},
+	    {"id": 510, "name": "Exorcism", "pts": 225, "Erweiterungen": [16]},
+	    {"id": 511, "name": "Seraph", "pts": 225,  "Erweiterungen": []},
+	    {"id": 512, "name": "Retribution", "pts":200, "units": "Palatine, 4 Retributor Sisters", "Erweiterungen": []},
+        {"id": 521, "name": "Repentance", "pts": 175, "units": "3 Repentia Sisters, 3 Mortifiers", "Erweiterungen": []},
+        {"id": 513, "name": "Dominus", "pts": 175, "units": "Palatine, 4 Dominion Sisters", "Erweiterungen": []}
          ]},
-        {"name": "ORDO HERETICUS FORMATIONS <br/> Max 1 for each Core Formation or Inquisitor Retinue", "formations": [
-            {"id": 520, "name": "Ordo Hereticus Inquisitor Retinue", "pts": 250, "units": "5 Storm Troopers, 3 Chimeras", "upgrades": [25,26]},
-	        {"id": 522, "name": "Redemption", "pts": 150, "units": "Ministorum Priest, 6 Redemptionists", "upgrades": [25]},
-            {"id": 523, "name": "Infernus", "pts": 175, "units": "4 Hellhounds", "upgrades": []}
+        {"name": "ORDO HERETICUS FORMATIONS <br/> Max 1 für jeweils Core Formation oder Inquisitor Retinue", "formations": [
+            {"id": 520, "name": "Ordo Hereticus Inquisitor Retinue", "pts": 250, "units": "5 Storm Troopers, 3 Chimären", "Erweiterungen": [25,26]},
+	        {"id": 522, "name": "Redemption", "pts": 150, "units": "Ministorum Priest, 6 Redemptionists", "Erweiterungen": [25]},
+            {"id": 523, "name": "Infernus", "pts": 175, "units": "4 Höllenhunde", "Erweiterungen": []}
          ]},
-        {"name": "IMPERIAL NAVY <br/> Max 33%", "formations": [
-            {"id": 532, "name": "Lightning Squadron", "pts": 175, "units": "2 Lightning Interceptors", "upgrades": [] },
-            {"id": 533, "name": "Marauder Destroyer", "pts": 175, "upgrades": [] },
-	        {"id": 534, "name": "Orbital Support", "pts": 150, "upgrades": [] }
+        {"name": "IMPERIALE LUFTSTREITKRÄFTE<br/> Max 33%", "formations": [
+            {"id": 532, "name": "Lightning Schwadron", "pts": 175, "units": "2 Lightning Interceptors", "Erweiterungen": [] },
+            {"id": 533, "name": "Marauder Destroyer", "pts": 175, "Erweiterungen": [] },
+	        {"id": 534, "name": "Orbital Support", "pts": 150, "Erweiterungen": [] }
          ]}
    ],
-   "upgrades": [
+   "Erweiterungen": [
 	  {"id": 1, "name": "8 Battle Sisters","pts": 0},
 	  {"id": 2, "name": "Palatine, 8 Battle Sisters","pts": 25},
       {"id": 3, "name": "Canoness, 8 Battle Sisters","pts": 100},
@@ -35,9 +35,9 @@
       {"id": 4, "name": "Palatine, 6 Seraphim Sisters","pts": 0},
 	  {"id": 5, "name": "Living Saint, 5 Seraphim Sisters","pts": 50},
 
-      {"id": 6, "name": "6 Battle Sisters, two Exorcist Prioris","pts": 25},
-      {"id": 7, "name": "Palatine, 6 Battle Sisters, two Exorcist Prioris","pts": 50},
-      {"id": 8, "name": "Canoness, 6 Battle Sisters, two Exorcist Prioris","pts": 100},
+      {"id": 6, "name": "6 Battle Sisters, zwei Exorcist Prioris","pts": 25},
+      {"id": 7, "name": "Palatine, 6 Battle Sisters, zwei Exorcist Prioris","pts": 50},
+      {"id": 8, "name": "Canoness, 6 Battle Sisters, zwei Exorcist Prioris","pts": 100},
 
 	  {"id": 9, "name": "Ministorum Priest","pts": 25},
 
@@ -57,7 +57,7 @@
 	  {"id": 23, "name": "Ordo Hereticus Inquisitor","pts": 0},
 	  {"id": 24, "name": "Ordo Hereticus Inquisitor Lord","pts": 75},
 
-	  {"id": 25, "name": "Hellhound","pts": 25},
+	  {"id": 25, "name": "Höllenhund","pts": 25},
       {"id": 26, "name": "Hydra","pts": 50},
 
 	  {"id": 30, "name": "4 Exorcist Prioris","pts": 0},
@@ -73,8 +73,8 @@
       {"id": 45, "name": "Penitent Engine","pts": 35},
 
 
-      {"id": 50, "name": "Lunar Class Cruiser","pts": 0},
-	  {"id": 51, "name": "Emperor Class Battleship","pts": 50}
+      {"id": 50, "name": "Lunar-Klasse Kreuzer","pts": 0},
+	  {"id": 51, "name": "Imperator-Klasse Schlachtschiff","pts": 50}
 
 
    ],
@@ -82,8 +82,8 @@
       {"max": 1, "from": [534]},
       {"max": 1, "from": [520]},
       {"maxPercent": 33.5, "name": "Imperial Navy", "from": [532,533,534,535]},
-      {"max": 2, "name": "Sororitas Support Formations", "from": [510,521,511,512,513,514,515], "forEach": [500], "name2": "Core Formation" },
-      {"max": 1, "name": "Ordo Hereticus Formations", "from": [522,523], "forEach": [500], "name2": "Core Formation or Inquisitor Retinue" }
+      {"max": 2, "name": "Sororitas Unterstützungsverbände", "from": [510,521,511,512,513,514,515], "forEach": [500], "name2": "Core Formation" },
+      {"max": 1, "name": "Ordo Hereticus Formations", "from": [522,523], "forEach": [500], "name2": "Core Formation oder Inquisitor Retinue" }
    ],
    "upgradeConstraints": [
 	  {"max": 1, "perArmy": true, "from": [3,8,24]},

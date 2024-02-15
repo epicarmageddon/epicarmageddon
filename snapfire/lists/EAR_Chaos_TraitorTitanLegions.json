@@ -4,35 +4,35 @@
 	"notes":[],
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"BATTLE TITAN FORMATIONS <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations ", "formations":[
-			{"id":500, "name":"Chaos Emperor Titan",	"pts":875, "upgrades":[]},
+		{"name":"BATTLE TITAN FORMATIONS <br/> Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations ", "formations":[
+			{"id":500, "name":"Chaos Emperor Titan",	"pts":875, "Erweiterungen":[]},
 
-			{"id":501, "name":"Chaos Warlord Titan", 	"pts":725, "upgrades":[]},
+			{"id":501, "name":"Chaos Warlord Titan", 	"pts":725, "Erweiterungen":[]},
 
-			{"id":502, "name":"Chaos Reaver Titan",		"pts":600, "upgrades":[11]}
+			{"id":502, "name":"Chaos Reaver Titan",		"pts":600, "Erweiterungen":[11]}
 		]},
 
-		{"name": "SUPPORT FORMATIONS <br/> Max 4 per Battle Titan formation <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
-			{"id":513, "name":"Chaos Warhound",		"pts":275, "upgrades":[11]},
-			{"id":514, "name":"Slaanesh Scout Titan", "pts":275, "upgrades":[11]},
-			{"id":515, "name":"Debasers of Slaanesh",				"pts":25, "upgrades":[121]},
-			{"id":516, "name":"Desecrators of Nurgle",				"pts":25, "upgrades":[122]},
-			{"id":517, "name":"Slaughterfiends of Khorne",				"pts":0, "upgrades":[123]},
-			{"id":518, "name":"Decievers of Tzeench",				"pts":50, "upgrades":[124]},
-			{"id":519, "name":"Defilers of Chaos Undivided",				"pts":25, "upgrades":[125]},
-			{"id":520, "name":"Cerberites of Chaos Undivided", "pts":175, "units": "3 Cerberites", "upgrades":[]},
-			{"id":521, "name":"Maulerfiends of Chaos Undivided", "pts":200, "units": "4 Maulerfiends", "upgrades":[]},
-			{"id":522, "name":"Forgefiends of Chaos Undivided", "pts":225, "units":"3 Forgefiends", "upgrades":[]},
-			{"id":590, "name":"Hell-Forge Maniple",		"pts":225, "units": "Hellwright, 11 Chaos Squats", "upgrades":[110]}
+		{"name": "UNTERSTÜTZUNGSVERBÄNDE <br/> Max 4 pro Battle Titan formation <br/> Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations", "formations":[
+			{"id":513, "name":"Chaos Warhound",		"pts":275, "Erweiterungen":[11]},
+			{"id":514, "name":"Slaanesh Scout Titan", "pts":275, "Erweiterungen":[11]},
+			{"id":515, "name":"Debasers of Slaanesh",				"pts":25, "Erweiterungen":[121]},
+			{"id":516, "name":"Desecrators of Nurgle",				"pts":25, "Erweiterungen":[122]},
+			{"id":517, "name":"Slaughterfiends of Khorne",				"pts":0, "Erweiterungen":[123]},
+			{"id":518, "name":"Decievers of Tzeench",				"pts":50, "Erweiterungen":[124]},
+			{"id":519, "name":"Defilers of Chaos Undivided",				"pts":25, "Erweiterungen":[125]},
+			{"id":520, "name":"Cerberites of Chaos Undivided", "pts":175, "units": "3 Cerberites", "Erweiterungen":[]},
+			{"id":521, "name":"Maulerfiends of Chaos Undivided", "pts":200, "units": "4 Maulerfiends", "Erweiterungen":[]},
+			{"id":522, "name":"Forgefiends of Chaos Undivided", "pts":225, "units":"3 Forgefiends", "Erweiterungen":[]},
+			{"id":590, "name":"Hell-Forge Maniple",		"pts":225, "units": "Hellwright, 11 Chaos Squats", "Erweiterungen":[110]}
 		]},
 			{"name":"CHAOS NAVY <br/> Max 33%", "formations":[
-			{"id":592, "name":"Heldrakes",				"pts":225, "units": "2 Heldrakes", "upgrades":[]},
-			{"id":594, "name":"Harbringer Bomber",				"pts":300, "upgrades":[]},
-			{"id":593, "name":"Despoiler Battleship",				"pts":200, "upgrades":[]}
+			{"id":592, "name":"Heldrakes",				"pts":225, "units": "2 Heldrakes", "Erweiterungen":[]},
+			{"id":594, "name":"Harbringer Bomber",				"pts":300, "Erweiterungen":[]},
+			{"id":593, "name":"Despoiler Battleship",				"pts":200, "Erweiterungen":[]}
 		]}
 
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":9,	"name":"Daemonic Pact",	"pts":25},
 		{"id":10,	"name":"Eye of the Gods",	"pts":50},
 		{"id":11,	"name":"Heralds of Chaos",	"pts":25},
@@ -117,7 +117,7 @@
 		{"id":125,	"name":"Defiler of Chaos Undivided",	"pts":50},
 
 		{"id":450,	"name":"Lesser Daemon Pool Point",	"pts":15},
-		{"id":451,	"name":"Lesser Daemon Pool Point (1 for each Daemonic Pact)",	"pts":0}
+		{"id":451,	"name":"Lesser Daemon Pool Point (1 für jeweils Daemonic Pact)",	"pts":0}
 
 
 
@@ -125,7 +125,7 @@
 	"formationConstraints":[
 		{"max": 1, "from": [500]},
 		{"max": 1, "from": [593]},
-  	{"max": 4, "name": "Support formations", "from": [590,513,514,515,516,517,518,519,520,521,522],  "forEach": [500,501,502], "name2": "Battle Titan formation" },
+  	{"max": 4, "name": "Unterstützungsverbände", "from": [590,513,514,515,516,517,518,519,520,521,522],  "forEach": [500,501,502], "name2": "Battle Titan formation" },
  		{"maxPercent": 33.5, "name": "Chaos Navy", "from": [591,592,593,594]}
 
 	],

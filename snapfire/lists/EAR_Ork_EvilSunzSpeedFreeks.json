@@ -1,44 +1,44 @@
 {
    "id": "EA-R Evil Sunz Speed Freeks, WAAAGH! Gazbag",
    "version": "Approved 1.0.Beta",
-   "notes": ["The Warlord may only join a Nobz or Nob Warbikes unit."],
+   "notes": ["The Warlord may only join a Nobz oder Nob Warbikes unit."],
    "by": "EA-Ragnarok",
    "sections": [
       {
          "name": "SPEED FREEKS",
          "formations": [
-            {"id": 501, "name": "Evil Sunz Blitz Brigade", "pts": 30, "upgrades": [33,32,31,34,35,36,37]},
-            {"id": 502, "name": "Evil Sunz Blitz Brigade (Big)", "pts": 10, "upgrades": [33,32,31,34,35,36,37]},
-            {"id": 503, "name": "Evil Sunz Blitz Brigade ('Uge)", "pts": -10, "upgrades": [33,32,31,34,35,36,37]},
+            {"id": 501, "name": "Evil Sunz Blitz Brigade", "pts": 30, "Erweiterungen": [33,32,31,34,35,36,37]},
+            {"id": 502, "name": "Evil Sunz Blitz Brigade (Big)", "pts": 10, "Erweiterungen": [33,32,31,34,35,36,37]},
+            {"id": 503, "name": "Evil Sunz Blitz Brigade ('Uge)", "pts": -10, "Erweiterungen": [33,32,31,34,35,36,37]},
 
-            {"id": 504, "name": "Evil Sunz Kult of Speed", "pts": 0,  "upgrades": [10,21,20,22,31,32,33]},
-            {"id": 505, "name": "Evil Sunz Kult of Speed (Big)", "pts": -50, "upgrades": [10,21,20,22,31,32,33]},
-            {"id": 506, "name": "Evil Sunz Kult of Speed ('Uge)", "pts": -100, "upgrades": [10,21,20,22,31,32,33]},
+            {"id": 504, "name": "Evil Sunz Kult of Speed", "pts": 0,  "Erweiterungen": [10,21,20,22,31,32,33]},
+            {"id": 505, "name": "Evil Sunz Kult of Speed (Big)", "pts": -50, "Erweiterungen": [10,21,20,22,31,32,33]},
+            {"id": 506, "name": "Evil Sunz Kult of Speed ('Uge)", "pts": -100, "Erweiterungen": [10,21,20,22,31,32,33]},
 
-            {"id": 510, "name": "Evil Sunz Fortress Mob", "pts": 300, "units":"2 Nobz, 6 Boyz, 2 Grotz", "upgrades": [10,32,33,40,41,42]},
-            {"id": 511, "name": "Evil Sunz Fortress Mob (Big)", "pts": 550, "units":"4 Nobz, 12 Boyz, 4 Grotz", "upgrades": [10,32,33,40,41,42]},
-            {"id": 512, "name": "Evil Sunz Fortress Mob ('Uge)", "pts": 800, "units":"6 Nobz, 18 Boyz, 6 Grotz", "upgrades": [10,32,33,40,41,42]},
+            {"id": 510, "name": "Evil Sunz Fortress Mob", "pts": 300, "units":"2 Nobz, 6 Boyz, 2 Grotz", "Erweiterungen": [10,32,33,40,41,42]},
+            {"id": 511, "name": "Evil Sunz Fortress Mob (Big)", "pts": 550, "units":"4 Nobz, 12 Boyz, 4 Grotz", "Erweiterungen": [10,32,33,40,41,42]},
+            {"id": 512, "name": "Evil Sunz Fortress Mob ('Uge)", "pts": 800, "units":"6 Nobz, 18 Boyz, 6 Grotz", "Erweiterungen": [10,32,33,40,41,42]},
 
-            {"id": 513, "name": "Evil Sunz Warband", "pts": 25, "upgrades": [10,20,21,22,29,32]},
-            {"id": 514, "name": "Evil Sunz Warband (Big)", "pts": 0, "upgrades": [10,20,21,22,29,32]},
-            {"id": 515, "name": "Evil Sunz Warband ('Uge)", "pts": -25, "upgrades": [10,20,21,22,29,32]},
+            {"id": 513, "name": "Evil Sunz Warband", "pts": 25, "Erweiterungen": [10,20,21,22,29,32]},
+            {"id": 514, "name": "Evil Sunz Warband (Big)", "pts": 0, "Erweiterungen": [10,20,21,22,29,32]},
+            {"id": 515, "name": "Evil Sunz Warband ('Uge)", "pts": -25, "Erweiterungen": [10,20,21,22,29,32]},
 
-            {"id": 516, "name": "Evil Sunz Warbike Outriders", "pts": 175, "units":"6 Warbike Outriders", "upgrades": []}
+            {"id": 516, "name": "Evil Sunz Warbike Outriders", "pts": 175, "units":"6 Warbike Outriders", "Erweiterungen": []}
 
          ]
       },
       {
          "name": "SPEED FREEK 'CRAFT <br/> Max 33%",
          "formations": [
-            {"id": 519, "name": "Dakkajet Skwadron", "pts": 0, "upgrades": [50]},
-            {"id": 520, "name": "Blitza Skwadron", "pts": 200, "units":"3 Blitza Bommers", "upgrades": []},
-            {"id": 521, "name": "Landa", "pts": 225, "upgrades": []},
-            {"id": 522, "name": "Kroozer", "pts": 100, "upgrades": []}
+            {"id": 519, "name": "Dakkajet Skwadron", "pts": 0, "Erweiterungen": [50]},
+            {"id": 520, "name": "Blitza Skwadron", "pts": 200, "units":"3 Blitza Bommers", "Erweiterungen": []},
+            {"id": 521, "name": "Landa", "pts": 225, "Erweiterungen": []},
+            {"id": 522, "name": "Kroozer", "pts": 100, "Erweiterungen": []}
 
          ]
       }
    ],
-   "upgrades": [
+   "Erweiterungen": [
       {"id": 10, "name": "Warlord", "pts": 0},
 
       {"id": 20, "name": "Warbuggy", "pts": 25},

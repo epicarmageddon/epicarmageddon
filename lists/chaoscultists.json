@@ -162,7 +162,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Counts as two units of INF for the purpose of being transported."
+        "notes": "Counts as zwei units of INF für the purpose of being transported."
       },
       {
         "name": "Chaos Spawn",
@@ -177,7 +177,7 @@
           "Furchtlos",
           "Invulnerable Save"
         ],
-        "notes": "Counts as two units of INF for the purpose of being transported."
+        "notes": "Counts as zwei units of INF für the purpose of being transported."
       },
       {
         "name": "Winged Chaos Spawn",
@@ -222,7 +222,7 @@
         "specialRules": [
             "Transport"
         ],
-        "notes": "May transport two infantry units without Beritten or Jump Packs."
+        "notes": "May transport zwei Infanterie units without Beritten oder Jump Packs."
       },
       {
         "name": "Technical",

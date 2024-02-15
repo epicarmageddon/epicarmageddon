@@ -29,7 +29,7 @@
         ]
       },
       {
-        "name": "Thunderbolt Fighter",
+        "name": "Thunderbolt",
         "type": "AC",
         "speed": "Fighter-Bomber",
         "armour": 6,
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "name": "Lunar Class Cruiser",
+        "name": "Lunar-Klasse Kreuzer",
         "type": "SC",
         "weapons": [
           {
@@ -110,7 +110,7 @@
         ]
       },
       {
-        "name": "Emperor Class Battleship",
+        "name": "Imperator-Klasse Schlachtschiff",
         "type": "SC",
         "weapons": [
           {

@@ -4,40 +4,40 @@
 	"by":"Mrdiealot",
 "sections":[
 		{"name":"Dark Angles Core Detachments", "formations": [
-            { "id":501, "name":"Tacticals", "units":"6 Tacticals plus Transport",        "pts":275, "upgrades":[13,14,16,17,19,31] },
-			{ "id":532, "name":"Land Raiders", "units":"3 Land Raiders",   "pts":250, "upgrades":[13,14,16,30] }
+            { "id":501, "name":"Tacticals", "units":"6 Tacticals plus Transport",        "pts":275, "Erweiterungen":[13,14,16,17,19,31] },
+			{ "id":532, "name":"Land Raiders", "units":"3 Land Raiders",   "pts":250, "Erweiterungen":[13,14,16,30] }
    	 ]},
-	 		{"name":"Dark Angles Support Detachments (Four Support Detachments may be taken for each Core Detachment)", "formations": [
-            { "id":502, "name":"Scouts", "units":"4 Space Marine Sniper Scouts, 2 Rhinos",        "pts":200, "upgrades":[17] },
-            { "id":503, "name":"Assaults", "units":"6 Dark Angels Assault Marines, 1 Dark Angels Captain",        "pts":275, "upgrades":[] },
-            { "id":504, "name":"Devastators", "units":"4 Dark Angels Devastators plus Transport",        "pts":250, "upgrades":[13,14,17,19,31] },
-			{ "id":531, "name":"Predators", "units":"4 Predator Destructors", "pts":200, "upgrades":[13,14,31] },
-	        { "id":533, "name":"Siege Breachers", "units":"3 Land Raider Ares", "pts":275, "upgrades":[13,14,20] },
-			{ "id":534, "name":"Whirlwinds", "units":"4 Whirlwinds", "pts":275, "upgrades":[29] }
+	 		{"name":"Dark Angles Support Detachments (Vier Support Detachments may be taken für jeweils Core Detachment)", "formations": [
+            { "id":502, "name":"Scouts", "units":"4 Space Marine Scharfschütze Scouts, 2 Rhinos",        "pts":200, "Erweiterungen":[17] },
+            { "id":503, "name":"Assaults", "units":"6 Dark Angels Assault Marines, 1 Dark Angels Captain",        "pts":275, "Erweiterungen":[] },
+            { "id":504, "name":"Devastators", "units":"4 Dark Angels Devastators plus Transport",        "pts":250, "Erweiterungen":[13,14,17,19,31] },
+			{ "id":531, "name":"Predators", "units":"4 Predator Destructors", "pts":200, "Erweiterungen":[13,14,31] },
+	        { "id":533, "name":"Siege Breachers", "units":"3 Land Raider Ares", "pts":275, "Erweiterungen":[13,14,20] },
+			{ "id":534, "name":"Whirlwinds", "units":"4 Whirlwinds", "pts":275, "Erweiterungen":[29] }
      ]},
 	 		{"name":"Deathwing & Ravenwing Strike Detachments", "formations": [
-		    { "id":511, "name":"Deathwing Terminators", "units":"4 Deathwing Terminators",        "pts":350, "upgrades":[13,14,15,16,22] },
-			{ "id":521, "name":"Ravenwing Attack", "units":"1x Ravenwing Black Knights, 3x Ravenwing Land Speeder",        "pts":325, "upgrades":[13,14,15,16] }
+		    { "id":511, "name":"Deathwing Terminators", "units":"4 Deathwing Terminators",        "pts":350, "Erweiterungen":[13,14,15,16,22] },
+			{ "id":521, "name":"Ravenwing Attack", "units":"1x Ravenwing Black Knights, 3x Ravenwing Land Speeder",        "pts":325, "Erweiterungen":[13,14,15,16] }
      ]},
-	 		{"name":"Deathwing & Ravenwing Specialist Detachments (Four Specialist Detachments may be taken for each Strike Detachment)", "formations": [
-			{ "id":513, "name":"Deathwing Overwatch", "units":"4 Deathwing Cyclone Terminators",        "pts":350, "upgrades":[13,14] },
-			{ "id":514, "name":"Deathwing Knights", "units":"3 Deathwing Knights, 1 Deathwing Terminators, 1 Interrogator Chaplain, 1 Librarian",        "pts":375, "upgrades":[] },
-			{ "id":515, "name":"Deathwing Dreadnoughts", "units":"5 Deathwing Dreadnoughts plus Transport",        "pts":300, "upgrades":[] },	  
-			{ "id":516, "name":"Deathwing Land Raiders", "units":"3 Deathwing Land Raiders",        "pts":275, "upgrades":[13,14] },	 
-			{ "id":522, "name":"Ravenwing Support",       "pts":200, "upgrades":[] }
+	 		{"name":"Deathwing & Ravenwing Specialist Detachments (Vier Specialist Detachments may be taken für jeweils Strike Detachment)", "formations": [
+			{ "id":513, "name":"Deathwing Overwatch", "units":"4 Deathwing Cyclone Terminators",        "pts":350, "Erweiterungen":[13,14] },
+			{ "id":514, "name":"Deathwing Knights", "units":"3 Deathwing Knights, 1 Deathwing Terminators, 1 Interrogator Chaplain, 1 Librarian",        "pts":375, "Erweiterungen":[] },
+			{ "id":515, "name":"Deathwing Dreadnoughts", "units":"5 Deathwing Dreadnoughts plus Transport",        "pts":300, "Erweiterungen":[] },	  
+			{ "id":516, "name":"Deathwing Land Raiders", "units":"3 Deathwing Land Raiders",        "pts":275, "Erweiterungen":[13,14] },	 
+			{ "id":522, "name":"Ravenwing Support",       "pts":200, "Erweiterungen":[] }
      ]},
-	 		{"name":"Dreadwing Relic Detachments (The army may contain a maximum of one Dreadwing Relic Detachment)", "formations": [
-            { "id":535, "name":"Relic Deimos", "units":"4 Predator Executioners, 3 Deimos Vindicator Laser Destroyers",  "pts":400, "upgrades":[29] },
-		    { "id":536, "name":"Relic Glaive",      "pts":50, "upgrades":[34] }
+	 		{"name":"Dreadwing Relic Detachments (The army may contain a maximum of eine Dreadwing Relic Detachment)", "formations": [
+            { "id":535, "name":"Relic Deimos", "units":"4 Predator Executioners, 3 Deimos Vindicator Laser Destroyers",  "pts":400, "Erweiterungen":[29] },
+		    { "id":536, "name":"Relic Glaive",      "pts":50, "Erweiterungen":[34] }
      ]},
-	 		{"name":"Dark Angels Aircraft and Swordwing (Max 33%)", "formations": [
-	        { "id":523, "name":"Ravenwing Nephilim", "units":"2 Ravenwing Nephilim Interceptors",        "pts":225, "upgrades":[] },
-		    { "id":524, "name":"Ravenwing Dark Talon", "units":"2 Ravenwing Dark Talons",        "pts":225, "upgrades":[] },
-	        { "id":542, "name":"Thunderhawk Transporter",        "pts":75, "upgrades":[21] },
-            { "id":543, "name":"Swordwing Support",        "pts":0, "upgrades":[] }
+	 		{"name":"Dark Angels Aircraft und Swordwing (Max 33%)", "formations": [
+	        { "id":523, "name":"Ravenwing Nephilim", "units":"2 Ravenwing Nephilim Interceptors",        "pts":225, "Erweiterungen":[] },
+		    { "id":524, "name":"Ravenwing Dark Talon", "units":"2 Ravenwing Dark Talons",        "pts":225, "Erweiterungen":[] },
+	        { "id":542, "name":"Thunderhawk Transporter",        "pts":75, "Erweiterungen":[21] },
+            { "id":543, "name":"Swordwing Support",        "pts":0, "Erweiterungen":[] }
      ]}
   ],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":13, "name":"Dark Angels Captain",		"pts":50},
 		{"id":14, "name":"Librarian",	"pts":50},
 		{"id":15, "name":"Interrogator Chaplain",		"pts":50},
@@ -66,7 +66,7 @@
 	
 	{"max":4, "name":"Deathwing & Ravenwing Specialist Detachments", "from":[513,514,515,516,522], "forEach":[511,521], "name2":"Deathwing & Ravenwing Strike Detachments"},
 	
-	{"maxPercent": 33.5, "name":"Dark Angels Aircraft and Swordwing", "from":[523,524,542,543]},
+	{"maxPercent": 33.5, "name":"Dark Angels Aircraft und Swordwing", "from":[523,524,542,543]},
 	
 	{"max":1, "perArmy":true, "from":[535,536]},
 	

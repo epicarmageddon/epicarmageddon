@@ -31,7 +31,7 @@ var units = {
                             if (rules[sRule]) {
                                 return rules[sRule];
                             } else {
-                                error("Unknown special rule '" + sRule + "' for weapon: " + item.name);
+                                error("Unknown special rule '" + sRule + "' für weapon: " + item.name);
                                 return {
                                     "name": "ERROR",
                                     "description": "Unknown special rule " + sRule
@@ -141,7 +141,7 @@ function replaceWeapon(weapon, weapons, unit) {
         var values = weapon.split('|');
 
         if (!weapons.weapons[values[0]]) {
-            error("Unknown weapon '" + values[0] + "' for unit: " + unit.name);
+            error("Unknown weapon '" + values[0] + "' für unit: " + unit.name);
 
             return {
                 "name": "ERROR",
@@ -153,7 +153,7 @@ function replaceWeapon(weapon, weapons, unit) {
 
         var weaponObject = JSON.parse(JSON.stringify(weapons.weapons[values[0]]));
 
-        // More than one weapon
+        // More than eine weapon
         if (values.length > 1 && values[1]) {
             weaponObject.count = values[1];
         }
@@ -168,7 +168,7 @@ function replaceWeapon(weapon, weapons, unit) {
                 if (weapons.rules[values[2]]) {
                     mode.specialRules.push(weapons.rules[values[2]]);
                 } else {
-                    error("Unknown special rule '" + values[2] + "' for weapon: " + weaponObject.name +
+                    error("Unknown special rule '" + values[2] + "' für weapon: " + weaponObject.name +
                         ", on unit: " + unit.name);
                     mode.specialRules.push({"name": "ERROR", "description": "Unknown special rule: " + values[2]});
                 }

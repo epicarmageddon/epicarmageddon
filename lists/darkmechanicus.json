@@ -153,7 +153,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Beritten."
+        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Hell-Rhino",
@@ -168,7 +168,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Jump Packs or Beritten."
+        "notes": "May transport eine Infanterie unit without Jump Packs oder Beritten."
       },
       {
         "name": "Macrocarid Exploitator",
@@ -186,7 +186,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport three infantry units without Jump Packs or Beritten."
+        "notes": "May transport drei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Triaros Armoured Despoiler",
@@ -202,7 +202,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport six infantry units without Jump Packs or Beritten."
+        "notes": "May transport sechs Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Krios Lightning",
@@ -254,12 +254,12 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Deflektorschilde 2",
           "Reinforced Armour",
           "Furchtlos"
         ],
-        "notes": "Armed with a single Battle Weapon. May be upgraded to a Support Weapon.",
-        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
+        "notes": "Armed mit einemsingle Battle Weapon. May be upgraded to a Support Weapon.",
+        "crit": "The Ordinatus is destroyed, und any units within 5cm suffers a hit on 5+."
       },
       {
         "name": "Ordinatus Hereticus ",
@@ -277,12 +277,12 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Deflektorschilde 2",
           "Reinforced Armour",
           "Furchtlos"
         ],
-        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator or Synchronisierter Hades Maschinenkanone.",
-        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 5+."
+        "notes": "Armed with either a Turbo Blaster, Doom Burner, Plasma Cremator oder Synchronisierter Hades Maschinenkanone.",
+        "crit": "The Ordinatus is destroyed, und any units within 5cm suffers a hit on 5+."
       },
       {
         "name": "Ordinatus Hereticus Majoris",
@@ -295,7 +295,7 @@
           "Schwerer Bolter|2|",
           "Laserkanone|2|",
           ">Ordinatus Cyclothrathe<",
-          "Terrebrax Phospex Battery||FxF",
+          "Terrebrax Phospex Batterie||FxF",
           ">Ordinatus Retlaxi<",
           "Graviton Singularity Beamer||FxF",
           ">Ordinatus Temporia<",
@@ -303,11 +303,11 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 4",
+          "Deflektorschilde 4",
           "Reinforced Armour",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
+        "crit": "The Ordinatus is destroyed, und any units within 5cm suffers a hit on 4+"
       },
       {
         "name": "Ordinatus Cyclothrathe",
@@ -319,15 +319,15 @@
         "weapons": [
             "Schwerer Bolter|2|",
             "Laserkanone|2|",
-          "Terrebrax Phospex Battery||FxF"
+          "Terrebrax Phospex Batterie||FxF"
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 4",
+          "Deflektorschilde 4",
           "Reinforced Armour",
           "Furchtlos"
         ],
-        "crit": "The Ordinatus is destroyed, and any units within 5cm suffers a hit on 4+"
+        "crit": "The Ordinatus is destroyed, und any units within 5cm suffers a hit on 4+"
       },
       {
         "name": "The Kaban Machine",
@@ -343,7 +343,7 @@
         ],
         "specialRules": [
           "Damage Capacity 2",
-          "Void Shields 2",
+          "Deflektorschilde 2",
           "Anführer",
           "Reinforced Armour",
           "Furchtlos"
@@ -611,7 +611,7 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 2",
+          "Deflektorschilde 2",
           "Reinforced Armour",
           "Furchtlos",
           "Invulnerable Save",
@@ -632,14 +632,14 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 2",
+          "Deflektorschilde 2",
           "Reinforced Armour",
           "Invulnerable Save",
           "Daemon Engine (Chaos Undivided)",
           "Transport"
         ],
-        "notes": "May transport fourteen infantry units without Beritten or Jet Packs. Chaos Spawn, Terminators and Dreadnoughts count as two units each.",
-        "crit": "The Shrine of Chaos takes one additional damage. D3 transported units takes a hit."
+        "notes": "May transport fourteen Infanterie units without Beritten oder Jet Packs. Chaos Spawn, Terminators und Dreadnoughts count as zwei units jeweils.",
+        "crit": "The Shrine of Chaos takes eine additional damage. D3 transported units takes a hit."
       },
       {
         "name": "Debaser",
@@ -730,13 +730,13 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Deflektorschilde 2",
           "Reinforced Armour",
           "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ],
-        "notes": "May step over units and pieces of terrain that that are lower than the unit’s knees and less than 2cm wide.",
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide.",
         "crit": "The Questor takes a point of damage."
       },
       {
@@ -753,13 +753,13 @@
         ],
         "specialRules": [
           "Damage Capacity 3",
-          "Void Shields 2",
+          "Deflektorschilde 2",
           "Reinforced Armour",
           "Furchtlos",
           "Invulnerable Save",
           "Daemon Engine (Slaanesh)"
         ],
-        "notes": "May step over units and pieces of terrain that that are lower than the unit’s knees and less than 2cm wide.",
+        "notes": "May step over units und pieces of terrain that that are lower than the unit’s knees und less than 2cm wide.",
         "crit": "The Subjugator takes a point of damage."
       },
       {
@@ -883,8 +883,8 @@
           "Daemon Engine (Nurgle)",
           "Transport"
         ],
-        "notes": "May transport fourteen infantry units. Big Mutants, Chaos Spawns, Terminators, Daemon Princes, Blight Drones and Chaos Dreadnoughts count as two units each.",
-        "crit": "The Plague Tower takes an additional point of damage. 1D3 random units carried inside takes a hit."
+        "notes": "May transport fourteen Infanterie units. Big Mutants, Chaos Spawns, Terminators, Daemon Princes, Blight Drones und Chaos Dreadnoughts count as zwei units jeweils.",
+        "crit": "The Plague Tower takes einen zusätzlichen point of damage. 1D3 random units carried inside takes a hit."
       },
       {
         "name": "Slaughterfiend",
@@ -1021,7 +1021,7 @@
           "Invulnerable Save",
           "Daemon Engine (Khorne)"
         ],
-        "crit": "The Lord of Battles takes one additional damage."
+        "crit": "The Lord of Battles takes eine additional damage."
       },
       {
         "name": "Tower of Skulls",
@@ -1042,7 +1042,7 @@
           "Regeneration",
           "Daemon Engine (Khorne)"
         ],
-        "crit": "The Tower of Skulls takes an additional damage."
+        "crit": "The Tower of Skulls takes einen zusätzlichen damage."
       },
       {
         "name": "Deciever",
@@ -1124,7 +1124,7 @@
           "Invulnerable Save",
           "Daemon Engine (Tzeentch)"
         ],
-        "crit": "The runes that bind the imprisoned daemon are broken, and the Mirrorfiend is destroyed. All models within 5cm take a hit on 4+."
+        "crit": "The runes that bind the imprisoned daemon are broken, und the Mirrorfiend is destroyed. All models within 5cm take a hit on 4+."
       },
       {
         "name": "Warp Palace",
@@ -1146,7 +1146,7 @@
           "Daemon Engine (Tzeentch)",
           "Regeneration"
         ],
-        "crit": "The Warp Palace takes one additional damage. Any units within 5cm takes an additional hit with MW on 6+."
+        "crit": "The Warp Palace takes eine additional damage. Any units within 5cm takes einen zusätzlichen hit with MW on 6+."
       }
     ]
   }

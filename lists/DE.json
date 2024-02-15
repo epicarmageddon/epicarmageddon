@@ -266,7 +266,7 @@
           "Transport",
           "Wind-Swift"
         ],
-        "notes": "May carry one unit of Warriors, Incubi, Haemonculi, Wracks or Wyches"
+        "notes": "May carry eine unit of Warriors, Incubi, Haemonculi, Wracks oder Wyches"
       },
       {
         "name": "Raider",
@@ -283,7 +283,7 @@
           "Transport",
           "Wind-Swift"
         ],
-        "notes": "May carry two units of Warriors, Incubi, Haemonculi, Wracks or Wyches."
+        "notes": "May carry zwei units of Warriors, Incubi, Haemonculi, Wracks oder Wyches."
       },
       {
         "name": "Ravager",
@@ -331,7 +331,7 @@
           "Wind-Swift",
           "Transport"
         ],
-        "notes": "May carry two units of Warriors, Incubi, Haemonculi, Wracks or Wyches. Grotesques counts as two units each."
+        "notes": "May carry zwei units of Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei units jeweils."
       },
       {
         "name": "Barge of Pleasure",
@@ -352,8 +352,8 @@
             "Transport",
             "Wind-Swift"
         ],
-        "notes": "May carry six units of Warriors, Incubi, Haemonculi, Wracks or Wyches. Grotesques counts as two units each. May only Transport units from its own formation.",
-        "crit": "The Barge takes an additional damage. 1D3 random units inside takes a hit."
+        "notes": "May carry sechs units of Warriors, Incubi, Haemonculi, Wracks oder Wyches. Grotesques counts as zwei units jeweils. May only Transport units from its own formation.",
+        "crit": "The Barge takes einen zusätzlichen damage. 1D3 random units inside takes a hit."
       },
       {
         "name": "Vessel of Pain",
@@ -394,7 +394,7 @@
           "Reinforced Armour",
           "Geländegängig"
         ],
-        "crit": "The Tormentor Titan takes one additional damage and loses any remaining Shadowfields."
+        "crit": "The Tormentor Titan takes eine additional damage und loses any remaining Shadowfields."
       },
       {
         "name": "Executioner Landing Module",
@@ -416,8 +416,8 @@
           "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport up to ten Infantry units. Grotesques counts as two units each. In addition it may carry up to five Light Vehicles or Armoured Vehicles, or up to one Vessel of Pain or Barge of Pleasure.",
-        "crit": "The Executioner takes an additional damage. D3 random units inside takes a hit."
+        "notes": "May transport bis zu ten Infanterie units. Grotesques counts as zwei units jeweils. In addition it may carry bis zu fünf Light Vehicles oder Armoured Vehicles, oder bis zu eine Vessel of Pain oder Barge of Pleasure.",
+        "crit": "The Executioner takes einen zusätzlichen damage. D3 random units inside takes a hit."
       }
     ]
   }

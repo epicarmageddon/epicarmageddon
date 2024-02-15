@@ -3,11 +3,11 @@
   "army": "Kabal of the Wraithkind",
   "version": "1.0.Beta",
   "release": "2023-03-08",
-  "strategy": "Dark Eldar armies have a Strategy Rating of 4.",
-  "Initiative": "Wraithkind Kabals, Harlequins, and Tormentor Titan formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Dark Eldar Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Wraithkind Kabals, Harlequins, und Tormentor Titan Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Fleet of Foot",
-    "Hit and Run",
+    "Hit und Run",
     "Wraithkind Coterie",
     "May not Garrison (Wraithkind)",
     "Webway Portal",
@@ -79,7 +79,7 @@
       "formations": [
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Dark Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way.",
+          "units": "Ersetze eine objective marker in the Dark Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way.",
           "extraUnits": [
           ],
             "points": 50
@@ -88,13 +88,13 @@
     },
     {
       "name": "Wraithkind Kabals",
-      "description": "The army must contain one Black Heart Coterie",
+      "description": "The army must contain eine Black Heart Coterie",
       "formations": [
         {
           "name": "1 Wraithkind Coterie",
-          "units": "One Arcon in a unit of Incubi, three Incubi",
+          "units": "Ein Arcon in a unit of Incubi, drei Incubi",
           "extraUnits": [
-            "Add two Incubi: 75 points",
+            "Füge zwei Incubi: 75 Punkte",
             "Warriors",
             "Ravagers",
             "Portable Webway Portal",
@@ -104,7 +104,7 @@
         },
         {
           "name": "Wraithkind Flotilla",
-          "units": "Four Reapers",
+          "units": "Vier Reapers",
           "extraUnits": [
             "Ravagers"
           ],
@@ -112,7 +112,7 @@
         },
         {
           "name": "Wraithkind Syndicate",
-          "units": "One Dracon, six Dark Eldar Warriors",
+          "units": "Ein Dracon, sechs Dark Eldar Warriors",
           "extraUnits": [
             "Warriors",
             "Ravagers",
@@ -125,21 +125,21 @@
     },
     {
       "name": "Wraithkind Partisans",
-      "description": "Up to one Wraithkind Partisans for each Wraithkind Kabal",
+      "description": " Bis zu eine Wraithkind Partisans für jeweils Wraithkind Kabal",
       "formations": [
           {
             "name": "Mandrake Throng",
-            "units": "Four Mandrakes",
+            "units": "Vier Mandrakes",
             "extraUnits": [
-                "Add up to two Mandrakes: 25 points each"
+                "Füge bis zu zwei Mandrakes: 25 Punkte jeweils"
             ],
             "points": 125
           },
           {
             "name": "Haemonculi Coven",
-            "units": "Haemonculus Ancient, two Haemonculi and four Wracks",
+            "units": "Haemonculus Ancient, zwei Haemonculi und vier Wracks",
             "extraUnits": [
-              "Add up to two Grotesques: 25 points each",
+              "Füge bis zu zwei Grotesques: 25 Punkte jeweils",
               "Portable Webway",
               "Talos",
               "Wraithkind Transport"
@@ -148,7 +148,7 @@
           },
           {
             "name": "Talos Swarm",
-            "units": "Four Talos",
+            "units": "Vier Talos",
             "extraUnits": [
               "Talos"
             ],
@@ -156,7 +156,7 @@
           },
         {
           "name": "Scourge Flight",
-          "units": "Six Scourges",
+          "units": "Sechs Scourges",
           "extraUnits": [
           ],
           "points": 250
@@ -165,23 +165,23 @@
     },
     {
       "name": "Harlequins",
-      "description": "Up to one Harlequin formation for each Wraithkind Kabal, and up to one Harlequin Support for each Harlequin Masque",
+      "description": " Bis zu eine Harlequin formation für jeweils Wraithkind Kabal, und bis zu eine Harlequin Support für jeweils Harlequin Masque",
       "formations": [
         {
           "name": "Harlequin Masque",
-          "units": "One Shadowseer, three Harlequin Troupes, one Death Jesters, four Starweavers",
+          "units": "Ein Shadowseer, drei Harlequin Troupes, eine Death Jesters, vier Starweavers",
           "extraUnits": [
-              "Replace four Starweavers with two Harlequin Troupe and one Death Jesters: Free",
-             "Add up to three Skyweaver Jetbikes: 25 points each",
-             "(0-1 in the army) Add one Solitaire to a Harlequin Troupe: 50 points"
+              "Ersetze vier Starweavers with zwei Harlequin Troupe und eine Death Jesters: Free",
+             "Füge bis zu drei Skyweaver Jetbikes: 25 Punkte jeweils",
+             "(0-1 in the army) Füge eine Solitaire to a Harlequin Troupe: 50 Punkte"
           ],
           "points": 275
       },
         {
           "name": "Harlequin Support",
-          "units": "Four Voidweavers",
+          "units": "Vier Voidweavers",
           "extraUnits": [
-             "Add up to three Skyweaver Jetbikes: 25 points each"
+             "Füge bis zu drei Skyweaver Jetbikes: 25 Punkte jeweils"
           ],
           "points": 250
         }
@@ -189,39 +189,39 @@
     },
     {
       "name": "Commorragh Navy & War Engines",
-      "description": "Up to a third of the points available may be spent on Commorragh Navy and War Engine formations",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Commorragh Navy und War Engine formations",
         "formations": [
             {
                 "name": "Vessel of Pain",
-                "units": "One Vessel of Pain",
+                "units": "Ein Vessel of Pain",
                 "extraUnits": [
                 ],
                 "points": 250
             },
             {
                 "name": "Tormentor",
-                "units": "One Tormentor Titan",
+                "units": "Ein Tormentor Titan",
                 "extraUnits": [
                 ],
                 "points": 350
             },
             {
                 "name": "Razorwing Cast",
-                "units": "Two Razorwing Interceptors",
+                "units": "Zwei Razorwing Interceptors",
                 "extraUnits": [
                 ],
                 "points": 200
             },
             {
                 "name": "Voidraven Cast",
-                "units": "Two Voidraven Interdictors",
+                "units": "Zwei Voidraven Interdictors",
                 "extraUnits": [
                 ],
                 "points": 225
             },
             {
                 "name": "0-1 Orbital Support",
-                "units": "One Torture Class Cruiser",
+                "units": "Ein Torture Class Cruiser",
                 "extraUnits": [
                 ],
                 "points": 250
@@ -229,40 +229,40 @@
         ]
     }
   ],
-  "upgrades": {
-    "title": "Wraithkind Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Wraithkind Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "Warriors",
-        "description": "Add two Dark Eldar Warriors.",
-        "points": "50 points"
+        "description": "Füge zwei Dark Eldar Warriors.",
+        "points": "50 Punkte"
       },
       {
         "name": "Ravagers",
-        "description": "Add up to two Dark Eldar Ravagers.",
-        "points": "50 points each"
+        "description": "Füge bis zu zwei Dark Eldar Ravagers.",
+        "points": "50 Punkte jeweils"
       },
       {
         "name": "Talos",
-        "description": "Add up to two Talos",
+        "description": "Füge bis zu zwei Talos",
         "points": [
-          "50 points for one",
-          "75 points for two"
+          "50 Punkte für eine",
+          "75 Punkte für zwei"
         ]
       },
       {
         "name": "(0-1 in the army) Portable Webway",
-        "description": "Add a Portable Webway Portal to an Archon, Dracon, or Haemonculus Ancient character. This Portable Webway may be used once in a game. After the character's formation (or the formation carrying it) completes an action you may place a small barrage template marker completely within 15cm of the character's unit (or the unit carrying it) and outside any enemy zones of control. This marker counts as a Webway Portal which may not be attacked or damaged in any way. Remove this Webway Portal marker in the End Phase of the turn before any rallying.",
-        "points": "50 points"
+        "description": "Füge a Portable Webway Portal to an Archon, Dracon, oder Haemonculus Ancient character. This Portable Webway may be used once in a game. After the character's formation (oder the formation carrying it) completes an action you may place a small barrage template marker completely within 15cm of the character's unit (oder the unit carrying it) und outside any enemy zones of control. This marker counts as a Webway Portal which may not be attacked oder damaged in any way. Remove this Webway Portal marker in the End Phase of the turn before any rallying.",
+        "points": "50 Punkte"
       },
       {
         "name": "Wraithkind Transport",
         "description": "Any combination of transport options may be taken to transport a formation, as long as no vehicle has an empty transport slot if possible. Not all units in a formation require a transport vehicle. Transport options selected may only transport units from the same formation.",
         "points": [
           "Raiders: Free",
-          "Tantalus: 25 points",
-          "0-1 Barge of Pleasure: 125 points"
+          "Tantalus: 25 Punkte",
+          "0-1 Barge of Pleasure: 125 Punkte"
         ]
         }
     ]

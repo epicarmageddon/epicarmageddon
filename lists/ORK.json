@@ -14,7 +14,7 @@
         "specialRules": [
           "Oberbefehlshaber"
         ],
-        "notes": "Has 'Ore Dakka if added to a WE unit, or Power Claw if added to an INF unit"
+        "notes": "Has 'Ore Dakka if added to a WE unit, oder Power Claw if added to an INF unit"
       },
       {
         "name": "Mekboy Bad Ork Bikerboy",
@@ -51,7 +51,7 @@
           "D3+1 Power Fields|0-1|"
         ],
         "specialRules": [
-          "Replace one Big Gun weapon with either a Supa-Zzap-Gun or a Soopagun, alternatively the unit may be given D3+1 power fields"
+          "Ersetze eine Big Gun weapon with either a Supa-Zzap-Gun oder a Soopagun, alternatively the unit may be given D3+1 power fields"
         ]
       },
       {
@@ -64,7 +64,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Replace one Big Gun weapon with either a Soopagun or Weirdboy Tower. Alternatively the unit may be given [*] D3+1 power fields"
+        "notes": "Ersetze eine Big Gun weapon with either a Soopagun oder Weirdboy Tower. Alternatively the unit may be given [*] D3+1 power fields"
       },
       {
         "name": "Speed Freek Oddboy",
@@ -75,7 +75,7 @@
           "Deff-Rolla & Fresh Paint Job|0-1|"
         ],
         "specialRules": [
-          "The unit either replaces a Big Gun with a Lifta Droppa, or [*] adds D3+1 Power Fields, or [**] is equipped with a Deff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
+          "The unit either replaces a Big Gun mit einemLifta Droppa, oder [*] adds D3+1 Power Fields, oder [**] is equipped mit einemDeff-Rolla (Geländegängig) & Fresh Paint Job (Speed +10cm)"
         ]
       },
       {
@@ -118,7 +118,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Grot-Shootas and Knives"
+          "Grot-Shootas und Knives"
         ],
         "specialRules": [
           "Super-Entbehrlich",
@@ -286,7 +286,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "One unit of Kommandos. Units may Shoot and Firefight while being transported"
+        "notes": "Ein unit of Kommandos. Units may Shoot und Firefight while being transported"
       },
       {
         "name": "Warbuggy",
@@ -326,7 +326,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz or Nobz. Units may Shoot and Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "Ein unit of Boyz oder Nobz. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
       },
       {
         "name": "Mekboy Speedsta",
@@ -356,7 +356,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "Two units of Boyz, Nobz, Flash Gitz, Kommandos or Grotz. Big Gunz takes two spaces each. May carry one unit of Grotz in addition to any other units transported"
+        "notes": "Zwei units of Boyz, Nobz, Flash Gitz, Kommandos oder Grotz. Big Gunz takes zwei spaces jeweils. May carry eine unit of Grotz in addition to any other units transported"
       },
       {
         "name": "Gunwagon",
@@ -371,7 +371,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Flash Gitz, Kommandos or Grotz"
+        "notes": "Ein unit of Boyz, Nobz, Flash Gitz, Kommandos oder Grotz"
       },
       {
         "name": "Speed Freek Gunwagon",
@@ -386,7 +386,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Kommandos or Grotz"
+        "notes": "Ein unit of Boyz, Nobz, Kommandos oder Grotz"
       },
       {
         "name": "Looted Leman Russ/Land Raider",
@@ -402,7 +402,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Kommandos or Grotz"
+        "notes": "Ein unit of Boyz, Nobz, Kommandos oder Grotz"
       },
       {
         "name": "Looted Vindicator/Thunderer",
@@ -444,7 +444,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Flash Gitz, Kommandos or Grotz"
+        "notes": "Ein unit of Boyz, Nobz, Flash Gitz, Kommandos oder Grotz"
       },
       {
         "name": "Speed Freek Flakwagon",
@@ -459,7 +459,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Kommandos or Grotz"
+        "notes": "Ein unit of Boyz, Nobz, Kommandos oder Grotz"
       },
       {
         "name": "Looted Hydra/Stalker",
@@ -474,7 +474,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "One unit of Boyz, Nobz, Kommandos or Grotz"
+        "notes": "Ein unit of Boyz, Nobz, Kommandos oder Grotz"
       },
       {
         "name": "Killa Kan",
@@ -541,7 +541,7 @@
           "Geländegängig",
           "‘Ere we Go"
         ],
-        "notes": "Armed with either three Big Gunz, or two Big Guns and a Kombat 'Ammer"
+        "notes": "Armed with either drei Big Gunz, oder zwei Big Guns und a Kombat 'Ammer"
       },
       {
         "name": "Battlefortress",
@@ -558,7 +558,7 @@
           "Damage Capacity 3",
           "Transport"
         ],
-        "notes": "Eight Boyz, Flash Gitz, Nobz, Kommandos, Grotz. Big Gunz takes two spaces each. May carry four units of Grotz in addition to any other units transported.",
+        "notes": "Acht Boyz, Flash Gitz, Nobz, Kommandos, Grotz. Big Gunz takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported.",
         "crit": "The Battlefortress is destroyed, all units being carried are killed unless roll they a 6+."
       },
       {
@@ -576,7 +576,7 @@
           "Damage Capacity 3",
           "Transport"
         ],
-        "notes": "Four Boyz, Nobz, Flash Gitz, Kommandos, Grotz. Big Gunz takes two spaces each. May carry two units of Grotz in addition to any other units transported.",
+        "notes": "Vier Boyz, Nobz, Flash Gitz, Kommandos, Grotz. Big Gunz takes zwei spaces jeweils. May carry zwei units of Grotz in addition to any other units transported.",
         "crit": "The Gunfortress is destroyed, all units being carried are killed unless roll they a 6+."
       },
       {
@@ -631,7 +631,7 @@
           "Reinforced Armour",
           "Geländegängig"
         ],
-        "crit": "The Supa-Stompa's head is blown off, and it suffers a -1 to-hit modifier to all shooting for the rest of the game. Subsequent crits cause an additional damage instead."
+        "crit": "The Supa-Stompa's head is blown off, und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
       },
       {
         "name": "Supa-Stompa ",
@@ -658,7 +658,7 @@
           "Reinforced Armour",
           "Geländegängig"
         ],
-        "crit": "The Supa-Stompa's head is blown off, and it suffers a -1 to-hit modifier to all shooting for the rest of the game. Subsequent crits cause an additional damage instead."
+        "crit": "The Supa-Stompa's head is blown off, und it suffers a -1 to-hit modifier to all shooting für the rest of the game. Subsequent crits cause einen zusätzlichen damage instead."
       },
       {
         "name": "Gargant",
@@ -678,9 +678,9 @@
           "Furchtlos",
           "Reinforced Armour",
           "Geländegängig",
-          "Armed with either three Soopaguns or two Soopaguns and either Supa-Zzap-Gun or a Mega-Choppa"
+          "Armed with either drei Soopaguns oder zwei Soopaguns und either Supa-Zzap-Gun oder a Mega-Choppa"
         ],
-        "crit": "The Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "The Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Gargant ",
@@ -711,7 +711,7 @@
           "Reinforced Armour",
           "Geländegängig"
         ],
-        "crit": "The Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "The Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Great Gargant",
@@ -730,14 +730,14 @@
         "specialRules": [
           "Damage Capacity 10",
           "Power Fields 1D3+6",
-          "God Machine",
-          "Split Fire",
+          "Gottgleiche Maschine",
+          "Feuer aufteilen",
           "Furchtlos",
           "Reinforced Armour",
           "Geländegängig",
-          "Armed with either two Synchronisierter Soopaguns or one Synchronisierter Soopagun and a Lifta-Droppa"
+          "Armed with either zwei Synchronisierter Soopaguns oder eine Synchronisierter Soopagun und a Lifta-Droppa"
         ],
-        "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "The Great Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Great Gargant ",
@@ -765,13 +765,13 @@
         "specialRules": [
           "Damage Capacity 10",
           "Power Fields 1D3+6",
-          "God Machine",
-          "Split Fire",
+          "Gottgleiche Maschine",
+          "Feuer aufteilen",
           "Furchtlos",
           "Reinforced Armour",
           "Geländegängig"
         ],
-        "crit": "The Great Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "The Great Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Mega Gargant",
@@ -785,19 +785,19 @@
           "Weirdboy Tower",
           "2x Grot-Guided Rakete||FwA",
           "Synchronisierter Supa-Zzap-Gun||FwA",
-          "Soopagunz Belly Battery||FxF",
+          "Soopagunz Belly Batterie||FxF",
           "Kombat Arms"
         ],
         "specialRules": [
           "Damage Capacity 13",
           "Power Fields 1D3+9",
-          "God Machine",
-          "Split Fire",
+          "Gottgleiche Maschine",
+          "Feuer aufteilen",
           "Geländegängig",
           "Furchtlos",
           "Reinforced Armour"
         ],
-        "crit": "The Mega Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "The Mega Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       },
       {
         "name": "Fighta-Bommer",
@@ -879,8 +879,8 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "Ten Killa Kans, Warbikes, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Big Gunz, Warbuggies, Skorchas, Deff Dreads takes two spaces each. May carry four units of Grotz in addition to any other units transported",
-        "crit": "The Landa and all units being transported are destroyed."
+        "notes": "Ten Killa Kans, Warbikes, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Big Gunz, Warbuggies, Skorchas, Deff Dreads takes zwei spaces jeweils. May carry vier units of Grotz in addition to any other units transported",
+        "crit": "The Landa und all units being transported are destroyed."
       },
       {
         "name": "Drop Rok",
@@ -898,8 +898,8 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "Ten Killa Kans, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Deff Dreads and Mega Dreads takes two spaces each. [*] Must start the game loaded into a Blood Axes Kill Kroozer or Battlekroozer. May only enter the game through Planetfall",
-        "crit": "The Drop Rok and all units being transported are destroyed"
+        "notes": "Ten Killa Kans, Boyz, Nobz, Kommandos, Stormboyz, Grotz. Deff Dreads und Mega Dreads takes zwei spaces jeweils. [*] Must start the game loaded into a Blood Axes Kill Kroozer oder Battlekroozer. May only enter the game through Planetfall",
+        "crit": "The Drop Rok und all units being transported are destroyed"
       },
       {
         "name": "Kill Kroozer",
@@ -931,7 +931,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport one Drop Rok and the units carried on it"
+        "notes": "May transport eine Drop Rok und the units carried on it"
       },
       {
         "name": "Battlekroozer",
@@ -948,7 +948,7 @@
         ],
         "specialRules": [
           "Slow to arrive (may only arrive from turn 2 onwards)",
-          "Transport: May transport 12 Landas and the units carried on them"
+          "Transport: May transport 12 Landas und the units carried on them"
         ]
       },
       {
@@ -967,7 +967,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport four Drop Roks and the units carried on them"
+        "notes": "May transport vier Drop Roks und the units carried on them"
       },
 
       {
@@ -1113,7 +1113,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry one unit of Junkas or Nobs. Units may Shoot and Firefight while being transported, unless an enemy model is in base contact with the transport."
+        "notes": "May carry eine unit of Junkas oder Nobs. Units may Shoot und Firefight while being transported, unless an enemy model is in base contact with the transport."
       },
       {
         "name": "Squiggoth",
@@ -1125,14 +1125,14 @@
         "weapons": [
           "Big Gun",
           "Synchronisierter Big Shoota|2|",
-          "Teeth and Horns"
+          "Teeth und Horns"
         ],
         "specialRules": [
           "‘Ere we Go",
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry up to four of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to two Grotz in addition to any other units"
+        "notes": "May carry bis zu vier of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry bis zu zwei Grotz in addition to any other units"
       },
       {
         "name": "Squiggoth Supa-Lobba",
@@ -1143,7 +1143,7 @@
         "ff": 5,
         "weapons": [
           "Supa-Lobba",
-          "Teeth and Horns"
+          "Teeth und Horns"
         ],
         "specialRules": [
           "‘Ere we Go",
@@ -1160,7 +1160,7 @@
         "weapons": [
           "Flak Gun",
           "Synchronisierter Big Shoota|2|",
-          "Teeth and Horns"
+          "Teeth und Horns"
         ],
         "specialRules": [
           "‘Ere we Go",
@@ -1176,7 +1176,7 @@
         "ff": 5,
         "weapons": [
           "Synchronisierter Big Shoota|3|",
-          "Zähne and Horns",
+          "Zähne und Horns",
           "Supa-Lobba"
         ],
         "specialRules": [
@@ -1184,7 +1184,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry up to eight of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to four Grotz in addition to any other units.",
+        "notes": "May carry bis zu acht of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry bis zu vier Grotz in addition to any other units.",
         "crit": "The Gargantuan Squiggoth is killed."
       },
       {
@@ -1205,8 +1205,8 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry up to sixteen of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry up to six Grotz in addition to any other units.",
-        "crit": "The Orkeosaurus takes one additional damage, and D3 random units being transported takes a hit."
+        "notes": "May carry bis zu sixteen of the following units: Huntas, Brutes, Squig Katapult, Wildboyz. May carry bis zu sechs Grotz in addition to any other units.",
+        "crit": "The Orkeosaurus takes eine additional damage, und D3 random units being transported takes a hit."
       },
       {
         "name": "Steam Gargant",
@@ -1224,7 +1224,7 @@
           "Furchtlos",
           "Reinforced Armour"
         ],
-        "crit": "The Steam Gargant catches fire. Roll 1D6 for each fire burning on the unit in the End Phase of each turn. 1: An additional fire starts. 5-6: The fire is put out. Each roll of 1-4 cause 1 point of damage."
+        "crit": "The Steam Gargant catches fire. Roll 1D6 für jeweils fire burning on the unit in the End Phase of jeweils turn. 1: An additional fire starts. 5-6: The fire is put out. Jeweils roll of 1-4 cause 1 point of damage."
       }
     ]
   }

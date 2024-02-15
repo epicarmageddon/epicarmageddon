@@ -1,33 +1,33 @@
 {
 	"id":"EA-R Squats - Wodanaz Stronghold",
 	"version":"Approved 1.0.Beta",
-	"notes":["No more transports than needed to carry the formation with no space left over.", "Leviathans and Hellbores may transport 12 units, and may only be taken if the transported formation fits inside. Squat Warlords and Grand Warlords counts as two units each.", "Hellbores are bought separately from their transported formation."],
+	"notes":["No more transports than needed to carry the formation with no space left over.", "Leviathans und Hellbores may transport 12 units, und may only be taken if the transported formation fits inside. Squat Warlords und Grand Warlords counts as zwei units jeweils.", "Hellbores are bought separately from their transported formation."],
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"WODANAZ STRONGHOLD BROTHERHOODS", "formations":[
-			{"id":501, "name":"Warrior Brotherhood",	"pts":200,  "upgrades":[140,141,142,143,144,145,100,101]},
-			{"id":509, "name":"Berserker Brotherhood",	"pts":200, "units":"Squat Hearthguards, 7 Squat Berserkers", "upgrades":[]}
+			{"id":501, "name":"Warrior Brotherhood",	"pts":200,  "Erweiterungen":[140,141,142,143,144,145,100,101]},
+			{"id":509, "name":"Berserker Brotherhood",	"pts":200, "units":"Squat Hearthguards, 7 Squat Berserkers", "Erweiterungen":[]}
 		]},
-		{"name":"WODANAZ STRONGHOLD SUPPORT <br/> Max 2 for each Brotherhood", "formations":[
-			{"id":517, "name":"Thunderfire Battery",		"pts":150,  "units":"3 Squat Thunderfires",  "upgrades":[117]},
-			{"id":514, "name":"Sentry Battery",					"pts":175, "upgrades":[]},
-			{"id":510, "name":"Bikers",			"pts":175, "upgrades":[116]},
-			{"id":516, "name":"Kastelan Maniple",		"pts":50,  "units":"Squat Tech-Priest", "upgrades":[124]},
-			{"id":513, "name":"Thunderers",		"pts":175,  "units":"4 Squat Thunderers", "upgrades":[]},
-			{"id":515, "name":"Light Artillery Battery",		"pts":200, "upgrades":[]},
-			{"id":511, "name":"Gyrokopter Squadron",		"pts":250, "units":"4 Iron Eagle Gyrokopters", "upgrades":[]}
+		{"name":"WODANAZ STRONGHOLD SUPPORT <br/> Max 2 für jeweils Brotherhood", "formations":[
+			{"id":517, "name":"Thunderfire Batterie",		"pts":150,  "units":"3 Squat Thunderfires",  "Erweiterungen":[117]},
+			{"id":514, "name":"Sentry Batterie",					"pts":175, "Erweiterungen":[]},
+			{"id":510, "name":"Bikers",			"pts":175, "Erweiterungen":[116]},
+			{"id":516, "name":"Kastelan Maniple",		"pts":50,  "units":"Squat Tech-Priest", "Erweiterungen":[124]},
+			{"id":513, "name":"Thunderers",		"pts":175,  "units":"4 Squat Thunderers", "Erweiterungen":[]},
+			{"id":515, "name":"Light Artillerie Batterie",		"pts":200, "Erweiterungen":[]},
+			{"id":511, "name":"Gyrokopter Schwadron",		"pts":250, "units":"4 Iron Eagle Gyrokopters", "Erweiterungen":[]}
 		]},
 
-		{"name":"WODANAZ STRONGHOLD WAR ENGINES <br/> Max 33% <br/> Max 1 Hellbore for each Warrior Brotherhood formation with the 'Hellbore Transport' upgrade", "formations":[
-			{"id":521, "name":"Hellbore",			"pts":150, "upgrades":[111]},
-			{"id":512, "name":"Overlord",			"pts":250, "upgrades":[111]},
-		    {"id":520, "name":"Goliath Battery",		"pts":350, "units":"2 Goliath Mega Cannons", "upgrades":[]},
-			{"id":525, "name":"Land Train",			"pts":200, "units":"Land Train Engine", "upgrades":[111, 120,121,122,123]},
-			{"id":524, "name":"Cyclops",			"pts":425, "upgrades":[111]},
-			{"id":523, "name":"Colossus",			"pts":450, "upgrades":[111]}
+		{"name":"WODANAZ STRONGHOLD WAR ENGINES <br/> Max 33% <br/> Max 1 Hellbore für jeweils Warrior Brotherhood formation with the 'Hellbore Transport' upgrade", "formations":[
+			{"id":521, "name":"Hellbore",			"pts":150, "Erweiterungen":[111]},
+			{"id":512, "name":"Overlord",			"pts":250, "Erweiterungen":[111]},
+		    {"id":520, "name":"Goliath Batterie",		"pts":350, "units":"2 Goliath Mega Cannons", "Erweiterungen":[]},
+			{"id":525, "name":"Land Train",			"pts":200, "units":"Land Train Engine", "Erweiterungen":[111, 120,121,122,123]},
+			{"id":524, "name":"Cyclops",			"pts":425, "Erweiterungen":[111]},
+			{"id":523, "name":"Colossus",			"pts":450, "Erweiterungen":[111]}
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":100, "name":"Squat Warlord",						"pts":50},
 		{"id":101, "name":"Squat Grand Warlord",					"pts":100},
 
@@ -77,7 +77,7 @@
 
 		],
 	"formationConstraints":[
-		{"max":2, "name":"Wodanaz Stronghold Support Formations", "from":[510,511,513,514,515,516,517], "forEach":[501,509], "name2":"Brotherhood"},
+		{"max":2, "name":"Wodanaz Stronghold Unterstützungsverbände", "from":[510,511,513,514,515,516,517], "forEach":[501,509], "name2":"Brotherhood"},
 		{"max":1, "name":"Hellbore", "from":[521], "forEach":[501], "name2":"Brotherhood"},
 		{"maxPercent":33.5, "name":"Wodanaz Stronghold War Engines", "from":[512,520,521,522,523,524,525,526]}
 	],

@@ -3,13 +3,13 @@
   "army": "Craftworld Saim-Hann",
   "version": "Alpha 0.8.4",
   "release": "2022-04-01",
-  "strategy": "Craftworld Saim-Hann armies have a Strategy Rating of 4.",
-  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans, and the Avatar formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Craftworld Saim-Hann Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Shining Spears, Aspect Warriors, Crimson Hunters, Titans, und the Avatar Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Avatar (Saim-Hann)",
     "May not Garrison (Saim-Hann)",
     "Farsight",
-    "Hit and Run",
+    "Hit und Run",
     "Webway Portal",
     "Independent Twins"
   ],
@@ -73,35 +73,35 @@
       "formations": [
         {
           "name": "1 Avatar",
-          "units": "One Avatar",
+          "units": "Ein Avatar",
           "points": 0
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 50
         }
       ]
     },
     {
       "name": "Saim-Hann Warhosts",
-      "description": "Up to one Aspect Warrior Host for each Wild Rider Warhost",
+      "description": " Bis zu eine Aspect Warrior Host für jeweils Wild Rider Warhost",
       "formations": [
         {
           "name": "Wild Rider Warhost",
           "units": "Nine Saim-Hann Wild Riders",
           "extraUnits": [
-            "Replace any number of Wild Riders with Saim-Hann Vypers: Free",
-            "Replace one unit of Wild Riders with a Beritten Farseer: 25 points",
-            "(0-1 per army) Replace one unit of Wild Riders with a Wild Rider Chieftain: 50 points"
+            "Ersetze any number of Wild Riders with Saim-Hann Vypers: Free",
+            "Ersetze eine unit of Wild Riders mit einemBeritten Farseer: 25 Punkte",
+            "(0-1 pro army) Ersetze eine unit of Wild Riders mit einemWild Rider Chieftain: 50 Punkte"
           ],
           "points": 300
         },
         {
           "name": "Aspect Warrior Host",
-          "units": "Eight Shining Spears and/or Swooping Hawks",
+          "units": "Acht Shining Spears und/oder Swooping Hawks",
           "extraUnits": [
-            "Add up to two Exarchs: 25 points each"
+            "Füge bis zu zwei Exarchs: 25 Punkte jeweils"
           ],
           "points": 300
         }
@@ -109,11 +109,11 @@
     },
     {
       "name": "Saim-Hann Troupes",
-      "description": "Up to three for each Saim-Hann Warhost taken",
+      "description": " Bis zu drei für jeweils Saim-Hann Warhost taken",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
-          "units": "Three Wave Serpents and six Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
+          "units": "Drei Wave Serpents und sechs Aspect Warriors chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions",
           "extraUnits": [
             "Exarch"
           ],
@@ -121,60 +121,60 @@
         },
         {
           "name": "Beritten Guardian Troupe",
-          "units": "Three Wave Serpents, six Guardians",
+          "units": "Drei Wave Serpents, sechs Guardians",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Engines of Vaul",
-          "units": "One Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
-            "Add up to two Cobra, Scorpion and/or Storm Serpent: 200 points each"
+            "Füge bis zu zwei Cobra, Scorpion und/oder Storm Serpent: 200 Punkte jeweils"
           ],
           "points": 250
         },
         {
           "name": "Swords of Vaul",
-          "units": "Five Falcons",
+          "units": "Fünf Falcons",
           "extraUnits": [
-            "Replace up to two Falcons with Firestorms: Free",
-            "Add five Guardians to the formation: 75 points"
+            "Ersetze bis zu zwei Falcons with Firestorms: Free",
+            "Füge fünf Guardians to the formation: 75 Punkte"
           ],
           "points": 250
         },
         {
           "name": "Fire Prism Troupe",
-          "units": "Three Fire Prisms",
+          "units": "Drei Fire Prisms",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Fire Spinner Troupe",
-          "units": "Three Night Spinners, one Firestorm",
+          "units": "Drei Night Spinners, eine Firestorm",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Void Spinner",
-          "units": "One Void Spinner",
+          "units": "Ein Void Spinner",
           "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Hornet Troupe",
-          "units": "Four Saim-Hann Hornets",
+          "units": "Vier Saim-Hann Hornets",
           "extraUnits": [
-            "Add up to two Saim-Hann Hornets: 50 points each"
+            "Füge bis zu zwei Saim-Hann Hornets: 50 Punkte jeweils"
           ],
           "points": 200
         },
         {
           "name": "War Walker Troupe",
-          "units": "Six War Walkers",
+          "units": "Sechs War Walkers",
           "extraUnits": [
           ],
           "points": 200
@@ -182,33 +182,33 @@
       ]
     },
     {
-      "name": "Saim-Hann Aircraft, Spacecraft and Titans",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Saim-Hann Aircraft, Spacecraft und Titans",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Crimson Hunters",
-          "units": "Two Nightshade Interceptors",
+          "units": "Zwei Nightshade Interceptors",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Phoenix Aerie",
-          "units": "Three Phoenix Bombers",
+          "units": "Drei Phoenix Bombers",
           "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Vampire Hunter",
-          "units": "One Vampire Hunter",
+          "units": "Ein Vampire Hunter",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Revenants",
-          "units": "Two Revenant Titans",
+          "units": "Zwei Revenant Titans",
           "extraUnits": [
             "Independent Twins"
           ],
@@ -216,23 +216,23 @@
         },
         {
           "name": "0-1 Spacecraft",
-          "units": "One Wraithship",
+          "units": "Ein Wraithship",
           "extraUnits": [
-            "Replace with a Dragonship: 125 Points"
+            "Ersetze mit einemDragonship: 125 Points"
           ],
           "points": 175
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Saim-Hann Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Saim-Hann Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "Exarch",
-        "description": "Add one Eldar Exarch to a unit of Aspect Warriors",
-        "points": "25 points"
+        "description": "Füge eine Eldar Exarch to a unit of Aspect Warriors",
+        "points": "25 Punkte"
       }
     ]
   }

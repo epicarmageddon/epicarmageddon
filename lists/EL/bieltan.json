@@ -5,13 +5,13 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Eldar_BielTan",
   "intro": "The following army list allows you to field an Eldar army from the Biel-Tan Craftworld.",
-  "strategy": "Biel-Tan Eldar armies have a Strategy Rating of 4.",
-  "Initiative": "Aspect Warrior formations, Titans and the Avatar have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Biel-Tan Eldar Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Aspect Warrior formations, Titans und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Avatar (Biel-Tan)",
     "May not Garrison (Biel-Tan)",
     "Farsight",
-    "Hit and Run",
+    "Hit und Run",
     "Webway Portal"
   ],
   "units": [
@@ -79,34 +79,34 @@
       "formations": [
         {
           "name": "1 Avatar",
-          "units": "One Avatar with a Court of the Young King character",
+          "units": "Ein Avatar mit einemCourt of the Young King character",
           "points": "Free"
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 50
         }
       ]
     },
     {
       "name": "Biel-Tan Warhosts",
-      "description": "Up to one Guardian Warhost may be taken for each Aspect or Beritten Aspect Warhost",
+      "description": " Bis zu eine Guardian Warhost may be taken für jeweils Aspect oder Beritten Aspect Warhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Warhost",
-          "units": "Four Wave Serpents and eight Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions or Swooping Hawks. The formation may not mix aspects.",
+          "units": "Vier Wave Serpents und acht Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions oder Swooping Hawks. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",
             "Exarchs",
-            "Replace any number of Wave Serpents with two Falcons each: 50 points each",
-            "Replace one Wave Serpent with two Firestorms: 50 points"
+            "Ersetze any number of Wave Serpents with zwei Falcons jeweils: 50 Punkte jeweils",
+            "Ersetze eine Wave Serpent with zwei Firestorms: 50 Punkte"
           ],
           "points": 450
         },
         {
           "name": "Aspect Warrior Warhost",
-          "units": "Eight Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks or Warp Spiders. The formation may not mix aspects.",
+          "units": "Acht Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Shining Spears, Striking Scorpions, Swooping Hawks oder Warp Spiders. The formation may not mix aspects.",
           "extraUnits": [
             "Autarch",
             "Exarchs"
@@ -115,13 +115,13 @@
         },
         {
           "name": "Guardian Warhost",
-          "units": "One Farseer unit and seven Guardians",
+          "units": "Ein Farseer unit und sieben Guardians",
           "extraUnits": [
-            "Replace up to three Eldar Guardians with Eldar Heavy Weapon Platforms: Free",
-            "Replace up to three Eldar Guardians with Support Weapons Platforms (all armed with the same weapon): 25 points each",
-            "Add two Eldar Wraithguards: 75 points",
-            "Add up to three Eldar Wraithlords: 50 points each",
-            "Add four Wave Serpents: 150 points (may only be taken if the entire formation can fit inside)"
+            "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms: Free",
+            "Ersetze bis zu drei Eldar Guardians with Support Weapons Platforms (all armed with the same weapon): 25 Punkte jeweils",
+            "Füge zwei Eldar Wraithguards: 75 Punkte",
+            "Füge bis zu drei Eldar Wraithlords: 50 Punkte jeweils",
+            "Füge vier Wave Serpents: 150 Punkte (may only be taken if the entire formation can fit inside)"
           ],
           "points": 150
         }
@@ -129,141 +129,141 @@
     },
     {
       "name": "Biel-Tan Troupes",
-      "description": "Up to three Biel-Tan Troupes may be taken for each Biel-Tan Warhost",
+      "description": " Bis zu drei Biel-Tan Troupes may be taken für jeweils Biel-Tan Warhost",
       "formations": [
           {
             "name": "Rangers",
-            "units": "Four Eldar Rangers",
+            "units": "Vier Eldar Rangers",
             "extraUnits": [
             ],
             "points": 100
           },
           {
             "name": "War Walker Troupe",
-            "units": "Four War Walkers",
+            "units": "Vier War Walkers",
             "extraUnits": [
-                "Add up to two War Walkers: 25 points each"
+                "Füge bis zu zwei War Walkers: 25 Punkte jeweils"
             ],
             "points": 150
           },
         {
           "name": "Wind Rider Troupe ",
-          "units": "Six Jetbike units",
+          "units": "Sechs Jetbike units",
           "extraUnits": [
-            "Replace any number of Eldar Jetbikes with Eldar Vypers: Free"
+            "Ersetze any number of Eldar Jetbikes with Eldar Vypers: Free"
           ],
           "points": 200
         },
         {
           "name": "Swords of Vaul",
-          "units": "Five Falcons",
+          "units": "Fünf Falcons",
           "extraUnits": [
-            "Replace up to two Falcons with Firestorms: Free"
+            "Ersetze bis zu zwei Falcons with Firestorms: Free"
           ],
           "points": 250
         },
         {
           "name": "Fire Prism Troupe",
-          "units": "Three Fire Prisms",
+          "units": "Drei Fire Prisms",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Night Spinner Troupe",
-          "units": "Three Night Spinners",
+          "units": "Drei Night Spinners",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Void Spinner",
-          "units": "One Void Spinner",
+          "units": "Ein Void Spinner",
           "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Engines of Vaul",
-          "units": "One Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
-            "Add up to two additional Engine of Vaul for 200 points each chosen from the following: Cobra, Scorpion, Storm Serpent"
+            "Füge bis zu zwei additional Engine of Vaul für 200 Punkte jeweils chosen from the following: Cobra, Scorpion, Storm Serpent"
           ],
           "points": 250
         }
       ]
     },
     {
-      "name": "Biel-Tan Aircraft, Spacecraft and Titans",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "name": "Biel-Tan Aircraft, Spacecraft und Titans",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {
           "name": "Nightwing Aerie",
-          "units": "Two Nightwing Interceptors",
+          "units": "Zwei Nightwing Interceptors",
           "extraUnits": [
-            "Add one Nightwing Interceptor: 75 Points"
+            "Füge eine Nightwing Interceptor: 75 Points"
           ],
           "points": 225
         },
         {
           "name": "Phoenix Aerie",
-          "units": "Three Phoenix Bombers",
+          "units": "Drei Phoenix Bombers",
           "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Vampire",
-          "units": "One Vampire Raider",
+          "units": "Ein Vampire Raider",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Revenants",
-          "units": "Two Revenant Titans",
+          "units": "Zwei Revenant Titans",
           "extraUnits": [
           ],
           "points": 650
         },
         {
           "name": "Phantom",
-          "units": "One Phantom Titan",
+          "units": "Ein Phantom Titan",
           "extraUnits": [
           ],
           "points": 700
         },
         {
           "name": "0-1 Warlock Titan",
-          "units": "One Warlock Titan",
+          "units": "Ein Warlock Titan",
           "extraUnits": [
           ],
           "points": 850
         },
         {
           "name": "0-1 Spacecraft",
-          "units": "One Wraithship",
+          "units": "Ein Wraithship",
           "extraUnits": [
-            "Replace with a Dragonship: 150 Points"
+            "Ersetze mit einemDragonship: 150 Points"
           ],
           "points": 150
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Biel-Tan Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Biel-Tan Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "0-1 Autarch",
-        "description": "Add one Eldar Autarch character to a unit with an Eldar Exarch character",
-        "points": "50 points"
+        "description": "Füge eine Eldar Autarch character to a unit mit einem Eldar Exarch character",
+        "points": "50 Punkte"
       },
       {
         "name": "Exarchs",
-        "description": "Add up to two Eldar Exarchs",
-        "points": "25 points each"
+        "description": "Füge bis zu zwei Eldar Exarchs",
+        "points": "25 Punkte jeweils"
       }
     ]
   },

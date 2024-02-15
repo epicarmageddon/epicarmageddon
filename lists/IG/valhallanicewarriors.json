@@ -3,10 +3,10 @@
   "army": "Valhallan Ice Warriors",
   "version": "0.6.0",
   "release": "2022-04-01",
-  "strategy": "Valhallan Ice Warrior armies have a Strategy Rating of 2.",
-  "Initiative": "Ministorum Mission formations have an Initiative Rating of 1+. All other formations have a Initiative Rating of 2+.",
+  "strategy": "Valhallan Ice Warrior Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Ministorum Mission Verbände haben eine Initiative von 1+. All other formations have a Initiative Rating of 2+.",
   "specialRules": [
-    "Courage, Discipline and Loyalty",
+    "Mut, Disziplin und Loyalität",
     "Grim Demeanour",
     "Fortified Positions"
   ],
@@ -19,16 +19,16 @@
       "units": [
         "Valhallanischer Oberbefehlshaber",
         "Valhallan Befehlshaber",
-        "Valhallan Infantry",
-        "Fire Support Squad",
-        "Snipers",
+        "Valhallan Infanterie",
+        "Unterstützungstrupp",
+        "Scharfschützen",
         "Hydra",
         "Basilisk",
-        "Manticore",
-        "Hellhound",
-        "Deathstrike",
+        "Mantikor",
+        "Höllenhund",
+        "Todesstoss-Raketensystem",
         "Armoured Sentinel",
-        "Valhallan Griffon",
+        "Valhallan Greif",
         "Ragnarok Heavy Panzer",
         "Macharius",
         "Macharius Command",
@@ -55,8 +55,8 @@
       "units": [
         "Lightning Interceptor",
         "Marauder Destroyer",
-        "Lunar Class Cruiser",
-        "Emperor Class Battleship"
+        "Lunar-Klasse Kreuzer",
+        "Imperator-Klasse Schlachtschiff"
       ],
       "unitRules": [
       ]
@@ -64,29 +64,29 @@
   ],
   "sections": [
     {
-      "name": "Valhallan Core Company Formations",
+      "name": "Valhallan Core Kompanieverbände",
       "formations": [
         {
-          "name": "Valhallan Regimental HQ",
-          "units": "One Valhallanischer Oberbefehlshaber with a Ministorum Priest, nine Valhallan Infantry",
+          "name": "Valhallan Regiments HQ",
+          "units": "Ein Valhallanischer Oberbefehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
           "extraUnits": [
-            "Valhallan Griffons",
+            "Valhallan Greifen",
             "Ogryns",
-            "Snipers",
-            "Fire Support",
+            "Scharfschützen",
+            "Unterstützungstrupps",
             "Flak",
             "Entrenchments"
           ],
           "points": 275
         },
         {
-          "name": "Valhallan Infantry Company",
-          "units": "One Valhallan Befehlshaber with a Ministorum Priest, nine Valhallan Infantry",
+          "name": "Valhallan Infanterie Kompanie",
+          "units": "Ein Valhallan Befehlshaber mit einemMinistorum Priest, neun Valhallan Infanterie",
           "extraUnits": [
-            "Valhallan Griffons",
+            "Valhallan Greifen",
             "Ogryns",
-            "Snipers",
-            "Fire Support",
+            "Scharfschützen",
+            "Unterstützungstrupps",
             "Flak",
             "Entrenchments",
             "Stormlord"
@@ -94,10 +94,10 @@
           "points": 225
         },
         {
-          "name": "Artillery Company",
-          "units": "One Ministorum Priest, six Basilisks",
+          "name": "Artillerie Kompanie",
+          "units": "Ein Ministorum Priest, sechs Basilisken",
           "extraUnits": [
-            "Replace six Basilisks with six Manticores: 50 points",
+            "Ersetze sechs Basilisken with sechs Mantikor: 50 Punkte",
             "Flak"
           ],
           "points": 400
@@ -105,50 +105,50 @@
       ]
     },
     {
-      "name": "Valhallan Support Formations",
-      "description": "Up to two Support Formations for each Core Company.",
+      "name": "Valhallan Unterstützungsverbände",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
       "formations": [
         {
-          "name": "Heavy Panzer Platoon",
-          "units": "Six Ragnarok Heavy Panzers",
+          "name": "Heavy Panzer Zug",
+          "units": "Sechs Ragnarok Heavy Panzers",
           "extraUnits": [
-            "Valhallan Griffons",
+            "Valhallan Greifen",
             "Flak"
           ],
           "points": 375
         },
         {
-          "name": "Macharius Company",
-          "units": "One Macharius Command with a Ministorum Priest, two Macharius",
+          "name": "Macharius Kompanie",
+          "units": "Ein Macharius Command mit einemMinistorum Priest, zwei Macharius",
           "extraUnits": [
             "Flak"
           ],
           "points": 375
         },
         {
-          "name": "Super-Heavy Platoon",
-          "units": "One Baneblade, Stormlord or Shadowsword",
+          "name": "Superschwerer Zug",
+          "units": "Ein Baneblade, Stormlord oder Shadowsword",
           "extraUnits": [
           ],
           "points": 200
         },
         {
-          "name": "Deathstrike Battery",
-          "units": "Two Deathstrikes",
+          "name": "Todesstoss-Raketensystem Batterie",
+          "units": "Zwei Todesstoss-Raketensysteme",
           "extraUnits": [
           ],
           "points": 225
         },
         {
-          "name": "Hellhound Squadron",
-          "units": "Four Hellhounds",
+          "name": "Höllenhund Schwadron",
+          "units": "Vier Höllenhunde",
           "points": 200,
           "extraUnits": [
           ]
         },
         {
-          "name": "Armoured Sentinel Squadron",
-          "units": "Four Armoured Sentinels",
+          "name": "Armoured Sentinel Schwadron",
+          "units": "Vier Armoured Sentinels",
           "extraUnits": [
           ],
           "points": 125
@@ -156,47 +156,47 @@
       ]
     },
     {
-      "name": "Adeptus Ministorum and Imperial Navy Allies",
-      "description": "Up to a fourth of the points available may be spent on Adeptus Ministorum, Tunnelers and Imperial Navy Allies",
+      "name": "Adeptus Ministorum und Imperiale LuftstreitkräfteAllies",
+      "description": " Bis zu a fourth of the Punkte available may be spent on Adeptus Ministorum, Tunnelers und Imperiale LuftstreitkräfteAllies",
       "formations": [
         {
           "name": "Ministorum Mission",
-          "units": "Six Battle Sisters, three Sororitas Rhinos",
+          "units": "Sechs Battle Sisters, drei Sororitas Rhinos",
           "extraUnits": [
           ],
           "points": 200
         },
         {
-          "name": "Lightning Squadron",
-          "units": "Two Lightning Interceptor",
+          "name": "Lightning Schwadron",
+          "units": "Zwei Lightning Interceptor",
           "points": 175
         },
         {
           "name": "Marauder Destroyer",
-          "units": "One Marauder Destroyer",
+          "units": "Ein Marauder Destroyer",
           "points": 175
         },
         {
           "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [
-            "Replace the Cruiser with an Emperor Class Battleship: 50 points"
+            "Ersetze the Cruiser mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
           ]
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Valhallan Upgrades",
-    "description": "Each upgrade may be taken once per formation. Max three upgrades per Company.",
+  "Erweiterungen": {
+    "title": "Valhallan Erweiterungen",
+    "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Max drei Erweiterungen pro Kompanieverband.",
     "items": [
       {
-        "name": "Valhallan Griffons",
+        "name": "Valhallan Greifen",
         "options": [
           {
-            "description": "Add three Valhallan Griffons",
-            "points": "100 points"
+            "description": "Füge drei Valhallan Greifen",
+            "points": "100 Punkte"
           }
         ]
       },
@@ -204,8 +204,8 @@
         "name": "Ogryns",
         "options": [
           {
-            "description": "Add up to two Ogryns",
-            "points": "25 points each"
+            "description": "Füge bis zu zwei Ogryns",
+            "points": "25 Punkte jeweils"
           }
         ]
       },
@@ -213,26 +213,26 @@
         "name": "Flak",
         "options": [
           {
-            "description": "Add a Hydra to the formation",
-            "points": "50 points"
+            "description": "Füge a Hydra to the formation",
+            "points": "50 Punkte"
           }
         ]
       },
       {
-        "name": "Fire Support",
+        "name": "Unterstützungstrupps",
         "options": [
           {
-            "description": "Add two or four Fire Support Squads",
-            "points": "50 points for two, 100 points for four"
+            "description": "Füge zwei oder vier Unterstützungstrupps hinzu",
+            "points": "50 Punkte für zwei, 100 Punkte für vier"
           }
         ]
       },
       {
-        "name": "Snipers",
+        "name": "Scharfschützen",
         "options": [
           {
-            "description": "Add up to two Snipers",
-            "points": "25 points each"
+            "description": "Füge bis zu zwei Scharfschützen",
+            "points": "25 Punkte jeweils"
           }
         ]
       },
@@ -241,14 +241,14 @@
         "options": [
           {
             "description": "40cm Razor Wire, 40cm Trenches",
-            "points": "50 points"
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Stormlord",
-        "description": "Replace two Valhallan Infantry units with one Stormlord (may not be combined with other upgrades)",
-        "points": "125 points"
+        "description": "Ersetze zwei Valhallan Infanterie units with eine Stormlord (may not be combined with other Erweiterungen)",
+        "points": "125 Punkte"
       }
     ]
   }

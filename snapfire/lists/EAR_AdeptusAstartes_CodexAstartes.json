@@ -4,39 +4,39 @@
 	"by":"EA-Ragnarok",
 
 	"sections":[
-		{"name":"CODEX ASTARTES DETACHMENTS (Max 1 Scout Detachment for every non-Scout Detachment)", "formations":[
-			{"id":500, "name":"Assaults", 				"pts":175, "units":"4 Assaults", "upgrades":[10,11,12,13, 37,38]},
-			{"id":501, "name":"Bikes", 					"pts":200, "upgrades":[10,11,12,13]},
-			{"id":504, "name":"Tacticals",				"pts":275, "units":"6 Tacticals plus transport", "upgrades":[10,11,12,13, 27,28, 31,32, 33, 34,35, 37,38]},
-			{"id":505, "name":"Devastators",			"pts":250, "units":"4 Devastators plus transport", "upgrades":[10,11,12,13, 27,28, 31,32, 33, 34,35, 37,38]},
-			{"id":514, "name":"Terminators",			"pts":350, "units":"4 Terminators", "upgrades":[10,11,12,13, 33]},
-			{"id":502, "name":"Land Raiders",			"pts":125, "upgrades":[31,32, 40]},
-			{"id":503, "name":"Predators",				"pts":250, "upgrades":[31,32]},
-			{"id":510, "name":"Land Speeders",			"pts":200, "upgrades":[]},
-			{"id":511, "name":"Landing Craft",			"pts":350, "upgrades":[]},
-			{"id":513, "name":"Orbital Support",		"pts":0, "upgrades":[]},
-			{"id":515, "name":"Vindicators",			"pts":225,  "units":"4 Vindicators", "upgrades":[31,32]},
-			{"id":516, "name":"Whirlwinds",				"pts":275, "units":"4 Whirlwinds", "upgrades":[31,32]},
-			{"id":512, "name":"Scouts",					"pts":150, "upgrades":[34,35]}
+		{"name":"CODEX ASTARTES DETACHMENTS (Max 1 Scout Detachment für every non-Scout Detachment)", "formations":[
+			{"id":500, "name":"Assaults", 				"pts":175, "units":"4 Assaults", "Erweiterungen":[10,11,12,13, 37,38]},
+			{"id":501, "name":"Bikes", 					"pts":200, "Erweiterungen":[10,11,12,13]},
+			{"id":504, "name":"Tacticals",				"pts":275, "units":"6 Tacticals plus transport", "Erweiterungen":[10,11,12,13, 27,28, 31,32, 33, 34,35, 37,38]},
+			{"id":505, "name":"Devastators",			"pts":250, "units":"4 Devastators plus transport", "Erweiterungen":[10,11,12,13, 27,28, 31,32, 33, 34,35, 37,38]},
+			{"id":514, "name":"Terminators",			"pts":350, "units":"4 Terminators", "Erweiterungen":[10,11,12,13, 33]},
+			{"id":502, "name":"Land Raiders",			"pts":125, "Erweiterungen":[31,32, 40]},
+			{"id":503, "name":"Predators",				"pts":250, "Erweiterungen":[31,32]},
+			{"id":510, "name":"Land Speeders",			"pts":200, "Erweiterungen":[]},
+			{"id":511, "name":"Landing Craft",			"pts":350, "Erweiterungen":[]},
+			{"id":513, "name":"Orbital Support",		"pts":0, "Erweiterungen":[]},
+			{"id":515, "name":"Vindicators",			"pts":225,  "units":"4 Vindicators", "Erweiterungen":[31,32]},
+			{"id":516, "name":"Whirlwinds",				"pts":275, "units":"4 Whirlwinds", "Erweiterungen":[31,32]},
+			{"id":512, "name":"Scouts",					"pts":150, "Erweiterungen":[34,35]}
 		]},
 
 		{"name":"CODEX ASTARTES, IMPERIAL AIRCRAFT & COLLEGIA TITANICA ALLIES <br/> Max 33%", "formations":[
-			{"id":520, "name": "Storm Talons", "units":"2 Storm Talons",		"pts":200, "upgrades":[]},
-			{"id":521, "name": "Thunderhawk",			"pts":225, "upgrades":[]},
-			{"id":532, "name":"Thunderbolt Squadron",	"pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
-			{"id":533, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":522, "name": "Warhounds",			"pts":75, "upgrades":[60]},
-			{"id":523, "name": "Reaver Titan", 						"pts":600, "upgrades":[]}
+			{"id":520, "name": "Storm Talons", "units":"2 Storm Talons",		"pts":200, "Erweiterungen":[]},
+			{"id":521, "name": "Thunderhawk",			"pts":225, "Erweiterungen":[]},
+			{"id":532, "name":"Thunderbolt Schwadron",	"pts":175, "Erweiterungen":[], "units":"2 Thunderbolts"},
+			{"id":533, "name":"Marauder Schwadron",		"pts":250, "Erweiterungen":[], "units":"2 Marauder Bombers"},
+			{"id":522, "name": "Warhounds",			"pts":75, "Erweiterungen":[60]},
+			{"id":523, "name": "Reaver Titan", 						"pts":600, "Erweiterungen":[]}
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":10, "name":"Captain",		"pts":25},
 		{"id":12, "name":"Chaplain", 		"pts":50},
 		{"id":11, "name":"Librarian", 		"pts":25},
 		{"id":13, "name":"Supreme Commander",	"pts":75},
 
 		{"id":15, "name":"4 Scouts plus transport",							"pts":0},
-		{"id":17, "name":"4 Scouts with 'Sniper' plus transport",				"pts":25},
+		{"id":17, "name":"4 Scouts with 'Scharfschütze' plus transport",				"pts":25},
 
 		{"id":20, "name":"Assault Bikes",		"pts":0},
 		{"id":21, "name":"Attack Bike", 	"pts":0},

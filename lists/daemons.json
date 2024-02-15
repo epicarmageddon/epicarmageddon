@@ -130,7 +130,7 @@
         ]
       },
       {
-        "name": "Exalted Great Unclean One",
+        "name": "Exalted Great Unclean Ein",
         "type": "WE",
         "speed": 15,
         "armour": 4,
@@ -155,7 +155,7 @@
         "crit": "The Exalted Greater Daemon is destroyed. All summoned daemons within 5cm are destroyed."
       },
       {
-        "name": "Great Unclean One",
+        "name": "Great Unclean Ein",
         "type": "WE",
         "speed": 15,
         "armour": 4,

@@ -3,8 +3,8 @@
   "army": "Catachan Jungle Fighters",
   "version": "0.7.2",
   "release": "2022-04-01",
-  "strategy": "Catachan Jungle Fighter armies have a Strategy Rating of 3.",
-  "Initiative": "All formations have an Initiative Rating of 2+.",
+  "strategy": "Catachan Jungle Fighter Armeen haben einen Strategiewert von 3.",
+  "Initiative": "All Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Catachan Befehlshabers"
   ],
@@ -17,16 +17,16 @@
       "units": [
         "Catachanischer Oberbefehlshaber",
         "Catachan Befehlshaber",
-        "Catachan Infantry",
+        "Catachan Infanterie",
         "Flakk Team",
-        "Snipers",
+        "Scharfschützen",
         "Ogryns",
         "Death World Veterans",
         "Catachan Sentinel",
-        "Death World Chimera",
+        "Death World Chimäre",
         "Basilisk",
-        "Griffon",
-        "Deathstrike",
+        "Greif",
+        "Todesstoss-Raketensystem",
         "Vulture",
         "Valkyrie",
         "Vendetta",
@@ -46,10 +46,10 @@
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter",
+        "Thunderbolt",
         "Marauder Bomber",
-        "Lunar Class Cruiser",
-        "Emperor Class Battleship"
+        "Lunar-Klasse Kreuzer",
+        "Imperator-Klasse Schlachtschiff"
       ],
       "unitRules": [
       ]
@@ -60,8 +60,8 @@
       "name": "Catachan Core Companies",
       "formations": [
         {
-          "name": "Catachan Regimental HQ",
-          "units": "One Catachanischer Oberbefehlshaber, seven Catachan Infantry",
+          "name": "Catachan Regiments HQ",
+          "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachan Infanterie",
           "extraUnits": [
             "Death World Transport (Compulsory)",
             "Flakk Teams",
@@ -71,8 +71,8 @@
           "points": 225
         },
         {
-          "name": "Catachan Company",
-          "units": "One Catachan Befehlshaber, seven Catachan Infantry",
+          "name": "Catachan Kompanie",
+          "units": "Ein Catachan Befehlshaber, sieben Catachan Infanterie",
           "extraUnits": [
             "Death World Transport (Compulsory)",
             "Flakk Teams",
@@ -84,79 +84,79 @@
       ]
     },
     {
-      "name": "Catachan Support Formations",
-      "description": "Up to two Support Formations for each Core Company.",
+      "name": "Catachan Unterstützungsverbände",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
       "formations": [
         {
-          "name": "Leman Russ Platoon",
-          "units": "Six Leman Russ, Leman Russ Demolishers, or Leman Russ Exterminators",
+          "name": "Leman Russ Zug",
+          "units": "Sechs Leman Russ, Leman Russ Demolisher, oder Leman Russ Exterminators",
           "extraUnits": [
             "Flak"
           ],
           "points": 375
         },
         {
-          "name": "Vulture Squadron",
-          "units": "Four Vultures",
+          "name": "Vulture Schwadron",
+          "units": "Vier Vultures",
           "extraUnits": [
-            "Replace one Vulture with two Vendettas: 25 points"
+            "Ersetze eine Vulture with zwei Vendettas: 25 Punkte"
           ],
           "points": 300
         },
         {
-          "name": "Artillery Battery",
-          "units": "Three Basilisks",
+          "name": "Artillerie Batterie",
+          "units": "Drei Basilisken",
           "extraUnits": [
           ],
           "points": 225
         },
         {
-          "name": "Deathstrike Battery",
-          "units": "Two Deathstrikes",
+          "name": "Todesstoss-Raketensystem Batterie",
+          "units": "Zwei Todesstoss-Raketensysteme",
           "extraUnits": [
           ],
           "points": 225
         },
         {
-          "name": "Veteran Company",
-          "units": "One Catachan Befehlshaber and seven Death World Veterans",
+          "name": "Veteran Kompanie",
+          "units": "Ein Catachan Befehlshaber und sieben Death World Veterans",
           "extraUnits": [
             "Death World Transport"
           ],
           "points": 200
         },
         {
-          "name": "Catachan Super-Heavy Platoon",
-          "units": "One Hellhammer or Stormblade",
+          "name": "Catachan Superschwerer Zug",
+          "units": "Ein Hellhammer oder Stormblade",
           "extraUnits": [
-            "Add two Ogryns: 50 points each"
+            "Füge zwei Ogryns: 50 Punkte jeweils"
           ],
           "points": 200
         },
         {
-          "name": "Griffon Battery",
-          "units": "Three Griffons",
+          "name": "Greifen Batterie",
+          "units": "Drei Greifen",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Devil Dog Squadron",
-          "units": "Four Devil Dogs",
+          "name": "Devil Dog Schwadron",
+          "units": "Vier Devil Dogs",
           "extraUnits": [
           ],
           "points": 200
         },
         {
-          "name": "Sniper Platoon",
-          "units": "Four Snipers, two Death World Chimeras",
+          "name": "Scharfschütze Zug",
+          "units": "Vier Scharfschützen, zwei Death World Chimären",
           "extraUnits": [
           ],
           "points": 150
         },
         {
-          "name": "Catachan Sentinel Squadron",
-          "units": "Four Catachan Sentinels",
+          "name": "Catachan Sentinel Schwadron",
+          "units": "Vier Catachan Sentinels",
           "extraUnits": [
           ],
           "points": 125
@@ -164,40 +164,40 @@
       ]
     },
     {
-      "name": "Imperial Navy Formations",
-      "description": "Up to a fourth of the points available may be spent on Imperial Navy Formations",
+      "name": "Verbände der Imperialen Luftstreitkräfte",
+      "description": " Bis zu a fourth of the Punkte available may be spent on Verbände der Imperialen Luftstreitkräfte",
       "formations": [
         {
-          "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "name": "Thunderbolt Schwadron",
+          "units": "Zwei Thunderbolts",
           "points": 175
         },
         {
-          "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "name": "Marauder Schwadron",
+          "units": "Zwei Marauder Bomber",
           "points": 250
         },
         {
           "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [
-            "Replace the Cruiser with an Emperor Class Battleship: 50 points"
+            "Ersetze the Cruiser mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
           ]
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Catachan Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+  "Erweiterungen": {
+    "title": "Catachan Erweiterungen",
+    "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
         "name": "Flakk Teams",
         "options": [
           {
-            "description": "Replace up to two Catachan Infantry with Flakk Teams",
-            "points": "25 points each"
+            "description": "Ersetze bis zu zwei Catachan Infanterie with Flakk Teams",
+            "points": "25 Punkte jeweils"
           }
         ]
       },
@@ -205,8 +205,8 @@
         "name": "Ogryns",
         "options": [
           {
-            "description": "Add up to two Ogryns, each with a Deathworld Chimera. Formation may not be transported in Valkyries.",
-            "points": "50 points each"
+            "description": "Füge bis zu zwei Ogryns, jeweils mit einemDeathworld Chimäre. Formation may not be transported in Valkyries.",
+            "points": "50 Punkte jeweils"
           }
         ]
       },
@@ -214,8 +214,8 @@
         "name": "Devil Dogs",
         "options": [
           {
-            "description": "Add up to two Devil Dogs",
-            "points": "25 points each"
+            "description": "Füge bis zu zwei Devil Dogs",
+            "points": "25 Punkte jeweils"
           }
         ]
       },
@@ -223,8 +223,8 @@
         "name": "Flak",
         "options": [
           {
-            "description": "Add one Hydra",
-            "points": "50 points"
+            "description": "Füge eine Hydra",
+            "points": "50 Punkte"
           }
         ]
       },
@@ -232,20 +232,20 @@
         "name": "Death World Transport",
         "options": [
           {
-            "description": "Choose one of the following:",
+            "description": "Choose eine of the following:",
             "points": ""
           },
           {
-            "description": "Add enough Death World Chimeras to transport the entire formation with no space left over",
-            "points": "25 points each"
+            "description": "Füge enough Death World Chimären to transport the entire formation with no space left over",
+            "points": "25 Punkte jeweils"
           },
           {
-            "description": "Add four Valkyries",
-            "points": "150 points"
+            "description": "Füge vier Valkyries",
+            "points": "150 Punkte"
           },
           {
-            "description": "Add three Valkyries and two Vendettas",
-            "points": "175 points"
+            "description": "Füge drei Valkyries und zwei Vendettas",
+            "points": "175 Punkte"
           }
         ]
       }

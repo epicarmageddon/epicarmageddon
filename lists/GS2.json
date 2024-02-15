@@ -79,7 +79,7 @@
         "specialRules": [
           "Entbehrlich"
         ],
-        "notes": "One in every two units (rounding up) has a Schweres Maschinengewehr"
+        "notes": "Ein in every zwei units (rounding up) has a Schweres Maschinengewehr"
       },
       {
         "name": "Genestealers",
@@ -106,7 +106,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Counts as two units of INF for the purpose of being transported."
+        "notes": "Counts as zwei units of INF für the purpose of being transported."
       },
       {
         "name": "Metamorph Hybrids",
@@ -135,10 +135,10 @@
           "Maschinenkanone",
           "Automatikgewehr"
         ],
-        "notes": "One in every two units (rounding up) has an Maschinenkanone"
+        "notes": "Ein in every zwei units (rounding up) has an Maschinenkanone"
       },
       {
-        "name": "Neophyte Fire Support",
+        "name": "Neophyte Unterstützungstrupps",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -194,7 +194,7 @@
           "Heavy Mining Laser|0-1",
           "Seismic Heavy Geschütz|0-1"
         ],
-        "notes": "Armed with either a Heavy Mining Laser or a Seismic Heavy Geschütz."
+        "notes": "Armed with either a Heavy Mining Laser oder a Seismic Heavy Geschütz."
       },
       {
         "name": "Technical",
@@ -217,7 +217,7 @@
         "weapons": [
           "Schweres Maschinengewehr"
         ],
-        "notes": "May transport two infantry units without Beritten or Jump Packs. Aberrants takes two spaces each."
+        "notes": "May transport zwei Infanterie units without Beritten oder Jump Packs. Aberrants takes zwei spaces jeweils."
       },
       {
         "name": "Coven Limousine",
@@ -232,7 +232,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Goliath Truck",
@@ -244,7 +244,7 @@
         "weapons": [
           "Seismic Heavy Geschütz"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Beritten. Aberrants takes two spaces each."
+        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten. Aberrants takes zwei spaces jeweils."
       },
       {
         "name": "Goliath Rockgrinder",
@@ -259,7 +259,7 @@
         "specialRules": [
           "Geländegängig"
         ],
-        "notes": "May transport two infantry unit without Jump Packs or Beritten. Aberrants takes two spaces each."
+        "notes": "May transport zwei Infanterie unit without Jump Packs oder Beritten. Aberrants takes zwei spaces jeweils."
       },
       {
         "name": "Haul Truck Geschütz",

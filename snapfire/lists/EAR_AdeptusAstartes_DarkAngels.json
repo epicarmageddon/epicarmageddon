@@ -5,38 +5,38 @@
 
 	"sections":[
 		{"name":"DARK ANGELS CORE DETACHMENTS", "formations":[
-			{"id":501, "name":"Ravenwing Attack", 					"pts":350, "units":"Ravenwing Black Knights, 3 Ravenwing Land Speeders", "upgrades":[10,11,12,13]},
-			{"id":503, "name":"Tacticals",					"pts":275, "units":"6 Tacticals plus transport", "upgrades":[10,11,12,13, 30,31,32, 33, 36,37]},
-			{"id":505, "name":"Deathwing Strike",		"pts":350,  "upgrades":[10,11,12,13]}
+			{"id":501, "name":"Ravenwing Attack", 					"pts":350, "units":"Ravenwing Black Knights, 3 Ravenwing Land Speeders", "Erweiterungen":[10,11,12,13]},
+			{"id":503, "name":"Tacticals",					"pts":275, "units":"6 Tacticals plus transport", "Erweiterungen":[10,11,12,13, 30,31,32, 33, 36,37]},
+			{"id":505, "name":"Deathwing Strike",		"pts":350,  "Erweiterungen":[10,11,12,13]}
 		]},
-		{"name":"DARK ANGELS SUPPORT DETACHMENTS <br/> Max 3 for each Core Detachment", "formations":[
-			{"id":502, "name":"Land Raiders",				"pts":125, "upgrades":[30,31,32, 35]},
-			{"id":514, "name":"Ares Siege",				"pts":375, "units":"3 Land Raider Ares",  "upgrades":[]},
-			{"id":515, "name":"Deathwing Armour",			"pts":450,  "units":"3 Land Raiders, 3 Terminators", "upgrades":[10,11,12,13]},
-			{"id":504, "name":"Devastators",				"pts":250, "units":"4 Dark Angels Devastators plus transport", "upgrades":[30,31,32, 33, 36,37]},
-			{"id":510, "name":"Scouts",							"pts":150, "upgrades":[36,37]},
-			{"id":500, "name":"Assaults", 				"pts":175, "units":"4 Assaults", "upgrades":[10,11,12,13, 45,46]},
-			{"id":511, "name":"Whirlwinds",						"pts":275, "units":"4 Whirlwinds", "upgrades":[30,31,32]},
-			{"id":513, "name":"Predators",						"pts":250, "upgrades":[30,31,32]},
-			{"id":512, "name":"Ravenwing Support",				"pts":175, "upgrades":[]},
-			{"id":517, "name":"Dreadwing Relics",	  		"pts":0, "upgrades":[42]}
+		{"name":"DARK ANGELS SUPPORT DETACHMENTS <br/> Max 3 für jeweils Core Detachment", "formations":[
+			{"id":502, "name":"Land Raiders",				"pts":125, "Erweiterungen":[30,31,32, 35]},
+			{"id":514, "name":"Ares Siege",				"pts":375, "units":"3 Land Raider Ares",  "Erweiterungen":[]},
+			{"id":515, "name":"Deathwing Armour",			"pts":450,  "units":"3 Land Raiders, 3 Terminators", "Erweiterungen":[10,11,12,13]},
+			{"id":504, "name":"Devastators",				"pts":250, "units":"4 Dark Angels Devastators plus transport", "Erweiterungen":[30,31,32, 33, 36,37]},
+			{"id":510, "name":"Scouts",							"pts":150, "Erweiterungen":[36,37]},
+			{"id":500, "name":"Assaults", 				"pts":175, "units":"4 Assaults", "Erweiterungen":[10,11,12,13, 45,46]},
+			{"id":511, "name":"Whirlwinds",						"pts":275, "units":"4 Whirlwinds", "Erweiterungen":[30,31,32]},
+			{"id":513, "name":"Predators",						"pts":250, "Erweiterungen":[30,31,32]},
+			{"id":512, "name":"Ravenwing Support",				"pts":175, "Erweiterungen":[]},
+			{"id":517, "name":"Dreadwing Relics",	  		"pts":0, "Erweiterungen":[42]}
 
 		]},
 
 		{"name":"DARK ANGELS AIRCRAFT AND SWORDWING <br/> Max 33%", "formations":[
-			{"id":520, "name": "Nephilims", "units":"2 Ravenwing Nephilims",		"pts":225, "upgrades":[]},
-			{"id":521, "name": "Dark Talons",	"units":"2 Ravenwing Dark Talons",			"pts":250, "upgrades":[]},
-			{"id":522, "name": "Swordwing Support",										"pts":0, "upgrades":[]}
+			{"id":520, "name": "Nephilims", "units":"2 Ravenwing Nephilims",		"pts":225, "Erweiterungen":[]},
+			{"id":521, "name": "Dark Talons",	"units":"2 Ravenwing Dark Talons",			"pts":250, "Erweiterungen":[]},
+			{"id":522, "name": "Swordwing Support",										"pts":0, "Erweiterungen":[]}
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":10, "name":"Dark Angels Captain",		"pts":25},
 		{"id":12, "name":"Chaplain", 		"pts":50},
 		{"id":11, "name":"Librarian", 		"pts":25},
 		{"id":13, "name":"Supreme Commander",	"pts":75},
 
 		{"id":15, "name":"4 Scouts plus transport",						"pts":0},
-		{"id":16, "name":"4 Scouts w/ 'Sniper' plus transport",		"pts":25},
+		{"id":16, "name":"4 Scouts w/ 'Scharfschütze' plus transport",		"pts":25},
 
 		{"id":17, "name":"2 Vindicators",								"pts":0},
 		{"id":18, "name":"3 Vindicators",								"pts":50},

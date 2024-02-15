@@ -4,30 +4,30 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"SQUAT INDIVIDUALS", "formations":[
-			{"id":520, "name":"Grand Warlord", 	"pts":50, "units":"Add one Grand Warlord character to a Squat Warlord or Guildmaster in the army", "upgrades":[]},
-			{"id":521, "name":"Ancestor", 	"pts":25, "units":"Add one Living Ancestor to a Squat Warlord, Leviathan, Colossus, Cyclops or Land Train in the army", "upgrades":[]}
+			{"id":520, "name":"Grand Warlord", 	"pts":50, "units":"Füge eine Grand Warlord character to a Squat Warlord oder Guildmaster in the army", "Erweiterungen":[]},
+			{"id":521, "name":"Ancestor", 	"pts":25, "units":"Füge eine Living Ancestor to a Squat Warlord, Leviathan, Colossus, Cyclops oder Land Train in the army", "Erweiterungen":[]}
 		]},
 		{"name":"SQUAT BROTHERHOODS", "formations":[
-			{"id":501, "name":"Warrior Brotherhood", 	"pts":250, "upgrades":[1,2,3,4,7,8,9,14,50] },
-			{"id":502, "name":"Berserker Brotherhood", 	"pts":200, "upgrades":[1,2,3,4,7,8,9], "units":"Hearthguards, 7 Squat Berserkers"}
+			{"id":501, "name":"Warrior Brotherhood", 	"pts":250, "Erweiterungen":[1,2,3,4,7,8,9,14,50] },
+			{"id":502, "name":"Berserker Brotherhood", 	"pts":200, "Erweiterungen":[1,2,3,4,7,8,9], "units":"Hearthguards, 7 Squat Berserkers"}
 		]},
-		{"name":"SQUAT SUPPORT <br/> Max 3 for each Squat Brotherhood", "formations":[
-			{"id":511, "name":"Heavy Support", 	"pts":200, "upgrades":[50]},
-			{"id":514, "name":"Thunderfire Flak", 	"pts":175,"units":"3 Squat Thunderfires", "upgrades":[1]},
-			{"id":515, "name":"Thunderers", 	"pts":200, "units":"4 Thunderers", "upgrades":[1,2,3,4,50]},
-			{"id":518, "name":"Overlords", 	"pts":25, "upgrades":[20]},
-			{"id":516, "name":"Bikers", 	"pts":225, "units":"Guildmaster","upgrades":[8]},
+		{"name":"SQUAT SUPPORT <br/> Max 3 für jeweils Squat Brotherhood", "formations":[
+			{"id":511, "name":"Heavy Support", 	"pts":200, "Erweiterungen":[50]},
+			{"id":514, "name":"Thunderfire Flak", 	"pts":175,"units":"3 Squat Thunderfires", "Erweiterungen":[1]},
+			{"id":515, "name":"Thunderers", 	"pts":200, "units":"4 Thunderers", "Erweiterungen":[1,2,3,4,50]},
+			{"id":518, "name":"Overlords", 	"pts":25, "Erweiterungen":[20]},
+			{"id":516, "name":"Bikers", 	"pts":225, "units":"Guildmaster","Erweiterungen":[8]},
 			{"id":517, "name":"Iron Eagles", "units":"4 Iron Eagles", "pts":250}
 		]},
 		{"name":"SQUAT WAR ENGINES <br/> Max 33%", "formations":[
 			{"id":531, "name":"Goliath", 	"pts":300, "units":"2 Goliath Mega Cannons"},
-			{"id":532, "name":"Leviathan", 	"pts":350, "upgrades":[9]},
-			{"id":533, "name":"Colossus", 	"pts":475, "upgrades":[9]},
-			{"id":534, "name":"Cyclops", 	"pts":475, "upgrades":[9]},
-			{"id":535, "name":"Land Train", "pts":200, "units":"Land Train Engine","upgrades":[9,30,31,32,33]}
+			{"id":532, "name":"Leviathan", 	"pts":350, "Erweiterungen":[9]},
+			{"id":533, "name":"Colossus", 	"pts":475, "Erweiterungen":[9]},
+			{"id":534, "name":"Cyclops", 	"pts":475, "Erweiterungen":[9]},
+			{"id":535, "name":"Land Train", "pts":200, "units":"Land Train Engine","Erweiterungen":[9,30,31,32,33]}
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":1, "name":"Rhinos", "pts":0},
 		{"id":2, "name":"Termites", "pts":0},
 		{"id":3, "name":"2 Moles", "pts":100},
@@ -67,7 +67,7 @@
 
 		{"max":1, "name":"Grand Warlord", "from":[520]},
 		{"max":1, "name":"Living Ancestor", "from":[521]},
-		{"max":3, "name":"Support Formations", "from":[511,514,515,516,517,518], "forEach":[501,502], "name2":"Brotherhood"},
+		{"max":3, "name":"Unterstützungsverbände", "from":[511,514,515,516,517,518], "forEach":[501,502], "name2":"Brotherhood"},
 		{"maxPercent":33.5, "name":"War Engine Formations", "from":[531,532,533,534,535]}
 
 	],

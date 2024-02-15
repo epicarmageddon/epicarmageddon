@@ -4,31 +4,31 @@
    "by": "EA-Ragnarok",
    "sections": [
       {"name": "FIR LIRITHION SPECIALS", "formations": [
-	    {"id": 500, "name": "Wraithgate", "pts": 50, "upgrades": []},
- 	    {"id": 501, "name": "Avatar", "pts": 0, "upgrades": []}
+	    {"id": 500, "name": "Wraithgate", "pts": 50, "Erweiterungen": []},
+ 	    {"id": 501, "name": "Avatar", "pts": 0, "Erweiterungen": []}
       ]},
       {"name": "FIR LIRITHION BATTLE TITANS", "formations": [
-            {"id": 511, "name": "Warlock Titan", "pts": 850, "units": "One Warlock Titan", "upgrades": []},
-            {"id": 512, "name": "Phantom Titan", "pts": 700, "upgrades": [11]}
+            {"id": 511, "name": "Warlock Titan", "pts": 850, "units": "Ein Warlock Titan", "Erweiterungen": []},
+            {"id": 512, "name": "Phantom Titan", "pts": 700, "Erweiterungen": [11]}
          ]},
-      {"name": "FIR LIRITHION SCOUT TITANS <br/> Max 2 for each Battle Titan", "formations": [
-            {"id": 521, "name": "Revenant Titans", "pts": 650, "upgrades": [25]}
+      {"name": "FIR LIRITHION SCOUT TITANS <br/> Max 2 für jeweils Battle Titan", "formations": [
+            {"id": 521, "name": "Revenant Titans", "pts": 650, "Erweiterungen": [25]}
 
 	 ]},
-      {"name": "FIR LIRITHION TROUPES <br/> Max 3 for each Battle or Scout Titan formation", "formations": [
-	    {"id": 531, "name": "Engines of Vaul", "pts": 50, "upgrades": [17,18,19, 11]},
-	    {"id": 534, "name": "Wraithknights", "pts": 300, "upgrades": []},
-        {"id": 535, "name": "Spirit Guard Wraithhost", "pts": 225, "units": "Spiritseer", "upgrades": [41,47,48,49,55]}
+      {"name": "FIR LIRITHION TROUPES <br/> Max 3 für jeweils Battle oder Scout Titan formation", "formations": [
+	    {"id": 531, "name": "Engines of Vaul", "pts": 50, "Erweiterungen": [17,18,19, 11]},
+	    {"id": 534, "name": "Wraithknights", "pts": 300, "Erweiterungen": []},
+        {"id": 535, "name": "Spirit Guard Wraithhost", "pts": 225, "units": "Spiritseer", "Erweiterungen": [41,47,48,49,55]}
 	]},
       {"name": "CRAFTWORLD NAVY <br/> Max 25%", "formations": [
-          {"id": 540, "name": "Nightwing Aerie", "pts": 75, "upgrades": [20]},
-          {"id": 541, "name": "Vampire Hunter", "pts": 225, "upgrades": []},
-          {"id": 542, "name": "Vampire Raider", "pts": 200, "upgrades": []},
-          {"id": 550, "name": "Wraithship", "pts": 150, "upgrades": []},
-          {"id": 551, "name": "Dragonship", "pts": 300, "upgrades": []}
+          {"id": 540, "name": "Nightwing Aerie", "pts": 75, "Erweiterungen": [20]},
+          {"id": 541, "name": "Vampire Hunter", "pts": 225, "Erweiterungen": []},
+          {"id": 542, "name": "Vampire Raider", "pts": 200, "Erweiterungen": []},
+          {"id": 550, "name": "Wraithship", "pts": 150, "Erweiterungen": []},
+          {"id": 551, "name": "Dragonship", "pts": 300, "Erweiterungen": []}
         ]}
    ],
-   "upgrades": [
+   "Erweiterungen": [
       {"id": 11, "name": "Bonesinger", 				"pts": 50},
 
       {"id": 17, "name": "Cobra", 				"pts": 200},
@@ -55,7 +55,7 @@
       {"id": 66, "name": "Ashuna-Valcry'le", "pts": 0},
 
       {"id": 75, "name": "2 Wraithknights (Twin Heavy Wraithcannon)", "pts": 0},
-      {"id": 76, "name": "2 Wraithknights (Ghostglaive and Scattershield)", "pts": 0},
+      {"id": 76, "name": "2 Wraithknights (Ghostglaive und Scattershield)", "pts": 0},
       {"id": 77, "name": "2 Wraithknights (Suncannon)", "pts": 0}
 
    ],
@@ -66,7 +66,7 @@
       {"max": 1, "from": [511]},
       {"maxPercent": 25.1, "name": "Craftworld Navy", "from": [540,541,542,550,551]},
       {"max": 2, "name": "Scout Titan formation", "from": [521],  "forEach": [511,512], "name2": "Battle Titan" },
-      {"max": 3, "name": "Troupes", "from": [531,532,533,534,535,536],  "forEach": [511,512,521], "name2": "Battle or Scout Titan Formation" }
+      {"max": 3, "name": "Troupes", "from": [531,532,533,534,535,536],  "forEach": [511,512,521], "name2": "Battle oder Scout Titan Formation" }
    ],
    "upgradeConstraints": [
 

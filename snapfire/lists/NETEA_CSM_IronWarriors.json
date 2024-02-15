@@ -4,41 +4,41 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"RETINUES", "formations":[
-			{"id":501, "name":"Iron Warriors Retinue", 	"pts":300, "units":"6 Chaos Space Marines and 2 Havocs", "upgrades":[53,54,59,61,62,63,66,67,68]},
-			{"id":502, "name":"Defiler Assault Pack",	"pts":-25, "upgrades":[57,63,68]},
-			{"id":540, "name":"Grand Battery",			"pts":650, "units":"9 Chaos Basilisks", "upgrades":[65,66]},
-			{"id":541, "name":"Armoured Assault Company",	"pts":40, "upgrades":[54]}
+			{"id":501, "name":"Iron Warriors Retinue", 	"pts":300, "units":"6 Chaos Space Marines und 2 Havocs", "Erweiterungen":[53,54,59,61,62,63,66,67,68]},
+			{"id":502, "name":"Defiler Assault Pack",	"pts":-25, "Erweiterungen":[57,63,68]},
+			{"id":540, "name":"Grand Batterie",			"pts":650, "units":"9 Chaos Basilisken", "Erweiterungen":[65,66]},
+			{"id":541, "name":"Armoured Assault Kompanie",	"pts":40, "Erweiterungen":[54]}
 		]},
-		{"name":"SIEGE ASSAULT <br/> Max 1 for each Retinue", "formations":[
-			{"id":503, "name":"Iron Warriors Terminators", "pts":35, "upgrades":[32,53,61]},
-			{"id":504, "name":"Chosen", "pts":125, "units":"4 Chaos Space Marine Chosen", "upgrades":[62, 58, 63]},
-			{"id":511, "name":"Obliterator Cult", "pts":350, "units":"4 Obliterators", "upgrades":[]},
-			{"id":510, "name":"Raptors", "pts":35, "upgrades":[30]},
-			{"id":512, "name":"Havocs", "pts":325, "units":"4 Havocs and 2 Land Raiders", "upgrades":[59,63,57,28,66]},
-			{"id":513, "name":"Siege Hammer Company", "pts":225, "upgrades":[62,63,54,66,58,68]},
-			{"id":514, "name":"Dreadnought Assault Pack", "pts":225, "units":"5 Chaos Dreadnoughts", "upgrades":[21,58,68]}
+		{"name":"SIEGE ASSAULT <br/> Max 1 für jeweils Retinue", "formations":[
+			{"id":503, "name":"Iron Warriors Terminators", "pts":35, "Erweiterungen":[32,53,61]},
+			{"id":504, "name":"Chosen", "pts":125, "units":"4 Chaos Space Marine Chosen", "Erweiterungen":[62, 58, 63]},
+			{"id":511, "name":"Obliterator Cult", "pts":350, "units":"4 Obliterators", "Erweiterungen":[]},
+			{"id":510, "name":"Raptors", "pts":35, "Erweiterungen":[30]},
+			{"id":512, "name":"Havocs", "pts":325, "units":"4 Havocs und 2 Land Raiders", "Erweiterungen":[59,63,57,28,66]},
+			{"id":513, "name":"Siege Hammer Kompanie", "pts":225, "Erweiterungen":[62,63,54,66,58,68]},
+			{"id":514, "name":"Dreadnought Assault Pack", "pts":225, "units":"5 Chaos Dreadnoughts", "Erweiterungen":[21,58,68]}
 		]},
-		{"name":"SIEGE SUPPORT <br/> Max 2 for each Retinue", "formations":[
-			{"id":507, "name":"Armoured Company",	"pts":0, "upgrades":[27,28,54,66]},
-			{"id":508, "name":"Artillery Battery",	"pts":325, "units":"4 Chaos Basilisks", "upgrades":[64,66]},
-			{"id":509, "name":"Daemonic Artillery",	"pts":325, "units":"3 Daemonic Artillery units", "upgrades":[72,66]},
-			{"id":505, "name":"Decimators", "pts":0, "upgrades":[25]}
+		{"name":"SIEGE SUPPORT <br/> Max 2 für jeweils Retinue", "formations":[
+			{"id":507, "name":"Armoured Kompanie",	"pts":0, "Erweiterungen":[27,28,54,66]},
+			{"id":508, "name":"Artillerie Batterie",	"pts":325, "units":"4 Chaos Basilisken", "Erweiterungen":[64,66]},
+			{"id":509, "name":"Daemonic Artillerie",	"pts":325, "units":"3 Daemonic Artillerie units", "Erweiterungen":[72,66]},
+			{"id":505, "name":"Decimators", "pts":0, "Erweiterungen":[25]}
 		]},
 		{"name":"WAR ENGINES & CHAOS NAVY <br/> Max 33%", "formations":[
-			{"id":520, "name":"Siege Lord Titan",		"pts":850, "upgrades":[]},
-			{"id":521, "name":"Ravager Titan",			"pts":650, "upgrades":[]},
-			{"id":522, "name":"Ordinatus Medrendgard",			"spts":625, "upgrades":[]},
-			{"id":530, "name":"Hell Blade Squadron",	"pts":200, "units":"3 Hell Blade Interceptors", "upgrades":[]},
-			{"id":531, "name":"Hell Talon Squadron",	"pts":225, "units":"2 Hell Talon Fighter-Bombers", "upgrades":[]},
-			{"id":532, "name":"Harbringer",	"pts":400, "upgrades":[]},
-			{"id":533, "name":"Devastation Class Cruiser",	"pts":150, "upgrades":[]},
-			{"id":534, "name":"Despoiler Class Battleship","pts":250, "upgrades":[]}
+			{"id":520, "name":"Siege Lord Titan",		"pts":850, "Erweiterungen":[]},
+			{"id":521, "name":"Ravager Titan",			"pts":650, "Erweiterungen":[]},
+			{"id":522, "name":"Ordinatus Medrendgard",			"spts":625, "Erweiterungen":[]},
+			{"id":530, "name":"Hell Blade Schwadron",	"pts":200, "units":"3 Hell Blade Interceptors", "Erweiterungen":[]},
+			{"id":531, "name":"Hell Talon Schwadron",	"pts":225, "units":"2 Hell Talon Fighter-Bombers", "Erweiterungen":[]},
+			{"id":532, "name":"Harbringer",	"pts":400, "Erweiterungen":[]},
+			{"id":533, "name":"Devastation Class Cruiser",	"pts":150, "Erweiterungen":[]},
+			{"id":534, "name":"Despoiler Class Battleship","pts":250, "Erweiterungen":[]}
 		]}
 		],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":17, "name":"Iron Warriors Lord", 		"pts":0},
-		{"id":18, "name":"Daemon Prince (Replaces the Iron Warriors Lord and its unit)", 	"pts":50},
-		{"id":19, "name":"Daemon Prince (Supreme Commander. Replaces the Iron Warriors Lord and its unit)", 	"pts":100},
+		{"id":18, "name":"Daemon Prince (Replaces the Iron Warriors Lord und its unit)", 	"pts":50},
+		{"id":19, "name":"Daemon Prince (Supreme Commander. Replaces the Iron Warriors Lord und its unit)", 	"pts":100},
 		{"id":20, "name":"Warsmith (Supreme Commander)", "pts":50},
 		{"id":21, "name":"Dreadnought Warsmith (Supreme Commander)", "pts":100},
 		{"id":27, "name":"Chaos Predator", 	"pts":50},
@@ -59,7 +59,7 @@
 		{"id":66, "name":"Chaos Stalker", "pts":50},
 		{"id":67, "name":"4 Chaos Assault Marines", "pts":125},
 		{"id":68, "name":"Chaos Siege Dreadnought", "pts":50},
-		{"id":69, "name":"Chaos Basilisks", "pts":50},
+		{"id":69, "name":"Chaos Basilisken", "pts":50},
 		{"id":70, "name":"6 Chaos Assault Marines", "pts":0},
 		{"id":71, "name":"10 Chaos Assault Marines", "pts":125},
 		{"id":72, "name":"3 Emplacements", "pts":25}
@@ -69,7 +69,7 @@
 		{"max":1, "name":"Obliterator Cult", "from":[511]},
 		{"max":1, "name":"Spacecraft", "from":[533,534]},
 		{"max":1, "name":"Siege Assault Formation", "from":[503,504,510,511,512,513,514], "forEach":[501,502,540,541], "name2":"Retinue formation"},
-		{"max":2, "name":"Siege Support Formations", "from":[505,506,507,508,509], "forEach":[501,502,540,541], "name2":"Retinue Formation"},
+		{"max":2, "name":"Siege Unterstützungsverbände", "from":[505,506,507,508,509], "forEach":[501,502,540,541], "name2":"Retinue Formation"},
 		{"maxPercent":33.5, "name":"War Engines & Chaos Navy", "from":[530,531,532,533,534,520,521,522]}
 	],
 	"upgradeConstraints":[

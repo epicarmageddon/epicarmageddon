@@ -1,4 +1,4 @@
-{{#each this}}
+{{#jeweils this}}
 {{#if unit.length}}
 <h2>{{name}}</h2>
 
@@ -15,7 +15,7 @@
     </tr>
     </thead>
     <tbody>
-    {{#each unit}}
+    {{#jeweils unit}}
     {{#unit this}}
     <tr class="unit-row-{{oddEven @index}}">
         <td>
@@ -51,10 +51,10 @@
                 <div class="col">
                     <small>
                         <b>Notes:</b>
-                        {{#each specialRules}}
+                        {{#jeweils specialRules}}
                         {{#unless @last}}<i>{{this}}</i>,{{/unless}}
                         {{#if @last}}<i>{{this}}</i>.{{/if}}
-                        {{/each}}
+                        {{/jeweils}}
                         {{notes}}
                         {{#if crit}}<b>Critical hit effect:</b> {{crit}}{{/if}}
                     </small>
@@ -63,13 +63,13 @@
             {{/if}}
         </td>
         {{/unit}}
-        {{/each}}
+        {{/jeweils}}
     </tbody>
 </table>
 </div>
 
 {{> special-rules}}
 {{/if}}
-{{/each}}
+{{/jeweils}}
 
 <p>&nbsp;</p>

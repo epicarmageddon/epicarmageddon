@@ -3,19 +3,19 @@
   "army": "Fir Lirithion",
   "version": "0.6.0",
   "release": "2022-04-01",
-  "strategy": "Fir Lirithion armies have a Strategy Rating of 4.",
-  "Initiative": "Titans, Wraithknights and the Avatar have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Fir Lirithion Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Titans, Wraithknights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Avatar (Fir Lirithion)",
     "Farsight",
-    "Hit and Run",
+    "Hit und Run",
     "May not Garrison (Fir Lirithion)",
 
     "Webway Portal",
     "Independent Twins"
   ],
   "usage": [
-    "The following army list allows you to field an army based on Eldar Titans and Eldar Knights."
+    "The following army list allows you to field an army based on Eldar Titans und Eldar Knights."
   ],
   "units": [
     {
@@ -62,12 +62,12 @@
       "formations": [
         {
           "name": "1 Avatar",
-          "units": "One Avatar",
+          "units": "Ein Avatar",
           "points": 0
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 50
         }
       ]
@@ -77,14 +77,14 @@
       "formations": [
         {
           "name": "0-1 Warlock Titan",
-          "units": "One Warlock Titan",
+          "units": "Ein Warlock Titan",
           "extraUnits": [
           ],
           "points": 850
         },
         {
           "name": "Phantom Titan",
-          "units": "One Phantom Titan",
+          "units": "Ein Phantom Titan",
           "extraUnits": [
             "Bonesinger"
           ],
@@ -94,13 +94,13 @@
     },
     {
       "name": "Fir Lirithion Aufklärer Titans",
-      "description": "Up to two Aufklärer Titan formations for each Battle Titan",
+      "description": " Bis zu zwei Aufklärer Titan formations für jeweils Battle Titan",
       "formations": [
         {
           "name": "Revenant Titan",
-          "units": "Two Revenant Titans",
+          "units": "Zwei Revenant Titans",
           "extraUnits": [
-            "Give the formation the 'Independent Twins' special rule: 50 points"
+            "Give the formation the 'Independent Twins' special rule: 50 Punkte"
           ],
           "points": 650
         }
@@ -108,32 +108,32 @@
     },
     {
       "name": "Fir Lirithion Troupes",
-      "description": "Up to three Troupes for each Battle or Aufklärer Titan formation.",
+      "description": " Bis zu drei Troupes für jeweils Battle oder Aufklärer Titan formation.",
       "formations": [
         {
           "name": "Wraithknight Troupe",
-          "units": "Two Wraithknights (may not mix configurations)",
+          "units": "Zwei Wraithknights (may not mix configurations)",
           "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Engines of Vaul",
-          "units": "One Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
-            "Add up to two additional Engines of Vaul for 200 points each",
+            "Füge bis zu zwei additional Engines of Vaul für 200 Punkte jeweils",
             "Bonesinger"
           ],
           "points": 250
         },
         {
           "name": "Spirit Guard Wraithhost",
-          "units": "One Spiritseer character, four Wraithguards",
+          "units": "Ein Spiritseer character, vier Wraithguards",
           "extraUnits": [
             "Wraithlords",
             "Wraithguards",
             "Wraithblades",
-            "Add four Wave Serpents: 150 points (may only be taken if the entire formation can fit inside)"
+            "Füge vier Wave Serpents: 150 Punkte (may only be taken if the entire formation can fit inside)"
           ],
           "points": 225
         }
@@ -141,64 +141,64 @@
     },
     {
       "name": "Craftworld Navy",
-      "description": "Up to a fourth of the points available may be spent on these formations",
+      "description": " Bis zu a fourth of the Punkte available may be spent on these formations",
       "formations": [
         {
           "name": "Nightwing Aerie",
-          "units": "Two Nightwing Interceptors",
+          "units": "Zwei Nightwing Interceptors",
           "extraUnits": [
-            "Add one Nightwing Interceptor: 75 Points"
+            "Füge eine Nightwing Interceptor: 75 Points"
           ],
           "points": 225
         },
         {
           "name": "Vampire Hunter",
-          "units": "One Vampire Hunter",
+          "units": "Ein Vampire Hunter",
           "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Vampire",
-          "units": "One Vampire Raider",
+          "units": "Ein Vampire Raider",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "0-1 Spacecraft",
-          "units": "One Wraithship",
+          "units": "Ein Wraithship",
           "extraUnits": [
-            "Replace with a Dragonship: 125 Points"
+            "Ersetze mit einemDragonship: 125 Points"
           ],
           "points": 175
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Fir Lirithion Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Fir Lirithion Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "0-1 Bonesinger",
-        "description": "Add one Bonesinger to the formation",
-        "points": "50 points"
+        "description": "Füge eine Bonesinger to the formation",
+        "points": "50 Punkte"
       },
       {
         "name": "Wraithguard",
-        "description": "Add two Eldar Wraithguards",
-        "points": "75 points"
+        "description": "Füge zwei Eldar Wraithguards",
+        "points": "75 Punkte"
       },
       {
         "name": "Wraithblades",
-        "description": "Add two Eldar Wraithblades",
-        "points": "50 points"
+        "description": "Füge zwei Eldar Wraithblades",
+        "points": "50 Punkte"
       },
       {
         "name": "Wraithlord",
-        "description": "Add up to three Eldar Wraithlords",
-        "points": "50 points each"
+        "description": "Füge bis zu drei Eldar Wraithlords",
+        "points": "50 Punkte jeweils"
       }
     ]
   }

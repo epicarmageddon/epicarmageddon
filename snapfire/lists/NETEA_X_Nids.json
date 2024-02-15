@@ -6,32 +6,32 @@
       {
          "name": "SYNAPSE SWARMS",
          "formations": [
-            {"id": 500, "name": "Small Tyranid Swarm", "pts": 10, "upgrades": [11,12,15,16,21,22,23,24,25,26,27,28,35]},
-            {"id": 501, "name": "Medium Tyranid Swarm", "pts": -5, "upgrades": [11,12,15,16,21,22,23,24,25,26,27,28,35]},
-            {"id": 502, "name": "Large Tyranid Swarm", "pts": -45, "upgrades": [11,12,15,16,21,22,23,24,25,26,27,28,35]}
+            {"id": 500, "name": "Small Tyranid Swarm", "pts": 10, "Erweiterungen": [11,12,15,16,21,22,23,24,25,26,27,28,35]},
+            {"id": 501, "name": "Medium Tyranid Swarm", "pts": -5, "Erweiterungen": [11,12,15,16,21,22,23,24,25,26,27,28,35]},
+            {"id": 502, "name": "Large Tyranid Swarm", "pts": -45, "Erweiterungen": [11,12,15,16,21,22,23,24,25,26,27,28,35]}
          ]
       },
       {
-         "name": "INDEPENDENT SWARMS <br/> Max 1 for each Synapse Swarm",
+         "name": "INDEPENDENT SWARMS <br/> Max 1 für jeweils Synapse Swarm",
          "formations": [
-            {"id": 517, "name": "Biovore Swarm", "pts": 0, "upgrades": [16]},
-            {"id": 518, "name": "Dactylis Swarm", "pts": 0, "upgrades": [31]},
-            {"id": 519, "name": "Exocrine Swarm", "pts": 0,"upgrades": [28]},
-            {"id": 520, "name": "Genestealer Swarm", "pts": 0, "upgrades": [80,81]},
-            {"id": 524, "name": "Lictor Swarm", "pts": 10, "upgrades": [41]}
+            {"id": 517, "name": "Biovore Swarm", "pts": 0, "Erweiterungen": [16]},
+            {"id": 518, "name": "Dactylis Swarm", "pts": 0, "Erweiterungen": [31]},
+            {"id": 519, "name": "Exocrine Swarm", "pts": 0,"Erweiterungen": [28]},
+            {"id": 520, "name": "Genestealer Swarm", "pts": 0, "Erweiterungen": [80,81]},
+            {"id": 524, "name": "Lictor Swarm", "pts": 10, "Erweiterungen": [41]}
          ]
       },
       {
          "name": "TYRANID WAR ENGINES <br/> Max 25%",
          "formations": [
-            {"id": 521, "name": "Harridian Swarm", "pts": 0, "upgrades": [38,21]},
-            {"id": 522, "name": "Hierodule Bio-Titan", "pts": 350, "upgrades": []},
-            {"id": 523, "name": "Hierophant Bio-Titan", "pts": 525, "upgrades": []},
-            {"id": 526, "name": "Trygon Swarm", "pts": 30, "upgrades": [29,26]}
+            {"id": 521, "name": "Harridian Swarm", "pts": 0, "Erweiterungen": [38,21]},
+            {"id": 522, "name": "Hierodule Bio-Titan", "pts": 350, "Erweiterungen": []},
+            {"id": 523, "name": "Hierophant Bio-Titan", "pts": 525, "Erweiterungen": []},
+            {"id": 526, "name": "Trygon Swarm", "pts": 30, "Erweiterungen": [29,26]}
          ]
       }
    ],
-   "upgrades": [
+   "Erweiterungen": [
        {"id": 5, "name": "Hive Tyrant w/ Symbiote", "pts": 150},
        {"id": 6, "name": "Dominatrix w/ Symbiote", "pts": 375},
 

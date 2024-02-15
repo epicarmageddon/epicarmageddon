@@ -4,9 +4,9 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_ImperialFists",
-  "intro": "The following army list allows you to field an army based on the Imperial Fists Space Marine chapter or any of its successor chapters. The Imperial Fists specializes in siege warfare.",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "Tarantula and Hyperios Emplacement formations have an Initiative Rating of 2+. All other formations have an Initiative Rating of 1+.",
+  "intro": "The following army list allows you to field an army based on the Imperial Fists Space Marine chapter oder any of its successor chapters. The Imperial Fists specializes in siege warfare.",
+  "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
+  "Initiative": "Tarantula und Hyperios Emplacement Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all non-'Machine Spirit' Imperial Fists detachments.",
   "specialRules": [
     "Imperial Fists Transports",
@@ -71,7 +71,7 @@
           "Reaver Titan, Goth Class"
       ],
       "unitRules": [
-        "Void Shields"
+        "Deflektorschilde"
       ]
     }
   ],
@@ -81,7 +81,7 @@
       "formations": [
         {
           "name": "Devastators",
-          "units": "Four Devastators plus transport",
+          "units": "Vier Devastators plus transport",
           "extraUnits": [
             "Achilles",
             "Anti-Air",
@@ -96,7 +96,7 @@
         },
         {
           "name": "Vindicators",
-          "units": "Four Vindicators",
+          "units": "Vier Vindicators",
           "extraUnits": [
             "Anti-Air",
             "Vindicators"
@@ -105,7 +105,7 @@
       },
         {
           "name": "Tacticals",
-          "units": "Six Tacticals plus transport",
+          "units": "Sechs Tacticals plus transport",
           "extraUnits": [
             "Achilles",
             "Anti-Air",
@@ -121,13 +121,13 @@
     },
     {
       "name": "Imperial Fists Support Detachments",
-      "description": "Up to two Support Detachments for each Core Detachment.",
+      "description": " Bis zu zwei Support Detachments für jeweils Core Detachment.",
       "formations": [
           {
             "name": "Land Raiders",
-            "units": "Three Land Raiders",
+            "units": "Drei Land Raiders",
             "extraUnits": [
-              "Add one Land Raider: 50 points",
+              "Füge eine Land Raider: 50 Punkte",
               "Achilles",
               "Anti-Air",
               "Vindicators"
@@ -137,7 +137,7 @@
 
         {
           "name": "Predators",
-          "units": "Four Predator Destructors and/or Predator Annihilators",
+          "units": "Vier Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -145,7 +145,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Any five of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -153,18 +153,18 @@
         },
         {
           "name": "Aufklärers",
-          "units": "Four Aufklärers plus transport",
+          "units": "Vier Aufklärers plus transport",
           "extraUnits": [
-            "May take Siege Rhinos instead of normal Rhinos: 25 points",
+            "May take Siege Rhinos instead of normal Rhinos: 25 Punkte",
             "Razorbacks",
-            "Snipers",
+            "Scharfschützen",
             "Vindicators"
           ],
           "points": 150
         },
         {
           "name": "Terminators",
-          "units": "Four Terminators",
+          "units": "Vier Terminators",
           "extraUnits": [
             "Achilles",
             "Befehlshaber",
@@ -175,7 +175,7 @@
         },
         {
           "name": "Centurions",
-          "units": "Four Assault and/or Devastor Centurions",
+          "units": "Vier Assault und/oder Devastor Centurions",
           "extraUnits": [
             "Achilles",
             "Land Raider Transport",
@@ -186,18 +186,18 @@
 
         {
           "name": "Whirlwinds",
-          "units": "Four Whirlwinds",
+          "units": "Vier Whirlwinds",
           "extraUnits": [
-            "Add two Whirlwinds: 75 points",
+            "Füge zwei Whirlwinds: 75 Punkte",
             "Anti-Air"
           ],
           "points": 275
         },
         {
           "name": "0-1 Fellblade Relics",
-          "units": "One Fellblade",
+          "units": "Ein Fellblade",
           "extraUnits": [
-            "Add one Fellblade: 300 points"
+            "Füge eine Fellblade: 300 Punkte"
           ],
           "points": 300
         }
@@ -205,125 +205,125 @@
     },
     {
       "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
-      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula or Hyperios formation for each Aufklärer detachment.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.  Bis zu eine Tarantula oder Hyperios formation für jeweils Aufklärer detachment.",
       "formations": [
         {
           "name": "Bastion",
-          "units": "One Bastion",
+          "units": "Ein Bastion",
           "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Fortifications",
-          "units": "Two Bunkers, and 40cm Trenches and/or Minefields (exact proportions to be decided at the start of the game, before deploying objectives.)",
+          "units": "Zwei Bunkers, und 40cm Trenches und/oder Minefields (exact proportions to be decided at the start of the game, before deploying objectives.)",
           "points": 50
         },
         {
           "name": "Tarantula",
-          "units": "Four Tarantulas",
+          "units": "Vier Tarantulas",
           "points": 125
         },
         {
           "name": "Hyperios",
-          "units": "Three Hyperios Sentries",
+          "units": "Drei Hyperios Sentries",
           "points": 150
         },
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Reaver",
-          "units": "One Reaver Titan (Goth Class)",
+          "units": "Ein Reaver Titan (Goth Class)",
           "points": 600
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Imperial Fists Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+  "Erweiterungen": {
+    "title": "Imperial Fists Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge any eine of the following units to the formation",
         "options": [
           {
-            "description": "Add one Hunter",
-            "points": "75 points"
+            "description": "Füge eine Hunter",
+            "points": "75 Punkte"
           },
           {
-            "description": "Add one Stalker",
-            "points": "50 points"
+            "description": "Füge eine Stalker",
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Befehlshaber",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
             "description": "Captain, Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Chaplain",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "Land Raider Achilles",
-            "points": "75 points"
+            "points": "75 Punkte"
         },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add any two of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
+        "description": "Füge any zwei of the following: Dreadnought, Hellfire Dreadnought, Siege Dreadnought",
         "points": [
-          "50 points each"
+          "50 Punkte jeweils"
         ]
       },
       {
         "name": "Land Raider Transport",
-        "description": "Add any number of Land Raiders or Land Raider Crusaders, up to the number required to transport the formation",
-        "points": "50 points each"
+        "description": "Füge any number of Land Raiders oder Land Raider Crusaders, bis zu the number required to transport the formation",
+        "points": "50 Punkte jeweils"
       },
       {
         "name": "Razorbacks",
-        "description": "Add any number of Razorbacks, up to the number required to transport the formation",
-        "points": "25 points each"
+        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "points": "25 Punkte jeweils"
       },
       {
-        "name": "Snipers",
-        "description": "Give all Aufklärers in the formation 'Sniper' on their Schwerer Bolter",
-        "points": "25 points"
+        "name": "Scharfschützen",
+        "description": "Give all Aufklärers in the formation 'Scharfschütze' on their Schwerer Bolter",
+        "points": "25 Punkte"
       },
       {
         "name": "Siege Equipment",
-        "description": "The formation may take Siege Rhinos instead of normal Rhinos, or replace 'plus transport' with Space Marine Rapiers or Space Marine Thunderfires",
+        "description": "The formation may take Siege Rhinos instead of normal Rhinos, oder replace 'plus transport' with Space Marine Rapiers oder Space Marine Thunderfires",
         "points": [
-          "25 points for Siege Rhinos",
-          "25 points for two Rapiers or two Thunderfires",
-          "100 points for four Rapiers or four Thunderfires"
+          "25 Punkte für Siege Rhinos",
+          "25 Punkte für zwei Rapiers oder zwei Thunderfires",
+          "100 Punkte für vier Rapiers oder vier Thunderfires"
         ]
       },
       {
         "name": "Typhoons",
-        "description": "Replace up to five Land Speeders with an equal number of Land Speeder Typhoons",
-        "points": "10 points each"
+        "description": "Ersetze bis zu fünf Land Speeders mit einem equal number of Land Speeder Typhoons",
+        "points": "10 Punkte jeweils"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Vindicators",
+        "description": "Füge bis zu zwei Vindicators",
         "points": [
-          "50 points each",
-          "75 points per pair"
+          "50 Punkte jeweils",
+          "75 Punkte pro pair"
         ]
       }
     ]

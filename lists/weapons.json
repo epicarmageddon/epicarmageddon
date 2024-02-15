@@ -1311,7 +1311,7 @@
       ]
     },
     {
-      "name": "Karacnos Mörser Battery",
+      "name": "Karacnos Mörser Batterie",
       "modes": [
         {
           "firepower": "3BP",
@@ -4191,7 +4191,7 @@
       ]
     },
     {
-      "name": "Firestorm Battery",
+      "name": "Firestorm Batterie",
       "modes": [
         {
           "firepower": "2× AP5+/AT5+/AA4+",
@@ -8267,7 +8267,7 @@
       ]
     },
     {
-      "name": "Plasma Storm Battery",
+      "name": "Plasma Storm Batterie",
       "modes": [
         {
           "firepower": "2x AP5+/AT5+",
@@ -10034,7 +10034,7 @@
       ]
     },
     {
-      "name": "Sniper Drone",
+      "name": "Scharfschütze Drone",
       "modes": [
         {
           "firepower": "AP5+",
@@ -10046,7 +10046,7 @@
       ]
     },
     {
-      "name": "Sniper Rifle",
+      "name": "Scharfschützengewehr",
       "modes": [
         {
           "firepower": "AP5+",
@@ -10058,7 +10058,7 @@
       ]
     },
     {
-      "name": "Sniper Rifles",
+      "name": "Scharfschützengewehre",
       "modes": [
         {
           "firepower": "AP5+",
@@ -10156,7 +10156,7 @@
       ]
     },
     {
-      "name": "Soopagunz Belly Battery",
+      "name": "Soopagunz Belly Batterie",
       "modes": [
         {
           "firepower": "10BP",
@@ -11180,7 +11180,7 @@
       ]
     },
     {
-      "name": "Terrebrax Phospex Battery",
+      "name": "Terrebrax Phospex Batterie",
       "modes": [
         {
           "firepower": "6BP",
@@ -11687,7 +11687,7 @@
       ]
     },
     {
-      "name": "Anvilus Maschinenkanone Battery",
+      "name": "Anvilus Maschinenkanone Batterie",
       "modes": [
         {
           "firepower": "2x AP5+/AT6+/AA6+",
@@ -12805,7 +12805,7 @@
       ]
     },
     {
-      "name": "Bolt Sniper Rife",
+      "name": "Bolter Scharfschützengewehr Rife",
       "modes": [
         {
           "firepower": "AP4+",
@@ -12982,7 +12982,7 @@
     },
     {
       "name": "Ind",
-      "description": "Indirect Fire"
+      "description": "Indirekt Fire"
     },
     {
       "name": "Lightning Charge",
@@ -13022,7 +13022,7 @@
     },
     {
       "name": "S",
-      "description": "Sniper"
+      "description": "Scharfschütze"
     },
     {
       "name": "Slow",

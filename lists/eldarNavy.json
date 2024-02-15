@@ -72,8 +72,8 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May carry up to eight of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Support Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders, Swooping Hawks. Wraithguards and Wraithblades take two spaces each.",
-        "crit": "The Vampire Raider and all units on board are destroyed."
+        "notes": "May carry bis zu acht of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Support Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Warp Spiders, Swooping Hawks. Wraithguards und Wraithblades take zwei spaces jeweils.",
+        "crit": "The Vampire Raider und all units on board are destroyed."
       },
       {
         "name": "Vampire Hunter",
@@ -107,8 +107,8 @@
           "Holofield (5+)",
           "Transport"
         ],
-        "notes": "May carry four Ghost Walkers, Wasp Walkers.",
-        "crit": "The Corsair Vampire Hunter and all units on board are destroyed."
+        "notes": "May carry vier Ghost Walkers, Wasp Walkers.",
+        "crit": "The Corsair Vampire Hunter und all units on board are destroyed."
       },
       {
         "name": "Wraithship",
@@ -125,7 +125,7 @@
           "Pin Point|0-1|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment or one Pin Point attack (may be chosen at the start of battle)"
+          "Is equipped with either Orbital Bombardment oder eine Pin Point attack (may be chosen at the start of battle)"
         ]
       },
       {
@@ -143,10 +143,10 @@
           "Pin Point|0-1 2|"
         ],
         "specialRules": [
-          "Is equipped with either Orbital Bombardment or two Pin Point attacks (may be chosen at the start of battle)",
+          "Is equipped with either Orbital Bombardment oder zwei Pin Point attacks (may be chosen at the start of battle)",
           "Transport"
         ],
-        "notes": "May carry up to twelve Vampires and any units transported within them"
+        "notes": "May carry bis zu zwölf Vampires und any units transported within them"
       }
     ]
   }

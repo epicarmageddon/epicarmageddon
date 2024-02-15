@@ -48,7 +48,7 @@ var ArmyforgeUI = {
 	},
 
 	addUpgrade:function(formation, upgradeType) {
-		formation.upgrades.push( upgradeType );
+		formation.Erweiterungen.push( upgradeType );
 		ArmyforgeUI.updateUpgrade(formation, upgradeType);
 		ArmyforgeUI.checkUpgradeMenuItems();		
 		ArmyforgeUI.checkWarnings();		
@@ -56,13 +56,13 @@ var ArmyforgeUI = {
 
 	checkWarnings:function() {
 		$('warnings').update();
-		Force.getWarnings().each(function(x) {
+		Force.getWarnings().jeweils(function(x) {
 			$('warnings').insert('WARNING: ' + x + '').insert(new Element('br'));
 		});
 	},
 
 	checkFormationMenuItems:function() {
-		ArmyList.allNonFixedFormations.each(function(f) {
+		ArmyList.allNonFixedFormations.jeweils(function(f) {
 			var msgs = Force.cannotAdd(f);
 			var id = '_' + f.id;
 			if (msgs.empty()) {
@@ -75,9 +75,9 @@ var ArmyforgeUI = {
 	},
 
 	checkUpgradeMenuItems:function() {
-		Force.formations.each(function(f) {
-			// formation upgrades
-			f.type.upgrades.each(function(u) {
+		Force.formations.jeweils(function(f) {
+			// formation Erweiterungen
+			f.type.Erweiterungen.jeweils(function(u) {
 				var id = '_' + f.id + '_' + u.id;
 				var msgs = f.cannotAdd(u);
 				if (msgs.empty()) {
@@ -89,8 +89,8 @@ var ArmyforgeUI = {
 			});
 			
 			// upgrade swaps			
-			f.upgrades.uniq().each(function(u) {
-				f.type.optionsFor(u).each( function(o) {
+			f.Erweiterungen.uniq().jeweils(function(u) {
+				f.type.optionsFor(u).jeweils( function(o) {
 					var id = '_' + f.id + '_' + u.id + '_' + o.id; 
 					var msgs = f.cannotSwap(u,o);
 					if (msgs.empty()) {
@@ -124,7 +124,7 @@ var ArmyforgeUI = {
 									new Element('td', {colspan:'2', 'class':'inactive'}).update('None available') );
 			newTable.insert(listItem);		
 		};		
-		items.each(function(i) {
+		items.jeweils(function(i) {
 			newTable.insert(i);
 		});
 		newTable.childElements().eachSlice(2, function(x) {
@@ -134,15 +134,15 @@ var ArmyforgeUI = {
 		return new Element('div', {'class':'listDiv'}).update(newTable);
 	},
 
-	createSwapPopup:function(formation, upgrades, upgradeType) {
+	createSwapPopup:function(formation, Erweiterungen, upgradeType) {
 		var menuItems = [];
-		upgrades.each(function(x) {
+		Erweiterungen.jeweils(function(x) {
 			var id = formation.id + '_' + upgradeType.id + '_' + x.id;
-			var points = x.pts - upgradeType.pts;
+			var Punkte = x.pts - upgradeType.pts;
 			if (points > 0) {
-				points = '+' + points;
+				points = '+' + Punkte;
 			}
-			var menuItem = ArmyforgeUI.createMenuItem(id, x.name, points);
+			var menuItem = ArmyforgeUI.createMenuItem(id, x.name, Punkte);
 			menuItems.push(menuItem);		
 			menuItem.observe('click',
 					ArmyforgeUI.wrapActivatableHandler(menuItem, ArmyforgeUI.swapUpgrade)
@@ -157,7 +157,7 @@ var ArmyforgeUI = {
 
 	createSectionMenu:function(section) {
 		var menuItems = [];
-		section.formations.each(function(f) {
+		section.formations.jeweils(function(f) {
 			var menuItem = ArmyforgeUI.createMenuItem(f.id, f.name, f.cost);
 			menuItems.push(menuItem);		
 			 // should this be done after the table is inserted in the DOM?
@@ -170,9 +170,9 @@ var ArmyforgeUI = {
 		$('armyList').insert(menu);
 	},
 
-	createUpgradesPopup:function(formation) {
+	createErweiterungenPopup:function(formation) {
 		var menuItems = [];
-		formation.type.upgrades.each( function(u){
+		formation.type.Erweiterungen.jeweils( function(u){
 			var menuItem = ArmyforgeUI.createMenuItem(formation.id+'_'+u.id, u.name, u.pts);
 			menuItems.push(menuItem);
 			menuItem.observe('click',
@@ -210,7 +210,7 @@ var ArmyforgeUI = {
 		// parse url parameters...
 		ArmyforgeUI.urlData.baseURL = new String(window.location).split('?')[0];
 		var paramString = new String(window.location).split('?')[1];
-		paramString.split('&').each(function(param) {
+		paramString.split('&').jeweils(function(param) {
 			ArmyforgeUI.urlData[param.split('=')[0]] = param.split('=')[1];
 		});
 		var listFile = './lists/' + ArmyforgeUI.urlData.list + '.json';	
@@ -231,11 +231,11 @@ var ArmyforgeUI = {
 
 	initUI:function() {		
 
-		// render name and options
+		// render name und options
 		$('orbatListName').update( ArmyList.data.id + ' (' + ArmyList.data.version + ')' );
-		ArmyList.data.sections.each( ArmyforgeUI.createSectionMenu );
+		ArmyList.data.sections.jeweils( ArmyforgeUI.createSectionMenu );
 
-		// render force and mandatory units
+		// render force und mandatory units
 		if (ArmyforgeUI.urlData.force) {
 			Force.unpickle(ArmyforgeUI.urlData.force);
 			ArmyforgeUI.renderForce();
@@ -244,14 +244,14 @@ var ArmyforgeUI = {
                         ArmyforgeUI.checkWarnings();
 		}
                 else {
-                    ArmyList.mandatoryFormations().each(function(x) {
+                    ArmyList.mandatoryFormations().jeweils(function(x) {
                         ArmyforgeUI.addFormation(x);
                     });
 		}
 		// render notes
 		if (ArmyList.data.notes) {
 			var idx = 1;
-			ArmyList.data.notes.each(function(note) {			
+			ArmyList.data.notes.jeweils(function(note) {			
 				$('notes').insert(new Element('sup').update(idx++));
 				$('notes').insert(note);
 				$('notes').insert(new Element('br'));
@@ -265,7 +265,7 @@ var ArmyforgeUI = {
 	removeFormation:function(formation) {
             if (Force.canRemove(formation)) {
 		Force.formations.remove( formation );
-		ArmyforgeUI.upgradeRowsFor(formation).each( Element.remove );
+		ArmyforgeUI.upgradeRowsFor(formation).jeweils( Element.remove );
 		ArmyforgeUI.formationRowFor(formation).remove();
 		ArmyforgeUI.updatePoints();
 		ArmyforgeUI.checkUpgradeMenuItems();
@@ -276,7 +276,7 @@ var ArmyforgeUI = {
 
 	removeUpgrade:function(upgradeType, formation) {
 		if (formation.canRemove(upgradeType)) {
-			formation.upgrades.remove( upgradeType );
+			formation.Erweiterungen.remove( upgradeType );
 			ArmyforgeUI.updateUpgrade(formation, upgradeType);
 			ArmyforgeUI.checkUpgradeMenuItems();		
 			ArmyforgeUI.checkWarnings();
@@ -285,7 +285,7 @@ var ArmyforgeUI = {
 
 	renderForce:function() {		
 		$('orbatName').update( Force.name );
-		Force.formations.each( ArmyforgeUI.renderFormation );
+		Force.formations.jeweils( ArmyforgeUI.renderFormation );
 		ArmyforgeUI.updatePoints();
 	},
 
@@ -293,7 +293,7 @@ var ArmyforgeUI = {
 
 		//alert('renderFormation');
 
-		var dropDown = ArmyforgeUI.createUpgradesPopup( formation );
+		var dropDown = ArmyforgeUI.createErweiterungenPopup( formation );
 		var labelCell = new Element('td').update(formation.type.name).insert( dropDown );
 		if (formation.type.units) {
 			labelCell.insert(
@@ -316,7 +316,7 @@ var ArmyforgeUI = {
 		newRow.observe('mouseout', function() { dropDown.hide(); });
 		newRow.observe('click', ArmyforgeUI.removeFormation.bind(this, formation));		
 
-		formation.upgrades.uniq().each( function(x) {
+		formation.Erweiterungen.uniq().jeweils( function(x) {
 			ArmyforgeUI.renderUpgrade( formation,x );
 		});
 
@@ -338,7 +338,7 @@ var ArmyforgeUI = {
 		// insert new row after last upgrade
 		if (upgradeRows.length > 0) {
 
-			// place new mandatories after mandatories but before other upgrades
+			// place new mandatories after mandatories but before other Erweiterungen
 			var firstNonMandatoryRow = upgradeRows.find(function(x) {
 						return !x.hasClassName('mandatory');
 					});
@@ -375,10 +375,10 @@ var ArmyforgeUI = {
 	},
 
 	resetViews:function() {
-		$$('.viewDiv').each(function(x) {
+		$$('.viewDiv').jeweils(function(x) {
 			x.hide();
 		});
-		$$('#controls a.selected').each(function(x) {
+		$$('#controls a.selected').jeweils(function(x) {
 			x.removeClassName('selected');
 		});
 	},

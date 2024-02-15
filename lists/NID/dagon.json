@@ -4,8 +4,8 @@
   "version": "Beta 1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Tyranid_HiveFleetDagon",
-  "strategy": "Tyranid armies have a Strategy Rating of 1.",
-  "Initiative": "The Nexus Swarm has an Initiative Rating of 1+. All other Tyranid formations have an Initiative Rating of 2+. In addition, all formations are subject to the 'Hive Mind' special rule.",
+  "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
+  "Initiative": "The Nexus Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiative von 2+. In addition, all formations are subject to the 'Hive Mind' special rule.",
   "specialRules": [
     "Synapse",
     "Hive Mind Locus",
@@ -78,30 +78,30 @@
       "formations": [
         {
           "name": "0-1 Nexus Swarm",
-          "units": "One Dagon Dominatrix",
+          "units": "Ein Dagon Dominatrix",
           "extraUnits": [
-            "One to four Instinctive Swarms (except Mycetic Spore)"
+            "Ein to vier Instinctive Swarms (except Mycetic Spore)"
           ],
           "points": 425
         },
         {
           "name": "Tyrant Swarm",
-          "units": "One Hive Tyrant",
+          "units": "Ein Hive Tyrant",
           "extraUnits": [
-            "Two to four Instinctive Swarms",
-            "Replace the Hive Tyrant with a Hive Tyrant Shrike: Free",
-            "0-1 Hive Tyrant in the army may be replaced with the Dagon Overlord: 75 points",
-            "Replace the Dagon Overlord with a Dagon Overlord Shrike: Free"
+            "Zwei to vier Instinctive Swarms",
+            "Ersetze the Hive Tyrant mit einemHive Tyrant Shrike: Free",
+            "0-1 Hive Tyrant in the army may be replaced with the Dagon Overlord: 75 Punkte",
+            "Ersetze the Dagon Overlord mit einemDagon Overlord Shrike: Free"
           ],
           "points": 150
         },
         {
           "name": "Assault Swarm",
-          "units": "Two Tyranid Warriors and/or Zoanthropes",
+          "units": "Zwei Tyranid Warriors und/oder Zoanthropes",
           "extraUnits": [
-            "Two to four Instinctive Swarms",
-            "1+ Gaunts, Gargoyles or Biovores must be chosen",
-            "Replace up to two Tyranid Warriors with Tyranid Warrior Shrikes: Free"
+            "Zwei to vier Instinctive Swarms",
+            "1+ Gaunts, Gargoyles oder Biovores must be chosen",
+            "Ersetze bis zu zwei Tyranid Warriors with Tyranid Warrior Shrikes: Free"
           ],
           "points": 100
         }
@@ -109,39 +109,39 @@
     },
     {
       "name": "Secondary Synapse Swarms",
-      "description": "Up to one Secondary Synapse Swarm for each Primary Synapse Swarm.",
+      "description": " Bis zu eine Secondary Synapse Swarm für jeweils Primary Synapse Swarm.",
       "formations": [
         {
           "name": "Nest Swarm",
-          "units": "One Hive Nest",
+          "units": "Ein Hive Nest",
           "extraUnits": [
-            "One to two Instinctive Swarms chosen from Gaunts, Gargoyles, Biovores or Bio-Support",
-            "1+ Gaunts, Gargoyles or Biovores must be chosen"
+            "Ein to zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Biovores oder Bio-Support",
+            "1+ Gaunts, Gargoyles oder Biovores must be chosen"
           ],
           "points": 150
         },
         {
           "name": "Breacher Swarm",
-          "units": "One Hierodule Prime (Barbed or Scythed)",
+          "units": "Ein Hierodule Prime (Barbed oder Scythed)",
           "extraUnits": [
-            "One to two Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex or Bio-Attack"
+            "Ein to zwei Instinctive Swarms chosen from Gaunts, Gargoyles, Burrower, Carnifex oder Bio-Attack"
           ],
           "points": 150
         },
         {
           "name": "Infestation Swarm",
-          "units": "Three Ravener Alphas or one Trygon Prime",
+          "units": "Drei Ravener Alphas oder eine Trygon Prime",
           "extraUnits": [
-            "One to two Burrower Instinctive Swarms"
+            "Ein to zwei Burrower Instinctive Swarms"
           ],
           "points": 150
         },
         {
           "name": "Harasser Swarm",
-          "units": "One Harridan",
+          "units": "Ein Harridan",
           "extraUnits": [
-            "One to two Instinctive Swarms chosen from Gargoyles or Bio-Flyers",
-            "Add one Harridan: 150 points"
+            "Ein to zwei Instinctive Swarms chosen from Gargoyles oder Bio-Flyers",
+            "Füge eine Harridan: 150 Punkte"
           ],
           "points": 175
         }
@@ -149,19 +149,19 @@
     },
     {
       "name": "Common Independent Swarms",
-      "description": "Up to one Common Independent Swarm for each Primary Synapse Swarm. No more than a third of the army.",
+      "description": " Bis zu eine Common Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Genestealer Swarm",
-          "units": "One Brood Lord, six Genestealers",
+          "units": "Ein Brood Lord, sechs Genestealers",
           "extraUnits": [
-            "Add up to three Genestealers: 25 points each"
+            "Füge bis zu drei Genestealers: 25 Punkte jeweils"
           ],
           "points": 200
         },
         {
           "name": "Lictor Swarm",
-          "units": "Four Lictors",
+          "units": "Vier Lictors",
           "extraUnits": [
           ],
           "points": 225
@@ -170,80 +170,80 @@
     },
     {
       "name": "Rare Independent Swarms",
-      "description": "Up to one Rare Independent Swarm for each Primary Synapse Swarm. No more than a third of the army.",
+      "description": " Bis zu eine Rare Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Bio-Titan",
-          "units": "One Hierophant Bio-Titan",
+          "units": "Ein Hierophant Bio-Titan",
           "extraUnits": [
-            "Replace the Hierophant with a Hydraphant Bio-Titan: 100 points"
+            "Ersetze the Hierophant mit einemHydraphant Bio-Titan: 100 Punkte"
           ],
           "points": 375
         },
         {
           "name": "Bio-Vessel",
-          "units": "One Razorfiend",
+          "units": "Ein Razorfiend",
           "extraUnits": [
-            "Replace the Razorfiend with a Hive Ship: Free"
+            "Ersetze the Razorfiend mit einemHive Ship: Free"
           ],
           "points": 150
         }
       ]
     }
   ],
-  "upgrades": {
+  "Erweiterungen": {
     "title": "Instinctive Swarms",
     "description": "It is compulsory to buy the minimum amount of Instinctive Swarms.",
     "items": [
       {
         "name": "Gaunts",
-        "description": "Five Termagants and/or Hormagaunts",
-        "points": "75 points"
+        "description": "Fünf Termagants und/oder Hormagaunts",
+        "points": "75 Punkte"
       },
       {
         "name": "Biovores",
-        "description": "Four Biovores",
-        "points": "75 points"
+        "description": "Vier Biovores",
+        "points": "75 Punkte"
       },
       {
         "name": "Gargoyles",
-        "description": "Four Gargoyles",
-        "points": "75 points"
+        "description": "Vier Gargoyles",
+        "points": "75 Punkte"
       },
       {
         "name": "Bio-Flyers",
-        "description": "Three Harpies or three Hive Crones",
-        "points": "100 points"
+        "description": "Drei Harpies oder drei Hive Crones",
+        "points": "100 Punkte"
       },
       {
         "name": "Carnifex",
-        "description": "Three Barbed Carnifex or three Screamer-Killer Carnifex",
-        "points": "125 points"
+        "description": "Drei Barbed Carnifex oder drei Screamer-Killer Carnifex",
+        "points": "125 Punkte"
       },
       {
         "name": "Bio-Support",
-        "description": "Three Dactylis",
-        "points": "150 points"
+        "description": "Drei Dactylis",
+        "points": "150 Punkte"
       },
       {
         "name": "Bio-Attack",
-        "description": "Two Haruspex, two Exocrines, or two Malefactors",
-        "points": "75 points"
+        "description": "Zwei Haruspex, zwei Exocrines, oder zwei Malefactors",
+        "points": "75 Punkte"
       },
       {
         "name": "Breacher",
-        "description": "One Barbed Hierodule or one Scythed Hierodule",
-        "points": "125 points"
+        "description": "Ein Barbed Hierodule oder eine Scythed Hierodule",
+        "points": "125 Punkte"
       },
       {
         "name": "Burrower",
-        "description": "Two Trygons or five Raveners",
-        "points": "100 points"
+        "description": "Zwei Trygons oder fünf Raveners",
+        "points": "100 Punkte"
       },
       {
-        "name": "Mycetic Spore (0-1 per Swarm)",
-        "description": "Must deploy via planetary assault rules from a Razorfiend or Hive Ship.",
-        "points": "50 points"
+        "name": "Mycetic Spore (0-1 pro Swarm)",
+        "description": "Must deploy via planetary assault rules from a Razorfiend oder Hive Ship.",
+        "points": "50 Punkte"
       }
     ]
   },

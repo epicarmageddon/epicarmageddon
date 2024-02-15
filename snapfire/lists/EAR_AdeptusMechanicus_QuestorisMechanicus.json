@@ -4,35 +4,35 @@
 	"by":"EA-Ragnarok",
 	"notes":[],
 	"sections":[
-		{"name":"CORE BANNERS <br/> Max 1 Dominus Banner per Questoris Banner", "formations":[
-			{"id":500, "name":"Questoris", 		"pts":325, "upgrades":[6,7, 8]},
-			{"id":506, "name":"Dominus",	"pts":250, "upgrades":[6,7]}
+		{"name":"CORE BANNERS <br/> Max 1 Dominus Banner pro Questoris Banner", "formations":[
+			{"id":500, "name":"Questoris", 		"pts":325, "Erweiterungen":[6,7, 8]},
+			{"id":506, "name":"Dominus",	"pts":250, "Erweiterungen":[6,7]}
 		]},
-		{"name":"RECON BANNERS <br/> Max 1 per Core Banner", "formations":[
-			{"id":501, "name":"Cerastus",	"pts":225, "upgrades":[6]},
-			{"id":502, "name":"Arminger",			"pts":200, "upgrades":[106]}
+		{"name":"RECON BANNERS <br/> Max 1 pro Core Banner", "formations":[
+			{"id":501, "name":"Cerastus",	"pts":225, "Erweiterungen":[6]},
+			{"id":502, "name":"Arminger",			"pts":200, "Erweiterungen":[106]}
 		]},
-		{"name":"RELIC BANNERS <br/> Max 1 Relic Banner for each 1500 points in the army", "formations":[
-			{"id":507, "name":"Armiger Reliquae",	"pts":175,  "upgrades":[]},
-			{"id":503, "name":"Questoris Reliquae",	"pts":200, "upgrades":[6]},
-			{"id":505, "name":"Cerastus Reliquae",	"pts":300, "units":"Seneschal, Cerastus Relic Knight-Atrapos (Graviton Singularity Cannon, Atrapos Lascutter, Ionic Flare Shield)",  "upgrades":[]},
-			{"id":504, "name":"Acastus Reliquae",	"pts":300, "upgrades":[6]}
+		{"name":"RELIC BANNERS <br/> Max 1 Relic Banner für jeweils 1500 Punkte in the army", "formations":[
+			{"id":507, "name":"Armiger Reliquae",	"pts":175,  "Erweiterungen":[]},
+			{"id":503, "name":"Questoris Reliquae",	"pts":200, "Erweiterungen":[6]},
+			{"id":505, "name":"Cerastus Reliquae",	"pts":300, "units":"Seneschal, Cerastus Relic Knight-Atrapos (Graviton Singularity Cannon, Atrapos Lascutter, Ionic Flare Shield)",  "Erweiterungen":[]},
+			{"id":504, "name":"Acastus Reliquae",	"pts":300, "Erweiterungen":[6]}
 		]},
 		{"name":"FORGE WORLD ALLIES <br/> Max 33%", "formations":[
-			{"id":510, "name":"Skitarii Maniple",		"pts":325,  "upgrades":[], "units":"Magos, 9 Hypaspists"},
+			{"id":510, "name":"Skitarii Maniple",		"pts":325,  "Erweiterungen":[], "units":"Magos, 9 Hypaspists"},
 
-			{"id":512, "name":"Onager Maniple",		"pts":225, "units":"4 Onager Dunecrawlers", "upgrades":[]},
+			{"id":512, "name":"Onager Maniple",		"pts":225, "units":"4 Onager Dunecrawlers", "Erweiterungen":[]},
 
-			{"id":513, "name":"Skorpius Maniple",		"pts":25, "upgrades":[60]},
+			{"id":513, "name":"Skorpius Maniple",		"pts":25, "Erweiterungen":[60]},
 
-            {"id":514, "name":"Avenger Squadron",				"pts":175,  "upgrades":[], "units":"2 Avenger Strike Fighters"},
+            {"id":514, "name":"Avenger Schwadron",				"pts":175,  "Erweiterungen":[], "units":"2 Avenger Strike Fighters"},
 
-			{"id":522, "name":"Ark Mechanicus Battleship", "pts":225, "upgrades":[]}
+			{"id":522, "name":"Ark Mechanicus Battleship", "pts":225, "Erweiterungen":[]}
 
 		]}
 	],
 
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":6,"name":"Seneschal","pts":25},
 		{"id":7,"name":"Lord Seneschal","pts":75},
 
@@ -85,8 +85,8 @@
 
 		{"id":163, "name":"Acastus Relic Knight-Porphyrion (2 Magna Lascannons, 2 Autocannons, Helios Defense Missiles)",  "pts":0},
 		{"id":164, "name":"2 Acastus Relic Knight-Porphyrions (2 Magna Lascannons, 2 Autocannons, Helios Defense Missiles)",  "pts":225},
-		{"id":165, "name":"Acastus Relic Knight-Asterius (2 Conversion Beam Cannons, 2 Volkite Culvertins, Karacnos Mortar Battery)",	"pts":0},
-		{"id":166, "name":"2 Acastus Relic Knight-Asterius (2 Conversion Beam Cannons, 2 Volkite Culvertins, Karacnos Mortar Battery)",	"pts":225},
+		{"id":165, "name":"Acastus Relic Knight-Asterius (2 Conversion Beam Cannons, 2 Volkite Culvertins, Karacnos Mortar Batterie)",	"pts":0},
+		{"id":166, "name":"2 Acastus Relic Knight-Asterius (2 Conversion Beam Cannons, 2 Volkite Culvertins, Karacnos Mortar Batterie)",	"pts":225},
 
 		{"id":170, "name":"3x Eradication Beamer, 1x Icarus Array",				"pts":0},
 		{"id":171, "name":"3x Neutron Laser, 1x Icarus Array",				"pts":0},

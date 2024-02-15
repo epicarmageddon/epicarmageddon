@@ -4,7 +4,7 @@
   "version": "0.7.0",
   "release": "2022-04-01",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. All other formations have a Initiative Rating of 2+. In addition, the Questoris Banner formation is subject to the 'Chivalry' special rule.",
   "specialRules": [
     "Tunnelers"
   ],
@@ -65,7 +65,7 @@
         "Warbringer Titan"
       ],
       "unitRules": [
-        "Void Shields"
+        "Deflektorschilde"
       ]
     }
   ],
@@ -75,11 +75,11 @@
       "formations": [
         {
           "name": "Vanguard Maniple",
-          "units": "One Magos, nine Skitarii Vanguards",
+          "units": "Ein Magos, neun Skitarii Vanguards",
           "extraUnits": [
-            "Replace four Skitarii Vanguards with four Rapiers: Free",
-            "Add up to two Onager Dunecrawlers: 50 points each",
-            "Add up to two Skorpius Disintegrators: 50 points each",
+            "Ersetze vier Skitarii Vanguards with vier Rapiers: Free",
+            "Füge bis zu zwei Onager Dunecrawlers: 50 Punkte jeweils",
+            "Füge bis zu zwei Skorpius Disintegrators: 50 Punkte jeweils",
             "Oberbefehlshaber",
             "Vanguard Transport"
           ],
@@ -87,69 +87,69 @@
         },
         {
           "name": "Onager Cataphractii",
-          "units": "Two Onager Dunecrawlers with Icarus Array, six Onager Dunecrawlers with another single configuration",
+          "units": "Zwei Onager Dunecrawlers with Icarus Array, sechs Onager Dunecrawlers with another single configuration",
           "points": 450
         }
       ]
     },
     {
       "name": "Legiones Mars Line Formations",
-      "description": "Up to three Mars Line Formations for each Core Formation.",
+      "description": " Bis zu drei Mars Line Formations für jeweils Core Formation.",
       "formations": [
         {
           "name": "Sicarian Killclade",
-          "units": "Four Sicarian Ruststalkers, two Sicarian Infiltratoren",
+          "units": "Vier Sicarian Ruststalkers, zwei Sicarian Infiltratoren",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Ranger Cohort",
-          "units": "Four Skitarii Rangers",
+          "units": "Vier Skitarii Rangers",
           "extraUnits": [
-            "Add two Scorpius Duneriders, or three Rapiers: 50 points"
+            "Füge zwei Scorpius Duneriders, oder drei Rapiers: 50 Punkte"
           ],
           "points": 150
         },
         {
           "name": "Kastelan Maniple",
-          "units": "One Tech-Priest, five Kastelan Robots",
+          "units": "Ein Tech-Priest, fünf Kastelan Robots",
           "extraUnits": [
-            "Add up to two Kastelan Robots for 25 points each"
+            "Füge bis zu zwei Kastelan Robots für 25 Punkte jeweils"
           ],
           "points": 175
         },
         {
           "name": "Kataphron Maniple",
-          "units": "One Tech-Priest, five Kataphron Breacher Battle Servitors or five Kataphron Destroyer Battle Servitors",
+          "units": "Ein Tech-Priest, fünf Kataphron Breacher Battle Servitors oder fünf Kataphron Destroyer Battle Servitors",
           "extraUnits": [],
           "points": 250
         },
         {
           "name": "Onager Maniple",
-          "units": "One Onager Dunecrawlers with Icarus Array, three Onager Dunecrawlers with another single configuration",
+          "units": "Ein Onager Dunecrawlers with Icarus Array, drei Onager Dunecrawlers with another single configuration",
           "points": 225
         },
         {
           "name": "Skorpius Maniple",
-          "units": "Four Skorpius Disintegrators",
+          "units": "Vier Skorpius Disintegrators",
           "extraUnits": [
-            "Add up to two Skorpius Disintegrators: 50 points each"
+            "Füge bis zu zwei Skorpius Disintegrators: 50 Punkte jeweils"
           ],
           "points": 225
         },
         {
           "name": "Minoris Cohort",
-          "units": "Two Ordinatus Minoris",
+          "units": "Zwei Ordinatus Minoris",
           "extraUnits": [
-            "Add one Ordinatus Minoris: 125 points",
+            "Füge eine Ordinatus Minoris: 125 Punkte",
             "Support Weapon"
           ],
           "points": 325
         },
         {
           "name": "0-1 Ordinatus Majoris",
-          "units": "One Ordinatus Armageddon (Nova Geschütz)",
+          "units": "Ein Ordinatus Armageddon (Nova Geschütz)",
           "extraUnits": [
             "Ordinatus Mars (Sonic Disruptor)",
             "Ordinatus Golgotha (Hellfire Raketen)"
@@ -159,18 +159,18 @@
       ]
     },
     {
-      "name": "Forge World Navy, Collegia Titanica and Questoris Mechanicus Support",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Forge World Navy, Collegia Titanica und Questoris Mechanicus Support",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Questoris Banner",
-          "units": "Two Questoris Knights (may not mix configurations)",
+          "units": "Zwei Questoris Knights (may not mix configurations)",
           "extraUnits": [],
           "points": 325
         },
         {
           "name": "Warhound Pack",
-          "units": "Two Warhound Titans, both of either Standard or Support Configuration",
+          "units": "Zwei Warhound Titans, both of either Standard oder Support Configuration",
           "extraUnits": [
             "Panzer Hunter Configuration"
           ],
@@ -178,34 +178,34 @@
         },
         {
           "name": "Warbringer Titan",
-          "units": "One Warbringer Titan",
+          "units": "Ein Warbringer Titan",
           "extraUnits": [
           ],
           "points": 650
         },
         {
-          "name": "Avenger Squadron",
-          "units": "Two Avenger Strike Fighters",
+          "name": "Avenger Schwadron",
+          "units": "Zwei Avenger Strike Fighters",
           "points": 175
         },
         {
           "name": "0-1 Mechanicus Battleship",
-          "units": "One Ark Mechanicus Battleship",
+          "units": "Ein Ark Mechanicus Battleship",
           "points": 225
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Legiones Mars Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Legiones Mars Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "0-1 Oberbefehlshaber",
         "options": [
           {
-            "description": "Replace the Magos with a Magos Dominus",
-            "points": "75 points"
+            "description": "Ersetze the Magos mit einemMagos Dominus",
+            "points": "75 Punkte"
           }
         ]
       },
@@ -213,11 +213,11 @@
         "name": "Vanguard Transport",
         "options": [
           {
-            "description": "Add one Gorgon, five Skorpius Duneriders, or five Termites (must enter the battlefield by tunneling)",
+            "description": "Füge eine Gorgon, fünf Skorpius Duneriders, oder fünf Termites (must enter the battlefield by tunneling)",
             "points": [
-              "Termites: 75 points",
-              "Gorgon: 100 points",
-              "Duneriders: 100 points"
+              "Termites: 75 Punkte",
+              "Gorgon: 100 Punkte",
+              "Duneriders: 100 Punkte"
             ]
           }
         ]
@@ -226,8 +226,8 @@
         "name": "Minoris Support Weapon",
         "options": [
           {
-            "description": "Upgrade one Minoris to carry a Support Weapon",
-            "points": "25 points"
+            "description": "Upgrade eine Minoris to carry a Support Weapon",
+            "points": "25 Punkte"
           }
         ]
       },
@@ -235,7 +235,7 @@
         "name": "Ordinatus Mars",
         "options": [
           {
-            "description": "Replace the Ordinatus Armageddon with an Ordinatus Mars (Sonic Disruptor)",
+            "description": "Ersetze the Ordinatus Armageddon mit einem Ordinatus Mars (Sonic Disruptor)",
             "points": "Free"
           }
         ]
@@ -244,8 +244,8 @@
         "name": "Ordinatus Golgotha",
         "options": [
           {
-            "description": "Replace the Ordinatus Armageddon with an Ordinatus Golgotha (Hellfire Raketen)",
-            "points": "50 points"
+            "description": "Ersetze the Ordinatus Armageddon mit einem Ordinatus Golgotha (Hellfire Raketen)",
+            "points": "50 Punkte"
           }
         ]
       },
@@ -254,7 +254,7 @@
         "options": [
           {
             "description": "Upgrade both Warhounds to Panzer Hunter Configuration",
-            "points": "50 points"
+            "points": "50 Punkte"
           }
         ]
       }

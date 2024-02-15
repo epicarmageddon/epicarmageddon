@@ -44,12 +44,12 @@
 
                     }
                 ).fail(function (jqxhr, textStatus, error) {
-                    $("#content").html('<h2 class="text-danger">These Are Not The Droids Youre Looking For</h2><p>File: lists/' + race + '/' + list + '.json missing or invalid, error: ' + textStatus);
+                    $("#content").html('<h2 class="text-danger">These Are Not The Droids Youre Looking Für</h2><p>File: lists/' + race + '/' + list + '.json missing oder invalid, error: ' + textStatus);
                     console.log("Fail!", error);
                 });
             });
         } else {
-            $("#content").html('<h2 class="text-danger">These Are Not The Droids Youre Looking For</h2><p>File: lists/' + race + '/' + list + '.json missing or invalid');
+            $("#content").html('<h2 class="text-danger">These Are Not The Droids Youre Looking Für</h2><p>File: lists/' + race + '/' + list + '.json missing oder invalid');
         }
     });
 </script>

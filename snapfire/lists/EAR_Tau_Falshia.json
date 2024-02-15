@@ -5,32 +5,32 @@
    "sections": [
       { "name": "FAL'SHIA CADRES",
          "formations": [
-             {"id": 532,"name": "XV8 Crisis Battlesuit Cadre","pts": 250,"upgrades": [35,63]},
-             {"id": 531,"name": "Fire Warrior Radiant Cadre","pts": 225,"upgrades": [33,62,63,60,35,78,55,71]}
+             {"id": 532,"name": "XV8 Crisis Battlesuit Cadre","pts": 250,"Erweiterungen": [35,63]},
+             {"id": 531,"name": "Fire Warrior Radiant Cadre","pts": 225,"Erweiterungen": [33,62,63,60,35,78,55,71]}
          ]
       },
-      {"name": "FAL'SHIA SUPPORT GROUPS <br/> Max 3 for each Cadre",
+      {"name": "FAL'SHIA SUPPORT GROUPS <br/> Max 3 für jeweils Cadre",
          "formations": [
-             {"id": 516,"name": "Hammerhead Group","pts": 200,"upgrades": [35,55,63,78]},
-             {"id": 518,"name": "Kroot Kindred","pts": 175,"units": "Kroot Master Shapers, 9 Kroot Warriors","upgrades": [58,59,57]},
-             {"id": 512,"name": "Pathfinder Group","pts": 175, "units": "4 Pathfinders, 2 Devilfish", "upgrades": [35]},
-            {"id": 513,"name": "XV25 Stealth Group","pts": 200, "units": "4 XV25 Stealth Battlesuits", "upgrades": [35]},
-            {"id": 515,"name": "XV9 Hazard Close Support Group","pts": 300, "units": "6 XV9-04 Hazard Battlesuits", "upgrades": [35]},
-            {"id": 514,"name": "Drone Group","pts": 150,  "upgrades": []}
+             {"id": 516,"name": "Hammerhead Group","pts": 200,"Erweiterungen": [35,55,63,78]},
+             {"id": 518,"name": "Kroot Kindred","pts": 175,"units": "Kroot Master Shapers, 9 Kroot Warriors","Erweiterungen": [58,59,57]},
+             {"id": 512,"name": "Pathfinder Group","pts": 175, "units": "4 Pathfinders, 2 Devilfish", "Erweiterungen": [35]},
+            {"id": 513,"name": "XV25 Stealth Group","pts": 200, "units": "4 XV25 Stealth Battlesuits", "Erweiterungen": [35]},
+            {"id": 515,"name": "XV9 Hazard Close Support Group","pts": 300, "units": "6 XV9-04 Hazard Battlesuits", "Erweiterungen": [35]},
+            {"id": 514,"name": "Drone Group","pts": 150,  "Erweiterungen": []}
          ]
       },
       { "name": "AIR CASTE <br/> Max 33%",
          "formations": [
-            {"id": 524,"name": "Manta","pts": 550,"upgrades": []},
-            {"id": 526,"name": "Orca Dropship","pts": 150,"upgrades": []},
-            {"id": 520,"name": "Razorshark Squadron","pts": 200,"units": "3 Razorshark Fighters","upgrades": []},
-            {"id": 521,"name": "Sun Shark Squadron","pts": 200,"units": "2 Sun Shark Bombers","upgrades": []},
-            {"id": 523,"name": "AX-1-0 Squadron","pts": 350,"units": "2 Tiger Shark AX-1-0","upgrades": []},
-            {"id": 525,"name": "Spacecraft","pts": 200,"upgrades": []}
+            {"id": 524,"name": "Manta","pts": 550,"Erweiterungen": []},
+            {"id": 526,"name": "Orca Dropship","pts": 150,"Erweiterungen": []},
+            {"id": 520,"name": "Razorshark Schwadron","pts": 200,"units": "3 Razorshark Fighters","Erweiterungen": []},
+            {"id": 521,"name": "Sun Shark Schwadron","pts": 200,"units": "2 Sun Shark Bombers","Erweiterungen": []},
+            {"id": 523,"name": "AX-1-0 Schwadron","pts": 350,"units": "2 Tiger Shark AX-1-0","Erweiterungen": []},
+            {"id": 525,"name": "Spacecraft","pts": 200,"Erweiterungen": []}
          ]
       }
    ],
-   "upgrades": [
+   "Erweiterungen": [
        {"id": 11,"name": "Protector Class Cruiser","pts": 0},
 
        {"id": 16,"name": "4 XV8 Crisis Battlesuits","pts": 0},

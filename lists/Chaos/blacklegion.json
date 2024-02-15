@@ -4,9 +4,9 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_BlackLegion",
-  "intro": "The Black Legion is meant to cover a wide variety of Undivided Chaos Space Marine Warbands and armies, and thus has access to a wider variety of unit types than other CSM lists.",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
-  "Initiative": "All Black Legion Core, Elite and Support formations, as well as all Traitor Titan formations, have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "intro": "The Black Legion is meant to cover a wide variety of Undivided Chaos Space Marine Warbands und armies, und thus has access to a wider variety of unit types than other CSM lists.",
+  "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
+  "Initiative": "All Black Legion Core, Elite und Unterstützungsverbände, as well as all Traitor Titan formations, have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Summoning",
     "Black Legion Summoning Rules",
@@ -66,7 +66,7 @@
         "Bloodletters of Khorne",
         "Horrors of Tzeentch",
         "Keeper of Secrets",
-        "Great Unclean One",
+        "Great Unclean Ein",
         "Bloodthirster",
         "Lord of Change",
         "Daemonic Beasts of Chaos Undivided"
@@ -82,9 +82,9 @@
         "Chaos Warlord"
       ],
       "unitRules": [
-        "Void Shields",
-        "God Machine",
-        "Split Fire"
+        "Deflektorschilde",
+        "Gottgleiche Maschine",
+        "Feuer aufteilen"
       ]
     },
     {
@@ -105,7 +105,7 @@
       "formations": [
         {
           "name": "Black Legion Retinue",
-          "units": "One Chaos Lord or Sorcerer Lord, eight Chaos Space Marines",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, acht Chaos Space Marines",
           "extraUnits": [
             "Oberbefehlshaber",
             "Transport",
@@ -125,20 +125,20 @@
     },
     {
       "name": "Black Legion Elite Formations",
-      "description": "One Elite formation may be taken per Core formation",
+      "description": "Ein Elite formation may be taken pro Core formation",
       "formations": [
         {
           "name": "Chosen",
-          "units": "Four Chosen, two Chaos Rhinos",
+          "units": "Vier Chosen, zwei Chaos Rhinos",
           "extraUnits": [
-            "Replace two Chaos Rhinos with two Chaos Dreadnoughts: 75 points",
+            "Ersetze zwei Chaos Rhinos with zwei Chaos Dreadnoughts: 75 Punkte",
             "Daemonic Pact"
           ],
           "points": 150
         },
         {
           "name": "Chaos Terminators",
-          "units": "One Chaos Lord or Sorcerer Lord, four Chaos Terminators",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Chaos Terminators",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
@@ -154,23 +154,23 @@
       ]
     },
     {
-      "name": "Black Legion Support Formations",
-      "description": "Two Support formations may be taken per Core formation",
+      "name": "Black Legion Unterstützungsverbände",
+      "description": "Zwei Unterstützungsverbände may be taken pro Core formation",
       "formations": [
         {
           "name": "Raptor Cult",
-          "units": "One Chaos Lord or Sorcerer Lord, four Raptors",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Raptors",
           "extraUnits": [
-            "Add up to four Raptors: 30 points each",
+            "Füge bis zu vier Raptors: 30 Punkte jeweils",
             "Daemonic Pact"
           ],
           "points": 175
         },
         {
-          "name": "Armoured Company",
-          "units": "Four Chaos Predators",
+          "name": "Armoured Kompanie",
+          "units": "Vier Chaos Predators",
           "extraUnits": [
-            "Replace four Chaos Predators with four Chaos Land Raiders: 75 points",
+            "Ersetze vier Chaos Predators with vier Chaos Land Raiders: 75 Punkte",
             "Stalker",
             "Vindicators"
           ],
@@ -178,9 +178,9 @@
         },
         {
           "name": "Havocs",
-          "units": "One Chaos Lord or Sorcerer Lord, four Havocs, two Chaos Rhinos",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, zwei Chaos Rhinos",
           "extraUnits": [
-            "Replace two Chaos Rhinos with Chaos Land Raiders: 75 points",
+            "Ersetze zwei Chaos Rhinos with Chaos Land Raiders: 75 Punkte",
             "Daemonic Pact",
             "Stalker",
             "Vindicators"
@@ -188,8 +188,8 @@
           "points": 225
         },
         {
-          "name": "Bike Company",
-          "units": "One Chaos Lord or Sorcerer Lord, eight Chaos Assault Bikes",
+          "name": "Bike Kompanie",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, acht Chaos Assault Bikes",
           "extraUnits": [
             "Daemonic Pact",
             "Icon Bearer"
@@ -199,60 +199,60 @@
       ]
     },
     {
-      "name": "Dark Mechanicus Daemon Engines, Traitor Titans and Chaos Navy",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Dark Mechanicus Daemon Engines, Traitor Titans und Chaos Navy",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Defiler Pack",
-          "units": "Four Defilers",
+          "units": "Vier Defilers",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Vernichter",
-          "units": "One Vernichter",
+          "units": "Ein Vernichter",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos Warhound",
-          "units": "One Chaos Warhound Titan",
+          "units": "Ein Chaos Warhound Titan",
           "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Death Wheel",
-          "units": "One Death Wheel",
+          "units": "Ein Death Wheel",
           "extraUnits": [
           ],
           "points": 300
         },
         {
           "name": "Chaos Reaver",
-          "units": "One Chaos Reaver Titan",
+          "units": "Ein Chaos Reaver Titan",
           "points": 600
         },
         {
           "name": "Chaos Warlord",
-          "units": "One Chaos Warlord Titan",
+          "units": "Ein Chaos Warlord Titan",
           "points": 750
         },
         {
-          "name": "Hell Blade Squadron",
-          "units": "Three Hell Blade Interceptors",
+          "name": "Hell Blade Schwadron",
+          "units": "Drei Hell Blade Interceptors",
           "points": 175
         },
         {
-          "name": "Hell Talon Squadron",
-          "units": "Two Hell Talon Fighter-Bombers",
+          "name": "Hell Talon Schwadron",
+          "units": "Zwei Hell Talon Fighter-Bombers",
           "points": 225
         },
         {
           "name": "0-1 Chaos Cruiser",
-          "units": "One Devastation Class Cruiser",
+          "units": "Ein Devastation Class Cruiser",
           "extraUnits": [
             "Battleship"
           ],
@@ -262,113 +262,113 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points",
+      "description": "Any amount may be spent on Daemon Pool Punkte",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points",
+          "units": "Any amount of Lesser Daemon Pool Punkte",
           "points": 20
         },
         {
           "name": "Greater Daemon Pool",
-          "units": "Any amount of Greater Daemon Pool points",
+          "units": "Any amount of Greater Daemon Pool Punkte",
           "points": 50
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Black Legion Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Black Legion Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "Battleship",
-        "description": "Replace the Devastation Class Cruiser with a Despoiler Class Battleship",
-        "points": "50 points"
+        "description": "Ersetze the Devastation Class Cruiser mit einemDespoiler Class Battleship",
+        "points": "50 Punkte"
       },
       {
-        "name": "Oberbefehlshaber (0-1 per army)",
-        "description": "Choose one of the following:",
+        "name": "Oberbefehlshaber (0-1 pro army)",
+        "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Replace the Chaos Lord with a Warlord",
-            "points": "50 points"
+            "description": "Ersetze the Chaos Lord mit einemWarlord",
+            "points": "50 Punkte"
           },
           {
-            "description": "Replace the Chaos Lord & unit with a Daemon Prince",
-            "points": "100 points"
+            "description": "Ersetze the Chaos Lord & unit mit einemDaemon Prince",
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Transport",
-        "description": "Add Chaos Rhinos or Chaos Land Raiders, up to the number required to transport all infantry units in the formation",
+        "description": "Füge Chaos Rhinos oder Chaos Land Raiders, bis zu the number required to transport all Infanterie units in the formation",
         "options": [
           {
             "description": "Chaos Rhinos (Retinue only)",
-            "points": "10 points each"
+            "points": "10 Punkte jeweils"
           },
           {
             "description": "Chaos Land Raiders",
-            "points": "50 points each"
+            "points": "50 Punkte jeweils"
           }
         ]
       },
       {
         "name": "Daemonic Pact",
-        "description": "Add Daemonic Pact to the formation, and one point to the Lesser Daemon Pool",
-        "points": "25 points"
+        "description": "Füge Daemonic Pact to the formation, und eine point to the Lesser Daemon Pool",
+        "points": "25 Punkte"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Chaos Dreadnoughts",
-        "points": "50 points each"
+        "description": "Füge bis zu zwei Chaos Dreadnoughts",
+        "points": "50 Punkte jeweils"
       },
       {
         "name": "Champion",
-        "description": "Add one Champion of Chaos",
-        "points": "50 points"
+        "description": "Füge eine Champion of Chaos",
+        "points": "50 Punkte"
       },
       {
         "name": "Cult Marines",
-        "description": "Replace four Chaos Space Marines with four Noise Marines, Khorne Berzerkers, Plague Marines or Rubric Marines.",
-        "points": "50 points"
+        "description": "Ersetze vier Chaos Space Marines with vier Noise Marines, Khorne Berzerkers, Plague Marines oder Rubric Marines.",
+        "points": "50 Punkte"
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer character",
-        "points": "25 points"
+        "description": "Füge eine Icon Bearer character",
+        "points": "25 Punkte"
       },
       {
         "name": "Stalker",
-        "description": "Add one Chaos Stalker",
-        "points": "50 points"
+        "description": "Füge eine Chaos Stalker",
+        "points": "50 Punkte"
       },
       {
         "name": "Dreadclaws",
-        "description": "Transport a formation containing only infantry units and Dreadnoughts in Dreadclaws (formation must be deployed on a spacecraft)",
-        "points": "5 points per unit"
+        "description": "Transport a formation containing only Infanterie units und Dreadnoughts in Dreadclaws (formation must be deployed on a spacecraft)",
+        "points": "5 Punkte pro unit"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Chaos Vindicators",
-        "points": "35 points each"
+        "description": "Füge bis zu zwei Chaos Vindicators",
+        "points": "35 Punkte jeweils"
       },
       {
         "name": "Havocs",
-        "description": "Replace four Chaos Space Marines with four Havocs",
-        "points": "50 points"
+        "description": "Ersetze vier Chaos Space Marines with vier Havocs",
+        "points": "50 Punkte"
       },
       {
         "name": "Obliterators",
-        "description": "Add up to two Obliterators",
-        "points": "75 points each"
+        "description": "Füge bis zu zwei Obliterators",
+        "points": "75 Punkte jeweils"
       }
     ]
   },
   "about": [
-    "The EA-R Black Legion list is based on the NetEA version, but has some significant differences. Factions are gone, and the list is instead Chaos Undivided, but with cheaper summoning costs. Horrors have replaced Flammenwerfer as the basic Tzeentch lesser daemon, and the Daemonic Beast has been replaced with the Furies. These two changes are both for thematic reasons but mostly to better balance the different basic lesser daemons against one another. All Daemon type units always have Invulnerable save, both for theme and to reduce confusion.",
-    "Havocs and Cult Marines now replace Chaos Space Marines in the Retinue rather than adding to them. Chosen may no longer take Dreadclaws, and come with Chaos Rhinos as standard, but may replace the Rhinos with Chaos Dreadnoughts. Chaos Dreadnoughts have a Reaper Maschinenkanone instead of a Synchronisierter Maschinenkanone to bring it to parity with the firepower of a Loyalist Dreadnought. A Chaos Stalker has been added to the list in order to reduce the list's reliance on Obliterators. Obliterators can only be added to Chaos Terminators.",
-    "Chaos Land Raiders are cheaper, in line with a general reduction of transport vehicle costs. The Armoured Company has been moved from the Core section to support, but can take Stalkers, and the Land Raiders are slightly cheaper as an upgrade. The Raptor formation is bigger, but is slightly cheaper for the size. All Daemon Engines have 2+ Initiative and always have an Invulnerable Save. To compensate for the loss in initiative, they also have a Daemon Engine (x) rule which makes each power's units act thematically and be a bit more dependable in some aspect. This has made it possible to make Defiler type formations significantly cheaper. Hell Blade Interceptors have the E-UK stats, and the Harbringer Bomber has been moved to the Iron Warriors army. The Chaos Titans have been reduced in cost and has changed stats in line with other Imperial Titans. The Chaos Battleship is slightly cheaper and has the 'Slow to Arrive' rule instead of 'Slow and Steady'."
+    "The EA-R Black Legion list is based on the NetEA version, but has some significant differences. Factions are gone, und the list is instead Chaos Undivided, but with cheaper summoning costs. Horrors have replaced Flammenwerfer as the basic Tzeentch lesser daemon, und the Daemonic Beast has been replaced with the Furies. These zwei changes are both für thematic reasons but mostly to better balance the different basic lesser daemons against eine another. All Daemon type units always have Invulnerable save, both für theme und to reduce confusion.",
+    "Havocs und Cult Marines now replace Chaos Space Marines in the Retinue rather than adding to them. Chosen may no longer take Dreadclaws, und come with Chaos Rhinos as standard, but may replace the Rhinos with Chaos Dreadnoughts. Chaos Dreadnoughts have a Reaper Maschinenkanone instead of a Synchronisierter Maschinenkanone to bring it to parity with the firepower of a Loyalist Dreadnought. A Chaos Stalker has been added to the list in order to reduce the list's reliance on Obliterators. Obliterators can only be added to Chaos Terminators.",
+    "Chaos Land Raiders are cheaper, in line mit einemgeneral reduction of transport vehicle costs. The Armoured Kompanie has been moved from the Core section to support, but can take Stalkers, und the Land Raiders are slightly cheaper as an upgrade. The Raptor formation is bigger, but is slightly cheaper für the size. All Daemon Engines have 2+ Initiative und always have an Invulnerable Save. To compensate für the loss in initiative, they also have a Daemon Engine (x) rule which makes jeweils power's units act thematically und be a bit more dependable in some aspect. This has made it possible to make Defiler type formations significantly cheaper. Hell Blade Interceptors have the E-UK stats, und the Harbringer Bomber has been moved to the Iron Warriors army. The Chaos Titans have been reduced in cost und has changed stats in line with other Imperial Titans. The Chaos Battleship is slightly cheaper und has the 'Slow to Arrive' rule instead of 'Slow und Steady'."
   ]
 }

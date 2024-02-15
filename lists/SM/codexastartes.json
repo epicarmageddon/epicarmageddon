@@ -3,11 +3,11 @@
   "army": "Codex Astartes",
   "version": "1.0.beta",
   "release": "2022-04-01",
-  "intro": "The Codex Astartes army list allows you to field an army based on one of the Space Marine Chapters that follows the teachings of the Codex Astartes. The list has a flexible structure to allow you to build an army that represents your favorite Space Marine Chapter on the battlefield.",
+  "intro": "The Codex Astartes army list allows you to field an army based on eine of the Space Marine Chapters that follows the teachings of the Codex Astartes. The list has a flexible structure to allow you to build an army that represents your favorite Space Marine Chapter on the battlefield.",
   "armyforge": "EAR_AdeptusAstartes_CodexAstartes",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "The Thunderbolt and Marauder Squadron formations have an Initiative Rating of 2+. All other formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Codex Astartes Detachments and Space Marine Aircraft formations.",
+  "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
+  "Initiative": "The Thunderbolt und Marauder Schwadron Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
+  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Codex Astartes Detachments und Space Marine Aircraft formations.",
   "specialRules": [
     "Space Marine Transports",
     "They Shall Know No Fear"
@@ -58,13 +58,13 @@
         "Reaver Titan"
       ],
       "unitRules": [
-        "Void Shields"
+        "Deflektorschilde"
       ]
     },
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter",
+        "Thunderbolt",
         "Marauder Bomber"
       ],
       "unitRules": [
@@ -74,11 +74,11 @@
   "sections": [
     {
       "name": "Codex Astartes Detachments",
-      "description": "Up to one Aufklärer Detachment for each non-Aufklärer Detachment.",
+      "description": " Bis zu eine Aufklärer Detachment für jeweils non-Aufklärer Detachment.",
       "formations": [
         {
           "name": "Assaults",
-          "units": "Four Assaults",
+          "units": "Vier Assaults",
           "extraUnits": [
             "Befehlshaber",
             "Vindicators"
@@ -87,7 +87,7 @@
         },
         {
           "name": "Bikes",
-          "units": "Five Assault Bikes",
+          "units": "Fünf Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
             "Befehlshaber"
@@ -96,7 +96,7 @@
         },
         {
           "name": "Devastators",
-          "units": "Four Devastators plus transport",
+          "units": "Vier Devastators plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -109,16 +109,16 @@
         },
         {
           "name": "Land Raiders",
-          "units": "Three Land Raiders",
+          "units": "Drei Land Raiders",
           "extraUnits": [
-            "Add one Land Raider: 50 points",
+            "Füge eine Land Raider: 50 Punkte",
             "Anti-Air"
           ],
           "points": 275
         },
         {
           "name": "Land Speeders",
-          "units": "Any five of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -126,7 +126,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Destructors and/or Predator Annihilators",
+          "units": "Vier Predator Destructors und/oder Predator Annihilators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -134,16 +134,16 @@
         },
         {
           "name": "Aufklärers",
-          "units": "Four Aufklärers plus transport",
+          "units": "Vier Aufklärers plus transport",
           "extraUnits": [
             "Razorbacks",
-            "Snipers"
+            "Scharfschützen"
           ],
           "points": 150
         },
         {
           "name": "Tacticals",
-          "units": "Six Tacticals plus transport",
+          "units": "Sechs Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -156,7 +156,7 @@
         },
         {
           "name": "Terminators",
-          "units": "Four Terminators",
+          "units": "Vier Terminators",
           "extraUnits": [
             "Befehlshaber",
             "Land Raider Transport"
@@ -165,7 +165,7 @@
         },
         {
           "name": "Vindicators",
-          "units": "Four Vindicators",
+          "units": "Vier Vindicators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -173,7 +173,7 @@
         },
         {
           "name": "Whirlwinds",
-          "units": "Four Whirlwinds",
+          "units": "Vier Whirlwinds",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -183,36 +183,36 @@
     },
     {
       "name": "Codex Astartes Navy, Imperial Aircraft & Collegia Titanica Allies",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Thunderhawk",
-          "units": "One Thunderhawk",
+          "units": "Ein Thunderhawk",
           "points": 225
         },
         {
-          "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "name": "Marauder Schwadron",
+          "units": "Zwei Marauder Bomber",
           "points": 250
         },
         {
-          "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "name": "Thunderbolt Schwadron",
+          "units": "Zwei Thunderbolts",
           "points": 175
         },
         {
           "name": "Landing Craft",
-          "units": "One Landing Craft",
+          "units": "Ein Landing Craft",
           "points": 325
         },
         {
           "name": "0-1 Orbital Support",
-          "units": "One Strike Cruiser",
+          "units": "Ein Strike Cruiser",
           "extraUnits": [
             "Battle Barge"
           ],
@@ -220,15 +220,15 @@
         },
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
-            "Add an additional Warhound Titan: 200 points"
+            "Füge einen zusätzlichen Warhound Titan: 200 Punkte"
           ],
           "points": 275
         },
         {
           "name": "Reaver",
-          "units": "One Reaver Titan",
+          "units": "Ein Reaver Titan",
           "extraUnits": [
           ],
           "points": 600
@@ -236,85 +236,85 @@
       ]
     }
   ],
-  "upgrades": {
-    "title": "Codex Astartes Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+  "Erweiterungen": {
+    "title": "Codex Astartes Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge any eine of the following units to the formation",
         "options": [
           {
-            "description": "Add one Hunter",
-            "points": "75 points"
+            "description": "Füge eine Hunter",
+            "points": "75 Punkte"
           },
           {
-            "description": "Add one Stalker",
-            "points": "50 points"
+            "description": "Füge eine Stalker",
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Attack Bikes",
-        "description": "Replace any number of Assault Bikes with an equal number of Attack Bikes",
+        "description": "Ersetze any number of Assault Bikes mit einem equal number of Attack Bikes",
         "points": "Free"
       },
       {
         "name": "Battle Barge",
-        "description": "Replace the Strike Cruiser with a Battle Barge",
-        "points": "75 points"
+        "description": "Ersetze the Strike Cruiser mit einemBattle Barge",
+        "points": "75 Punkte"
       },
       {
         "name": "Befehlshaber",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
             "description": "Captain, Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Chaplain",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add any two of the following: Dreadnought, Hellfire Dreadnought",
+        "description": "Füge any zwei of the following: Dreadnought, Hellfire Dreadnought",
         "points": [
-          "50 points each"
+          "50 Punkte jeweils"
         ]
       },
       {
         "name": "Land Raider Transport",
-        "description": "Add any number of Land Raiders, up to the number required to transport the formation",
-        "points": "50 points each"
+        "description": "Füge any number of Land Raiders, bis zu the number required to transport the formation",
+        "points": "50 Punkte jeweils"
       },
       {
         "name": "Razorbacks",
-        "description": "Add any number of Razorbacks, up to the number required to transport the formation",
-        "points": "25 points each"
+        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "points": "25 Punkte jeweils"
       },
       {
-        "name": "Snipers",
-        "description": "Give all Aufklärers in the formation 'Sniper' on their Schwerer Bolter",
-        "points": "25 points"
+        "name": "Scharfschützen",
+        "description": "Give all Aufklärers in the formation 'Scharfschütze' on their Schwerer Bolter",
+        "points": "25 Punkte"
       },
       {
         "name": "Typhoons",
-        "description": "Replace up to five Land Speeders with an equal number of Land Speeder Typhoons",
-        "points": "10 points each"
+        "description": "Ersetze bis zu fünf Land Speeders mit einem equal number of Land Speeder Typhoons",
+        "points": "10 Punkte jeweils"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two Vindicators",
+        "description": "Füge bis zu zwei Vindicators",
         "points": [
-          "50 points each",
-          "75 points per pair"
+          "50 Punkte jeweils",
+          "75 Punkte pro pair"
         ]
       }
     ]

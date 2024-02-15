@@ -1,35 +1,35 @@
 {
 	"id":"EpicUK Baran Siege Masters",
 	"version":"v03-11-19",
-	"notes": ["Max 1 Commissar for each part of 500 points in the army."],
+	"notes": ["Max 1 Kommissar für jeweils part of 500 Punkte in the army."],
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"BARAN SIEGEMASTERS COMPANIES", "formations":[
-		 	{"id":513, "name":"Infantry Company", "pts":175, "upgrades":[31,32,29,34,33,28,30 ,1], "units":"Commander, 9 Siege Infantry"},
-			{"id":512, "name":"1 Regimental HQ", "pts":225, "upgrades":[31,32,29,34,33,28,30], "units":"Supreme Commander, 9 Siege Infantry"}
+		 	{"id":513, "name":"Infanterie Kompanie", "pts":175, "Erweiterungen":[31,32,29,34,33,28,30 ,1], "units":"Commander, 9 Siege Infanterie"},
+			{"id":512, "name":"1 Regiments HQ", "pts":225, "Erweiterungen":[31,32,29,34,33,28,30], "units":"Supreme Commander, 9 Siege Infanterie"}
 		]},
-		{"name":"BARAN SUPPORT FORMATIONS <br/> Max 2 for each Baran Company", "formations":[
-			{"id":501, "name":"Siege Artillery Battery", 			"pts":175, "upgrades":[1], "units":"3 Howitzers"},
-			{"id":500, "name":"Siege Grand Battery", 			"pts":450, "upgrades":[1], "units":"9 Howitzers"},
-			{"id":503, "name":"Bombard Battery",				"pts":250, "upgrades":[1], "units":"3 Bombards"},
-			{"id":506, "name":"Deathstrike Battery",	"pts":200, "upgrades":[1], "units":"2 Deathstrike Missile Launchers"},
-			{"id":502, "name":"Siege AA Battery", 			"pts":150, "upgrades":[1], "units":"3 Heavy AA Guns"},
-			{"id":509, "name":"Heavy Tank Platoon",			"pts":300, "upgrades":[1], "units":"6 Ragnarok Heavy Tanks"},
-			{"id":508, "name":"Light Tank Platoon",			"pts":175, "upgrades":[1], "units":"6 Siegfried Light Tanks"},
-			{"id":505, "name":"Rough Rider Platoon",			"pts":150, "upgrades":[1], "units":"6 Rough Riders"},
-			{"id":510, "name":"Sapper Platoon",				"pts":200, "upgrades":[1], "units":"8 Sappers"},
-			{"id":507, "name":"Super-Heavy Platoon", 		"pts":200, "upgrades":[1]}
+		{"name":"BARAN UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Baran Kompanie", "formations":[
+			{"id":501, "name":"Siege Artillerie Batterie", 			"pts":175, "Erweiterungen":[1], "units":"3 Howitzers"},
+			{"id":500, "name":"Siege Grand Batterie", 			"pts":450, "Erweiterungen":[1], "units":"9 Howitzers"},
+			{"id":503, "name":"Bombard Batterie",				"pts":250, "Erweiterungen":[1], "units":"3 Bombard"},
+			{"id":506, "name":"Todesstoss-Raketensystem Batterie",	"pts":200, "Erweiterungen":[1], "units":"2 Todesstoss-Raketensystem Missile Launchers"},
+			{"id":502, "name":"Siege AA Batterie", 			"pts":150, "Erweiterungen":[1], "units":"3 Heavy AA Guns"},
+			{"id":509, "name":"Heavy Tank Zug",			"pts":300, "Erweiterungen":[1], "units":"6 Ragnarok Heavy Tanks"},
+			{"id":508, "name":"Light Tank Zug",			"pts":175, "Erweiterungen":[1], "units":"6 Siegfried Light Tanks"},
+			{"id":505, "name":"Kavalleriezug",			"pts":150, "Erweiterungen":[1], "units":"6 Kavallerieschwadron"},
+			{"id":510, "name":"Sapper Zug",				"pts":200, "Erweiterungen":[1], "units":"8 Sappers"},
+			{"id":507, "name":"Superschwerer Zug", 		"pts":200, "Erweiterungen":[1]}
 		]},
-		{"name":"BARAN FORTIFIED POSITIONS <br/> Max 1 for each Baran Company", "formations":[
-			{"id":530, "name":"Fortified Positions",	"pts":75, "upgrades":[], "units":"Up to 50cm Trenches, 50cm Razor Wire, plus 6 Gun Emplacements or 3 Bunkers."}
+		{"name":"BARAN FORTIFIED POSITIONS <br/> Max 1 für jeweils Baran Kompanie", "formations":[
+			{"id":530, "name":"Fortified Positions",	"pts":75, "Erweiterungen":[], "units":" Bis zu 50cm Trenches, 50cm Razor Wire, plus 6 Gun Emplacements oder 3 Bunkers."}
 		]},
-		{"name":"IMPERIAL NAVY <br/> Max 25%", "formations":[
-			{"id":520, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":519, "name":"Thunderbolt Squadron",	"pts":150, "upgrades":[], "units":"2 Thunderbolt Fighters"}
+		{"name":"IMPERIALE LUFTSTREITKRÄFTE<br/> Max 25%", "formations":[
+			{"id":520, "name":"Marauder Schwadron",		"pts":250, "Erweiterungen":[], "units":"2 Marauder Bombers"},
+			{"id":519, "name":"Thunderbolt Schwadron",	"pts":150, "Erweiterungen":[], "units":"2 Thunderbolts"}
 		]}
 	],
-	"upgrades":[
-		{"id":1, "name":"Commissar",			"pts":0},
+	"Erweiterungen":[
+		{"id":1, "name":"Kommissar",			"pts":0},
 
 		{"id":11, "name":"3 Tractors",		"pts":0},
         {"id":12, "name":"3 Gun Emplacements",	"pts":0},
@@ -40,21 +40,21 @@
 
 		{"id":17, "name":"Baneblade",			"pts":0},
 		{"id":18, "name":"Shadowsword",			"pts":0},
-		{"id":28, "name":"6 Siege Infantry",	"pts":75},
+		{"id":28, "name":"6 Siege Infanterie",	"pts":75},
 		{"id":29, "name":"3 Rapiers",			"pts":75},
 		{"id":30, "name":"3 Thudd Guns",		"pts":75},
-		{"id":31, "name":"3 Hellhounds",		"pts":100},
-		{"id":32, "name":"3 Griffons",			"pts":50},
-		{"id":33, "name":"2 Snipers",			"pts":50},
-		{"id":34, "name":"Snipers",				"pts":25}
+		{"id":31, "name":"3 Höllenhunde",		"pts":100},
+		{"id":32, "name":"3 Greifen",			"pts":50},
+		{"id":33, "name":"2 Scharfschützen",			"pts":50},
+		{"id":34, "name":"Scharfschützen",				"pts":25}
 	],
 	"formationConstraints":[
 		{"maxPercent":25.5, "name":"Navy", "from":[519,520]},
-		{"max":2, "name":"Support Formations", "from":[500,501,502,503,504,505,506,507,508,509,510], "forEach":[512,513], "name2":"Baran Company"},
+		{"max":2, "name":"Unterstützungsverbände", "from":[500,501,502,503,504,505,506,507,508,509,510], "forEach":[512,513], "name2":"Baran Kompanie"},
 		{"max":1, "from":[506]},
 		{"max":1, "from":[510]},
 		{"min":1, "max":1, "from":[512]},
-		{"max":1, "name":"Fortification", "from":[530], "forEach":[512,513], "name2":"Baran Company"}
+		{"max":1, "name":"Fortification", "from":[530], "forEach":[512,513], "name2":"Baran Kompanie"}
 	],
 	"upgradeConstraints":[
         {"max":1, "from":[1]},
@@ -72,6 +72,6 @@
         {"min":1, "max":1, "from":[13,14], "appliesTo":[500]},
 		{"min":1, "max":1, "from":[12,11], "appliesTo":[501,502]},
 		{"min":1, "max":1, "from":[17,18], "appliesTo":[507]},
-		{"max":3, "name":"Upgrades", "from":[28,29,30,31,32,33,34]}
+		{"max":3, "name":"Erweiterungen", "from":[28,29,30,31,32,33,34]}
 	]
 }

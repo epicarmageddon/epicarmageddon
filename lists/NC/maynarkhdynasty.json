@@ -4,8 +4,8 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Necron_MaynarkhDynasty",
-  "strategy": "Necron armies have a Strategy Rating of 1.",
-  "Initiative": "All Necron formations have an Initiative Rating of 1+.",
+  "strategy": "Necron Armeen haben einen Strategiewert von 1.",
+  "Initiative": "All Necron Verbände haben eine Initiative von 1+.",
   "specialRules": [
     "Necron Reserves",
     "Necron Garrisons",
@@ -66,7 +66,7 @@
       "formations": [
         {
           "name": "0–1 Necron Tomb Complex",
-          "units": "Replace one objective marker in the Necron player's half of the table with a Tomb Complex, this counts as an objective marker and a Necron Portal. It may not be destroyed. Formations using the Portal should measure from the centre of the objective.",
+          "units": "Ersetze eine objective marker in the Necron player's half of the table mit einemTomb Complex, this counts as an objective marker und a Necron Portal. It may not be destroyed. Formations using the Portal should measure from the centre of the objective.",
           "points": 75
         }
       ]
@@ -76,12 +76,12 @@
       "formations": [
         {
           "name": "Necron Phalanx",
-          "units": "Eight Necron Warriors and one Necron Lord",
+          "units": "Acht Necron Warriors und eine Necron Lord",
           "extraUnits": [
             "Overlord",
             "Canoptek Wraiths",
             "Canoptek Spyder",
-            "Replace three Necron Warriors with three Pariahs or three Immortals: 50 points"
+            "Ersetze drei Necron Warriors with drei Pariahs oder drei Immortals: 50 Punkte"
           ],
           "points": 300
         }
@@ -89,55 +89,55 @@
     },
     {
       "name": "Maynarkh Dynasty Portal Formations",
-      "description": "Up to one for each Necron Phalanx",
+      "description": " Bis zu eine für jeweils Necron Phalanx",
       "formations": [
         {
           "name": "Portal Phalanx",
-          "units": "One Monolith, two Obelisks",
+          "units": "Ein Monolith, zwei Obelisks",
           "extraUnits": [
-            "Replace up to two Obelisks with Monoliths: 25 points each"
+            "Ersetze bis zu zwei Obelisks with Monoliths: 25 Punkte jeweils"
           ],
           "points": 175
         }
       ]
     },
     {
-      "name": "Maynarkh Dynasty Support Formations",
-      "description": "Up to two for each Necron Phalanx. A Necron army must contain at least one 'The Unbidden' formation.",
+      "name": "Maynarkh Dynasty Unterstützungsverbände",
+      "description": " Bis zu zwei für jeweils Necron Phalanx. A Necron army must contain at least eine 'The Unbidden' formation.",
       "formations": [
         {
           "name": "1+ The Unbidden",
-          "units": "Seven Albträume",
+          "units": "sieben Albträume",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Obelisk Phalanx",
-          "units": "Four Obelisks",
+          "units": "Vier Obelisks",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Destroyer Phalanx",
-          "units": "Any seven of the following units: Destroyers, Heavy Destroyers",
+          "units": "Any sieben of the following units: Destroyers, Heavy Destroyers",
           "extraUnits": [
             "Overlord",
-            "Replace one Destroyer with a Necron Destroyer Lord: 25 points"
+            "Ersetze eine Destroyer mit einemNecron Destroyer Lord: 25 Punkte"
           ],
           "points": 275
         },
         {
           "name": "Tomb Guardian",
-          "units": "One Pylon",
-          "upgrades": [
+          "units": "Ein Pylon",
+          "Erweiterungen": [
           ],
           "points": 200
         },
         {
           "name": "Canoptek Swarm",
-          "units": "One Canoptek Spyder, six Canoptek Scarabs",
+          "units": "Ein Canoptek Spyder, sechs Canoptek Scarabs",
           "extraUnits": [
             "Canoptek Wraiths"
           ],
@@ -146,66 +146,66 @@
       ]
     },
     {
-      "name": "Maynarkh Dynasty Harvesters and Navy",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Maynarkh Dynasty Harvesters und Navy",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Megalith Conduit",
-          "units": "One Megalith",
+          "units": "Ein Megalith",
           "extraUnits": [
-            "Add up to two Obelisks (50 points each) and/or Monoliths (75 points each)"
+            "Füge bis zu zwei Obelisks (50 Punkte jeweils) und/oder Monoliths (75 Punkte jeweils)"
           ],
           "points": 350
         },
         {
           "name": "0–1 Harvester Engine",
-          "units": "Either an Æonic Orb or an Abbatoir",
+          "units": "Either an Æonic Orb oder an Abbatoir",
           "extraUnits": [
           ],
           "points": 450
         },
         {
           "name": "0–1 Tomb Ship",
-          "units": "One Cairn Class Tomb Ship",
-          "upgrades": [
+          "units": "Ein Cairn Class Tomb Ship",
+          "Erweiterungen": [
           ],
           "points": 200
         },
         {
           "name": "Doom Scythes",
-          "units": "Two Doom Scythe Fighters",
-          "upgrades": [
+          "units": "Zwei Doom Scythe Fighters",
+          "Erweiterungen": [
           ],
           "points": 200
         },
         {
           "name": "Night Shrouds",
-          "units": "One Night Shroud Bomber",
-          "upgrades": [
+          "units": "Ein Night Shroud Bomber",
+          "Erweiterungen": [
           ],
           "points": 225
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Maynarkh Dynasty Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Maynarkh Dynasty Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "0-1 Overlord",
-        "description": "Either replace one Necron Lord with a Necron Overlord, or replace a Necron Destroyer Lord with a Necron Destroyer Overlord",
-        "points": "75 points"
+        "description": "Either replace eine Necron Lord mit einemNecron Overlord, oder replace a Necron Destroyer Lord mit einemNecron Destroyer Overlord",
+        "points": "75 Punkte"
       },
       {
         "name": "Canoptec Wraiths",
-        "description": "Add up to two Canoptek Wraiths",
-        "points": "25 points each"
+        "description": "Füge bis zu zwei Canoptek Wraiths",
+        "points": "25 Punkte jeweils"
       },
       {
         "name": "Canoptek Spyder",
-        "description": "Add one Canoptek Spyder",
-        "points": "50 points"
+        "description": "Füge eine Canoptek Spyder",
+        "points": "50 Punkte"
       }
     ]
   }

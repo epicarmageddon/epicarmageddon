@@ -1,12 +1,12 @@
-{{#each index}}
+{{#jeweils index}}
 <div class="text-center">
     <h2>{{section}}</h2>
 </div>
 <div class="container">
     <div class="row">
-        {{#each index}}
+        {{#jeweils index}}
         <div class="col-12 d-block d-sm-none text-center" style="margin-top: 15px"><h5>{{name}}</h5></div>
-        {{#each lists}}
+        {{#jeweils lists}}
         <div class="col-6 col-sm-4 col-md-3 col-lg-2 text-center" style="margin-top: 10px">
             <a href="content/list.html?race={{../abbreviation}}&list={{file}}">
                 <img class="img-responsive" style="width:100%" src="{{img}}" alt="{{name}}"/>
@@ -18,8 +18,8 @@
                 </small>
             </a>
         </div>
-        {{/each}}
-        {{/each}}
+        {{/jeweils}}
+        {{/jeweils}}
     </div>
 </div>
-{{/each}}
+{{/jeweils}}

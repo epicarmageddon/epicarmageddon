@@ -389,7 +389,7 @@
           "Flammenwerfer"
         ],
         "specialRules": [],
-        "notes": "May transport two infantry units without Beritten or Jump Packs."
+        "notes": "May transport zwei Infanterie units without Beritten oder Jump Packs."
       },
       {
         "name": "Penitent Engine",
@@ -501,7 +501,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Beritten."
+        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Arbites Repressor",
@@ -517,7 +517,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Beritten or Jet Packs."
+        "notes": "May transport zwei Infanterie units without Beritten oder Jet Packs."
       },
       {
         "name": "Sororitas Repressor",
@@ -534,7 +534,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Beritten or Jet Packs."
+        "notes": "May transport zwei Infanterie units without Beritten oder Jet Packs."
       },
       {
         "name": "Sororitas Immolator",
@@ -550,7 +550,7 @@
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport one infantry unit without Beritten or Jet Packs."
+        "notes": "May transport eine Infanterie unit without Beritten oder Jet Packs."
       },
       {
         "name": "Sororitas Stormlord",
@@ -570,8 +570,8 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Jump Pack or Beritten, two may fire from the firing deck and participate with FF during assaults.",
-        "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
+        "notes": "May transport acht Infanterie units without Jump Pack oder Beritten, zwei may fire from the firing deck und participate with FF during assaults.",
+        "crit": "The Stormlord is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the unit."
       },
       {
         "name": "Emperor's Chapel",
@@ -586,13 +586,13 @@
         ],
         "specialRules": [
           "Damage Capacity 4",
-          "Void Shields 2",
+          "Deflektorschilde 2",
           "Reinforced Armour",
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Beritten or Jet Packs.",
-        "crit": "The Emperor's Chapel takes one additional damage. D3 transported units takes a hit."
+        "notes": "May transport acht Infanterie units without Beritten oder Jet Packs.",
+        "crit": "The Emperor's Chapel takes eine additional damage. D3 transported units takes a hit."
       },
       {
         "name": "Cathedral of the God-Emperor",
@@ -609,16 +609,16 @@
         ],
         "specialRules": [
           "Damage Capacity 8",
-          "Void Shields 6",
-          "God Machine",
-          "Split Fire",
+          "Deflektorschilde 6",
+          "Gottgleiche Maschine",
+          "Feuer aufteilen",
           "Reinforced Armour",
           "Furchtlos",
           "Faithful",
           "Transport"
         ],
-        "notes": "May transport eight infantry units without Beritten or Jet Packs.",
-        "crit": "The Cathedral of the God-Emperor takes D3 additional damage, and D6 transported units takes a hit."
+        "notes": "May transport acht Infanterie units without Beritten oder Jet Packs.",
+        "crit": "The Cathedral of the God-Emperor takes D3 additional damage, und D6 transported units takes a hit."
       }
     ]
   }

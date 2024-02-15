@@ -82,7 +82,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May carry one unit of Corsair Warriors, Corsair Veterans or Ghostwalkers"
+        "notes": "May carry eine unit of Corsair Warriors, Corsair Veterans oder Ghostwalkers"
       },
       {
         "name": "Corsair Nightwing Interceptor",
@@ -114,8 +114,8 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May carry up to eight of the following: Corsair Warriors, Corsair Veterans, Ghostwalker, Corsair Wasp Walker. Corsair Wasp Walkers take two spaces each.",
-        "crit": "The Vampire Raider and all units on board are destroyed."
+        "notes": "May carry bis zu acht of the following: Corsair Warriors, Corsair Veterans, Ghostwalker, Corsair Wasp Walker. Corsair Wasp Walkers take zwei spaces jeweils.",
+        "crit": "The Vampire Raider und all units on board are destroyed."
       }
     ]
   }

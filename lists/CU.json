@@ -122,7 +122,7 @@
           "Invulnerable Save",
           "Teleport",
           "Thick Rear Armour",
-          "Terminator Aquilon are considered terminators for the purpose of being transported."
+          "Terminator Aquilon are considered terminators für the purpose of being transported."
         ]
       },
       {
@@ -173,7 +173,7 @@
           "Teleport",
           "Geländegängig",
           "Invulnerable Save",
-          "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
+          "Contemptor Dreadnought Achilles are considered dreadnaughts für the purpose of being transported."
         ]
       },
       {
@@ -192,7 +192,7 @@
           "Teleport",
           "Geländegängig",
           "Invulnerable Save",
-          "Contemptor Dreadnought Achilles are considered dreadnaughts for the purpose of being transported."
+          "Contemptor Dreadnought Achilles are considered dreadnaughts für the purpose of being transported."
         ]
       },
       {
@@ -243,7 +243,7 @@
           "Reinforced Armour",
           "Skimmer"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
+        "notes": "May transport eine Terminator unit oder zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Custodian Land Raider",
@@ -261,7 +261,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport one Terminator unit or two infantry units without Jump Packs or Beritten."
+        "notes": "May transport eine Terminator unit oder zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Null-Maiden Rhino",
@@ -277,7 +277,7 @@
           "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport two infantry units (except Terminators) without Jump Packs or Beritten."
+        "notes": "May transport zwei Infanterie units (except Terminators) without Jump Packs oder Beritten."
       },
       {
         "name": "Null-Maiden Hunter",
@@ -311,7 +311,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport eight infantry units or Dreadnaughts. Terminators and Dreadnoughts count as two units each. Critical Hit Effect: The unit and all units being carried are destroyed."
+        "notes": "May transport acht Infanterie units oder Dreadnaughts. Terminators und Dreadnoughts count as zwei units jeweils. Critical Hit Effect: The unit und all units being carried are destroyed."
       }
     ]
   }

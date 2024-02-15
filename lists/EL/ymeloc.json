@@ -3,13 +3,13 @@
   "army": "Craftworld Yme-Loc",
   "version": "Alpha 0.6.1",
   "release": "2022-04-01",
-  "strategy": "Eldar armies have a Strategy Rating of 4.",
-  "Initiative": "Aspect Warrior formations, Titans and the Avatar have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Eldar Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Aspect Warrior formations, Titans und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Avatar (Yme-Loc)",
     "May not Garrison (Yme-Loc)",
     "Farsight",
-    "Hit and Run",
+    "Hit und Run",
     "Webway Portal",
     "Large Webway Portal"
   ],
@@ -70,12 +70,12 @@
       "formations": [
         {
           "name": "1 Avatar",
-          "units": "One Avatar",
+          "units": "Ein Avatar",
           "points": 0
         },
         {
           "name": "0-1 Gate of Vaul",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Gate of Vaul, this counts as an objective marker and a Large Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemGate of Vaul, this counts as an objective marker und a Large Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 100
         }
       ]
@@ -85,19 +85,19 @@
       "formations": [
         {
           "name": "Engines of Vaul",
-          "units": "One Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
+          "units": "Ein Engine of Vaul chosen from the following: Cobra, Scorpion, Storm Serpent",
           "extraUnits": [
-            "Add up to two additional Engines of Vaul for 200 points each",
+            "Füge bis zu zwei additional Engines of Vaul für 200 Punkte jeweils",
             "Bonesinger"
           ],
           "points": 250
         },
         {
           "name": "Swords of Vaul",
-          "units": "Six Falcons",
+          "units": "Sechs Falcons",
           "extraUnits": [
-            "Replace up to two Falcons with Firestorms: Free",
-            "Add six Guardians to the formation: 100 points"
+            "Ersetze bis zu zwei Falcons with Firestorms: Free",
+            "Füge sechs Guardians to the formation: 100 Punkte"
           ],
           "points": 275
         }
@@ -105,11 +105,11 @@
     },
     {
       "name": "Yme-Loc Troupes",
-      "description": "Up to two Yme-Loc Troupes may be taken for each Yme-Loc Vaulhost",
+      "description": " Bis zu zwei Yme-Loc Troupes may be taken für jeweils Yme-Loc Vaulhost",
       "formations": [
         {
           "name": "Beritten Aspect Warrior Troupe",
-          "units": "Three Wave Serpents and six Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
+          "units": "Drei Wave Serpents und sechs Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Swooping Hawks",
           "extraUnits": [
             "Exarch"
           ],
@@ -117,7 +117,7 @@
         },
         {
           "name": "Beritten Guardian Troupe",
-          "units": "Two Wave Serpents, two Falcons, one Farseer, five Guardians",
+          "units": "Zwei Wave Serpents, zwei Falcons, eine Farseer, fünf Guardians",
           "extraUnits": [
             "Heavy Weapons"
           ],
@@ -125,78 +125,78 @@
         },
         {
           "name": "Lynx Troupe",
-          "units": "Two Lynx",
+          "units": "Zwei Lynx",
           "extraUnits": [
           ],
           "points": 275
         },
         {
           "name": "Wind Rider Troupe",
-          "units": "Six Vypers",
+          "units": "Sechs Vypers",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Fire Prism Troupe",
-          "units": "Three Fire Prisms",
+          "units": "Drei Fire Prisms",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Fire Spinner Troupe",
-          "units": "Three Night Spinners, one Firestorm",
+          "units": "Drei Night Spinners, eine Firestorm",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Warp Hunter Troupe",
-          "units": "Three Warp Hunters",
+          "units": "Drei Warp Hunters",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Hornet Troupe",
-          "units": "Four Hornets",
+          "units": "Vier Hornets",
           "extraUnits": [
-            "Add up to two Hornets: 50 points each"
+            "Füge bis zu zwei Hornets: 50 Punkte jeweils"
           ],
           "points": 200
         }
       ]
     },
     {
-      "name": "Yme-Loc Aircraft, Spacecraft and Titans",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "name": "Yme-Loc Aircraft, Spacecraft und Titans",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {
           "name": "Nightwing Aerie",
-          "units": "Two Nightwing Interceptors",
+          "units": "Zwei Nightwing Interceptors",
           "extraUnits": [
-            "Add one Nightwing Interceptor: 75 Points"
+            "Füge eine Nightwing Interceptor: 75 Points"
           ],
           "points": 225
         },
         {
           "name": "Phoenix Aerie",
-          "units": "Three Phoenix Bombers",
+          "units": "Drei Phoenix Bombers",
           "extraUnits": [
           ],
           "points": 325
         },
         {
           "name": "Revenants",
-          "units": "Two Revenant Titans",
+          "units": "Zwei Revenant Titans",
           "extraUnits": [
           ],
           "points": 650
         },
         {
           "name": "Phantom",
-          "units": "One Phantom Titan",
+          "units": "Ein Phantom Titan",
           "extraUnits": [
             "Bonesinger"
           ],
@@ -204,40 +204,40 @@
         },
         {
           "name": "0-1 Warlock Titan",
-          "units": "One Warlock Titan",
+          "units": "Ein Warlock Titan",
           "extraUnits": [
           ],
           "points": 850
         },
         {
           "name": "0-1 Spacecraft",
-          "units": "One Wraithship",
+          "units": "Ein Wraithship",
           "extraUnits": [
-            "Replace with a Dragonship: 125 Points"
+            "Ersetze mit einemDragonship: 125 Points"
           ],
           "points": 175
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Yme-Loc Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Yme-Loc Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "Exarch",
-        "description": "Add one Eldar Exarch to a unit of Aspect Warriors",
-        "points": "25 points"
+        "description": "Füge eine Eldar Exarch to a unit of Aspect Warriors",
+        "points": "25 Punkte"
       },
       {
         "name": "Heavy Weapons",
-        "description": "Replace up to three Eldar Guardians with Eldar Heavy Weapon Platforms",
+        "description": "Ersetze bis zu drei Eldar Guardians with Eldar Heavy Weapon Platforms",
         "points": "Free"
       },
       {
         "name": "0-1 Bonesinger",
-        "description": "Add one Bonesinger to a War Engine unit in the formation.",
-        "points": "50 points"
+        "description": "Füge eine Bonesinger to a War Engine unit in the formation.",
+        "points": "50 Punkte"
       }
     ]
   }

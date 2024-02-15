@@ -17,7 +17,7 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May transport a formation that consist exclusively of the following types of units: Termagants, Hormagaunts, Raveners, Biovores, any type of Carnifex, Hive Tyrant, Swarmlord, Dagon Overlord, Tyranid Warriors, Zoanthrope. No Shrikes of any type may be taken. After the Mycetic Spore lands, it attacks all enemy units within 15cm. Each enemy formation attacked receives a BM for coming under fire, and an extra BM for each casualty. Then transported formations set up within 5cm of the point the Mycetic Spore landed, or within 5cm of another already disembarqued unit from the same formation (but a maximum of 15cm from the point where the Mycetic Spore landed)."
+        "notes": "May transport a formation that consist exclusively of the following types of units: Termagants, Hormagaunts, Raveners, Biovores, any type of Carnifex, Hive Tyrant, Swarmlord, Dagon Overlord, Tyranid Warriors, Zoanthrope. No Shrikes of any type may be taken. After the Mycetic Spore lands, it attacks all enemy units within 15cm. Jeweils enemy formation attacked receives a BM für coming under fire, und an extra BM für jeweils casualty. Then transported formations set up within 5cm of the point the Mycetic Spore landed, oder within 5cm of another already disembarqued unit from the same formation (but a maximum of 15cm from the point where the Mycetic Spore landed)."
       },
       {
         "name": "Razorfiend",
@@ -35,7 +35,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two Mycetic Spores including cargo."
+        "notes": "May transport zwei Mycetic Spores including cargo."
       },
       {
         "name": "Hive Ship",
@@ -53,7 +53,7 @@
         "specialRules": [
           "Slow to Arrive (May only arrive from turn 2 onwards), Transport"
         ],
-        "notes": "May transport three Mycetic Spores including cargo."
+        "notes": "May transport drei Mycetic Spores including cargo."
       }
     ]
   }

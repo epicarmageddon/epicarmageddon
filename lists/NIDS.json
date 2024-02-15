@@ -403,7 +403,7 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport up to four units of Termagants, Hormagaunts, Gargoyles and Raveners. Biovores, Tyranid Warriors and Zoanthropes counts as one and a half units each, rounded up."
+        "notes": "May transport bis zu vier units of Termagants, Hormagaunts, Gargoyles und Raveners. Biovores, Tyranid Warriors und Zoanthropes counts as eine und a half units jeweils, rounded up."
       },
       {
         "name": "Barbed Carnifex",
@@ -454,7 +454,7 @@
           "Transport",
           "Swarm (2)"
         ],
-        "notes": "May transport two units of Termagants and Hormagaunts. May bring back two units of Termagants and/or Hormagaunts when Swarming."
+        "notes": "May transport zwei units of Termagants und Hormagaunts. May bring back zwei units of Termagants und/oder Hormagaunts when Swarming."
       },
       {
         "name": "Tervigon",
@@ -473,7 +473,7 @@
           "Transport",
           "Swarm (1)"
         ],
-        "notes": "May transport two units of Termagants and Hormagaunts. May bring back one unit of Termagants and/or Hormagaunts when Swarming."
+        "notes": "May transport zwei units of Termagants und Hormagaunts. May bring back eine unit of Termagants und/oder Hormagaunts when Swarming."
       },
       {
         "name": "Viragon",
@@ -549,8 +549,8 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport up to four units of Gargoyles.",
-        "crit": "The Harridan and any Gargoyles transported are killed."
+        "notes": "May transport bis zu vier units of Gargoyles.",
+        "crit": "The Harridan und any Gargoyles transported are killed."
       },
       {
         "name": "Hive Harridan",
@@ -574,7 +574,7 @@
           "Transport",
           "Swarm (1)"
         ],
-        "notes": "May transport up to four units of Gargoyles. May bring back one unit of Gargoyles when Swarming.",
+        "notes": "May transport bis zu vier units of Gargoyles. May bring back eine unit of Gargoyles when Swarming.",
         "crit": "The Harridan is killed."
       },
       {
@@ -691,7 +691,7 @@
           "Reinforced Armour",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
+        "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       },
       {
@@ -719,7 +719,7 @@
           "Transport",
           "Swarm (3)"
         ],
-        "notes": "May transport five units of Termagants, Hormagaunts and Gargoyles. May bring back three units of Termagants, Hormagaunts and/or Gargoyles when Swarming. May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
+        "notes": "May transport fünf units of Termagants, Hormagaunts und Gargoyles. May bring back drei units of Termagants, Hormagaunts und/oder Gargoyles when Swarming. May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       },
       {
@@ -740,7 +740,7 @@
           "Reinforced Armour",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
+        "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       },
       {
@@ -763,7 +763,7 @@
           "Reinforced Armour",
           "Regeneration"
         ],
-        "notes": "May step over units and impassable or dangerous terrain that is lower than its body and up to 2cm wide.",
+        "notes": "May step over units und impassable oder dangerous terrain that is lower than its body und bis zu 2cm wide.",
         "crit": "Roll a D6: 1: Units in base contact is hit by a MW attack on 6+. 2-5: Suffers 1 additional damage. 6: Suffers D3 additional damage."
       }
     ]

@@ -99,7 +99,7 @@
           "Ion Shield (4+)",
           "Ionic Flare Shield"
         ],
-        "notes": "Must be armed with either Lightning Locks, or Volkite Veuglaire and Gyges Siege Claw"
+        "notes": "Must be armed with either Lightning Locks, oder Volkite Veuglaire und Gyges Siege Claw"
       },
       {
         "name": "Questoris Knight-Paladin",
@@ -439,7 +439,7 @@
         "weapons": [
           "Conversion Beam Geschütz|2|FxF",
           "Volkite Culvertin|2|FxF",
-          "Karacnos Mörser Battery||FxF"
+          "Karacnos Mörser Batterie||FxF"
         ],
         "specialRules": [
           "Damage Capacity: 3",

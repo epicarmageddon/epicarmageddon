@@ -93,7 +93,7 @@
           "Befehlshaber",
           "Farsight"
         ],
-        "notes": "Units with a Spiritseer can be used to summon the Avatar."
+        "notes": "Units mit einemSpiritseer can be used to summon the Avatar."
       },
       {
         "name": "Avatar",
@@ -113,7 +113,7 @@
           "Invulnerable Save",
           "Geländegängig"
         ],
-        "crit": "The Avatar is destroyed. All Craftworld Eldar formations (friend and foe) with a line of sight to the Avatar receive one Blast Marker."
+        "crit": "The Avatar is destroyed. All Craftworld Eldar formations (friend und foe) mit einemline of sight to the Avatar receive eine Blast Marker."
       },
       {
         "name": "Eldar Exarch",
@@ -128,7 +128,7 @@
         "specialRules": [
           "Inspirierend"
         ],
-        "notes": "Dire Avengers, Swooping Hawks and Warp Spiders have an Exarch Fernkampfwaffe. Howling Banshees and Striking Scorpions have an Exarch Nahkampfwaffe. Dark Reapers have a Reaper Launcher, Fire Dragons have a Feuerpike and Shining Spears have a Starlance."
+        "notes": "Dire Avengers, Swooping Hawks und Warp Spiders have an Exarch Fernkampfwaffe. Howling Banshees und Striking Scorpions have an Exarch Nahkampfwaffe. Dark Reapers have a Reaper Launcher, Fire Dragons have a Feuerpike und Shining Spears have a Starlance."
       },
       {
         "name": "Beritten Farseer",
@@ -201,7 +201,7 @@
           "Vibro Geschütz|0-1",
           "Support D-Geschütz|0-1"
         ],
-        "notes": "Armed with either a Vibro Geschütz or a Support D-Geschütz"
+        "notes": "Armed with either a Vibro Geschütz oder a Support D-Geschütz"
       },
       {
         "name": "Eldar Rangers",
@@ -435,7 +435,7 @@
         "specialRules": [
           "Furchtlos"
         ],
-        "notes": "Counts as a unit of Wraithguards for the purposes of being transported."
+        "notes": "Counts as a unit of Wraithguards für the purposes of being transported."
       },
       {
         "name": "Wraithguards",
@@ -507,7 +507,7 @@
         ],
         "specialRules": [
           "Skimmer",
-          "Transport may carry one unit of INF without Jump Packs or Beritten."
+          "Transport may carry eine unit of INF without Jump Packs oder Beritten."
         ]
       },
       {
@@ -609,7 +609,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May carry up to two of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades or Wraithguards. Wraithblades and Wraithguards take two spaces each."
+        "notes": "May carry bis zu zwei of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers, Swooping Hawks, Wraithblades oder Wraithguards. Wraithblades und Wraithguards take zwei spaces jeweils."
       },
       {
         "name": "Falcon",
@@ -626,7 +626,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May carry up to one of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers or Swooping Hawks."
+        "notes": "May carry bis zu eine of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
       },
       {
         "name": "Fire Prism",
@@ -678,13 +678,13 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Firestorm Battery"
+          "Firestorm Batterie"
         ],
         "specialRules": [
           "Skimmer",
           "Transport"
         ],
-        "notes": "May carry up to one of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers or Swooping Hawks."
+        "notes": "May carry bis zu eine of the following: Farseer, Guardians, Eldar Rangers, Heavy Weapon Platform, Howling Banshees, Striking Scorpions, Fire Dragons, Dire Avengers, Dark Reapers oder Swooping Hawks."
       },
       {
         "name": "Lynx",
@@ -799,7 +799,7 @@
           "Geländegängig",
           "Teleport"
         ],
-        "notes": "Skathach Wraithknights are armed with either a Synchronisierter Deathshroud Geschütz or Synchronisierter Inferno Lanze."
+        "notes": "Skathach Wraithknights are armed with either a Synchronisierter Deathshroud Geschütz oder Synchronisierter Inferno Lanze."
       },
       {
         "name": "Wraithknight",
@@ -810,7 +810,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter Heavy Wraithcannons|0-1|",
-          "Ghostglaive and Scattershield|0-1|",
+          "Ghostglaive und Scattershield|0-1|",
           "Suncannon|0-1|",
           "Synchronisierter Shuriken Geschütz"
         ],
@@ -820,7 +820,7 @@
           "Furchtlos",
           "Geländegängig"
         ],
-        "notes": "Must be armed with either Synchronisierter Heavy Wraithcannons, Ghostglaive and Scattershield, or a Suncannon. Spec[*]: Scattershield grants the model Reinforced Armour."
+        "notes": "Must be armed with either Synchronisierter Heavy Wraithcannons, Ghostglaive und Scattershield, oder a Suncannon. Spec[*]: Scattershield grants the model Reinforced Armour."
       },
       {
         "name": "Revenant Titan",
@@ -840,7 +840,7 @@
           "Jump Pack",
           "Geländegängig"
         ],
-        "crit": "The Revenant Titan’s Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
+        "crit": "The Revenant Titan’s Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
       },
       {
         "name": "Phantom Titan",
@@ -862,7 +862,7 @@
           "Reinforced Armour",
           "Geländegängig"
         ],
-        "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
+        "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
       },
       {
         "name": " Phantom Titan",
@@ -891,7 +891,7 @@
           "Reinforced Armour",
           "Geländegängig"
         ],
-        "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
+        "crit": "The Phantom Titan's Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
       },
       {
         "name": "Warlock Titan",
@@ -915,7 +915,7 @@
           "Reinforced Armour",
           "Geländegängig"
         ],
-        "crit": "The Warlock Titan’s Holofield projector is destroyed. Any further critical hits cause an additional point of damage."
+        "crit": "The Warlock Titan’s Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."
       }
     ]
   }

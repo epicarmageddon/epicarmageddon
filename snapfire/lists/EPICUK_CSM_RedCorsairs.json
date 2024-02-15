@@ -2,38 +2,38 @@
 	"id":"EpicUK Red Corsairs",
 	"version": "v26-01-19",
     "by": "EA-Ragnarok",
-    "notes":    ["Add one free Lesser Daemon to the Lesser Daemon Pool per Daemonic Pact. Max four different upgrades per formation. Brass Scorpions, Silver Towers, Blight Drones, and Daemon Knights requires at least one formation or upgrade with Cult Marines from the same faction"],
+    "notes":    ["Füge eine free Lesser Daemon to the Lesser Daemon Pool pro Daemonic Pact. Max vier different Erweiterungen pro formation. Brass Scorpions, Silver Towers, Blight Drones, und Daemon Knights requires at least eine formation oder upgrade with Cult Marines from the same faction"],
 	"sections":[
 		{"name":"LESSER DAEMON POOL", "formations": [
-			{ "id":500, "name":"Daemon Pool", "pts":0, "upgrades":[12,11] }
+			{ "id":500, "name":"Daemon Pool", "pts":0, "Erweiterungen":[12,11] }
 		]},
 		{"name":"RED CORSAIRS CORE", "formations": [
-			{ "id":501, "name":"Hounds Squadron", "pts":300, "units":"8 Chaos Space Marine Bike units", "upgrades":[13,14] },
-			{ "id":502, "name":"Terminator Retinue", "pts":100, "upgrades":[50,15,16,18,19,22,13,28,14,35] },
-			{ "id":503, "name":"Renegade Warband", "pts":275, "upgrades":[13,14,15,16,17,18,19,20,22,28,35] }
+			{ "id":501, "name":"Hounds Schwadron", "pts":300, "units":"8 Chaos Space Marine Bike units", "Erweiterungen":[13,14] },
+			{ "id":502, "name":"Terminator Retinue", "pts":100, "Erweiterungen":[50,15,16,18,19,22,13,28,14,35] },
+			{ "id":503, "name":"Renegade Warband", "pts":275, "Erweiterungen":[13,14,15,16,17,18,19,20,22,28,35] }
 		]},
-		{"name":"RED CORSAIRS SUPPORT <br/> Max 2 for each Core formation <br/> 1+ Cult Marine formation or upgrade required for Brass Scorpions, Silver Towers, Blight Drones, Daemon Knights", "formations": [
-			{ "id":510, "name":"Armoured Company", "pts":0, "upgrades":[51,19,18,22,28] },
+		{"name":"RED CORSAIRS SUPPORT <br/> Max 2 für jeweils Core formation <br/> 1+ Cult Marine formation oder upgrade required für Brass Scorpions, Silver Towers, Blight Drones, Daemon Knights", "formations": [
+			{ "id":510, "name":"Armoured Kompanie", "pts":0, "Erweiterungen":[51,19,18,22,28] },
 			{ "id":511, "name":"Spaceship", "pts":0},
 			{ "id":512, "name":"Chaos Thunderhawk", "pts":200},
-			{ "id":513, "name":"Chosen", "pts":200, "upgrades":[15,17,20,13] },
-			{ "id":518, "name":"Defiler Assault Pack", "units":"4 Defilers", "pts":275, "upgrades":[] },
-			{ "id":524, "name":"Raptor Cult", "pts":35, "upgrades":[54,13] },
-			{ "id":514, "name":"Cult Marine Khorne Berzerkers", "units":"8 Khorne Berzerkers", "pts":275, "upgrades":[15,16,17,20,13,28] },
-			{ "id":515, "name":"Cult Marine Thousand Sons of Tzeentch", "units":"6 Thousand Sons", "pts":275, "upgrades":[15,16,17,20,13,28] },
-			{ "id":516, "name":"Cult Marine Plague Marines of Nurgle", "units":"6 Plague Marines", "pts":275, "upgrades":[15,16,17,20,13,28] },
-			{ "id":517, "name":"Cult Marine Noise Marines of Slaanesh", "units":"6 Noise Marines", "pts":275, "upgrades":[15,16,17,20,13,28] },
-			{ "id":520, "name":"Brass Scorpions of Khorne", "units":"2 Brass Scorpions", "pts":250, "upgrades":[] },
-			{ "id":521, "name":"Silver Towers of Tzeentch", "units":"4 Silver Towers", "pts":300, "upgrades":[] },
-			{ "id":522, "name":"Blight Drones of Nurgle", "units":"4 Blight Drones", "pts":200, "upgrades":[] },
-			{ "id":523, "name":"Daemon Knights of Slaanesh", "units":"4 Daemon Knights", "pts":250, "upgrades":[] }
+			{ "id":513, "name":"Chosen", "pts":200, "Erweiterungen":[15,17,20,13] },
+			{ "id":518, "name":"Defiler Assault Pack", "units":"4 Defilers", "pts":275, "Erweiterungen":[] },
+			{ "id":524, "name":"Raptor Cult", "pts":35, "Erweiterungen":[54,13] },
+			{ "id":514, "name":"Cult Marine Khorne Berzerkers", "units":"8 Khorne Berzerkers", "pts":275, "Erweiterungen":[15,16,17,20,13,28] },
+			{ "id":515, "name":"Cult Marine Thousand Sons of Tzeentch", "units":"6 Thousand Sons", "pts":275, "Erweiterungen":[15,16,17,20,13,28] },
+			{ "id":516, "name":"Cult Marine Plague Marines of Nurgle", "units":"6 Plague Marines", "pts":275, "Erweiterungen":[15,16,17,20,13,28] },
+			{ "id":517, "name":"Cult Marine Noise Marines of Slaanesh", "units":"6 Noise Marines", "pts":275, "Erweiterungen":[15,16,17,20,13,28] },
+			{ "id":520, "name":"Brass Scorpions of Khorne", "units":"2 Brass Scorpions", "pts":250, "Erweiterungen":[] },
+			{ "id":521, "name":"Silver Towers of Tzeentch", "units":"4 Silver Towers", "pts":300, "Erweiterungen":[] },
+			{ "id":522, "name":"Blight Drones of Nurgle", "units":"4 Blight Drones", "pts":200, "Erweiterungen":[] },
+			{ "id":523, "name":"Daemon Knights of Slaanesh", "units":"4 Daemon Knights", "pts":250, "Erweiterungen":[] }
 		]},
 		{"name":"CHAOS FLIGHTS <br/> Max 33%", "formations":[
-			{"id": 531, "name": "Hell Blade Flight", "pts": 200, "units": "3 Hell Blade Interceptors", "upgrades": []},
-            {"id": 532, "name": "Hell Talon Flight", "pts": 225, "units": "2 Hell Talon Fighter-Bombers", "upgrades": []}
+			{"id": 531, "name": "Hell Blade Flight", "pts": 200, "units": "3 Hell Blade Interceptors", "Erweiterungen": []},
+            {"id": 532, "name": "Hell Talon Flight", "pts": 225, "units": "2 Hell Talon Fighter-Bombers", "Erweiterungen": []}
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 
 		{ "id":11, "name":"Minor Daemons (Daemonic Pact)", "pts":0 },
 		{ "id":12, "name":"Minor Daemons", "pts":10 },
@@ -70,16 +70,16 @@
 		{ "id":60, "name":"6 Chosen", "pts":0 },
 		{ "id":61, "name":"4 Chosen, 2 Chaos Rhinos", "pts":0 },
 
-		{"id": 89, "name": "Daemon Prince (Replaces the Chaos Lord and its unit)", "pts": 50},
+		{"id": 89, "name": "Daemon Prince (Replaces the Chaos Lord und its unit)", "pts": 50},
 		{ "id":90, "name":"Chaos Lord", "pts":0 },
 		{ "id":91, "name":"Chaos Sorcerer", "pts":0 },
 		{ "id":92, "name":"Chaos Warlord (Supreme Commander)", "pts":50 },
-		{"id": 93, "name": "Daemon Prince (Supreme Commander. Replaces the Chaos Lord and its unit)", "pts": 100}
+		{"id": 93, "name": "Daemon Prince (Supreme Commander. Replaces the Chaos Lord und its unit)", "pts": 100}
 	],
 	"formationConstraints":[
 		{"max":1, "from":[500]},
 		{"max":1, "name":"spaceship","from":[511]},
-		{"max":2, "name":"Support formations", "from":[510,511,512,513,514,515,516,517,518,520,521,522,523,524,525], "forEach":[501,502,503], "name2":"Core Formation"},
+		{"max":2, "name":"Unterstützungsverbände", "from":[510,511,512,513,514,515,516,517,518,520,521,522,523,524,525], "forEach":[501,502,503], "name2":"Core Formation"},
 		{"maxPercent":33.5, "name":"Hell Blades & Talons", "from":[531,532]}
 	],
 	"upgradeConstraints":[

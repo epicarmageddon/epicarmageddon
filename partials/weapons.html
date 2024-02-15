@@ -5,16 +5,16 @@
         <td>Range</td>
         <td>Firepower</td>
     </tr>
-    {{#each weapons}}
-    {{#each modes}}
+    {{#jeweils weapons}}
+    {{#jeweils modes}}
     <tr>
         <td scope="row">{{#if join}}<i>{{join}}</i>{{else}}{{#if ../count}}{{../count}}x {{/if}}{{../name}}{{/if}}</td>
         <td>{{appendOnNumber range 'cm'}}</td>
         <td>
-            {{firepower}}{{#each specialRules}}, <i><abbr title="{{description}}">{{name}}</abbr></i>{{/each}}
+            {{firepower}}{{#jeweils specialRules}}, <i><abbr title="{{description}}">{{name}}</abbr></i>{{/jeweils}}
         </td>
     </tr>
-    {{/each}}
-    {{/each}}
+    {{/jeweils}}
+    {{/jeweils}}
     </tbody>
 </table>

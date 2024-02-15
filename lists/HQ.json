@@ -14,7 +14,7 @@
           "Anführer",
           "Befehlshaber"
         ],
-        "notes": "May only join Harlequin Troupes or Skyweaver Jetbikes."
+        "notes": "May only join Harlequin Troupes oder Skyweaver Jetbikes."
       },
       {
         "name": "Master Mime",
@@ -145,7 +145,7 @@
             "Skimmer",
             "Teleport",
             "Wind-Swift",
-          "Transport 1 (May carry one Harlequins Troupe or Death Jesters)"
+          "Transport 1 (May carry eine Harlequins Troupe oder Death Jesters)"
         ]
       }
     ]

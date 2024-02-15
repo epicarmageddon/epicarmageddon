@@ -4,34 +4,34 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"INDIVIDUALS", "formations":[
-			{"id":501, "name":"Gate of Vaul",	"pts":100,		"upgrades":[]},
-			{"id":502, "name":"Avatar",		"pts":0,		"upgrades":[]}
+			{"id":501, "name":"Gate of Vaul",	"pts":100,		"Erweiterungen":[]},
+			{"id":502, "name":"Avatar",		"pts":0,		"Erweiterungen":[]}
 		]},
 		{"name":"WARHOSTS", "formations":[
-			{"id":510, "name":"Engines of Vaul", "pts":50, "upgrades":[40,33,34,35,36]},
-			{"id":511, "name":"Swords of Vaul",	"pts":0, "upgrades":[40,33]}
+			{"id":510, "name":"Engines of Vaul", "pts":50, "Erweiterungen":[40,33,34,35,36]},
+			{"id":511, "name":"Swords of Vaul",	"pts":0, "Erweiterungen":[40,33]}
 		]},
-		{"name":"TROUPES <br/> Max 2 for each Warhost", "formations":[
-			{"id":520, "name":"Mounted Aspect Warrior Troupe", "pts":400, "upgrades":[39]},
-			{"id":524, "name":"Mounted Guardian Troupe", "units":"Farseer, 2 Wave Serpents, 2 Falcons", "pts":300, "upgrades":[]},
-			{"id":521, "name":"Night Spinner Troupe", "pts":175, "units":"3 Night Spinners", "upgrades":[33]},
-			{"id":525, "name":"Fire Prism Troupe", "units":"3 Fire Prisms",	"pts":250, "upgrades":[33]},
-			{"id":526, "name":"Warp Hunter Troupe", "units":"3 Warp Hunters", "pts":175, "upgrades":[33]},
-			{"id":527, "name":"Wind Rider Troupe", "units":"6 Vypers",	"pts":200, "upgrades":[33]},
-			{"id":528, "name":"Hornet Troupe", "units":"5 Hornets",	"pts":225, "upgrades":[33]},
-			{"id":529, "name":"Lynx Troupe", "units":"2 Lynx",	"pts":300, "upgrades":[33]}
+		{"name":"TROUPES <br/> Max 2 für jeweils Warhost", "formations":[
+			{"id":520, "name":"Mounted Aspect Warrior Troupe", "pts":400, "Erweiterungen":[39]},
+			{"id":524, "name":"Mounted Guardian Troupe", "units":"Farseer, 2 Wave Serpents, 2 Falcons", "pts":300, "Erweiterungen":[]},
+			{"id":521, "name":"Night Spinner Troupe", "pts":175, "units":"3 Night Spinners", "Erweiterungen":[33]},
+			{"id":525, "name":"Fire Prism Troupe", "units":"3 Fire Prisms",	"pts":250, "Erweiterungen":[33]},
+			{"id":526, "name":"Warp Hunter Troupe", "units":"3 Warp Hunters", "pts":175, "Erweiterungen":[33]},
+			{"id":527, "name":"Wind Rider Troupe", "units":"6 Vypers",	"pts":200, "Erweiterungen":[33]},
+			{"id":528, "name":"Hornet Troupe", "units":"5 Hornets",	"pts":225, "Erweiterungen":[33]},
+			{"id":529, "name":"Lynx Troupe", "units":"2 Lynx",	"pts":300, "Erweiterungen":[33]}
 		]},
 		{"name":"CRAFTWORLD NAVY & TITANS <br/> Max 33%", "formations":[
-			{"id":530, "name":"Wraithship",	"pts":150, "upgrades":[]},
-			{"id":531, "name":"Dragonship",	"pts":300, "upgrades":[]},
-		 	{"id":532, "name":"Warlock Titan",	"pts":850, "upgrades":[]},
-			{"id":533, "name":"Phantom Titan",	"pts":750, "upgrades":[]},
-			{"id":534, "name":"Revenant Titans","pts":650, "units":"2 Revenant Titans", "upgrades":[]},
-			{"id":535, "name":"Nightwings",	"pts":300, "units":"3 Nightwing Interceptors", "upgrades":[]},
-			{"id":536, "name":"Phoenix","pts":300, "units":"3 Phoenix Bombers", "upgrades":[]}
+			{"id":530, "name":"Wraithship",	"pts":150, "Erweiterungen":[]},
+			{"id":531, "name":"Dragonship",	"pts":300, "Erweiterungen":[]},
+		 	{"id":532, "name":"Warlock Titan",	"pts":850, "Erweiterungen":[]},
+			{"id":533, "name":"Phantom Titan",	"pts":750, "Erweiterungen":[]},
+			{"id":534, "name":"Revenant Titans","pts":650, "units":"2 Revenant Titans", "Erweiterungen":[]},
+			{"id":535, "name":"Nightwings",	"pts":300, "units":"3 Nightwing Interceptors", "Erweiterungen":[]},
+			{"id":536, "name":"Phoenix","pts":300, "units":"3 Phoenix Bombers", "Erweiterungen":[]}
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":15, "name":"Dire Avengers",		"pts":0},
 		{"id":16, "name":"Striking Scorpions",	"pts":0},
 		{"id":17, "name":"Howling Banshees",	"pts":0},

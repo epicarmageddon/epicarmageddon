@@ -98,7 +98,7 @@
         ]
       },
       {
-        "name": "Lord Commissar",
+        "name": "Lord Kommissar",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -215,7 +215,7 @@
         ]
       },
       {
-        "name": "Commissar-Captain",
+        "name": "Kommissar-Captain",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -270,7 +270,7 @@
         ]
       },
       {
-        "name": "Commissar",
+        "name": "Kommissar",
         "type": "CH",
         "weapons": [
           "Energiewaffe"
@@ -282,7 +282,7 @@
         ]
       },
       {
-        "name": "Infantry",
+        "name": "Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -293,10 +293,10 @@
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has an Maschinenkanone"
+        "notes": "Ein in every zwei units (rounding up) has an Maschinenkanone"
       },
       {
-        "name": "Panzer Infantry",
+        "name": "Panzer Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -310,7 +310,7 @@
         ]
       },
       {
-        "name": "Valhallan Infantry",
+        "name": "Valhallan Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -321,10 +321,10 @@
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Schwerer Bolter"
+        "notes": "Ein in every zwei units (rounding up) has a Schwerer Bolter"
       },
       {
-        "name": "PDF Infantry",
+        "name": "PDF Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -335,10 +335,10 @@
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Schweres Maschinengewehr"
+        "notes": "Ein in every zwei units (rounding up) has a Schweres Maschinengewehr"
       },
       {
-        "name": "Siege Infantry",
+        "name": "Siege Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -351,7 +351,7 @@
         ]
       },
       {
-        "name": "Assault Infantry",
+        "name": "Assault Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 5,
@@ -390,7 +390,7 @@
         ]
       },
       {
-        "name": "Catachan Infantry",
+        "name": "Catachan Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 4,
@@ -439,7 +439,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Counts as two units of INF for the purpose of being transported."
+        "notes": "Counts as zwei units of INF für the purpose of being transported."
       },
       {
         "name": "Death Riders",
@@ -459,7 +459,7 @@
         ]
       },
       {
-        "name": "Rough Riders",
+        "name": "Kavallerieschwadron",
         "type": "INF",
         "speed": 20,
         "armour": 6,
@@ -477,13 +477,13 @@
         ]
       },
       {
-        "name": "Snipers",
+        "name": "Scharfschützen",
         "type": "INF",
         "speed": 15,
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Sniper Rifles"
+          "Scharfschützengewehre"
         ],
         "specialRules": [
           "Aufklärer"
@@ -593,7 +593,7 @@
         ]
       },
       {
-        "name": "Fire Support Squad",
+        "name": "Unterstützungstrupp",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -605,7 +605,7 @@
         ]
       },
       {
-        "name": "Baran Fire Support Squad",
+        "name": "Baran Unterstützungstrupp",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -618,7 +618,7 @@
         ]
       },
       {
-        "name": "Elysian Fire Support Squad",
+        "name": "Elysian Unterstützungstrupp",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -822,7 +822,7 @@
         ]
       },
       {
-        "name": "Storm Chimera",
+        "name": "Storm Chimäre",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -835,10 +835,10 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
-        "name": "Chimera",
+        "name": "Chimäre",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -851,10 +851,10 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
-        "name": "Death World Chimera",
+        "name": "Death World Chimäre",
         "type": "AV",
         "speed": 25,
         "armour": 5,
@@ -868,10 +868,10 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
-        "name": "Hellhound",
+        "name": "Höllenhund",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -927,7 +927,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Taurox",
@@ -943,7 +943,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten"
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten"
       },
       {
         "name": "Centaur",
@@ -956,7 +956,7 @@
           "Schweres Maschinengewehr"
         ],
         "specialRules": [
-          "Transport: One Infantry unit, and one Rapier or Thudd Gun"
+          "Transport: Ein Infanterie unit, und eine Rapier oder Thudd Gun"
         ]
       },
       {
@@ -970,11 +970,11 @@
           "Schwerer Bolter"
         ],
         "specialRules": [
-          "Transport: One Earthshaker Gun or Heavy AA Gun"
+          "Transport: Ein Earthshaker Gun oder Heavy AA Gun"
         ]
       },
       {
-        "name": "Deathstrike",
+        "name": "Todesstoss-Raketensystem",
         "type": "AV",
         "speed": 20,
         "armour": 6,
@@ -988,7 +988,7 @@
         ]
       },
       {
-        "name": "Deathstrike Silo",
+        "name": "Todesstoss-Raketensilo",
         "type": "WE",
         "speed": "Immobile",
         "armour": 5,
@@ -999,10 +999,10 @@
           "Damage Capacity 2",
           "Reinforced Armour"
         ],
-        "crit": "The Deathstrike Silo is destroyed. All units within 10cm takes a hit."
+        "crit": "The Todesstoss-Raketensilo is destroyed. All units within 10cm takes a hit."
       },
       {
-        "name": "Griffon",
+        "name": "Greif",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -1016,7 +1016,7 @@
         ]
       },
       {
-        "name": "Valhallan Griffon",
+        "name": "Valhallan Greif",
         "type": "AV",
         "speed": 15,
         "armour": 5,
@@ -1136,7 +1136,7 @@
         ]
       },
       {
-        "name": "Manticore",
+        "name": "Mantikor",
         "type": "AV",
         "speed": 20,
         "armour": 6,
@@ -1171,7 +1171,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Formation must start the game in the reserves, and may only enter the board by Tunneling. When resolving tunnelers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, or within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
+        "notes": "Formation must start the game in the reserves, und may only enter the board by Tunneling. When resolving tunnelers, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, oder within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
       },
       {
         "name": "Ragnarok Heavy Panzer",
@@ -1362,7 +1362,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport two infantry units or one Drop Sentinel. May not transport Ogryns."
+        "notes": "May transport zwei Infanterie units oder eine Drop Sentinel. May not transport Ogryns."
       },
       {
         "name": "Sky Talon",
@@ -1378,7 +1378,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport one Light Vehicle (LV) or two Drop Sentinels."
+        "notes": "May transport eine Light Vehicle (LV) oder zwei Drop Sentinels."
       },
       {
         "name": "Vulture",
@@ -1412,7 +1412,7 @@
           "Skimmer",
           "Transport"
         ],
-        "notes": "May transport two infantry units or one Drop Sentinel. May not transport Ogryns."
+        "notes": "May transport zwei Infanterie units oder eine Drop Sentinel. May not transport Ogryns."
       },
       {
         "name": "Malcador",
@@ -1490,7 +1490,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry six infantry units without Jump Packs or Beritten"
+        "notes": "May carry sechs Infanterie units without Jump Packs oder Beritten"
       },
       {
         "name": "Minotaur",
@@ -1539,7 +1539,7 @@
           "Damage Capacity 2",
           "Reinforced Armour"
         ],
-        "notes": "Must be equipped with either Synchronisierter Vanquisher Geschütz or a Vulcan Mega-Bolter.",
+        "notes": "Must be equipped with either Synchronisierter Vanquisher Geschütz oder a Vulcan Mega-Bolter.",
         "crit": "The Macharius is destroyed."
       },
       {
@@ -1609,8 +1609,8 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 infantry units without Jump Pack or Beritten.",
-        "crit": "The Gorgon is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
+        "notes": "May carry 10 Infanterie units without Jump Pack oder Beritten.",
+        "crit": "The Gorgon is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
         "name": "Baneblade",
@@ -1669,8 +1669,8 @@
           "Reinforced Armour",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Pack or Beritten, two may fire from the firing deck and participate with FF during assaults.",
-        "crit": "The Stormlord is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
+        "notes": "May transport zwölf Infanteristen units without Jump Pack oder Beritten, zwei may fire from the firing deck und participate with FF during assaults.",
+        "crit": "The Stormlord is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
       },
       {
         "name": "Banehammer",

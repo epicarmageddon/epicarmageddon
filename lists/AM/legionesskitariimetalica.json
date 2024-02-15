@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_LegionesSkitariiMetalica",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have a Initiative Rating of 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. All other formations have a Initiative Rating of 2+.",
   "specialRules": [
   ],
   "usage": [
@@ -25,7 +25,7 @@
         "Castellax Battle-Automata",
         "Rapier",
         "Hydra",
-        "Chimera",
+        "Chimäre",
         "Chimedon",
         "Leman Russ",
         "Leman Russ Demolisher",
@@ -62,9 +62,9 @@
         "Warlord Titan"
       ],
       "unitRules": [
-        "Void Shields",
-        "God Machine",
-        "Split Fire"
+        "Deflektorschilde",
+        "Gottgleiche Maschine",
+        "Feuer aufteilen"
       ]
     }
   ],
@@ -74,10 +74,10 @@
       "formations": [
         {
           "name": "Hypaspist Maniple",
-          "units": "One Magos, nine Hypaspists",
+          "units": "Ein Magos, neun Hypaspists",
           "extraUnits": [
-            "Replace three Hypaspists with three Rapiers: Free",
-            "Replace two Hypaspists with two Sagitarii: 25 points",
+            "Ersetze drei Hypaspists with drei Rapiers: Free",
+            "Ersetze zwei Hypaspists with zwei Sagitarii: 25 Punkte",
             "Minoris",
             "Oberbefehlshaber",
             "Hypaspist Transport",
@@ -89,43 +89,43 @@
     },
     {
       "name": "Legiones Metalica Line Formations",
-      "description": "Up to three Metalica Line Formations for each Core Formation.",
+      "description": " Bis zu drei Metalica Line Formations für jeweils Core Formation.",
       "formations": [
         {
           "name": "Ballistae Cohort",
-          "units": "Four Sagitarii",
+          "units": "Vier Sagitarii",
           "extraUnits": [
-            "Replace one unit of Sagitarii with three Rapiers: 25 points",
-            "Add enought Chimeras or Chimedons to transport the formation with no space left over: 25 points each",
+            "Ersetze eine unit of Sagitarii with drei Rapiers: 25 Punkte",
+            "Füge enought Chimären oder Chimedons to transport the formation with no space left over: 25 Punkte jeweils",
             "Hydra"
           ],
           "points": 150
         },
         {
           "name": "Kastelan Maniple",
-          "units": "One Tech-Priest, five Kastelan Robots",
+          "units": "Ein Tech-Priest, fünf Kastelan Robots",
           "extraUnits": [
-            "Add up to two Kastelan Robots for 25 points each"
+            "Füge bis zu zwei Kastelan Robots für 25 Punkte jeweils"
           ],
           "points": 175
         },
         {
           "name": "Castellax Maniple",
-          "units": "One Tech-Priest, four Castellax Battle-Automata",
+          "units": "Ein Tech-Priest, vier Castellax Battle-Automata",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Praetorian Maniple",
-          "units": "One Tech-Priest, five Praetorian Combat Servitors",
+          "units": "Ein Tech-Priest, fünf Praetorian Combat Servitors",
           "extraUnits": [
           ],
           "points": 250
         },
         {
           "name": "Cataphractii Maniple",
-          "units": "Six Leman Russ, Leman Russ Demolishers or Leman Russ Executioners",
+          "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Executioners",
           "extraUnits": [
             "Hydra"
           ],
@@ -133,7 +133,7 @@
         },
         {
           "name": "Minoris Cohort",
-          "units": "Two Ordinatus Minoris",
+          "units": "Zwei Ordinatus Minoris",
           "extraUnits": [
             "Minoris",
             "Support Weapon"
@@ -142,7 +142,7 @@
         },
         {
           "name": "0-1 Ordinatus Majoris",
-          "units": "One Ordinatus Armageddon (Nova Geschütz)",
+          "units": "Ein Ordinatus Armageddon (Nova Geschütz)",
           "extraUnits": [
             "Ordinatus Mars (Sonic Disruptor)",
             "Ordinatus Golgotha (Hellfire Raketen)"
@@ -152,19 +152,19 @@
       ]
     },
     {
-      "name": "Forge World Navy, Collegia Titanica and Questoris Mechanicus Support",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Forge World Navy, Collegia Titanica und Questoris Mechanicus Support",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Paladin Household",
-          "units": "Five Knight-Paladins",
+          "units": "Fünf Knight-Paladins",
           "extraUnits": [
           ],
           "points": 450
         },
         {
           "name": "Warhound Pack",
-          "units": "Two Warhound Aufklärer Titans, both of either Standard or Support Configuration",
+          "units": "Zwei Warhound Aufklärer Titans, both of either Standard oder Support Configuration",
           "extraUnits": [
             "Panzer Hunter Configuration"
           ],
@@ -172,87 +172,87 @@
         },
         {
           "name": "Reaver Titan",
-          "units": "One Reaver Titan",
+          "units": "Ein Reaver Titan",
           "extraUnits": [
           ],
           "points": 600
         },
         {
           "name": "Warlord Titan",
-          "units": "One Warlord Titan",
+          "units": "Ein Warlord Titan",
           "extraUnits": [
           ],
           "points": 750
         },
         {
-          "name": "Avenger Squadron",
-          "units": "Two Avenger Strike Fighters",
+          "name": "Avenger Schwadron",
+          "units": "Zwei Avenger Strike Fighters",
           "points": 175
         },
         {
           "name": "0-1 Mechanicus Battleship",
-          "units": "One Ark Mechanicus Battleship",
+          "units": "Ein Ark Mechanicus Battleship",
           "points": 225
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Legiones Metalica Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Legiones Metalica Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "0-1 Oberbefehlshaber",
-        "description": "Replace the Magos with an Magos Dominus",
-        "points": "75 points"
+        "description": "Ersetze the Magos mit einem Magos Dominus",
+        "points": "75 Punkte"
       },
       {
         "name": "Hypaspist Transport",
-        "description": "Add one Gorgon, five Chimeras, or five Chimedons",
+        "description": "Füge eine Gorgon, fünf Chimären, oder fünf Chimedons",
         "options": [
           {
-            "description": "One Gorgon",
-            "points": "100 points"
+            "description": "Ein Gorgon",
+            "points": "100 Punkte"
           },
           {
-            "description": "Five Chimeras",
-            "points": "125 points"
+            "description": "Fünf Chimären",
+            "points": "125 Punkte"
           },
           {
-            "description": "Five Chimedons",
-            "points": "125 points"
+            "description": "Fünf Chimedons",
+            "points": "125 Punkte"
           }
         ]
       },
       {
         "name": "Hydra",
-        "description": "Add one Hydra",
-        "points": "50 points"
+        "description": "Füge eine Hydra",
+        "points": "50 Punkte"
       },
       {
         "name": "Minoris",
-        "description": "Add one Ordinatus Minoris",
-        "points": "125 points"
+        "description": "Füge eine Ordinatus Minoris",
+        "points": "125 Punkte"
       },
       {
         "name": "Minoris Support Weapon",
-        "description": "Upgrade one Minoris to carry a Support Weapon",
-        "points": "25 points"
+        "description": "Upgrade eine Minoris to carry a Support Weapon",
+        "points": "25 Punkte"
       },
       {
         "name": "Ordinatus Mars",
-        "description": "Replace the Ordinatus Armageddon with an Ordinatus Mars (Sonic Disruptor)",
+        "description": "Ersetze the Ordinatus Armageddon mit einem Ordinatus Mars (Sonic Disruptor)",
         "points": "Free"
       },
       {
         "name": "Ordinatus Golgotha",
-        "description": "Replace the Ordinatus Armageddon with an Ordinatus Golgotha (Hellfire Raketen)",
-        "points": "50 points"
+        "description": "Ersetze the Ordinatus Armageddon mit einem Ordinatus Golgotha (Hellfire Raketen)",
+        "points": "50 Punkte"
       },
       {
         "name": "Panzer Hunter",
         "description": "Upgrade both Warhounds to Panzer Hunter Configuration",
-        "points": "50 points"
+        "points": "50 Punkte"
       }
     ]
   }

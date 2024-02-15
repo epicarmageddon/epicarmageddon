@@ -11,7 +11,7 @@
           "name": "Nexus Swarm (2-4 Instinctive Swarms)",
           "pts": 400,
 		  "units": "Dagon Dominatrix",
-          "upgrades": [
+          "Erweiterungen": [
 			100,
 			101,
 			102,
@@ -37,7 +37,7 @@
           "id": 502,
           "name": "Major Swarm (2-4 Instinctive Swarms)",
           "pts": 175,
-          "upgrades": [
+          "Erweiterungen": [
 			100,
 		  	101,
 			102,
@@ -64,7 +64,7 @@
           "id": 503,
           "name": "Minor Swarm (2-4 Instinctive Swarms)",
           "pts": 100,
-          "upgrades": [
+          "Erweiterungen": [
 			100,
 			101,
 			102,
@@ -89,14 +89,14 @@
       ]
     },
 	{
-      "name": "Secondary Synapse Swarms (One Secondary Synapse Swarm may be taken for each Primary Synapse Swarm)",
+      "name": "Secondary Synapse Swarms (Ein Secondary Synapse Swarm may be taken für jeweils Primary Synapse Swarm)",
       "formations": [
 	  	    {
           "id": 512,
           "name": "Hive Swarm (1-2 Instinctive Swarms)",
           "units": "Hive Nest",
           "pts": 125,
-          "upgrades": [
+          "Erweiterungen": [
 			100,
 			101,
 			102,
@@ -114,7 +114,7 @@
           "id": 509,
           "name": "Attack Swarm (1-2 Instinctive Swarms)",
           "pts": 0,
-          "upgrades": [
+          "Erweiterungen": [
 			100,
 			101,
 			102,
@@ -135,7 +135,7 @@
           "id": 504,
           "name": "Infestation Swarm (1-2 Instinctive Swarms)",
           "pts": 0,
-           "upgrades": [
+           "Erweiterungen": [
 			118,
 			117
           ]
@@ -145,7 +145,7 @@
           "name": "Harasser Swarm (1-2 Instinctive Swarms)",
           "units": "Harridan",
           "pts": 150,
-          "upgrades": [
+          "Erweiterungen": [
             109,
 			107
           ]
@@ -153,13 +153,13 @@
       ]
     },
     {
-      "name": "Common Independent Swarms (One Common Independent Swarm may be taken for each Primary Synapse Swarm. // Max 33% of the list may be taken from this section)",
+      "name": "Common Independent Swarms (Ein Common Independent Swarm may be taken für jeweils Primary Synapse Swarm. // Max 33% of the list may be taken from this section)",
       "formations": [
         {
           "id": 506,
           "name": "Genestealer Swarm",
           "pts": 0,
-          "upgrades": [
+          "Erweiterungen": [
             140,
             141
           ]
@@ -168,33 +168,33 @@
           "id": 507,
           "name": "Lictor Swarm",
           "pts": 100,
-          "upgrades": [
+          "Erweiterungen": [
             142
           ]
         }
       ]
     },
     {
-      "name": "Rare Independent Swarms (One Rare Independent Swarm may be taken for each Primary Synapse Swarm. // Max 33% of the list may be taken from this section)",
+      "name": "Rare Independent Swarms (Ein Rare Independent Swarm may be taken für jeweils Primary Synapse Swarm. // Max 33% of the list may be taken from this section)",
       "formations": [
     {
           "id": 510,
           "name": "Bio-Titan",
           "pts": 0,
-          "upgrades": [
+          "Erweiterungen": [
           ]
     },
     {
           "id": 511,
           "name": "Bio-Vessel",
           "pts": 0,
-          "upgrades": [
+          "Erweiterungen": [
           ]
       }
       ]
     }
   ],
-  "upgrades": [
+  "Erweiterungen": [
     {
       "id": 100,
       "name": "Gaunts (5 Termagants)",

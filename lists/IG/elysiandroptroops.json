@@ -3,10 +3,10 @@
   "army": "Elysianische Sturmtruppen",
   "version": "0.9.0",
   "release": "2022-08-03",
-  "strategy": "Elysianische Sturmtruppen armies have a Strategy Rating of 3.",
+  "strategy": "Elysianische Sturmtruppen Armeen haben einen Strategiewert von 3.",
   "Initiative": "All formations have a Initiative of 2+.",
   "specialRules": [
-    "Courage, Discipline and Loyalty",
+    "Mut, Disziplin und Loyalität",
     "Air Superiority",
     "Deep Strike"
   ],
@@ -16,9 +16,9 @@
       "units": [
         "Elysianischer Oberbefehlshaber",
         "Elysian Befehlshaber",
-        "Commissar",
+        "Kommissar",
         "Elysianische Sturmtruppen",
-        "Elysian Fire Support Squad",
+        "Elysian Unterstützungstrupp",
         "Elysian Mörser Squad",
         "Elysian Sturmtruppen",
         "Armoured Sentinel",
@@ -48,12 +48,12 @@
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter",
+        "Thunderbolt",
         "Lightning Interceptor",
         "Marauder Bomber",
         "Marauder Destroyer",
-        "Lunar Class Cruiser",
-        "Emperor Class Battleship"
+        "Lunar-Klasse Kreuzer",
+        "Imperator-Klasse Schlachtschiff"
       ],
       "unitRules": [
       ]
@@ -64,142 +64,142 @@
       "name": "Elysian Core Formations",
       "formations": [
         {
-          "name": "0-1 Regimental HQ",
-          "units": "One Elysianischer Oberbefehlshaber with a Commissar, seven Elysianische Sturmtruppen, four Valkyries.",
+          "name": "0-1 Regiments HQ",
+          "units": "Ein Elysianischer Oberbefehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
           "extraUnits": [
             "Drop Sentinels",
-            "Fire Support",
-            "Infantry Platoon"
+            "Unterstützungstrupps",
+            "Infanterie Zug"
           ],
           "points": 375
         },
         {
-          "name": "Drop Troop Company",
-          "units": "One Elysian Befehlshaber with a Commissar, seven Elysianische Sturmtruppen, four Valkyries.",
+          "name": "Drop Troop Kompanie",
+          "units": "Ein Elysian Befehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
           "extraUnits": [
             "Drop Sentinels",
-            "Fire Support",
-            "Infantry Platoon"
+            "Unterstützungstrupps",
+            "Infanterie Zug"
           ],
           "points": 325
         }
       ]
     },
     {
-      "name": "Elysian Support Formations",
-      "description": "Up to two Support Formations for each Core Company.",
+      "name": "Elysian Unterstützungsverbände",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
       "formations": [
         {
-          "name": "Drop Sentinel Squadron",
-          "units": "Six Drop Sentinels",
+          "name": "Drop Sentinel Schwadron",
+          "units": "Sechs Drop Sentinels",
           "extraUnits": [
-            "Add three Sky Talons: 75 points"
+            "Füge drei Sky Talons: 75 Punkte"
           ],
           "points": 175
         },
         {
-          "name": "Sentinel Squadron",
-          "units": "Four Sentinels",
+          "name": "Sentinel Schwadron",
+          "units": "Vier Sentinels",
           "extraUnits": [
-            "Replace all Sentinels with Armoured Sentinels: 25 points",
-            "Replace all Sentinels with Support Sentinels: 50 points"
+            "Ersetze all Sentinels with Armoured Sentinels: 25 Punkte",
+            "Ersetze all Sentinels with Support Sentinels: 50 Punkte"
           ],
           "points": 100
         },
         {
-          "name": "Storm Trooper Company",
-          "units": "Eight Elysian Sturmtruppen, one with a Commissar, and four Valkyries.",
+          "name": "Storm Trooper Kompanie",
+          "units": "Acht Elysian Sturmtruppen, eine mit Kommissar, und vier Valkyries.",
           "extraUnits": [
-            "Replace all Valkyries with Vendettas: 75 points"
+            "Ersetze all Valkyries with Vendettas: 75 Punkte"
           ],
           "points": 350
         },
         {
-          "name": "Support Platoon",
-          "units": "Four Elysian Support Squads or four Elysian Mörser Squads, and two Valkyries",
+          "name": "Support Zug",
+          "units": "Vier Elysian Support Squads oder vier Elysian Mörser Squads, und zwei Valkyries",
           "extraUnits": [
-            "Replace all Valkyries with Vendettas: 25 points"
+            "Ersetze all Valkyries with Vendettas: 25 Punkte"
           ],
           "points": 200
         },
         {
-          "name": "Tauros Venator Squadron",
-          "units": "Four Tauros Venators",
+          "name": "Tauros Venator Schwadron",
+          "units": "Vier Tauros Venators",
           "extraUnits": [
-            "Add up to two Tauros Venators: 25 points each"
+            "Füge bis zu zwei Tauros Venators: 25 Punkte jeweils"
           ],
           "points": 150
         },
         {
-          "name": "Tauros Recon Squadron",
-          "units": "Five Tauros",
+          "name": "Tauros Recon Schwadron",
+          "units": "Fünf Tauros",
           "points": 150
         },
         {
-          "name": "Vulture Squadron",
-          "units": "Four Vultures",
+          "name": "Vulture Schwadron",
+          "units": "Vier Vultures",
           "points": 300
         }
       ]
     },
     {
-      "name": "Static Defenses & Imperial Navy Allies",
-      "description": "Up to a third of the points available may be spent on these formations. Up to one Tarantula formation for each Tauros Recon Squadron",
+      "name": "Static Defenses & Imperiale LuftstreitkräfteAllies",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.  Bis zu eine Tarantula formation für jeweils Tauros Recon Schwadron",
       "formations": [
         {
           "name": "Tarantula",
-          "units": "Four Tarantulas",
+          "units": "Vier Tarantulas",
           "points": 125
         },
         {
-          "name": "Lightning Squadron",
-          "units": "Two Lightning Interceptors",
+          "name": "Lightning Schwadron",
+          "units": "Zwei Lightning Interceptors",
           "points": 150
         },
         {
           "name": "Marauder Destroyer",
-          "units": "One Marauder Destroyer",
+          "units": "Ein Marauder Destroyer",
           "points": 175
         },
         {
-          "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "name": "Marauder Schwadron",
+          "units": "Zwei Marauder Bomber",
           "points": 250
         },
         {
-          "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "name": "Thunderbolt Schwadron",
+          "units": "Zwei Thunderbolts",
           "points": 175
         },
         {
           "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "units": "Ein Lunar-Klasse Kreuzer",
           "points": 150,
           "extraUnits": [
-            "Replace the Lunar Class Cruiser with an Emperor Class Battleship: 25 points"
+            "Ersetze the Lunar-Klasse Kreuzer mit einem Imperator-Klasse Schlachtschiff: 25 Punkte"
           ]
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Elysian Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+  "Erweiterungen": {
+    "title": "Elysian Erweiterungen",
+    "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
         "name": "Drop Sentinels",
-        "description": "Replace two Elysianische Sturmtruppen and one Valkyrie with two Drop Sentinels and one Sky Talon",
+        "description": "Ersetze zwei Elysianische Sturmtruppen und eine Valkyrie with zwei Drop Sentinels und eine Sky Talon",
         "points": "Free"
       },
       {
-        "name": "Fire Support",
-        "description": "Replace two Elysianische Sturmtruppen and one Valkyrie with two Elysian Fire Support Squads and one Vendetta",
-        "points": "25 points"
+        "name": "Unterstützungstrupps",
+        "description": "Ersetze zwei Elysianische Sturmtruppen und eine Valkyrie with zwei Elysian Unterstützungstrupps und eine Vendetta",
+        "points": "25 Punkte"
       },
       {
-        "name": "Infantry Platoon",
-        "description": "Add two Elysianische Sturmtruppen and one Valkyrie",
-        "points": "75 points"
+        "name": "Infanterie Zug",
+        "description": "Füge zwei Elysianische Sturmtruppen und eine Valkyrie",
+        "points": "75 Punkte"
       }
     ]
   }

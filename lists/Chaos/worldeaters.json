@@ -4,8 +4,8 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_WorldEaters",
-  "strategy": "Chaos Space Marine armies have a Strategy Rating of 4.",
-  "Initiative": "All World Eaters Core and Elite formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
+  "Initiative": "All World Eaters Core und Elite Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Summoning",
     "World Eaters Summoning Rules",
@@ -91,9 +91,9 @@
       "formations": [
         {
           "name": "World Eaters Retinue",
-          "units": "One Chaos Lord, four Khorne Berzerkers, four World Eaters Assault Marines, four World Eaters Rhinos, Daemonic Pact",
+          "units": "Ein Chaos Lord, vier Khorne Berzerkers, vier World Eaters Assault Marines, vier World Eaters Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Add two Berzerker Dreadnoughts: 75 points",
+            "Füge zwei Berzerker Dreadnoughts: 75 Punkte",
             "Oberbefehlshaber",
             "Berzerker Transport",
             "Champion",
@@ -105,9 +105,9 @@
         },
         {
           "name": "Skullseeker Terminators",
-          "units": "One Chaos Lord, four Skullseeker Terminators, Daemonic Pact",
+          "units": "Ein Chaos Lord, vier Skullseeker Terminators, Daemonic Pact",
           "extraUnits": [
-            "Add up to two Mutilators: 50 points each",
+            "Füge bis zu zwei Mutilators: 50 Punkte jeweils",
             "Oberbefehlshaber",
             "Skullseeker Transport",
             "Champion",
@@ -119,20 +119,20 @@
     },
     {
       "name": "World Eaters Elite Formations",
-      "description": "One Elite formation may be taken per Core formation.",
+      "description": "Ein Elite formation may be taken pro Core formation.",
       "formations": [
         {
           "name": "Destroyers",
-          "units": "Four Chaos Destroyers, Daemonic Pact",
+          "units": "Vier Chaos Destroyers, Daemonic Pact",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos Space Marines",
-          "units": "Six Chaos Space Marines, three World Eaters Rhinos, Daemonic Pact",
+          "units": "Sechs Chaos Space Marines, drei World Eaters Rhinos, Daemonic Pact",
           "extraUnits": [
-            "Replace three World Eaters Rhinos with three Chaos Land Raiders: 125 points",
+            "Ersetze drei World Eaters Rhinos with drei Chaos Land Raiders: 125 Punkte",
             "Stalker",
             "Vindicators"
           ],
@@ -140,7 +140,7 @@
         },
         {
           "name": "Berzerker Bikes",
-          "units": "One Chaos Lord, six Khorne Berzerker Assault Bikes, Daemonic Pact",
+          "units": "Ein Chaos Lord, sechs Khorne Berzerker Assault Bikes, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
@@ -150,7 +150,7 @@
         },
         {
           "name": "Juggernaut Riders",
-          "units": "One Chaos Lord, six Juggernaut Riders, Daemonic Pact",
+          "units": "Ein Chaos Lord, sechs Juggernaut Riders, Daemonic Pact",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
@@ -161,34 +161,34 @@
       ]
     },
     {
-      "name": "World Eaters Support Formations",
-      "description": "Two Support formations may be taken per Core formation.",
+      "name": "World Eaters Unterstützungsverbände",
+      "description": "Zwei Unterstützungsverbände may be taken pro Core formation.",
       "formations": [
         {
           "name": "Doomblasters",
-          "units": "Three Doomblasters",
+          "units": "Drei Doomblasters",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Khorne Defiler Pack",
-          "units": "Four Slaughterfiends",
+          "units": "Vier Slaughterfiends",
           "extraUnits": [
-              "Add up to three Slaughterfiends: 50 points each"
+              "Füge bis zu drei Slaughterfiends: 50 Punkte jeweils"
           ],
           "points": 250
         },
         {
           "name": "Cannons of Khorne",
-          "units": "Four Cannons of Khorne",
+          "units": "Vier Cannons of Khorne",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Daemonic Assault Engines",
-          "units": "Four Daemonic Assault Engines",
+          "units": "Vier Daemonic Assault Engines",
           "extraUnits": [
           ],
           "points": 225
@@ -196,44 +196,44 @@
       ]
     },
     {
-      "name": "War Engines and Chaos Navy Formations",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "name": "War Engines und Chaos Navy Formations",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {
           "name": "Greater Brass Scorpions",
-          "units": "One Greater Brass Scorpion",
+          "units": "Ein Greater Brass Scorpion",
           "extraUnits": [
-            "Add up to two Greater Brass Scorpions: 175 points each"
+            "Füge bis zu zwei Greater Brass Scorpions: 175 Punkte jeweils"
           ],
           "points": 225
         },
         {
           "name": "Lord of Battles",
-          "units": "One Lord of Battles",
+          "units": "Ein Lord of Battles",
           "extraUnits": [
           ],
           "points": 425
         },
         {
           "name": "0-1 Tower of Skulls",
-          "units": "One Tower of Skulls",
+          "units": "Ein Tower of Skulls",
           "extraUnits": [
           ],
           "points": 600
         },
         {
-          "name": "Hell Blade Squadron",
-          "units": "Three Hell Blade Interceptors",
+          "name": "Hell Blade Schwadron",
+          "units": "Drei Hell Blade Interceptors",
           "points": 175
         },
         {
-          "name": "Hell Talon Squadron",
-          "units": "Two Hell Talon Fighter-Bombers",
+          "name": "Hell Talon Schwadron",
+          "units": "Zwei Hell Talon Fighter-Bombers",
           "points": 225
         },
         {
           "name": "0-1 Chaos Cruiser",
-          "units": "One Devastation Class Cruiser",
+          "units": "Ein Devastation Class Cruiser",
           "extraUnits": [
             "Battleship"
           ],
@@ -243,41 +243,41 @@
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points.",
+      "description": "Any amount may be spent on Daemon Pool Punkte.",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points",
+          "units": "Any amount of Lesser Daemon Pool Punkte",
           "points": 20
         },
         {
           "name": "Greater Daemon Pool",
-          "units": "Any amount of Greater Daemon Pool points. The first one is free.",
+          "units": "Any amount of Greater Daemon Pool Punkte. The first eine is free.",
           "points": 50
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "World Eaters Upgrades",
-    "description": "Each upgrade may be taken once per formation.",
+  "Erweiterungen": {
+    "title": "World Eaters Erweiterungen",
+    "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
         "name": "Battleship",
-        "description": "Replace the Devastation Class Cruiser with a Despoiler Class Battleship",
-        "points": "50 points"
+        "description": "Ersetze the Devastation Class Cruiser mit einemDespoiler Class Battleship",
+        "points": "50 Punkte"
       },
       {
         "name": "0-1 Oberbefehlshaber",
-        "description": "Choose one of the following:",
+        "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Replace the Chaos Lord with a Warlord",
-            "points": "50 points"
+            "description": "Ersetze the Chaos Lord mit einemWarlord",
+            "points": "50 Punkte"
           },
           {
-            "description": "Replace the Chaos Lord and its unit with a Daemon Prince of Khorne",
-            "points": "100 points"
+            "description": "Ersetze the Chaos Lord und its unit mit einemDaemon Prince of Khorne",
+            "points": "100 Punkte"
           }
         ]
       },
@@ -285,12 +285,12 @@
         "name": "Berzerker Transport",
         "options": [
           {
-            "description": "Replace four Chaos Rhinos with Dreadclaws",
+            "description": "Ersetze vier Chaos Rhinos with Dreadclaws",
             "points": "Free"
           },
           {
-            "description": "Replace four Chaos Rhinos with two Chaos Spartan Assault Panzers",
-            "points": "100 points"
+            "description": "Ersetze vier Chaos Rhinos with zwei Chaos Spartan Assault Panzers",
+            "points": "100 Punkte"
           }
         ]
       },
@@ -298,39 +298,39 @@
         "name": "Skullseeker Transport",
         "options": [
           {
-            "description": "Add Dreadclaws to the formation",
+            "description": "Füge Dreadclaws to the formation",
             "points": "Free"
           },
           {
-            "description": "Add two Chaos Spartan Assault Panzers",
-            "points": "100 points"
+            "description": "Füge zwei Chaos Spartan Assault Panzers",
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Daemonic Pact",
-        "description": "Add Daemonic Pact to the formation, and one point to the Lesser Daemon Pool",
-        "points": "25 points"
+        "description": "Füge Daemonic Pact to the formation, und eine point to the Lesser Daemon Pool",
+        "points": "25 Punkte"
       },
       {
         "name": "Stalker",
-        "description": "Add one Chaos Stalker to the formation",
-        "points": "50 points"
+        "description": "Füge eine Chaos Stalker to the formation",
+        "points": "50 Punkte"
       },
       {
         "name": "Champion",
-        "description": "Add one Champion of Chaos character to the formation",
-        "points": "50 points"
+        "description": "Füge eine Champion of Chaos character to the formation",
+        "points": "50 Punkte"
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer character",
-        "points": "25 points"
+        "description": "Füge eine Icon Bearer character",
+        "points": "25 Punkte"
       },
       {
         "name": "Vindicators",
-        "description": "Add two World Eaters Vindicators",
-        "points": "50 points"
+        "description": "Füge zwei World Eaters Vindicators",
+        "points": "50 Punkte"
       }
     ]
   }

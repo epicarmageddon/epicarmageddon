@@ -3,8 +3,8 @@
   "army": "Emissaries Imperatus",
   "version": "1.1",
   "release": "2022-04-01",
-  "strategy": "Adeptus Custodes armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
+  "strategy": "Adeptus Custodes Armeen haben einen Strategiewert von 5.",
+  "Initiative": "All Verbände haben eine Initiative von 1+.",
   "specialRules": [
     "Adeptus Custodians"
   ],
@@ -54,8 +54,8 @@
       "formations": [
         {
           "name": "Custodes Guardian Squad",
-          "units": "Two Sagittarum plus either Two Guardian OR Two Sentinel Guard and 2 Venerable Land Raiders or 2 Coronus",
-          "upgrades": [
+          "units": "Zwei Sagittarum plus either Zwei Guardian OR Zwei Sentinel Guard und 2 Venerable Land Raiders oder 2 Coronus",
+          "Erweiterungen": [
             "Befehlshaber"
           ],
           "points": 375
@@ -64,12 +64,12 @@
     },
     {
       "name": "Adeptus Custodes Elite Detachments",
-      "description": "One elite detachment may be taken per core detachments",
+      "description": "Ein elite detachment may be taken pro core detachments",
       "formations": [
         {
           "name": "Warden Wing",
           "units": "5 Wardens",
-          "upgrades": [
+          "Erweiterungen": [
             "Befehlshaber",
             "Dreadnaught",
             "Transport"
@@ -78,16 +78,16 @@
         },
         {
           "name": "Dreadnaught Wing",
-          "units": "3 of the following in any combination: Contemptor Dreadnought Achilles or Telemon Heavy Dreadnoughts",
-          "upgrades": [
+          "units": "3 of the following in any combination: Contemptor Dreadnought Achilles oder Telemon Heavy Dreadnoughts",
+          "Erweiterungen": [
             "Dreadnaught"
           ],
           "points": 300
         },
         {
           "name": "Aquilon Custodians",
-          "units": "Four Aquilon Terminators",
-          "upgrades": [
+          "units": "Vier Aquilon Terminators",
+          "Erweiterungen": [
             "Befehlshaber",
             "Dreadnaught",
             "Transport"
@@ -98,42 +98,42 @@
     },
     {
       "name": "Adeptus Custodes Support Detachments",
-      "description": "Two Support Detachments may be taken per Core Detachment",
+      "description": "Zwei Support Detachments may be taken pro Core Detachment",
       "formations": [
         {
           "name": "Venatari Wing",
-          "units": "Five Venatari",
-          "upgrades": [
+          "units": "Fünf Venatari",
+          "Erweiterungen": [
             "Befehlshaber"
           ],
           "points": 300
         },
         {
           "name": "Kataphractoi",
-          "units": "Six Vertus Praetors",
-          "upgrades": [
+          "units": "Sechs Vertus Praetors",
+          "Erweiterungen": [
             "Befehlshaber"
           ],
           "points": 250
         },
         {
           "name": "Pallas Amour",
-          "units": "Four Pallas Panzers",
-          "upgrades": [
+          "units": "Vier Pallas Panzers",
+          "Erweiterungen": [
           ],
           "points": 225
         },
         {
           "name": "Caladius Armour",
-          "units": "Three Caladius Panzers",
-          "upgrades": [
+          "units": "Drei Caladius Panzers",
+          "Erweiterungen": [
           ],
           "points": 225
         },
         {
           "name": "Null Maiden Cadre",
-          "units": "Six Sisters of Silence units and 3 Null-Maiden Rhinos",
-          "upgrades": [
+          "units": "Sechs Sisters of Silence units und 3 Null-Maiden Rhinos",
+          "Erweiterungen": [
             "Null-Maiden Hunter"
           ],
           "points": 300
@@ -142,69 +142,69 @@
     },
     {
       "name": "Adeptus Custodes Aerial Transport & Imperial Allies",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Orion Assault Ship",
-          "units": "One Orion Assault Ship",
+          "units": "Ein Orion Assault Ship",
           "points": 225
         },
         {
           "name": "Adeptus Astartes Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Adeptus Custodes Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+  "Erweiterungen": {
+    "title": "Adeptus Custodes Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
       {
         "name": "Befehlshaber",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
             "description": "Captain General, Oblivion Kinght Centura",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
-            "description": "0–1 Tribune per army",
-            "points": "100 points"
+            "description": "0–1 Tribune pro army",
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Null-Maiden Hunter",
-        "description": "Add one Null-Maiden Hunter",
-        "points": "75 points each"
+        "description": "Füge eine Null-Maiden Hunter",
+        "points": "75 Punkte jeweils"
       },
       {
         "name": "Dreadnaught",
-        "description": "Add up to two of the following Dreadnaughts to the formation",
+        "description": "Füge bis zu zwei of the following Dreadnaughts to the formation",
         "options": [
           {
             "description": "Contemptor Dreadnought Achilles",
-            "points": "100 points"
+            "points": "100 Punkte"
           },
           {
             "description": "Telemon Heavy Dreadnought",
-            "points": "100 points"
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Transport",
-        "description": "Add enough of the following to trasnport the entire foramtion.",
+        "description": "Füge enough of the following to trasnport the entire foramtion.",
         "options": [
           {
             "description": "Venerable Land Raiders",
-            "points": "50 points each"
+            "points": "50 Punkte jeweils"
           },
           {
             "description": "Coronus",
-            "points": "50 points each"
+            "points": "50 Punkte jeweils"
           }
         ]
       }

@@ -47,8 +47,8 @@
           "Planetfall",
           "Transport"
         ],
-        "notes": "May carry up to eight infantry units without Beritten. Grotesques counts as two units each.",
-        "crit": "The Slavebringer and all units on board are destroyed."
+        "notes": "May carry bis zu acht Infanterie units without Beritten. Grotesques counts as zwei units jeweils.",
+        "crit": "The Slavebringer und all units on board are destroyed."
       },
       {
         "name": "Torture Class Cruiser",
@@ -67,7 +67,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry up to two Executioner Landing Modules and two Slavebringer Assault Boats, or up to six Slavebringer Assault Boats, plus the troops carried in them."
+        "notes": "May carry bis zu zwei Executioner Landing Modules und zwei Slavebringer Assault Boats, oder bis zu sechs Slavebringer Assault Boats, plus the troops carried in them."
       }
     ]
   }

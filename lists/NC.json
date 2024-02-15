@@ -106,7 +106,7 @@
           "Regeneration",
           "Teleport"
         ],
-        "notes": "'The Unbidden': Albträume may only contest objectives, must start the game in the reserves, and may not use Necron Portals."
+        "notes": "'The Unbidden': Albträume may only contest objectives, must start the game in the reserves, und may not use Necron Portals."
       },
       {
         "name": "Immortals",
@@ -319,7 +319,7 @@
           "Skimmer",
           "Enduring"
         ],
-        "notes": "Transport: 2 Infantry Units"
+        "notes": "Transport: 2 Infanterie Units"
       },
       {
         "name": "Annihilation Barge",
@@ -487,8 +487,8 @@
           "Transport",
           "Enduring"
         ],
-        "notes": "May transport up to two Monoliths or Obelisks",
-        "crit": "The Megalith's Portal is destroyed. Subsequent critical hits cause one additional damage."
+        "notes": "May transport bis zu zwei Monoliths oder Obelisks",
+        "crit": "The Megalith's Portal is destroyed. Subsequent critical hits cause eine additional damage."
       },
       {
         "name": "Æonic Orb",
@@ -527,7 +527,7 @@
           "Skimmer",
           "Enduring"
         ],
-        "crit": "The Abattoir's Portal is destroyed. Subsequent critical hits cause one additional damage."
+        "crit": "The Abattoir's Portal is destroyed. Subsequent critical hits cause eine additional damage."
       }
     ]
   }

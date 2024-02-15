@@ -5,9 +5,9 @@
   "release": "2022-05-28",
   "armyforge": "EAR_AdeptusAstartes_Primaris",
   "intro": "The following army...",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Primaris detachments and aircraft formations.",
+  "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
+  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Primaris detachments und aircraft formations.",
   "specialRules": [
     "They Shall Know No Fear"
   ],
@@ -49,7 +49,7 @@
       "unitRules": [
         "Lanze",
         "Overlord Insertion",
-        "Void Shields"
+        "Deflektorschilde"
       ]
     }
   ],
@@ -59,7 +59,7 @@
       "formations": [
         {
           "name": "Battle Line Squad",
-          "units": "Four Intercessors, Assault Intercessors or Hellblasters",
+          "units": "Vier Intercessors, Assault Intercessors oder Hellblasters",
           "extraUnits": [
             "Close Support",
             "Befehlshaber",
@@ -75,7 +75,7 @@
       "formations": [
         {
           "name": "Inceptor Squad",
-          "units": "Four Inceptors",
+          "units": "Vier Inceptors",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -83,7 +83,7 @@
         },
         {
           "name": "Suppressor Squad",
-          "units": "Four Suppressors",
+          "units": "Vier Suppressors",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -91,7 +91,7 @@
         },
         {
           "name": "Reiver Squad",
-          "units": "Four Reivers",
+          "units": "Vier Reivers",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -99,7 +99,7 @@
         },
         {
           "name": "Infiltrator Squad",
-          "units": "Four Infiltratoren",
+          "units": "Vier Infiltratoren",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -111,8 +111,8 @@
       "name": "Primaris Support Detachments",
       "formations": [
         {
-          "name": "Fire Support Squad",
-          "units": "Three Aggressors or three Eradicators",
+          "name": "Unterstützungstrupp",
+          "units": "Drei Aggressors oder drei Eradicators",
           "extraUnits": [
             "Close Support",
             "Befehlshaber",
@@ -123,7 +123,7 @@
         },
         {
           "name": "Eliminator Squad",
-          "units": "Four Eliminators",
+          "units": "Vier Eliminators",
           "extraUnits": [
             "Transports"
           ],
@@ -131,23 +131,23 @@
         },
         {
           "name": "Outrider Squad",
-          "units": "Four Outriders",
+          "units": "Vier Outriders",
           "extraUnits": [
             "Befehlshaber",
-            "Add two Invaders: 75 points"
+            "Füge zwei Invaders: 75 Punkte"
           ],
           "points": 250
         },
         {
           "name": "Storm Speeders",
-          "units": "Three Storm Speeders, Hammerstrike or Thunderstrike configuration",
+          "units": "Drei Storm Speeders, Hammerstrike oder Thunderstrike configuration",
           "extraUnits": [
           ],
           "points": 175
         },
         {
           "name": "Gladiators",
-          "units": "Four Gladiators, Lancer or Reaper configuration",
+          "units": "Vier Gladiators, Lancer oder Reaper configuration",
           "extraUnits": [
           ],
           "points": 250
@@ -156,73 +156,73 @@
     },
     {
       "name": "Codex Astartes Navy, Primaris Super Heavies",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Astraeus",
-          "units": "One Astraeus Super Heavy Panzer",
+          "units": "Ein Astraeus Super Heavy Panzer",
           "points": 425
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Primaris Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+  "Erweiterungen": {
+    "title": "Primaris Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
       {
         "name": "Close Support",
-        "description": "Add up to two Gladiator Valiants",
-        "points": "50 points each"
+        "description": "Füge bis zu zwei Gladiator Valiants",
+        "points": "50 Punkte jeweils"
       },
       {
         "name": "Befehlshaber",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
             "description": "Captain, Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Chaplain",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Transports",
-        "description": "Add any number of Impulsors or Repulsors, up to the number required to transport the formation",
+        "description": "Füge any number of Impulsors oder Repulsors, bis zu the number required to transport the formation",
         "options": [
           {
             "description": "Repulsors",
-            "points": "75 points each"
+            "points": "75 Punkte jeweils"
           },
           {
             "description": "Impulsors",
-            "points": "25 points each"
+            "points": "25 Punkte jeweils"
           }
         ]
       },
       {
         "name": "Geländegängigs",
-        "description": "Choose one of the following",
+        "description": "Choose eine of the following",
         "options": [
           {
-            "description": "Add up to two Redemptor Dreadnoughts",
-            "points": "75 points each"
+            "description": "Füge bis zu zwei Redemptor Dreadnoughts",
+            "points": "75 Punkte jeweils"
           },
           {
-            "description": "Add up to two Invictor Warsuits",
-            "points": "50 points each"
+            "description": "Füge bis zu zwei Invictor Warsuits",
+            "points": "50 Punkte jeweils"
           }
         ]
       }

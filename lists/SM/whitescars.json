@@ -4,10 +4,10 @@
   "version": "1.0.beta",
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusAstartes_WhiteScars",
-  "intro": "The following army list allows you to field an army based on the White Scars Space Marine chapter or any of its successor chapters. The White Scars practice a highly mobile method of warfare, tearing into their enemies with lightning-quick attacks and vanishing before a response can be made.",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all White Scars detachments and Aircraft formations.",
+  "intro": "The following army list allows you to field an army based on the White Scars Space Marine chapter oder any of its successor chapters. The White Scars practice a highly mobile method of warfare, tearing into their enemies with lightning-quick attacks und vanishing before a response can be made.",
+  "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
+  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all White Scars detachments und Aircraft formations.",
   "specialRules": [
     "White Scars Transports",
     "They Shall Know No Fear"
@@ -56,7 +56,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Deflektorschilde"
       ]
     }
   ],
@@ -66,7 +66,7 @@
       "formations": [
         {
           "name": "Bikes",
-          "units": "Eight White Scars Assault Bikes",
+          "units": "Acht White Scars Assault Bikes",
           "extraUnits": [
             "Attack Bikes",
             "Befehlshaber"
@@ -75,7 +75,7 @@
         },
         {
           "name": "Tacticals",
-          "units": "Six Tacticals plus transport",
+          "units": "Sechs Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
             "Befehlshaber",
@@ -86,9 +86,9 @@
         },
         {
           "name": "Terminators",
-          "units": "Four Terminators, two Land Raider Crusaders",
+          "units": "Vier Terminators, zwei Land Raider Crusaders",
           "extraUnits": [
-            "Replace up to two Land Raider Crusaders with two Land Raiders each: 50 points each",
+            "Ersetze bis zu zwei Land Raider Crusaders with zwei Land Raiders jeweils: 50 Punkte jeweils",
             "Anti-Air",
             "Befehlshaber",
             "Vindicators"
@@ -99,11 +99,11 @@
     },
     {
       "name": "White Scars Support Detachments",
-      "description": "Two Support Detachments may be taken per Core Detachment",
+      "description": "Zwei Support Detachments may be taken pro Core Detachment",
       "formations": [
         {
           "name": "Assaults",
-          "units": "Four Assaults",
+          "units": "Vier Assaults",
           "extraUnits": [
             "Befehlshaber",
             "Vindicators"
@@ -112,7 +112,7 @@
         },
         {
           "name": "Land Speeder",
-          "units": "Any five of the following units: White Scars Land Speeder, White Scars Land Speeder Tornado",
+          "units": "Any fünf of the following units: White Scars Land Speeder, White Scars Land Speeder Tornado",
           "extraUnits": [
             "Land Speeder Variants"
           ],
@@ -120,7 +120,7 @@
         },
         {
           "name": "Aufklärer Bikes",
-          "units": "Five White Scars Aufklärer Bikes",
+          "units": "Fünf White Scars Aufklärer Bikes",
           "extraUnits": [
             "Attack Bikes"
           ],
@@ -128,7 +128,7 @@
         },
         {
           "name": "Vindicators",
-          "units": "Four White Scars Vindicators",
+          "units": "Vier White Scars Vindicators",
           "extraUnits": [
             "Anti-Air",
             "Vindicators"
@@ -137,9 +137,9 @@
         },
         {
           "name": "Whirlwinds",
-          "units": "Three Whirlwinds",
+          "units": "Drei Whirlwinds",
           "extraUnits": [
-            "Add one Whirlwind: 50 points",
+            "Füge eine Whirlwind: 50 Punkte",
             "Anti-Air"
           ],
           "points": 225
@@ -148,26 +148,26 @@
     },
     {
       "name": "White Scars Navy & Collegia Titanica Allies",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Thunderhawk",
-          "units": "One Thunderhawk",
+          "units": "Ein Thunderhawk",
           "points": 225
         },
         {
           "name": "Landing Craft",
-          "units": "One Landing Craft",
+          "units": "Ein Landing Craft",
           "points": 325
         },
         {
           "name": "0-1 Orbital Support",
-          "units": "One Strike Cruiser",
+          "units": "Ein Strike Cruiser",
           "extraUnits": [
             "Battle Barge"
           ],
@@ -175,81 +175,81 @@
         },
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
-            "Add an additional Warhound Titan: 200 points"
+            "Füge einen zusätzlichen Warhound Titan: 200 Punkte"
           ],
           "points": 275
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "White Scars Upgrades",
-    "description": "Each upgrade may be taken once per detachment",
+  "Erweiterungen": {
+    "title": "White Scars Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro detachment",
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge any eine of the following units to the formation",
         "options": [
           {
-            "description": "Add one Hunter",
-            "points": "75 points"
+            "description": "Füge eine Hunter",
+            "points": "75 Punkte"
           },
           {
-            "description": "Add one Stalker",
-            "points": "50 points"
+            "description": "Füge eine Stalker",
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Attack Bikes",
-        "description": "Replace up to three White Scars Assault Bikes, or one White Scars Aufklärer Bikes, with an equal number of White Scars Attack or Melter Bikes",
+        "description": "Ersetze bis zu drei White Scars Assault Bikes, oder eine White Scars Aufklärer Bikes, mit einem equal number of White Scars Attack oder Melter Bikes",
         "points": "Free"
       },
       {
         "name": "Battle Barge",
-        "description": "Replace the Strike Cruiser with a Battle Barge",
-        "points": "75 points"
+        "description": "Ersetze the Strike Cruiser mit einemBattle Barge",
+        "points": "75 Punkte"
       },
       {
         "name": "Befehlshaber",
-        "description": "Add any one of the following characters to any unit in the formation",
+        "description": "Füge any eine of the following characters to any unit in the formation",
         "options": [
           {
             "description": "Captain",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Librarian",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
             "description": "Chaplain",
-            "points": "50 points"
+            "points": "50 Punkte"
           },
           {
             "description": "0–1 Oberbefehlshaber",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Land Speeder Variants",
-        "description": "Replace any number of White Scars Land Speeders with an equal number of White Scars Land Speeder Typhoons or White Scars Land Speeder Tempest",
-        "points": "10 points each"
+        "description": "Ersetze any number of White Scars Land Speeders mit einem equal number of White Scars Land Speeder Typhoons oder White Scars Land Speeder Tempest",
+        "points": "10 Punkte jeweils"
       },
       {
         "name": "Razorbacks",
-        "description": "Add any number of Razorbacks, up to the number required to transport the formation",
-        "points": "25 points each"
+        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "points": "25 Punkte jeweils"
       },
       {
         "name": "Vindicators",
-        "description": "Add up to two White Scars Vindicators",
+        "description": "Füge bis zu zwei White Scars Vindicators",
         "points": [
-          "50 points for one",
-          "75 points for two"
+          "50 Punkte für eine",
+          "75 Punkte für zwei"
         ]
       }
     ]

@@ -58,7 +58,7 @@
         "name": "Jackal Alphus",
         "type": "CH",
         "weapons": [
-          "Sniper Rifle"
+          "Scharfschützengewehr"
         ],
         "specialRules": [
           "Anführer"
@@ -198,7 +198,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
       },
       {
         "name": "Coven Technical",
@@ -241,10 +241,10 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten. Hybrid Aberrants and Genestealer Patriarch counts as two units."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten. Hybrid Aberrants und Genestealer Patriarch counts as zwei units."
       },
       {
-        "name": "Coven Thunderbolt Fighter",
+        "name": "Coven Thunderbolt",
         "type": "AC",
         "speed": "Fighter-Bomber",
         "armour": 6,
@@ -257,7 +257,7 @@
         ]
       },
       {
-        "name": "Cult Infantry",
+        "name": "Cult Infanterie",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -269,10 +269,10 @@
         "specialRules": [
           "Brood Brothers"
         ],
-        "notes": "One in every two Cult Infantry units has an Maschinenkanone"
+        "notes": "Ein in every zwei Cult Infanterie units has an Maschinenkanone"
       },
       {
-        "name": "Cult Fire Support",
+        "name": "Cult Unterstützungstrupps",
         "type": "INF",
         "speed": 15,
         "cc": 6,
@@ -300,7 +300,7 @@
         ]
       },
       {
-        "name": "Cult Hellhound",
+        "name": "Cult Höllenhund",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -364,7 +364,7 @@
         ]
       },
       {
-        "name": "Cult Griffon",
+        "name": "Cult Greif",
         "type": "AV",
         "speed": 30,
         "armour": 6,
@@ -394,7 +394,7 @@
         ]
       },
       {
-        "name": "Cult Chimera",
+        "name": "Cult Chimäre",
         "type": "AV",
         "speed": 30,
         "armour": 5,
@@ -408,7 +408,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Cult Land Transporter",
@@ -424,7 +424,7 @@
           "Brood Brothers",
           "Transport"
         ],
-        "notes": "May carry two infantry units without Jump Packs or Beritten."
+        "notes": "May carry zwei Infanterie units without Jump Packs oder Beritten."
       },
       {
         "name": "Cult Baneblade",

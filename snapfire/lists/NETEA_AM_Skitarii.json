@@ -4,30 +4,30 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"SKITARII CORE FORMATIONS", "formations":[
-			{"id":500, "name":"Skitarii Demi-Century",	"pts":225, "upgrades":[10,40,41,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
-			{"id":501, "name":"Sagitarii Demi-Century",	"pts":250, "units":"5 Sagitarii", "upgrades":[10,40,41,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]}
+			{"id":500, "name":"Skitarii Demi-Century",	"pts":225, "Erweiterungen":[10,40,41,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
+			{"id":501, "name":"Sagitarii Demi-Century",	"pts":250, "units":"5 Sagitarii", "Erweiterungen":[10,40,41,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]}
 		]},
-		{"name":"CENTURIO ORDINATUS FORMATIONS <br/> Max 1 for each Skitarii Core Formation", "formations":[
-			{"id":510, "name":"Ordinatus Minorus",	"pts":50, "upgrades":[60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
-			{"id":511, "name":"Ordinatus Majoris",	"pts":450, "upgrades":[]}
+		{"name":"CENTURIO ORDINATUS FORMATIONS <br/> Max 1 für jeweils Skitarii Core Formation", "formations":[
+			{"id":510, "name":"Ordinatus Minorus",	"pts":50, "Erweiterungen":[60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
+			{"id":511, "name":"Ordinatus Majoris",	"pts":450, "Erweiterungen":[]}
 		]},
-		{"name":"SKITARII SUPPORT FORMATIONS <br/> Max 2 for each Skitarii Core Formation", "formations":[
-			{"id":520, "name":"Crusader Scout Maniple",				"pts":125, "units":"4 Crusader Robots",	 "upgrades":[]},
-			{"id":521, "name":"Colossus Assault Maniple",			"pts":200, "units":"4 Colossus Robots", "upgrades":[]},
-			{"id":522, "name":"Praetorian Servitor Maniple",		"pts":250, "units":"5 Praetorian Combat Servitors", "upgrades":[60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
-			{"id":523, "name":"Avenger Squadron",					"pts":200, "units":"2 Avenger Strike Fighters", "upgrades":[]},
-			{"id":524, "name":"Ark Mechanicus Battleship",			"pts":200, "upgrades":[]}
+		{"name":"SKITARII UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Skitarii Core Formation", "formations":[
+			{"id":520, "name":"Crusader Scout Maniple",				"pts":125, "units":"4 Crusader Robots",	 "Erweiterungen":[]},
+			{"id":521, "name":"Colossus Assault Maniple",			"pts":200, "units":"4 Colossus Robots", "Erweiterungen":[]},
+			{"id":522, "name":"Praetorian Servitor Maniple",		"pts":250, "units":"5 Praetorian Combat Servitors", "Erweiterungen":[60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75]},
+			{"id":523, "name":"Avenger Schwadron",					"pts":200, "units":"2 Avenger Strike Fighters", "Erweiterungen":[]},
+			{"id":524, "name":"Ark Mechanicus Battleship",			"pts":200, "Erweiterungen":[]}
 		]},
 		{"name":"MECHANICUS ALLIES <br/> Max 33%", "formations":[
-			{"id":530, "name":"Cataphractii Support",						"pts":350, "units":"2 Macharius w/ 2x Battle Cannon", "upgrades":[]},
-			{"id":531, "name":"Warhound Titan",							"pts":275, "units":"Warhound Titan", "upgrades":[91]},
-			{"id":532, "name":"Warhound Titan Pack",					"pts":500, "units":"2 Warhound Titans", "upgrades":[91]},
-			{"id":533, "name":"Reaver Titan",							"pts":550, "upgrades":[91,92,93,90]},
-			{"id":534, "name":"Warlord Titan", 							"pts":675, "upgrades":[91,92,93,90]},
-			{"id":535, "name":"Emperor Titan", 							"pts":1250, "upgrades":[91,92,93]}
+			{"id":530, "name":"Cataphractii Support",						"pts":350, "units":"2 Macharius w/ 2x Battle Cannon", "Erweiterungen":[]},
+			{"id":531, "name":"Warhound Titan",							"pts":275, "units":"Warhound Titan", "Erweiterungen":[91]},
+			{"id":532, "name":"Warhound Titan Pack",					"pts":500, "units":"2 Warhound Titans", "Erweiterungen":[91]},
+			{"id":533, "name":"Reaver Titan",							"pts":550, "Erweiterungen":[91,92,93,90]},
+			{"id":534, "name":"Warlord Titan", 							"pts":675, "Erweiterungen":[91,92,93,90]},
+			{"id":535, "name":"Emperor Titan", 							"pts":1250, "Erweiterungen":[91,92,93]}
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":10, "name":"Magos",			"pts":50},
 
 		{"id":20, "name":"2 Secutors, 8 Hypaspists",		"pts":0},
@@ -58,7 +58,7 @@
 		{"id":70, "name":"Minorus w/ Plasma Destructor",		"pts":175},
 		{"id":71, "name":"Minorus w/ Vortex Missile",		"pts":175},
 		{"id":72, "name":"Minorus w/ Warp Missile",		"pts":175},
-		{"id":73, "name":"Minorus w/ Deathstrike Missile",		"pts":175},
+		{"id":73, "name":"Minorus w/ Todesstoss-Raketensystem Missile",		"pts":175},
 		{"id":74, "name":"Minorus w/ Barrage Missile",		"pts":175},
 		{"id":75, "name":"Minorus w/ Quake Cannon",		"pts":200},
 
@@ -100,7 +100,7 @@
 		{"id":131, "name":"Quake Cannon",		"pts":75},
 		{"id":132, "name":"Support Missile (Vortex)",		"pts":75},
 		{"id":133, "name":"Support Missile (Warp)",		"pts":75},
-		{"id":134, "name":"Support Missile (Deathstrike)",		"pts":75},
+		{"id":134, "name":"Support Missile (Todesstoss-Raketensystem)",		"pts":75},
 		{"id":135, "name":"Support Missile (Barrage)",		"pts":75},
 
 		{"id":140, "name":"Imperator Configuration",		"pts":0},

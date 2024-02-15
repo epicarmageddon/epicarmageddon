@@ -3,14 +3,14 @@
     <div class="card-header"><b>Special Rules</b></div>
     <div class="card-body">
         <dl class="row special-rules-table">
-            {{#each specialRules}}
+            {{#jeweils specialRules}}
             <dt class="col-lg-2 special-rules-row">{{title}}</dt>
             <dd class="col-lg-10 special-rules-row">
-                {{#each description}}
+                {{#jeweils description}}
                 <p class="card-text">{{{this}}}</p>
-                {{/each}}
+                {{/jeweils}}
             </dd>
-            {{/each}}
+            {{/jeweils}}
         </dl>
     </div>
 </div>

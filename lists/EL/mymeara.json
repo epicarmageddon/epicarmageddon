@@ -3,13 +3,13 @@
   "army": "Craftworld Mymeara",
   "version": "1.1",
   "release": "2022-04-01",
-  "strategy": "Mymeara armies have a Strategy Rating of 4.",
-  "Initiative": "Aspect Warrior formations, Titans, Knights and the Avatar have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Mymeara Armeen haben einen Strategiewert von 4.",
+  "Initiative": "Aspect Warrior formations, Titans, Knights und the Avatar have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Avatar (Mymeara)",
     "May not Garrison (Mymeara)",
     "Farsight",
-    "Hit and Run",
+    "Hit und Run",
     "Webway Portal",
     "Independent Twins"
   ],
@@ -78,12 +78,12 @@
       "formations": [
         {
           "name": "1 Avatar",
-          "units": "One Avatar",
+          "units": "Ein Avatar",
           "points": "0"
         },
         {
           "name": "0-1 Wraithgate",
-          "units": "Replace one objective marker in the Eldar player's half of the table with a Wraithgate, this counts as an objective marker and a Webway Portal which may not be attacked or damaged in any way. ",
+          "units": "Ersetze eine objective marker in the Eldar player's half of the table mit einemWraithgate, this counts as an objective marker und a Webway Portal which may not be attacked oder damaged in any way. ",
           "points": 50
         }
       ]
@@ -93,24 +93,24 @@
       "formations": [
         {
           "name": "0-1 Shadow Spectre Warhost",
-          "units": "Eight Shadow Spectres",
-          "upgrades": [
+          "units": "Acht Shadow Spectres",
+          "Erweiterungen": [
             "Exarch, Phoenix Lord"
           ],
           "points": 300
         },
         {
           "name": "Aspect Warrior Warhost",
-          "units": "Two Wave Serpents and four Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Warp Spiders",
-          "upgrades": [
+          "units": "Zwei Wave Serpents und vier Aspect Warrior units chosen from the following: Dark Reapers, Dire Avengers, Fire Dragons, Howling Banshees, Striking Scorpions, Warp Spiders",
+          "Erweiterungen": [
             "Exarch"
           ],
           "points": 225
         },
         {
           "name": "Guardian Warhost",
-          "units": "Five Guardians, one Warlock, three Wave Serpents",
-          "upgrades": [
+          "units": "Fünf Guardians, eine Warlock, drei Wave Serpents",
+          "Erweiterungen": [
             "Farseer"
           ],
           "points": 250
@@ -119,139 +119,139 @@
     },
     {
       "name": "Craftworld Mymeara Troupes",
-      "description": "Up to two for each 'Mymeara Hosts' taken",
+      "description": " Bis zu zwei für jeweils 'Mymeara Hosts' taken",
       "formations": [
         {
           "name": "Wasp Walkers",
-          "units": "Four Wasp Walkers",
-          "upgrades": [
+          "units": "Vier Wasp Walkers",
+          "Erweiterungen": [
           ],
           "points": 150
         },
         {
           "name": "Heavy Wraithguard",
-          "units": "Three Heavy Wraithguard",
-          "upgrades": [
-            "Add three Wave Serpents: 75 Points",
+          "units": "Drei Heavy Wraithguard",
+          "Erweiterungen": [
+            "Füge drei Wave Serpents: 75 Points",
             "Firestorm",
-            "Add two Wraithlords and one Spiritseer: 125 points"
+            "Füge zwei Wraithlords und eine Spiritseer: 125 Punkte"
           ],
           "points": 200
         },
         {
           "name": "Hornets",
-          "units": "Four Hornets",
-          "upgrades": [
-            "Add up to two Hornets: 35 points each"
+          "units": "Vier Hornets",
+          "Erweiterungen": [
+            "Füge bis zu zwei Hornets: 35 Punkte jeweils"
           ],
           "points": 175
         },
         {
           "name": "Night Spinner Troupe",
-          "units": "Three Night Spinners",
-          "upgrades": [
+          "units": "Drei Night Spinners",
+          "Erweiterungen": [
           ],
           "points": 175
         },
         {
           "name": "Hunters of Vaul",
-          "units": "Five Warp Hunters",
-          "upgrades": [
+          "units": "Fünf Warp Hunters",
+          "Erweiterungen": [
             "Firestorm"
           ],
           "points": 300
         },
         {
           "name": "Fire Prism Troupe ",
-          "units": "Three Fire Prisms",
-          "upgrades": [
+          "units": "Drei Fire Prisms",
+          "Erweiterungen": [
           ],
           "points": 250
         },
         {
           "name": "Armour of Vaul",
-          "units": "Two Lynx",
-          "upgrades": [
+          "units": "Zwei Lynx",
+          "Erweiterungen": [
           ],
           "points": 325
         },
         {
           "name": "Engine of Vaul",
-          "units": "Any one of the following units: Cobra, Scorpion",
-          "upgrades": [
-            "Add up to any two of the following units for 200 points each: Cobra, Scorpion"
+          "units": "Any eine of the following units: Cobra, Scorpion",
+          "Erweiterungen": [
+            "Füge bis zu any zwei of the following units für 200 Punkte jeweils: Cobra, Scorpion"
           ],
           "points": 250
         }
       ]
     },
     {
-      "name": "Craftworld Mymeara Aircraft, Spacecraft and Titans",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Craftworld Mymeara Aircraft, Spacecraft und Titans",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Nightshade Aerie",
-          "units": "Two Nightshade Interceptors",
-          "upgrades": [
+          "units": "Zwei Nightshade Interceptors",
+          "Erweiterungen": [
           ],
           "points": 225
         },
         {
           "name": "Hemlock Wraithfighter Aerie",
-          "units": "Two Hemlock Wraithfighters",
-          "upgrades": [
+          "units": "Zwei Hemlock Wraithfighters",
+          "Erweiterungen": [
           ],
           "points": 225
         },
         {
           "name": "Wraithknights",
-          "units": "Three Wraithknights",
-          "upgrades": [
+          "units": "Drei Wraithknights",
+          "Erweiterungen": [
           ],
           "points": 325
         },
         {
           "name": "Revenants",
-          "units": "Two Revenant Titans",
-          "upgrades": [
-            "Independent Twins: 50 points"
+          "units": "Zwei Revenant Titans",
+          "Erweiterungen": [
+            "Independent Twins: 50 Punkte"
           ],
           "points": 625
         },
         {
           "name": "0-1 Spacecraft",
-          "units": "One Wraithship",
+          "units": "Ein Wraithship",
           "extraUnits": [
-            "Replace with a Dragonship: 125 Points"
+            "Ersetze mit einemDragonship: 125 Points"
           ],
           "points": 175
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "0-1 Phoenix Lord",
-        "description": "Replace opne Eldar Exarch with a Eldar Phoenix Lord character",
-        "points": "25 points"
+        "description": "Ersetze opne Eldar Exarch mit einemEldar Phoenix Lord character",
+        "points": "25 Punkte"
       },
       {
         "name": "Exarch",
-        "description": "Add up to two Eldar Exarch characters to Eldar Aspect Warrior units",
-        "points": "50 points each"
+        "description": "Füge bis zu zwei Eldar Exarch characters to Eldar Aspect Warrior units",
+        "points": "50 Punkte jeweils"
       },
       {
         "name": "Firestorm",
-        "description": "Replace one Falcon with a Firestorm",
+        "description": "Ersetze eine Falcon mit einemFirestorm",
         "points": "Free"
       },
       {
         "name": "Farseer",
-        "description": "Add one Farseer character to a unit of Guardians",
-        "points": "25 points"
+        "description": "Füge eine Farseer character to a unit of Guardians",
+        "points": "25 Punkte"
       }
     ]
   }

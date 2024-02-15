@@ -5,29 +5,29 @@
    "sections": [
       { "name": "VIOR'LA CADRES",
          "formations": [
-            {"id": 500,"name": "XV8 Crisis Battlesuit Cadre","pts": 325, "upgrades": [15,16,17,18]},
-            {"id": 512,"name": "Heavy Battlesuit Cadre","pts": 325, "upgrades": [15,16,17,18]}
+            {"id": 500,"name": "XV8 Crisis Battlesuit Cadre","pts": 325, "Erweiterungen": [15,16,17,18]},
+            {"id": 512,"name": "Heavy Battlesuit Cadre","pts": 325, "Erweiterungen": [15,16,17,18]}
          ]
       },
-      {"name": "VIOR'LA SUPPORT GROUPS <br/> Max 3 for each Cadre",
+      {"name": "VIOR'LA SUPPORT GROUPS <br/> Max 3 für jeweils Cadre",
          "formations": [
-             {"id": 501,"name": "Fire Warrior Strike Group","pts": 225,"upgrades": [22,25, 15,16,17,18]},
-             {"id": 502,"name": "Drone Group","pts": 50, "upgrades": []},
-            {"id": 516,"name": "Stealth Group","pts": 225, "upgrades": [15,16,17,18]},
-            {"id": 517,"name": "Skysweep Support Group","pts": 250,"units": "3 Sky Ray Gunships","upgrades": [15,16,17,18]},
-            {"id": 514,"name": "XV88 Broadside Group","pts": 300, "units": "6 XV88 Broadside Battlesuits", "upgrades": [15,16,17,18]}         ]
+             {"id": 501,"name": "Fire Warrior Strike Group","pts": 225,"Erweiterungen": [22,25, 15,16,17,18]},
+             {"id": 502,"name": "Drone Group","pts": 50, "Erweiterungen": []},
+            {"id": 516,"name": "Stealth Group","pts": 225, "Erweiterungen": [15,16,17,18]},
+            {"id": 517,"name": "Skysweep Support Group","pts": 250,"units": "3 Sky Ray Gunships","Erweiterungen": [15,16,17,18]},
+            {"id": 514,"name": "XV88 Broadside Group","pts": 300, "units": "6 XV88 Broadside Battlesuits", "Erweiterungen": [15,16,17,18]}         ]
       },
       { "name": "VIOR'LA WAR ENGINES & AIR CASTE <br/> Max 33%",
          "formations": [
-             {"id": 511,"name": "KV128 Stormsurge Ballistic Suit","pts": 225, "upgrades": []},
-            {"id": 519,"name": "Supremacy Armour", "pts": 500, "units": "Shas'el, KX139 Ta'unar Supremacy Armour", "upgrades": []},
-            {"id": 524,"name": "Barracuda Squadron","pts": 150, "units": "2 Barracudas", "upgrades": []},
-            {"id": 520,"name": "Tiger Shark Squadron","pts": 175,"units": "2 Tiger Shark Bombers","upgrades": [34,35]},
-            {"id": 523,"name": "Spacecraft","pts": 200,"upgrades": []}
+             {"id": 511,"name": "KV128 Stormsurge Ballistic Suit","pts": 225, "Erweiterungen": []},
+            {"id": 519,"name": "Supremacy Armour", "pts": 500, "units": "Shas'el, KX139 Ta'unar Supremacy Armour", "Erweiterungen": []},
+            {"id": 524,"name": "Barracuda Schwadron","pts": 150, "units": "2 Barracudas", "Erweiterungen": []},
+            {"id": 520,"name": "Tiger Shark Schwadron","pts": 175,"units": "2 Tiger Shark Bombers","Erweiterungen": [34,35]},
+            {"id": 523,"name": "Spacecraft","pts": 200,"Erweiterungen": []}
          ]
       }
    ],
-   "upgrades": [
+   "Erweiterungen": [
 
        {"id": 9,"name": "Shas'el", "pts": 0},
       {"id": 10,"name": "Shas'o", "pts": 75},

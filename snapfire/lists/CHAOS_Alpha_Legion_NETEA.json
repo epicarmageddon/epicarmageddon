@@ -4,38 +4,38 @@
 	"version":"v1.73 <a href=\"http://www.taccmd.tacticalwargames.net/viewtopic.php?f=82&t=33226\">TCMD forum</a>",
 	"notes":[],
 	"sections":[
-		{"name":"Alpha Legion Core formations / / One Alpha Legion Marines formation may be taken per Cultist Coven formation", "formations": [
-			{ "id":511, "name":"Cultist Coven", "units":"11 Alpha Legion Cultists", "pts":200, "upgrades":[39,40,44,41,37] },
-			{ "id":512, "name":"Alpha Legion Marines", "pts":0, "upgrades":[30,34,35,31] }
+		{"name":"Alpha Legion Core formations / / Ein Alpha Legion Marines formation may be taken pro Cultist Coven formation", "formations": [
+			{ "id":511, "name":"Cultist Coven", "units":"11 Alpha Legion Cultists", "pts":200, "Erweiterungen":[39,40,44,41,37] },
+			{ "id":512, "name":"Alpha Legion Marines", "pts":0, "Erweiterungen":[30,34,35,31] }
 		]},
-		{"name":"Alpha Legion Elite Formatons / / One Alpha Legion Elite formation may be taken per Alpha Legion Core formation", "formations": [
-			{ "id":521, "name":"Alpha Legion Headhunter Kill-Team", "pts":225, "units":"4 Headhunter units w. Transport", "upgrades":[31] },
-			{ "id":522, "name":"Alpha Legion Destroyers", "pts":225,"units":"4 Alpha Legion Destroyers", "upgrades":[] },
-			{ "id":523, "name":"Lernaean Terminators", "pts":300,"units":"4 Lernaean Terminators", "upgrades":[38] },
-			{ "id":524, "name":"Alpha Legion Predators", "pts":225, "units":"4 Alpha Legion Predators", "upgrades":[30] }
+		{"name":"Alpha Legion Elite Formatons / / Ein Alpha Legion Elite formation may be taken pro Alpha Legion Core formation", "formations": [
+			{ "id":521, "name":"Alpha Legion Headhunter Kill-Team", "pts":225, "units":"4 Headhunter units w. Transport", "Erweiterungen":[31] },
+			{ "id":522, "name":"Alpha Legion Destroyers", "pts":225,"units":"4 Alpha Legion Destroyers", "Erweiterungen":[] },
+			{ "id":523, "name":"Lernaean Terminators", "pts":300,"units":"4 Lernaean Terminators", "Erweiterungen":[38] },
+			{ "id":524, "name":"Alpha Legion Predators", "pts":225, "units":"4 Alpha Legion Predators", "Erweiterungen":[30] }
 		]},
-			{"name":"Alpha Legion Cultist Formatons / / One Alpha Legion Cultist formation may be taken per Alpha Legion Core formation", "formations": [
-			{ "id":531, "name":"Cult Riders", "pts":175, "units":"6 Rough Riders, 1 Daemonic Icon", "upgrades":[41] },
-			{ "id":532, "name":"Cult Mutants", "pts":150, "units":"6 Mutants, 2 Chaos Spawn, 1 Daemonic Icon", "upgrades":[41] },
-			{ "id":533, "name":"Cult Macharius", "pts":300, "units":"3 Macharius", "upgrades":[41] },
-			{ "id":534, "name":"Cult Artillery", "pts":150, "units":"4 Thudd Guns, 4 Light Transporters", "upgrades":[41,37] },
-			{ "id":535, "name":"Cult Hydras", "pts":150, "units":"3 Hydras", "upgrades":[41] }
+			{"name":"Alpha Legion Cultist Formatons / / Ein Alpha Legion Cultist formation may be taken pro Alpha Legion Core formation", "formations": [
+			{ "id":531, "name":"Cult Riders", "pts":175, "units":"6 Kavallerieschwadron, 1 Daemonic Icon", "Erweiterungen":[41] },
+			{ "id":532, "name":"Cult Mutants", "pts":150, "units":"6 Mutants, 2 Chaos Spawn, 1 Daemonic Icon", "Erweiterungen":[41] },
+			{ "id":533, "name":"Cult Macharius", "pts":300, "units":"3 Macharius", "Erweiterungen":[41] },
+			{ "id":534, "name":"Cult Artillerie", "pts":150, "units":"4 Thudd Guns, 4 Light Transporters", "Erweiterungen":[41,37] },
+			{ "id":535, "name":"Cult Hydra", "pts":150, "units":"3 Hydra", "Erweiterungen":[41] }
 		]},
-		{"name":"Alpha Legion Support Formations / / One Alpha Legion Support formation may be taken per Alpha Legion Core formation / / Max 33%", "formations":[
-			{ "id":541, "name":"Strike Cruiser", "pts":150, "units":"1 Strike Cruiser", "upgrades":[] },
-			{ "id":543, "name":"Thunderhawk", "pts":250, "units":"1 Thunderhawk", "upgrades":[] },
-			{ "id":544, "name":"Fire Raptors", "pts":250, "units":"2 Fire Raptors", "upgrades":[] },
-			{ "id":545, "name":"Lightning Interceptors", "pts":150, "units":"2 Lightning Interceptors", "upgrades":[] },
-			{ "id":546, "name":"Super-Heavy Company (Glaive)", "pts":50, "upgrades":[50] },
-			{ "id":547, "name":"Super-Heavy Company (Fellblade)", "pts":50, "upgrades":[51] },
-			{ "id":548, "name":"Super-Heavy Company (Falchion)", "pts":50, "upgrades":[52] }		
+		{"name":"Alpha Legion Unterstützungsverbände / / Ein Alpha Legion Support formation may be taken pro Alpha Legion Core formation / / Max 33%", "formations":[
+			{ "id":541, "name":"Strike Cruiser", "pts":150, "units":"1 Strike Cruiser", "Erweiterungen":[] },
+			{ "id":543, "name":"Thunderhawk", "pts":250, "units":"1 Thunderhawk", "Erweiterungen":[] },
+			{ "id":544, "name":"Fire Raptors", "pts":250, "units":"2 Fire Raptors", "Erweiterungen":[] },
+			{ "id":545, "name":"Lightning Interceptors", "pts":150, "units":"2 Lightning Interceptors", "Erweiterungen":[] },
+			{ "id":546, "name":"Superschwere Kompanie (Glaive)", "pts":50, "Erweiterungen":[50] },
+			{ "id":547, "name":"Superschwere Kompanie (Fellblade)", "pts":50, "Erweiterungen":[51] },
+			{ "id":548, "name":"Superschwere Kompanie (Falchion)", "pts":50, "Erweiterungen":[52] }		
 		]},
 			{"name":"Many Heads of the Hydra", "formations": [
-			{ "id":500, "name":"''I'm Alpharius!''", "pts":0, "upgrades":[11] },
-			{ "id":501, "name":"Lesser Daemon Pool", "pts":0, "upgrades":[12] }
+			{ "id":500, "name":"''I'm Alpharius!''", "pts":0, "Erweiterungen":[11] },
+			{ "id":501, "name":"Lesser Daemon Pool", "pts":0, "Erweiterungen":[12] }
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{ "id":11, "name":"Army benefits from the ''I'm Alpharius!'' special rule", "pts":75 },
 		{ "id":12, "name":"Lesser Daemon", "pts":15 },
 
@@ -51,7 +51,7 @@
 		{ "id":32, "name":"8 Alpha Legion Marines w. Transport", "pts":325 },
 		{ "id":33, "name":"4 Alpha Legion Marines, 4 Alpha Legion Havocs w. Transport", "pts":375 },
 		{ "id":34, "name":"4 Land Raiders", "pts":200 },
-		{ "id":35, "name":"3 Land Raiders and 1 Land Raider Proteus", "pts":225 },
+		{ "id":35, "name":"3 Land Raiders und 1 Land Raider Proteus", "pts":225 },
 
 		{ "id":37, "name":"1 Hydra", "pts":50 },
 		{ "id":38, "name":"2 Spartan Assault Tanks", "pts":175 },
@@ -73,7 +73,7 @@
 		{"max":1, "name":"Alpha Legion Elite Formation", "from":[521,522,523,524], "forEach":[511,512], "name2":"Alpha Legion Core Formation"},
 		{"max":1, "name":"Alpha Legion Cultist Formation", "from":[531,532,533,534,535], "forEach":[511,512], "name2":"Alpha Legion Core Formation"},
 		{"max":1, "name":"Alpha Legion Support Formation", "from":[541,543,544,545,546,547,548], "forEach":[511,512], "name2":"Alpha Legion Core Formation"},
-		{"maxPercent": 33.5, "name":"Alpha Legion Support Formations", "from":[541,543,544,545,546,547,548]},
+		{"maxPercent": 33.5, "name":"Alpha Legion Unterstützungsverbände", "from":[541,543,544,545,546,547,548]},
 		{"max":1, "perArmy":true, "from":[500]},
 		{"max":1, "perArmy":true, "from":[501]},
 		{"max":1, "perArmy":true, "from":[541]}

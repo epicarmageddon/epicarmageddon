@@ -4,9 +4,9 @@
   "version": "1.0.Beta",
   "release": "2022-04-01",
   "armyforge": "EAR_Tau_ViorLa",
-  "intro": "The Vior'la Tau army list lets you field a Tau army from the Vior'la Sept. The Vior'la is focused on the larger Tau Battlesuits, with support options largely restricted to other suits, and drones.",
-  "strategy": "Tau armies have a Strategy Rating of 3.",
-  "Initiative": "XV8 Crisis Battlesuit, XV10 Heavy Battlesuit Cadres and KV128 Stormsurge and KX139 Supremacy Armour have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "intro": "The Vior'la Tau army list lets you field a Tau army from the Vior'la Sept. The Vior'la is focused on the larger Tau Battlesuits, with support options largely restricted to other suits, und drones.",
+  "strategy": "Tau Armeen haben einen Strategiewert von 3.",
+  "Initiative": "XV8 Crisis Battlesuit, XV10 Heavy Battlesuit Cadres und KV128 Stormsurge und KX139 Supremacy Armour have an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Tiger Shark Gun Drones"
   ],
@@ -61,7 +61,7 @@
       "formations": [
         {
           "name": "XV8 Crisis Battlesuit Cadre",
-          "units": "Six XV8 Crisis Battlesuits",
+          "units": "Sechs XV8 Crisis Battlesuits",
           "extraUnits": [
             "Befehlshaber",
             "Crisis Suits",
@@ -71,7 +71,7 @@
         },
         {
           "name": "Heavy Battlesuit Cadre",
-          "units": "Three XV104 Riptide Battlesuits, three XV107 R'Varna Battlesuits or three XV109 Y'Vahra Battlesuits",
+          "units": "Drei XV104 Riptide Battlesuits, drei XV107 R'Varna Battlesuits oder drei XV109 Y'Vahra Battlesuits",
           "extraUnits": [
             "Befehlshaber",
             "Heavy Battlesuits",
@@ -81,7 +81,7 @@
         },
         {
           "name": "XV88 Broadside Group",
-          "units": "Six XV88 Broadside Battlesuits",
+          "units": "Sechs XV88 Broadside Battlesuits",
           "extraUnits": [
             "Drones"
           ],
@@ -90,12 +90,12 @@
       ]
     },
     {
-      "name": "Vior'la Support Formations",
-      "description": "Up to two for each Vior'la Core Formation taken",
+      "name": "Vior'la Unterstützungsverbände",
+      "description": " Bis zu zwei für jeweils Vior'la Core Formation taken",
       "formations": [
         {
           "name": "Fire Warrior Strike Group",
-          "units": "Eight Fire Warriors, or six Fire Warriors and three Devilfish",
+          "units": "Acht Fire Warriors, oder sechs Fire Warriors und drei Devilfish",
           "extraUnits": [
             "Broadsides",
             "Drones",
@@ -105,24 +105,24 @@
         },
         {
           "name": "Drone Group",
-          "units": "Eight Gun Drones",
+          "units": "Acht Gun Drones",
           "extraUnits": [
-            "Replace two Gun Drones with two Rakete Drones or two Shield Drones (Free), or two Marker Drones (25 points)"
+            "Ersetze zwei Gun Drones with zwei Rakete Drones oder zwei Shield Drones (Free), oder zwei Marker Drones (25 Punkte)"
           ],
           "points": 150
         },
         {
           "name": "Stealth Group",
-          "units": "Six XV15 Stealth Battlesuits",
+          "units": "Sechs XV15 Stealth Battlesuits",
           "extraUnits": [
-            "Replace three XV15 Stealth Battlesuits with three XV95 Ghostkeel Battlesuits: 75 points",
+            "Ersetze drei XV15 Stealth Battlesuits with drei XV95 Ghostkeel Battlesuits: 75 Punkte",
             "Drones"
           ],
           "points": 225
         },
         {
           "name": "Skysweep Support Group",
-          "units": "Three Sky Rays",
+          "units": "Drei Sky Rays",
           "extraUnits": [
             "Drones"
           ],
@@ -132,28 +132,28 @@
     },
     {
       "name": "Vior'la War Engines & Air Caste Formations",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {
-          "name": "Barracuda Squadron",
-          "units": "Two Barracudas",
+          "name": "Barracuda Schwadron",
+          "units": "Zwei Barracudas",
           "points": 150
         },
         {
           "name": "KV128 Stormsurge Suit",
-          "units": "One KV128 Stormsurge Ballistic Suit (Standard or Support Configuration)",
+          "units": "Ein KV128 Stormsurge Ballistic Suit (Standard oder Support Configuration)",
           "points": 225
         },
         {
           "name": "KX139 Supremacy Armour",
-          "units": "One Shas'el, one KX139 Ta'unar Supremacy Armour",
+          "units": "Ein Shas'el, eine KX139 Ta'unar Supremacy Armour",
           "points": 500
         },
         {
-          "name": "Tiger Shark Squadron",
-          "units": "Two Tiger Shark Bombers",
+          "name": "Tiger Shark Schwadron",
+          "units": "Zwei Tiger Shark Bombers",
           "extraUnits": [
-            "Add six Gun Drones or six Rakete Drones: 75 points"
+            "Füge sechs Gun Drones oder sechs Rakete Drones: 75 Punkte"
           ],
           "points": 175
         },
@@ -161,64 +161,64 @@
           "name": "0–1 Spacecraft",
           "units": "Protector Class Cruiser",
           "extraUnits": [
-            "Replace the Protector with a Custodian Class Battleship: 25 points"
+            "Ersetze the Protector mit einemCustodian Class Battleship: 25 Punkte"
           ],
           "points": 200
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Upgrades",
-    "description": "Each upgrade may be taken once by a formation",
+  "Erweiterungen": {
+    "title": "Erweiterungen",
+    "description": "Jeweils upgrade may be taken once by a formation",
     "items": [
       {
         "name": "Broadsides",
-        "description": "Add three XV88 Broadside Battlesuits",
-        "points": "125 points"
+        "description": "Füge drei XV88 Broadside Battlesuits",
+        "points": "125 Punkte"
       },
       {
         "name": "Befehlshaber",
-        "description": "Add any one of the following characters to any unit in the formation:",
+        "description": "Füge any eine of the following characters to any unit in the formation:",
         "options": [
           {
             "description": "Shas'el",
-            "points": "25 points"
+            "points": "25 Punkte"
           },
           {
-            "description": "0-1 Shas'o per army",
-            "points": "100 points"
+            "description": "0-1 Shas'o pro army",
+            "points": "100 Punkte"
           }
         ]
       },
       {
         "name": "Crisis Suits",
-        "description": "Add two XV8 Crisis Battlesuits",
-        "points": "75 points"
+        "description": "Füge zwei XV8 Crisis Battlesuits",
+        "points": "75 Punkte"
       },
       {
         "name": "Drones",
-        "description": "Add any one of the following upgrades to the formation",
+        "description": "Füge any eine of the following Erweiterungen to the formation",
         "options": [
           {
-            "description": "Two Gun Drones, Rakete Drones or Shield Drones",
-            "points": "25 points"
+            "description": "Zwei Gun Drones, Rakete Drones oder Shield Drones",
+            "points": "25 Punkte"
           },
           {
-            "description": "Two Marker Drones",
-            "points": "50 points"
+            "description": "Zwei Marker Drones",
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Sky Ray",
-        "description": "Add one Sky Ray",
-        "points": "100 points"
+        "description": "Füge eine Sky Ray",
+        "points": "100 Punkte"
       },
       {
         "name": "Heavy Battlesuits",
-        "description": "Add up to two XV104 Riptide Battlesuits, XV107 R'Varna Battlesuits, or XV109 Y'Vahra Battlesuits (the formation may not contain a mix of Heavy Battlesuits)",
-        "points": "75 points each"
+        "description": "Füge bis zu zwei XV104 Riptide Battlesuits, XV107 R'Varna Battlesuits, oder XV109 Y'Vahra Battlesuits (the formation may not contain a mix of Heavy Battlesuits)",
+        "points": "75 Punkte jeweils"
       }
     ]
   }

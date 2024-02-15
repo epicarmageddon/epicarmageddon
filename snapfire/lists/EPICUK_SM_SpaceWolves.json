@@ -4,31 +4,31 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"GREAT COMPANY", "formations":[
-			{"id":501, "name":"Great Company", "pts":325, "units":"plus transport", "upgrades":[10,11,16,21,37,38,50,51,52,53,54,55]}
+			{"id":501, "name":"Great Kompanie", "pts":325, "units":"plus transport", "Erweiterungen":[10,11,16,21,37,38,50,51,52,53,54,55]}
 		]},
-		{"name":"SPACE WOLVES PACKS <br/> Max 3 for each Great Company", "formations":[
-			{"id":512, "name":"Wolf Scouts", "pts":175, "upgrades":[27,28,29,30,34], "units":"4 Wolf Scouts plus transport"},
-			{"id":513, "name":"Long Fangs", "pts":300, "upgrades":[10,11,21,27,28,29,30,38,50,51,52,53,54,55], "units":"4 Long Fangs plus transport"},
-			{"id":514, "name":"Blood Claws", "pts":250, "upgrades":[27,28,29,30,50,51,52,53,54,55], "units":"6 Blood Claws"},
-			{"id":516, "name":"Swift Claws", "pts":200, "upgrades":[27,28,29,30]},
-			{"id":517, "name":"Fenrisian Wolves", "pts":175, "upgrades":[27,28,29,30], "units":"5 Fenrisian Wolves"}
+		{"name":"SPACE WOLVES PACKS <br/> Max 3 für jeweils Great Kompanie", "formations":[
+			{"id":512, "name":"Wolf Scouts", "pts":175, "Erweiterungen":[27,28,29,30,34], "units":"4 Wolf Scouts plus transport"},
+			{"id":513, "name":"Long Fangs", "pts":300, "Erweiterungen":[10,11,21,27,28,29,30,38,50,51,52,53,54,55], "units":"4 Long Fangs plus transport"},
+			{"id":514, "name":"Blood Claws", "pts":250, "Erweiterungen":[27,28,29,30,50,51,52,53,54,55], "units":"6 Blood Claws"},
+			{"id":516, "name":"Swift Claws", "pts":200, "Erweiterungen":[27,28,29,30]},
+			{"id":517, "name":"Fenrisian Wolves", "pts":175, "Erweiterungen":[27,28,29,30], "units":"5 Fenrisian Wolves"}
 		]},
-		{"name":"SPACE WOLVES SUPPORT <br/> Max 3 for each Great Company", "formations":[
-			{"id":521, "name":"Land Speeders", "pts":200, "upgrades":[27,28,29,30]},
-			{"id":522, "name":"Land Raiders", "pts":350, "units":"4 Land Raiders", "upgrades":[38,37]},
-			{"id":523, "name":"Predators", "pts":225, "upgrades":[38,37,46]},
-			{"id":524, "name":"Vindicators", "pts":250, "upgrades":[38], "units":"4 Vindicators"},
-			{"id":525, "name":"Whirlwinds", "pts":300, "upgrades":[38], "units":"4 Whirlwinds"},
-			{"id":526, "name":"Strike Cruiser", "pts":200, "upgrades":[26]},
-			{"id":528, "name":"Landing Craft", "pts":350, "upgrades":[]}
+		{"name":"SPACE WOLVES SUPPORT <br/> Max 3 für jeweils Great Kompanie", "formations":[
+			{"id":521, "name":"Land Speeders", "pts":200, "Erweiterungen":[27,28,29,30]},
+			{"id":522, "name":"Land Raiders", "pts":350, "units":"4 Land Raiders", "Erweiterungen":[38,37]},
+			{"id":523, "name":"Predators", "pts":225, "Erweiterungen":[38,37,46]},
+			{"id":524, "name":"Vindicators", "pts":250, "Erweiterungen":[38], "units":"4 Vindicators"},
+			{"id":525, "name":"Whirlwinds", "pts":300, "Erweiterungen":[38], "units":"4 Whirlwinds"},
+			{"id":526, "name":"Strike Cruiser", "pts":200, "Erweiterungen":[26]},
+			{"id":528, "name":"Landing Craft", "pts":350, "Erweiterungen":[]}
 		]},
 		{"name":"SPACE WOLVES NAVY <br/> Max 33%", "formations":[
-			{"id":527, "name":"Thunderhawk", "pts":200, "upgrades":[]},
-			{"id":549, "name":"Thunderbolt Squadron", "pts":150, "upgrades":[], "units":"2 Thunderbolt Fighters"},
-			{"id":550, "name":"Marauder Squadron", "pts":250, "upgrades":[], "units":"2 Marauders Bombers"}
+			{"id":527, "name":"Thunderhawk", "pts":200, "Erweiterungen":[]},
+			{"id":549, "name":"Thunderbolt Schwadron", "pts":150, "Erweiterungen":[], "units":"2 Thunderbolts"},
+			{"id":550, "name":"Marauder Schwadron", "pts":250, "Erweiterungen":[], "units":"2 Marauders Bombers"}
 		]}
 		],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":10, "name":"Razorback w/ Twin Heavy Bolter", "pts":25},
 		{"id":11, "name":"Razorback w/ Twin Lascannon", "pts":25},
 		{"id":12, "name":"8 Grey hunters", "pts":0},
@@ -49,7 +49,7 @@
 		{"id":30, "name":"Wolf Lord", "pts":100},
 		{"id":32, "name":"Bikes", "pts":0},
 		{"id":33, "name":"Attack Bike", "pts":0},
-		{"id":34, "name":"Snipers", "pts":50},
+		{"id":34, "name":"Scharfschützen", "pts":50},
 		{"id":37, "name":"Vindicator", "pts":50},
 		{"id":38, "name":"Hunter", "pts":75},
 		{"id":40, "name":"plus transport", "pts":0},
@@ -70,9 +70,9 @@
 	"formationConstraints":[
 
 		{"max":1, "name":"Spacecraft", "from":[526]},
-		{"min":1, "name":"Great Company", "from":[501]},
-		{"max": 3, "name": "Space Wolves Packs", "from": [512,513,514,516,517], "forEach": [501], "name2": "Great Company" },
-		{"max": 3, "name": "Space Wolves Support", "from": [521,522,523,524,525,526,527,528], "forEach": [501], "name2": "Great Company" },
+		{"min":1, "name":"Great Kompanie", "from":[501]},
+		{"max": 3, "name": "Space Wolves Packs", "from": [512,513,514,516,517], "forEach": [501], "name2": "Great Kompanie" },
+		{"max": 3, "name": "Space Wolves Support", "from": [521,522,523,524,525,526,527,528], "forEach": [501], "name2": "Great Kompanie" },
 		{"maxPercent":33.5, "name":"Aircraft", "from":[527,549,550]}
 	],
 	"upgradeConstraints":[

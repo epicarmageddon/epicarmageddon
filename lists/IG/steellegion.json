@@ -4,10 +4,10 @@
   "version": "1.0.Beta-2",
   "release": "2022-09-29",
   "armyforge": "EAR_ImperialGuard_SteelLegion",
-  "strategy": "Stahlegion armies have a Strategy Rating of 2.",
-  "Initiative": "Collegia Titanica formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Stahlegion Armeen haben einen Strategiewert von 2.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
-    "Courage, Discipline and Loyalty"
+    "Mut, Disziplin und Loyalität"
   ],
   "units": [
     {
@@ -15,27 +15,27 @@
       "units": [
         "Stahlegion Oberbefehlshaber",
         "Stahlegion Befehlshaber",
-        "Commissar",
-        "Infantry",
+        "Kommissar",
+        "Infanterie",
         "Ogryns",
-        "Rough Riders",
-        "Snipers",
+        "Kavallerieschwadron",
+        "Scharfschützen",
         "Sturmtruppen",
-        "Fire Support Squad",
+        "Unterstützungstrupp",
         "Sentinel",
         "Basilisk",
         "Bombard",
-        "Chimera",
+        "Chimäre",
         "Taurox",
-        "Deathstrike",
-        "Griffon",
-        "Hellhound",
+        "Todesstoss-Raketensystem",
+        "Greif",
+        "Höllenhund",
         "Hydra",
         "Leman Russ",
         "Leman Russ Demolisher",
         "Leman Russ Vanquisher",
         "Leman Russ Punisher",
-        "Manticore",
+        "Mantikor",
         "Valkyrie",
         "Vulture",
         "Shadowsword",
@@ -52,18 +52,18 @@
         "Warlord Titan"
       ],
       "unitRules": [
-        "Void Shields",
-        "God Machine",
-        "Split Fire"
+        "Deflektorschilde",
+        "Gottgleiche Maschine",
+        "Feuer aufteilen"
       ]
     },
     {
       "from": "ImperialNavy.json",
       "units": [
-        "Thunderbolt Fighter",
+        "Thunderbolt",
         "Marauder Bomber",
-        "Lunar Class Cruiser",
-        "Emperor Class Battleship"
+        "Lunar-Klasse Kreuzer",
+        "Imperator-Klasse Schlachtschiff"
       ],
       "unitRules": [
       ]
@@ -71,56 +71,56 @@
   ],
   "sections": [
     {
-      "name": "Company Formations",
+      "name": "Kompanieverbände",
       "formations": [
         {
-          "name": "Regimental HQ",
-          "units": "One Stahlegion Oberbefehlshaber with a Commissar, nine Infantry and five Chimeras",
+          "name": "Regiments HQ",
+          "units": "Ein Stahlegion Oberbefehlshaber mit einem Kommissar, neun Infanteristen und fünf Chimären",
           "extraUnits": [
-            "All"
+            "Alle"
           ],
           "points": 375
         },
         {
-          "name": "Mechanized Infantry Company",
-          "units": "One Stahlegion Befehlshaber with a Commissar, nine Infantry and five Chimeras",
+          "name": "Mechanisierte Infanterie Kompanie",
+          "units": "Ein Stahlegion Befehlshaber mit einem Kommissar, neun Infanteristen und fünf Chimären",
           "extraUnits": [
-            "All"
+            "Alle"
           ],
           "points": 325
         },
         {
-          "name": "Infantry Company",
-          "units": "One Stahlegion Befehlshaber with a Commissar, twelve Infantry",
+          "name": "Infanterie Kompanie",
+          "units": "Ein Stahlegion Befehlshaber mit einem Kommissar, zwölf Infanteristen",
           "extraUnits": [
-            "All"
+            "Alle"
           ],
           "points": 250
         },
         {
-          "name": "Leman Russ Company",
-          "units": "One Leman Russ Vanquisher with a Commissar, seven Leman Russ",
+          "name": "Leman Russ Kompanie",
+          "units": "Ein Leman Russ Vanquisher mit einem Kommissar, sieben Leman Russ",
           "extraUnits": [
             "Flak",
-            "Hellhounds"
+            "Höllenhunde"
           ],
           "points": 500
         },
         {
-          "name": "Super-Heavy Company",
-          "units": "One Commissar, three Baneblades and/or Shadowswords",
+          "name": "Superschwere Kompanie",
+          "units": "Ein Kommissar, drei Baneblades und/oder Shadowswords",
           "extraUnits": [
             "Ogryns",
             "Flak",
-            "Hellhounds"
+            "Höllenhunde"
           ],
           "points": 500
         },
         {
-          "name": "Artillery Company",
-          "units": "One Commissar, six Basilisks",
+          "name": "Artillerie Kompanie",
+          "units": "Ein Kommissar, sechs Basilisken",
           "extraUnits": [
-            "Replace six Basilisks with Manticores: 50 points",
+            "Ersetze sechs Basilisken mit Mantikoren: 50 Punkte",
             "Flak"
           ],
           "points": 400
@@ -128,185 +128,182 @@
       ]
     },
     {
-      "name": "Support Formations",
-      "description": "Up to two Support Formations for each Company.",
+      "name": "Unterstützungsverbände",
+      "description": " Bis zu zwei Unterstützungsverbände pro Kompanieverband.",
       "formations": [
         {
-          "name": "Mechanized Infantry Platoon",
-          "units": "Six Infantry and three Chimeras",
+          "name": "Mechanisierte Infanterie Zug",
+          "units": "Sechs Infanteristen und drei Chimären",
           "extraUnits": [
-            "Hellhounds"
+            "Höllenhunde"
           ],
           "points": 200
         },
         {
-          "name": "Artillery Battery",
-          "units": "Three Basilisks or three Bombards",
+          "name": "Artillerie Batterie",
+          "units": "Drei Basilisken oder drei Bombard",
           "extraUnits": [
-            "Replace three Basilisks with three Manticores: 25 points"
+            "Ersetze drei Basilisken mit drei Mantikoren: 25 Punkte"
           ],
           "points": 225
         },
         {
-          "name": "Deathstrike Battery",
-          "units": "Two Deathstrikes",
+          "name": "Todesstoss-Raketensystem Batterie",
+          "units": "Zwei Todesstoss-Raketensysteme",
           "extraUnits": [
           ],
           "points": 225
         },
         {
-          "name": "Griffon Battery",
-          "units": "Three Griffons",
+          "name": "Greifen Batterie",
+          "units": "Drei Greifen",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Flak Battery",
-          "units": "Three Hydras",
+          "name": "Flak Batterie",
+          "units": "Drei Hydra",
           "extraUnits": [
           ],
           "points": 150
         },
         {
-          "name": "Rough Rider Platoon",
-          "units": "Six Rough Riders",
+          "name": "Kavalleriezug",
+          "units": "Sechs Kavallerieschwadronen",
           "points": 150
         },
         {
-          "name": "Sentinel Squadron",
-          "units": "Four Sentinels",
+          "name": "Sentinel Schwadron",
+          "units": "Vier Sentinels",
           "extraUnits": [
           ],
           "points": 100
         },
         {
-          "name": "Super-Heavy Platoon",
-          "units": "One Baneblade",
+          "name": "Superschwerer Zug",
+          "units": "Ein Baneblade",
           "extraUnits": [
-              "Replace a Baneblade with a Shadowsword: 25 points"
+              "Ersetze a Baneblade mit einem Shadowsword: 25 Punkte"
           ],
           "points": 175
         },
         {
-          "name": "Leman Russ Platoon",
-          "units": "Six Leman Russ, Leman Russ Punishers or Leman Russ Demolishers",
+          "name": "Leman Russ Zug",
+          "units": "Sechs Leman Russ, Leman Russ Punishers oder Leman Russ Demolisher",
           "points": 375
         },
         {
-          "name": "Vulture Squadron",
-          "units": "Four Vultures",
+          "name": "Vulture Schwadron",
+          "units": "Vier Vultures",
           "points": 300,
           "extraUnits": []
         },
         {
-          "name": "Storm Trooper Company",
-          "units": "Eight Sturmtruppen, one with a Commissar",
+          "name": "Storm Trooper Kompanie",
+          "units": "Acht Sturmtruppen, eine mit Kommissar",
           "points": 200,
           "extraUnits": [
-            "Add four Taurox or four Valkyries: 150 points"
+            "Füge vier Taurox oder vier Valkyries hinzu: 150 Punkte"
           ]
         }
       ]
     },
     {
-      "name": "Collegia Titanica and Imperial Navy Formations",
-      "description": "Up to a third of the points available may be spent on Collegia Titanica and Imperial Navy Formations",
+      "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte ausgegeben werden",
       "formations": [
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
-            "Add an additional Warhound Titan: 200 points"
+            "Füge einen zusätzlichen Warhound Titan hinzu: 200 Punkte"
           ],
           "points": 275
         },
         {
           "name": "Reaver",
-          "units": "One Reaver Titan",
+          "units": "Ein Reaver Titan",
           "extraUnits": [
           ],
           "points": 600
         },
         {
           "name": "Warlord",
-          "units": "One Warlord Titan",
+          "units": "Ein Warlord Titan",
           "extraUnits": [
           ],
           "points": 750
         },
         {
-          "name": "Thunderbolt Squadron",
-          "units": "Two Thunderbolt Fighters",
+          "name": "Thunderbolt Schwadron",
+          "units": "Zwei Thunderbolts",
           "points": 175
         },
         {
-          "name": "Marauder Squadron",
-          "units": "Two Marauder Bombers",
+          "name": "Marauder Schwadron",
+          "units": "Zwei Marauder Bomber",
           "points": 250
         },
         {
           "name": "0–1 Orbital Support",
-          "units": "One Lunar Class Cruiser",
+          "units": "Ein Lunar-Klasse Kreuzer",
           "points": 125,
           "extraUnits": [
-            "Replace with an Emperor Class Battleship: 50 points"
+            "Ersetze den Lunar-Klasse Kreuzer mit einem Imperator-Klasse Schlachtschiff: 50 Punkte"
           ]
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Stahlegion Upgrades",
-    "description": "Each upgrade may be taken once per formation. No more than three upgrades per Company",
+  "Erweiterungen": {
+    "title": "Stahlegion Erweiterungen",
+    "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Nicht mehr als drei Erweiterungen pro Kompanieverband",
     "items": [
       {
-        "name": "Fire Support*",
-        "description": "Add two or four Fire Support Squads",
+        "name": "Unterstützungstrupps*",
+        "description": "Füge zwei oder vier Unterstützungstrupps hinzu",
         "points": [
-          "50 points for two",
-          "100 points for four"
+          "50 Punkte für zwei",
+          "100 Punkte für vier"
         ]
       },
       {
         "name": "Flak",
-        "description": "Add one Hydra",
-        "points": "50 points"
+        "description": "Füge eine Hydra hinzu",
+        "points": "50 Punkte"
       },
       {
-        "name": "Hellhounds",
-        "description": "Add up to three Hellhounds",
-        "points": "25 points each"
+        "name": "Höllenhunde",
+        "description": "Füge bis zu drei Höllenhunde hinzu",
+        "points": "25 Punkte jeweils"
       },
       {
-        "name": "Infantry*",
-        "description": "Add six Infantry",
-        "points": "75 points"
+        "name": "Infanterie*",
+        "description": "Füge sechs Infanterie hinzu",
+        "points": "75 Punkte"
       },
       {
         "name": "Ogryns*",
-        "description": "Add up to two Ogryns",
-        "points": "25 points each"
+        "description": "Füge bis zu zwei Ogryns hinzu",
+        "points": "25 Punkte jeweils"
       },
       {
-        "name": "Snipers*",
-        "description": "Add up to two Snipers",
-        "points": "25 points each"
+        "name": "Scharfschützen*",
+        "description": "Füge bis zu zwei Scharfschützen hinzu",
+        "points": "25 Punkte jeweils"
       },
       {
         "name": "Leman Russ",
-        "description": "Add three Leman Russ, Leman Russ Punishers, or Leman Russ Demolishers",
-        "points": "150 points"
+        "description": "Füge drei Leman Russ, Leman Russ Punishers, oder Leman Russ Demolisher hinzu",
+        "points": "150 Punkte"
       },
       {
         "name": "",
-        "description": "* These upgrades may add Chimeras. If the formation contains Chimeras, then all INF in the formation must be transported in Chimeras.",
-        "points": "25 points each"
+        "description": "* Diese Erweiterungen dürfen zusätzlich Chimären erhalten. Wenn der Verband in Chimären transportiert wird, müssen alle INF Einheiten im Verband Chimären erhalten.",
+        "points": "25 Punkte pro Chimäre"
       }
     ]
   },
-  "about": [
-    "v1.0.Beta: The EA-R Stahlegion is based on the NetEA version, but with a number of changes to make the list more flexible and to make more types of builds possible. The most important difference are the reductions in size & price of the Regimental HQ / Mechanized Company / Artillery Company, the introduction of a Mechanized Platoon, and the replacement of the Deathstrike formation with a Deathstrike upgrade for IG artillery formations. There is now a price difference when taking the much more capable Manticores over the Bombard or Basilisk. The Leman Russ Company has been made slightly cheaper. Commissars have been made an integral part of a specific unit in each Company-type formation.",
-    "Other important changes: Vultures can be taken in formations of three, in order to make the formation more flexible. Valkyries have lost Aufklärer, since having Aufklärer on both transports and the units being transported easily got out of hand. Valkyries has a 1BP Rocket Pod instead of the 2BP Single Shot pod to eliminate the need for keeping track on which units had shots left. Rough Riders only have a single attack with FS, but has gained Walker. The Leman Russ Platoon can also take Leman Russ Punishers, and have been reduced in cost. Marauder Bombers have been reduced in price."
-  ]
+  "about": [ "Deutsche Übersetzung der EA:Ragnarok Steellegion Army List. Es wurden keine Änderungen vorgenommen, Stand 15.02.2024"]
 }

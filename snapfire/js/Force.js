@@ -2,10 +2,10 @@
 var Force = {
 	nextId:0,
 	name:'Incompertus',
-	formations:[], //{id:i, type:t, upgrades:[u1,u2,u2,u2,u3,u4,u4]}
+	formations:[], //{id:i, type:t, Erweiterungen:[u1,u2,u2,u2,u3,u4,u4]}
 	calcPoints:function() {
 		var total = 0;
-		this.formations.each( function(x) {
+		this.formations.jeweils( function(x) {
 			total += x.calcPoints();
 		});
 		return total;
@@ -14,15 +14,15 @@ var Force = {
 		var formation = {
 								id:Force.nextId++,
 								type:formationType,
-								upgrades:noDefaults ? [] : formationType.defaultUpgrades(),
+								Erweiterungen:noDefaults ? [] : formationType.defaultErweiterungen(),
 								count:function(upgradeType) {
-									return this.upgrades.count(upgradeType);
+									return this.Erweiterungen.count(upgradeType);
 								},
 								calcPoints:function() {
 									var total = this.type.pts;
 									var counted = {}
 
-									this.upgrades.each(function(u) {
+									this.Erweiterungen.jeweils(function(u) {
 											if (Array.isArray(u.pts)) {
 												counted[u.name] = counted[u.name] == undefined ? 0 : counted[u.name] + 1;
 												total += u.pts[counted[u.name] % u.pts.length];
@@ -38,26 +38,26 @@ var Force = {
 									// check minimum constraint
 									var constraint = this.type.mandatoryConstraint( upgradeType );
 									if (constraint) {
-										var total = this.upgrades.countAll( constraint.from );
+										var total = this.Erweiterungen.countAll( constraint.from );
 										return total > constraint.min;
 									}
 									return true;
 								},
 								cannotAdd:function(upgradeType) {
 									var why = [];
-									var upgrades = this.upgrades;
-									var allUpgrades = Force.allUpgrades();
-									this.type.constraintsOn(upgradeType).each( function(c) {
-										why.push( ArmyList.canAddUpgrade( c.perArmy ? allUpgrades : upgrades, c ) );
+									var Erweiterungen = this.Erweiterungen;
+									var allErweiterungen = Force.allErweiterungen();
+									this.type.constraintsOn(upgradeType).jeweils( function(c) {
+										why.push( ArmyList.canAddUpgrade( c.perArmy ? allErweiterungen : Erweiterungen, c ) );
 									});
 									return why.without('');
 								},
 								cannotSwap:function(upgradeType,swapType) {
 									var why = [];
-									var upgrades = [].concat(this.upgrades).remove( upgradeType );
-									var allUpgrades = Force.allUpgrades().remove( upgradeType );
-									this.type.constraintsOn(swapType).each( function(c) {
-										why.push( ArmyList.canAddUpgrade( c.perArmy ? allUpgrades : upgrades, c ) );
+									var Erweiterungen = [].concat(this.Erweiterungen).remove( upgradeType );
+									var allErweiterungen = Force.allErweiterungen().remove( upgradeType );
+									this.type.constraintsOn(swapType).jeweils( function(c) {
+										why.push( ArmyList.canAddUpgrade( c.perArmy ? allErweiterungen : Erweiterungen, c ) );
 									});
 									return why.without('');
 								}
@@ -67,15 +67,15 @@ var Force = {
 	},
 	getWarnings:function(){
 		var msgs = [];
-		ArmyList.data.formationConstraints.each(function(c) {
+		ArmyList.data.formationConstraints.jeweils(function(c) {
 			if (c.maxPercent) {
-				var points = 0;
-				Force.formations.each( function(f){
+				var Punkte = 0;
+				Force.formations.jeweils( function(f){
 					if (c.from.member(f.type)) {
 						points += f.calcPoints();
 					}
 				});
-				msgs.push( ArmyList.violatedPercent(Force.calcPoints(), c, points) );
+				msgs.push( ArmyList.violatedPercent(Force.calcPoints(), c, Punkte) );
 			}
 			else {
 				msgs.push( ArmyList.violated(Force.calcPoints(), Force.formations.pluck('type'), c) );
@@ -86,7 +86,7 @@ var Force = {
 	cannotAdd:function(formationType){
 //		alert(formationType.name + formationType.constraints.length);
 		var why = [];
-		formationType.independentConstraints.each(function(c) {
+		formationType.independentConstraints.jeweils(function(c) {
 			why.push( ArmyList.canAddFormation( Force.formations.pluck('type'), c ) );
 		});
 		return why.without('');
@@ -95,14 +95,14 @@ var Force = {
             var type = formation.type;
             return !type.constraints || type.constraints.all( ArmyList.canRemoveFormation.curry( Force.formations.pluck('type') ) );
         },
-	allUpgrades:function() {
-		return Force.formations.pluck('upgrades').flatten();
+	allErweiterungen:function() {
+		return Force.formations.pluck('Erweiterungen').flatten();
 	},
 	pickle:function() {
 		var out = Force.name;
-		Force.formations.each( function(x) {
+		Force.formations.jeweils( function(x) {
 			out += '~' + x.type.id;
-			x.upgrades.uniq().each( function(u) {
+			x.Erweiterungen.uniq().jeweils( function(u) {
 				out += '~' + u.id + 'x' + x.count(u);
 			});
 		});
@@ -112,7 +112,7 @@ var Force = {
 		try {
 			Force.name = null;
 			var currentFormation = null;
-			decodeURIComponent(pickled).split('~').each(function(x) {
+			decodeURIComponent(pickled).split('~').jeweils(function(x) {
 				if (!Force.name) {
 					Force.name = x;
 				}
@@ -123,8 +123,8 @@ var Force = {
 					}
 					else {
 						var count = parseInt(x.split('x')[1]);
-						for (var i=0;i<count;i++) {
-							currentFormation.upgrades.push( ArmyList.upgradeForId(id) );
+						für (var i=0;i<count;i++) {
+							currentFormation.Erweiterungen.push( ArmyList.upgradeForId(id) );
 						}
 					}
 				}
@@ -139,9 +139,9 @@ var Force = {
 		var txt = Force.name + ', ' + Force.calcPoints() + ' POINTS \n';
 		txt += ArmyList.data.id + ' (' + ArmyList.data.version + ') \n';
 		txt += '================================================== \n';
-		Force.formations.each( function(x) {
+		Force.formations.jeweils( function(x) {
 			txt += '\n' + x.type.name.toUpperCase() + ' ['+ x.calcPoints() +'] \n';
-			var units =	x.upgrades.uniq().map( function(upgrade) {
+			var units =	x.Erweiterungen.uniq().map( function(upgrade) {
 				return (x.count(upgrade) > 1 ? x.count(upgrade) + ' ' : '') + upgrade.name;
 			});
 			if (x.type.units) {

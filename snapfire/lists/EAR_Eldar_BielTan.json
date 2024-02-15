@@ -4,35 +4,35 @@
    "by": "EA-Ragnarok",
    "sections": [
       {"name": "INDIVIDUALS", "formations": [
-	    {"id": 507, "name": "Webway Portal", "pts": 50,  "upgrades": []},
-	    {"id": 508, "name": "Avatar", "pts": 0, "upgrades": []}
+	    {"id": 507, "name": "Webway Portal", "pts": 50,  "Erweiterungen": []},
+	    {"id": 508, "name": "Avatar", "pts": 0, "Erweiterungen": []}
       ]},
       {"name": "WARHOSTS", "formations": [
-            {"id": 510, "name": "Aspect Warrior Warhost", "pts": 300, "upgrades": [13,39,40]},
-            {"id": 511, "name": "Guardian Warhost", "pts": 150, "upgrades": [13,43,44,45,46,47]}
+            {"id": 510, "name": "Aspect Warrior Warhost", "pts": 300, "Erweiterungen": [13,39,40]},
+            {"id": 511, "name": "Guardian Warhost", "pts": 150, "Erweiterungen": [13,43,44,45,46,47]}
          ]},
-      {"name": "TROUPES <br/> Max 2 for each Warhost", "formations": [
-            {"id": 500, "name": "Rangers", "pts": 0, "upgrades": [11]},
-            {"id": 501, "name": "War Walker Troupe", "pts": 175, "units": "4 War Walkers", "upgrades": []},
-            {"id": 502, "name": "Wind Rider Troupe", "pts": 200, "upgrades": []},
-            {"id": 503, "name": "Swords of Vaul", "pts": 250, "upgrades": []},
-            {"id": 504, "name": "Night Spinner Troupe", "pts": 175, "units": "3 Night Spinners", "upgrades": []},
-            {"id": 505, "name": "Engines of Vaul", "pts": 50, "upgrades": [34,35,36]},
-	        {"id": 506, "name": "Void Spinners", "pts": 50, "upgrades": [37]},
-            {"id": 530, "name": "Fire Prism Troupe", "pts": 250, "units": "3 Fire Prisms", "upgrades": []}
+      {"name": "TROUPES <br/> Max 2 für jeweils Warhost", "formations": [
+            {"id": 500, "name": "Rangers", "pts": 0, "Erweiterungen": [11]},
+            {"id": 501, "name": "War Walker Troupe", "pts": 175, "units": "4 War Walkers", "Erweiterungen": []},
+            {"id": 502, "name": "Wind Rider Troupe", "pts": 200, "Erweiterungen": []},
+            {"id": 503, "name": "Swords of Vaul", "pts": 250, "Erweiterungen": []},
+            {"id": 504, "name": "Night Spinner Troupe", "pts": 175, "units": "3 Night Spinners", "Erweiterungen": []},
+            {"id": 505, "name": "Engines of Vaul", "pts": 50, "Erweiterungen": [34,35,36]},
+	        {"id": 506, "name": "Void Spinners", "pts": 50, "Erweiterungen": [37]},
+            {"id": 530, "name": "Fire Prism Troupe", "pts": 250, "units": "3 Fire Prisms", "Erweiterungen": []}
 			]},
       {"name": "SPACESHIPS, AIRCRAFT &amp; TITANS <br/> Max 33%", "formations": [
-            {"id": 515, "name": "Wraithship", "pts": 150,  "upgrades": []},
-            {"id": 516, "name": "Dragonship", "pts": 300, "upgrades": []},
-            {"id": 517, "name": "Warlock Titan", "pts": 850, "upgrades": []},
-            {"id": 518, "name": "Phantom Titan", "pts": 700, "upgrades": []},
-            {"id": 519, "name": "Revenant Titans", "pts": 650, "units": "2 Revenant Titans", "upgrades": []},
-            {"id": 520, "name": "Nightwing Aerie", "pts": 75, "upgrades": [54]},
-            {"id": 521, "name": "Phoenix Aerie", "pts": 325, "units": "3 Phoenix Bombers",  "upgrades": []},
-            {"id": 522, "name": "Vampire Raider", "pts": 200, "upgrades": []}
+            {"id": 515, "name": "Wraithship", "pts": 150,  "Erweiterungen": []},
+            {"id": 516, "name": "Dragonship", "pts": 300, "Erweiterungen": []},
+            {"id": 517, "name": "Warlock Titan", "pts": 850, "Erweiterungen": []},
+            {"id": 518, "name": "Phantom Titan", "pts": 700, "Erweiterungen": []},
+            {"id": 519, "name": "Revenant Titans", "pts": 650, "units": "2 Revenant Titans", "Erweiterungen": []},
+            {"id": 520, "name": "Nightwing Aerie", "pts": 75, "Erweiterungen": [54]},
+            {"id": 521, "name": "Phoenix Aerie", "pts": 325, "units": "3 Phoenix Bombers",  "Erweiterungen": []},
+            {"id": 522, "name": "Vampire Raider", "pts": 200, "Erweiterungen": []}
          ]}
    ],
-   "upgrades": [
+   "Erweiterungen": [
       {"id": 11, "name": "Rangers", "pts": 25},
       {"id": 13, "name": "4 Wave Serpents", "pts": 150},
       {"id": 15, "name": "Dire Avengers", "pts": 0},
@@ -71,7 +71,7 @@
       {"id": 54, "name": "Nightwing Interceptors", "pts": 75},
 
       {"id": 60, "name": "Phantom Titan (2 Titan Pulsar)", "pts": 0},
-      {"id": 61, "name": "Phantom Titan (Titan Pulsar and Eldar Titan Power Fist)", "pts": 0}
+      {"id": 61, "name": "Phantom Titan (Titan Pulsar und Eldar Titan Power Fist)", "pts": 0}
    ],
    "formationConstraints": [
       {"max": 1, "from": [507]},

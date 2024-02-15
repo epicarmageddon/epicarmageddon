@@ -4,35 +4,35 @@
    "by": "EA-Ragnarok",
    "sections": [
       {"name": "INDIVIDUALS","formations": [
-            {"id": 507, "name": "Wraithgate", "pts": 50, "upgrades": []},
-            {"id": 508, "name": "Avatar", "pts": 0, "upgrades": []}
+            {"id": 507, "name": "Wraithgate", "pts": 50, "Erweiterungen": []},
+            {"id": 508, "name": "Avatar", "pts": 0, "Erweiterungen": []}
          ]},
-      {"name": "WARHOSTS <br/> Max 1 Aspect Warrior Host for each Wild Rider Warhost", "formations": [
-            {"id": 511, "name": "Wild Rider Host", "pts":300, "upgrades":[]},
-            {"id": 510, "name": "Aspect Warrior Host", "pts":300, "upgrades": [39]}
+      {"name": "WARHOSTS <br/> Max 1 Aspect Warrior Host für jeweils Wild Rider Warhost", "formations": [
+            {"id": 511, "name": "Wild Rider Host", "pts":300, "Erweiterungen":[]},
+            {"id": 510, "name": "Aspect Warrior Host", "pts":300, "Erweiterungen": [39]}
 
          ]},
-      {"name": "TROUPES <br/> Max 3 per Warhost", "formations": [
-            {"id": 502, "name": "Hornet Troupe", "pts": 0, "upgrades": [80]},
-            {"id": 503, "name": "Swords of Vaul", "pts": 250, "upgrades": [33]},
-            {"id": 504, "name": "Fire Spinner Troupe", "pts": 225, "units": "3 Night Spinners, Firestorm", "upgrades": []},
-            {"id": 505, "name": "Engines of Vaul", "pts": 50, "upgrades": [51,52,53]},
-            {"id": 506, "name": "Void Spinner", "pts": 50, "upgrades": [54]},
-            {"id": 530, "name": "Fire Prism Troupe", "pts": 250, "units": "3 Fire Prisms", "upgrades": []},
-            {"id": 531, "name": "Mounted Aspect Warrior Troupe", "pts": 325,  "units": "3 Wave Serpents", "upgrades": [39]},
-            {"id": 532, "name": "Mounted Guardian Troupe", "pts": 250, "units": "3 Wave Serpents", "upgrades": []},
-            {"id": 509, "name": "War Walker Troupe", "pts": 175, "units": "4 War Walkers", "upgrades": [55]}
+      {"name": "TROUPES <br/> Max 3 pro Warhost", "formations": [
+            {"id": 502, "name": "Hornet Troupe", "pts": 0, "Erweiterungen": [80]},
+            {"id": 503, "name": "Swords of Vaul", "pts": 250, "Erweiterungen": [33]},
+            {"id": 504, "name": "Fire Spinner Troupe", "pts": 225, "units": "3 Night Spinners, Firestorm", "Erweiterungen": []},
+            {"id": 505, "name": "Engines of Vaul", "pts": 50, "Erweiterungen": [51,52,53]},
+            {"id": 506, "name": "Void Spinner", "pts": 50, "Erweiterungen": [54]},
+            {"id": 530, "name": "Fire Prism Troupe", "pts": 250, "units": "3 Fire Prisms", "Erweiterungen": []},
+            {"id": 531, "name": "Mounted Aspect Warrior Troupe", "pts": 325,  "units": "3 Wave Serpents", "Erweiterungen": [39]},
+            {"id": 532, "name": "Mounted Guardian Troupe", "pts": 250, "units": "3 Wave Serpents", "Erweiterungen": []},
+            {"id": 509, "name": "War Walker Troupe", "pts": 175, "units": "4 War Walkers", "Erweiterungen": [55]}
          ]},
       {"name": "SPACESHIPS, AIRCRAFT &amp; TITANS <br/> Max 33%", "formations": [
-            {"id": 519, "name": "Revenants", "pts": 650, "units": "2 Revenant Titans", "upgrades": [90]},
-            {"id": 520, "name": "Crimson Hunters", "pts": 250, "units": "2 Nightshade Interceptors", "upgrades": []},
-            {"id": 521, "name": "Phoenix Aerie", "pts": 325, "units": "3 Phoenix Bombers",  "upgrades": []},
-            {"id": 522, "name": "Vampire Hunter", "pts": 225, "upgrades": []},
-            {"id": 515, "name": "Wraithship", "pts": 150, "upgrades": []},
-            {"id": 516, "name": "Dragonship", "pts": 300, "upgrades": []}
+            {"id": 519, "name": "Revenants", "pts": 650, "units": "2 Revenant Titans", "Erweiterungen": [90]},
+            {"id": 520, "name": "Crimson Hunters", "pts": 250, "units": "2 Nightshade Interceptors", "Erweiterungen": []},
+            {"id": 521, "name": "Phoenix Aerie", "pts": 325, "units": "3 Phoenix Bombers",  "Erweiterungen": []},
+            {"id": 522, "name": "Vampire Hunter", "pts": 225, "Erweiterungen": []},
+            {"id": 515, "name": "Wraithship", "pts": 150, "Erweiterungen": []},
+            {"id": 516, "name": "Dragonship", "pts": 300, "Erweiterungen": []}
          ]}
    ],
-   "upgrades": [
+   "Erweiterungen": [
       {"id": 11, "name": "Ranger", "pts": 25},
       {"id": 22, "name": "Shining Spears", "pts": 0},
       {"id": 23, "name": "Swooping Hawks", "pts": 0},

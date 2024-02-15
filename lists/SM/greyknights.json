@@ -3,7 +3,7 @@
   "army": "Blood Ravens",
   "version": "0.5.0",
   "release": "2022-04-01",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
+  "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
   "Initiative": "All formations have an Initiative of 1+.",
   "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all formations.",
   "specialRules": [
@@ -67,19 +67,19 @@
   "sections": [
     {
       "name": "Blood Ravens Core Formations",
-      "description": "One Orbital Support formation must be taken.",
+      "description": "Ein Orbital Support formation must be taken.",
       "formations": [
         {
           "name": "1 Orbital Support",
           "units": "Vanguard Class Light Cruiser",
           "extraUnits": [
-            "Replace the Strike Cruiser with a Grey Knights Strike Cruiser: 75 points"
+            "Ersetze the Strike Cruiser mit einemGrey Knights Strike Cruiser: 75 Punkte"
           ],
           "points": 150
         },
         {
           "name": "Tacticals",
-          "units": "One Blood Ravens Librarian, six Tacticals plus transport",
+          "units": "Ein Blood Ravens Librarian, sechs Tacticals plus transport",
           "extraUnits": [
             "Anti-Air",
             "Oberbefehlshaber",
@@ -90,7 +90,7 @@
         },
         {
           "name": "Devastators",
-          "units": "One Blood Ravens Librarian, four Devastators plus transport",
+          "units": "Ein Blood Ravens Librarian, vier Devastators plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
             "Dreadnoughts",
@@ -100,7 +100,7 @@
         },
         {
           "name": "Assaults",
-          "units": "One Blood Ravens Librarian, six Assaults",
+          "units": "Ein Blood Ravens Librarian, sechs Assaults",
           "extraUnits": [
             "Oberbefehlshaber"
           ],
@@ -108,10 +108,10 @@
         },
         {
           "name": "Land Raiders",
-          "units": "One Blood Ravens Librarian, three Land Raiders",
+          "units": "Ein Blood Ravens Librarian, drei Land Raiders",
           "extraUnits": [
-            "Add one Land Raider: 75 points",
-            "Replace up to four Land Raiders with Land Raider Helios: 25 points each"
+            "Füge eine Land Raider: 75 Punkte",
+            "Ersetze bis zu vier Land Raiders with Land Raider Helios: 25 Punkte jeweils"
           ],
           "points": 275
         }
@@ -119,14 +119,14 @@
     },
     {
       "name": "Blood Ravens Support Detachments",
-      "description": "Two Blood Ravens Support Detachments may be taken per Blood Ravens Core Detachment.",
+      "description": "Zwei Blood Ravens Support Detachments may be taken pro Blood Ravens Core Detachment.",
       "formations": [
         {
           "name": "Aufklärers",
-          "units": "One Blood Ravens Librarian, four Aufklärers plus transport",
+          "units": "Ein Blood Ravens Librarian, vier Aufklärers plus transport",
           "extraUnits": [
             "Oberbefehlshaber",
-            "Snipers",
+            "Scharfschützen",
             "Dreadnoughts",
             "Razorbacks"
           ],
@@ -134,7 +134,7 @@
         },
         {
           "name": "Bikes",
-          "units": "One Blood Ravens Librarian, any five of the following units: Assault Bikes, Attack Bike",
+          "units": "Ein Blood Ravens Librarian, any fünf of the following units: Assault Bikes, Attack Bike",
           "extraUnits": [
             "Oberbefehlshaber"
           ],
@@ -142,7 +142,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "One Blood Ravens Librarian, any five of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Ein Blood Ravens Librarian, any fünf of the following units: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Oberbefehlshaber",
             "Typhoons"
@@ -151,7 +151,7 @@
         },
         {
           "name": "Predators",
-          "units": "One Blood Ravens Librarian, any four of the following units: Predator Annihilators, Predator Destructors",
+          "units": "Ein Blood Ravens Librarian, any vier of the following units: Predator Annihilators, Predator Destructors",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -161,11 +161,11 @@
     },
     {
       "name": "Grey Knights Detachments",
-      "description": "One Grey Knights Detachment may be taken per Blood Ravens Core Formation",
+      "description": "Ein Grey Knights Detachment may be taken pro Blood Ravens Core Formation",
       "formations": [
         {
           "name": "Interceptor Squads",
-          "units": "Two Grey Knights Interceptor Squads",
+          "units": "Zwei Grey Knights Interceptor Squads",
           "extraUnits": [
             "Justicar"
           ],
@@ -173,7 +173,7 @@
         },
         {
           "name": "Strike Squads",
-          "units": "Two Grey Knights Strike Squads plus transport",
+          "units": "Zwei Grey Knights Strike Squads plus transport",
           "extraUnits": [
             "Grey Knights Support",
             "Justicar"
@@ -182,7 +182,7 @@
         },
         {
           "name": "Purgation Squads",
-          "units": "Two Grey Knights Purgation Squads plus transport",
+          "units": "Zwei Grey Knights Purgation Squads plus transport",
           "extraUnits": [
             "Grey Knights Support",
             "Justicar"
@@ -191,16 +191,16 @@
         },
         {
           "name": "Terminators",
-          "units": "Two Grey Knights Terminators",
+          "units": "Zwei Grey Knights Terminators",
           "extraUnits": [
-            "Add one Vortimer Land Raider Redeemer: 75 points",
+            "Füge eine Vortimer Land Raider Redeemer: 75 Punkte",
             "Justicar"
           ],
           "points": 275
         },
         {
           "name": "Dreadknights",
-          "units": "Two Nemesis Dreadknights",
+          "units": "Zwei Nemesis Dreadknights",
           "extraUnits": [
             "Justicar"
           ],
@@ -210,99 +210,99 @@
     },
     {
       "name": "Blood Ravens Aircraft",
-      "description": "Up to a third of the points available may be spent on these formations.",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
       "formations": [
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Fire Raptor",
-          "units": "One Fire Raptor",
+          "units": "Ein Fire Raptor",
           "extraUnits": [],
           "points": 175
         },
         {
           "name": "Thunderhawk Transporter",
-          "units": "One Thunderhawk Transporter",
+          "units": "Ein Thunderhawk Transporter",
           "points": 175,
           "extraUnits": [
-            "Add one Thunderhawk Transporter: 100 points"
+            "Füge eine Thunderhawk Transporter: 100 Punkte"
           ]
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
-        "name": "(0-1 per army) Oberbefehlshaber",
-        "description": "Replace a Blood Ravens Librarian with a Blood Ravens Oberbefehlshaber",
+        "name": "(0-1 pro army) Oberbefehlshaber",
+        "description": "Ersetze a Blood Ravens Librarian mit einemBlood Ravens Oberbefehlshaber",
         "points": [
-          "25 points"
+          "25 Punkte"
         ]
       },
       {
         "name": "Justicar",
-        "description": "Add one Grey Knights Justicar to the formation.",
+        "description": "Füge eine Grey Knights Justicar to the formation.",
         "points": [
-          "25 points"
+          "25 Punkte"
         ]
       },
       {
         "name": "Grey Knights Support",
-        "description": "Add one Vortimer Land Raider or Vortimer Land Raider Redeemer, or one Doomglaive Dreadnought.",
+        "description": "Füge eine Vortimer Land Raider oder Vortimer Land Raider Redeemer, oder eine Doomglaive Dreadnought.",
         "points": [
-          "75 points"
+          "75 Punkte"
         ]
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Dreadnoughts or Hellfire Dreadnoughts",
+        "description": "Füge bis zu zwei Dreadnoughts oder Hellfire Dreadnoughts",
         "points": [
-          "50 points each",
-          "75 points per pair"
+          "50 Punkte jeweils",
+          "75 Punkte pro pair"
         ]
       },
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge any eine of the following units to the formation",
         "options": [
           {
-            "description": "Add one Hunter",
-            "points": "75 points"
+            "description": "Füge eine Hunter",
+            "points": "75 Punkte"
           },
           {
-            "description": "Add one Stalker",
-            "points": "50 points"
+            "description": "Füge eine Stalker",
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Land Raiders",
-        "description": "Add any number of Land Raiders or Land Raider Helios, up to the number required to transport the formation",
+        "description": "Füge any number of Land Raiders oder Land Raider Helios, bis zu the number required to transport the formation",
         "points": [
-          "Land Raiders: 50 points",
-          "Land Raider Helios: 75 points"
+          "Land Raiders: 50 Punkte",
+          "Land Raider Helios: 75 Punkte"
         ]
       },
       {
         "name": "Razorbacks",
-        "description": "Add any number of Razorbacks, up to the number required to transport the formation",
-        "points": "25 points each"
+        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "points": "25 Punkte jeweils"
       },
       {
-        "name": "Snipers",
-        "description": "Give all Aufklärers in the formation 'Sniper' on their Schwerer Bolter",
-        "points": "25 points"
+        "name": "Scharfschützen",
+        "description": "Give all Aufklärers in the formation 'Scharfschütze' on their Schwerer Bolter",
+        "points": "25 Punkte"
       },
       {
         "name": "Typhoons",
-        "description": "Replace up to five Land Speeders with an equal number of Land Speeder Typhoons",
-        "points": "10 points each"
+        "description": "Ersetze bis zu fünf Land Speeders mit einem equal number of Land Speeder Typhoons",
+        "points": "10 Punkte jeweils"
       }
     ]
   }

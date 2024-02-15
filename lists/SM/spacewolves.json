@@ -3,9 +3,9 @@
   "army": "Space Wolves",
   "version": "0.6.0",
   "release": "2022-04-01",
-  "strategy": "Space Marine armies have a Strategy Rating of 5.",
-  "Initiative": "All formations have an Initiative Rating of 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Space Wolves detachments and Aircraft formations. <i>Pack Mentality</i> applies to all Core and Elite Packs.",
+  "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
+  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Space Wolves detachments und Aircraft formations. <i>Pack Mentality</i> applies to all Core und Elite Packs.",
   "specialRules": [
     "Pack Mentality",
     "Space Marine Transports",
@@ -59,7 +59,7 @@
         "Warhound"
       ],
       "unitRules": [
-        "Void Shields"
+        "Deflektorschilde"
       ]
     }
   ],
@@ -69,9 +69,9 @@
       "formations": [
         {
           "name": "Hunting Pack",
-          "units": "One Wolf Lord Captain, six Grey Hunter Tacticals plus transport",
+          "units": "Ein Wolf Lord Captain, sechs Grey Hunter Tacticals plus transport",
           "extraUnits": [
-            "Replace two Grey Hunter Tacticals with Long Fang Devastators: 50 points",
+            "Ersetze zwei Grey Hunter Tacticals with Long Fang Devastators: 50 Punkte",
             "Anti-Air",
             "Dreadnoughts",
             "Fenrisian Wolves",
@@ -82,9 +82,9 @@
         },
         {
           "name": "Blood Claw Assault Pack",
-          "units": "Six Blood Claw Assaults",
+          "units": "Sechs Blood Claw Assaults",
           "extraUnits": [
-            "Add 'plus transport' to the formation: 25 points",
+            "Füge 'plus transport' to the formation: 25 Punkte",
             "Dreadnoughts",
             "Fenrisian Wolves",
             "Wolf Lord Captain"
@@ -93,7 +93,7 @@
         },
         {
           "name": "Sky Claw Assault Pack",
-          "units": "Six Sky Claw Assaults",
+          "units": "Sechs Sky Claw Assaults",
           "extraUnits": [
             "Fenrisian Wolves",
             "Wolf Lord Captain"
@@ -102,7 +102,7 @@
         },
         {
           "name": "Swift Claw Bikes Pack",
-          "units": "Six Swift Claw Assault Bikes",
+          "units": "Sechs Swift Claw Assault Bikes",
           "extraUnits": [
             "Fenrisian Wolves",
             "Wolf Lord Captain"
@@ -113,11 +113,11 @@
     },
     {
       "name": "Space Wolf Elite Packs",
-      "description": "One Elite Pack may be taken per Hunting Pack (note: not one per Core Pack)",
+      "description": "Ein Elite Pack may be taken pro Hunting Pack (note: not eine pro Core Pack)",
       "formations": [
         {
           "name": "Long Fang Pack",
-          "units": "One Wolf Lord Captain, four Long Fang Devastators",
+          "units": "Ein Wolf Lord Captain, vier Long Fang Devastators",
           "extraUnits": [
             "Dreadnoughts",
             "Fenrisian Wolves",
@@ -128,7 +128,7 @@
         },
         {
           "name": "Thunderwolf Cavalry",
-          "units": "One Wolf Lord Captain, four Thunderwolf Cavalry",
+          "units": "Ein Wolf Lord Captain, vier Thunderwolf Cavalry",
           "extraUnits": [
             "Fenrisian Wolves",
             "Oberbefehlshaber"
@@ -137,7 +137,7 @@
         },
         {
           "name": "Wolf Guard Terminator Pack",
-          "units": "One Wolf Lord Captain, four Wolf Guard Terminators plus transport",
+          "units": "Ein Wolf Lord Captain, vier Wolf Guard Terminators plus transport",
           "extraUnits": [
             "Dreadnoughts",
             "Oberbefehlshaber"
@@ -146,7 +146,7 @@
         },
         {
           "name": "Wolf Aufklärer Pack",
-          "units": "One Wolf Lord Captain, four Wolf Aufklärers plus transport",
+          "units": "Ein Wolf Lord Captain, vier Wolf Aufklärers plus transport",
           "extraUnits": [
             "Fenrisian Wolves"
           ],
@@ -156,20 +156,20 @@
     },
     {
       "name": "Space Wolf Support Packs",
-      "description": "Two Support Packs may be taken per Hunting Pack (note: not one per Core Pack)",
+      "description": "Zwei Support Packs may be taken pro Hunting Pack (note: not eine pro Core Pack)",
       "formations": [
         {
           "name": "Land Raiders",
-          "units": "Three Land Raiders",
+          "units": "Drei Land Raiders",
           "extraUnits": [
-            "Add one Land Raider: 50 points",
+            "Füge eine Land Raider: 50 Punkte",
             "Anti-Air"
           ],
           "points": 275
         },
         {
           "name": "Land Speeders",
-          "units": "Any five of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -177,7 +177,7 @@
         },
         {
           "name": "Predators",
-          "units": "Four Predator Annihilators and/or Predator Destructors",
+          "units": "Vier Predator Annihilators und/oder Predator Destructors",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -185,7 +185,7 @@
         },
         {
           "name": "Vindicators",
-          "units": "Four Vindicators",
+          "units": "Vier Vindicators",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -193,7 +193,7 @@
         },
         {
           "name": "Whirlwinds",
-          "units": "Four Whirlwinds",
+          "units": "Vier Whirlwinds",
           "extraUnits": [
             "Anti-Air"
           ],
@@ -203,11 +203,11 @@
     },
     {
       "name": "Space Wolf Navy & Collegia Titanica Allies",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "0-1 Orbital Support",
-          "units": "One Strike Cruiser",
+          "units": "Ein Strike Cruiser",
           "extraUnits": [
             "Battle Barge"
           ],
@@ -215,92 +215,92 @@
         },
         {
           "name": "Storm Talons",
-          "units": "Two Storm Talons",
+          "units": "Zwei Storm Talons",
           "points": 200
         },
         {
           "name": "Stormwolf Assault Boat",
-          "units": "One Stormwolf Assault Boat",
+          "units": "Ein Stormwolf Assault Boat",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Stormfang Gunship",
-          "units": "One Stormfang Gunship",
+          "units": "Ein Stormfang Gunship",
           "points": 175
         },
         {
           "name": "Warhounds",
-          "units": "One Warhound Titan",
+          "units": "Ein Warhound Titan",
           "extraUnits": [
-            "Add one additional Warhound Titan: 200 points"
+            "Füge eine additional Warhound Titan: 200 Punkte"
           ],
           "points": 275
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Space Wolf Upgrades",
-    "description": "Each upgrade may be taken once per pack",
+  "Erweiterungen": {
+    "title": "Space Wolf Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro pack",
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Add any one of the following units to the formation",
+        "description": "Füge any eine of the following units to the formation",
         "options": [
           {
             "description": "Hunter",
-            "points": "75 points"
+            "points": "75 Punkte"
           },
           {
             "description": "Stalker",
-            "points": "50 points"
+            "points": "50 Punkte"
           }
         ]
       },
       {
         "name": "Battle Barge",
-        "description": "Replace the Strike Cruiser with a Battle Barge",
-        "points": "75 points"
+        "description": "Ersetze the Strike Cruiser mit einemBattle Barge",
+        "points": "75 Punkte"
       },
       {
         "name": "Dreadnoughts",
-        "description": "Add up to two Dreadnoughts or one Wulfen Dreadnought to the formation",
+        "description": "Füge bis zu zwei Dreadnoughts oder eine Wulfen Dreadnought to the formation",
         "options": [
           {
             "description": "Dreadnoughts",
-            "points": "50 points each"
+            "points": "50 Punkte jeweils"
           },
           {
             "description": "Wulfen Dreadnought",
-            "points": "75 points"
+            "points": "75 Punkte"
           }
         ]
       },
       {
         "name": "Fenrisian Wolves",
-        "description": "Add up to two Fenrisian Wolves",
-        "points": "25 points each"
+        "description": "Füge bis zu zwei Fenrisian Wolves",
+        "points": "25 Punkte jeweils"
       },
       {
         "name": "Heavy Transports",
-        "description": "Add any number of Razorbacks or Land Raiders, up to the number required to transport the formation",
+        "description": "Füge any number of Razorbacks oder Land Raiders, bis zu the number required to transport the formation",
         "options": [
           {
             "description": "Razorback",
-            "points": "25 points each"
+            "points": "25 Punkte jeweils"
           },
           {
             "description": "Land Raider",
-            "points": "50 points each"
+            "points": "50 Punkte jeweils"
           }
         ]
       },
       {
         "name": "0-1 Oberbefehlshaber",
-        "description": "Replace a Wolf Lord Captain with a Great Wolf Oberbefehlshaber",
-        "points": "50 points"
+        "description": "Ersetze a Wolf Lord Captain mit einemGreat Wolf Oberbefehlshaber",
+        "points": "50 Punkte"
       }
     ]
   }

@@ -3,8 +3,8 @@
   "army": "Fal'shia",
   "version": "0.6.0",
   "release": "2022-04-01",
-  "strategy": "Tau armies have a Strategy Rating of 3.",
-  "Initiative": "Crisis Battlesuit and Manta formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "strategy": "Tau Armeen haben einen Strategiewert von 3.",
+  "Initiative": "Crisis Battlesuit und Manta Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
   ],
   "usage": [
@@ -66,7 +66,7 @@
       "formations": [
         {
           "name": "XV8 Crisis Battlesuit Cadre",
-          "units": "One Shas'el, four XV8 Crisis Battlesuits",
+          "units": "Ein Shas'el, vier XV8 Crisis Battlesuits",
           "extraUnits": [
             "Shas'o",
             "Crisis Suits",
@@ -77,7 +77,7 @@
         },
         {
           "name": "Fire Warrior Radiant Cadre",
-          "units": "Eight Fire Warrior Radiants, or six Fire Warrior Radiants and three Devilfish",
+          "units": "Acht Fire Warrior Radiants, oder sechs Fire Warrior Radiants und drei Devilfish",
           "extraUnits": [
             "Sky Ray",
             "Bonded Team",
@@ -94,13 +94,13 @@
     },
     {
       "name": "Fal'shia Support Groups",
-      "description": "Up to three for each Fal'shia Cadre",
+      "description": " Bis zu drei für jeweils Fal'shia Cadre",
       "formations": [
         {
           "name": "Hammerhead Group",
-          "units": "Four Ion or four Fusion Hammerheads",
+          "units": "Vier Ion oder vier Fusion Hammerheads",
           "extraUnits": [
-            "Replace four Ion or Fusion Hammerheads with four Rail Hammerheads: 25 points",
+            "Ersetze vier Ion oder Fusion Hammerheads with vier Rail Hammerheads: 25 Punkte",
             "Gun Drones",
             "Swordfish",
             "Stingwings",
@@ -110,7 +110,7 @@
         },
         {
           "name": "Drone Group",
-          "units": "Six Gun Drones",
+          "units": "Sechs Gun Drones",
           "extraUnits": [
             "Gun Drones"
           ],
@@ -118,7 +118,7 @@
         },
         {
           "name": "Kroot Kindred",
-          "units": "One Kroot Master Shapers, nine Kroot Warriors",
+          "units": "Ein Kroot Master Shapers, neun Kroot Warriors",
           "extraUnits": [
             "Kroot Hounds",
             "Krootox",
@@ -128,7 +128,7 @@
         },
         {
           "name": "Pathfinder Group",
-          "units": "Four Pathfinders, two Devilfish",
+          "units": "Vier Pathfinders, zwei Devilfish",
           "extraUnits": [
             "Gun Drones"
           ],
@@ -136,7 +136,7 @@
         },
         {
           "name": "XV25 Stealth Group",
-          "units": "Four XV25 Stealth Battlesuits",
+          "units": "Vier XV25 Stealth Battlesuits",
           "extraUnits": [
             "Gun Drones"
           ],
@@ -144,7 +144,7 @@
         },
         {
           "name": "XV9 Hazard Close Support Group",
-          "units": "Six XV9-04 Hazard Battlesuits",
+          "units": "Sechs XV9-04 Hazard Battlesuits",
           "extraUnits": [
             "Gun Drones"
           ],
@@ -153,65 +153,65 @@
       ]
     },
     {
-      "name": "Fal'shia Aircraft, Spacecraft and Titans",
-      "description": "Up to a third of the points available may be spent on these formations",
+      "name": "Fal'shia Aircraft, Spacecraft und Titans",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
       "formations": [
         {
           "name": "Manta Dropship",
-          "units": "One Manta",
-          "upgrades": [
+          "units": "Ein Manta",
+          "Erweiterungen": [
           ],
           "points": 550
         },
         {
-          "name": "Razorshark Squadron",
-          "units": "Three Razorshark Fighters",
+          "name": "Razorshark Schwadron",
+          "units": "Drei Razorshark Fighters",
           "extraUnits": [
           ],
           "points": 200
         },
         {
           "name": "Sunshark Bomber",
-          "units": "Two Sunshark Bombers",
+          "units": "Zwei Sunshark Bombers",
           "extraUnits": [
           ],
           "points": 200
         },
         {
-          "name": "AX-1-0s Squadron",
-          "units": "Two Tiger Shark AX-1-0s",
+          "name": "AX-1-0s Schwadron",
+          "units": "Zwei Tiger Shark AX-1-0s",
           "extraUnits": [
           ],
           "points": 350
         },
         {
           "name": "Orca Dropship",
-          "units": "One Orca",
-          "upgrades": [
+          "units": "Ein Orca",
+          "Erweiterungen": [
           ],
           "points": 150
         },
         {
           "name": "0–1 Spacecraft",
           "units": "Protector Class Cruiser",
-          "upgrades": [
-            "Replace with a Custodian Class Battleship: 25 Points"
+          "Erweiterungen": [
+            "Ersetze mit einemCustodian Class Battleship: 25 Points"
           ],
           "points": 200
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Upgrades",
-    "description": "Maximum 3 Upgrades per Formation and each different allowed upgrade may be taken once by a formation",
+  "Erweiterungen": {
+    "title": "Erweiterungen",
+    "description": "Maximum 3 Erweiterungen pro Formation und jeweils different allowed upgrade may be taken once by a formation",
     "items": [
       {
         "name": "Bonded Team",
         "options": [
           {
-            "description": "Give the formation Anführer (this special ability is not added to any one specific unit)",
-            "points": "25 points"
+            "description": "Give the formation Anführer (this special ability is not added to any eine specific unit)",
+            "points": "25 Punkte"
           }
         ]
       },
@@ -219,8 +219,8 @@
         "name": "0–1 Shas'o",
         "options": [
           {
-            "description": "Replace one Shas'el character with a Shas'o character",
-            "points": "75 points"
+            "description": "Ersetze eine Shas'el character mit einemShas'o character",
+            "points": "75 Punkte"
           }
         ]
       },
@@ -228,8 +228,8 @@
         "name": "0–1 Ethereal",
         "options": [
           {
-            "description": "Once per army, add one Ethereal to a unit of Fire Warriors",
-            "points": "50 points"
+            "description": "Once pro army, add eine Ethereal to a unit of Fire Warriors",
+            "points": "50 Punkte"
           }
         ]
       },
@@ -237,8 +237,8 @@
         "name": "Pathfinders",
         "options": [
           {
-            "description": "Add two Pathfinders and one Devilfish",
-            "points": "100 points"
+            "description": "Füge zwei Pathfinders und eine Devilfish",
+            "points": "100 Punkte"
           }
         ]
       },
@@ -246,10 +246,10 @@
         "name": "Crisis Suits",
         "options": [
           {
-            "description": "Add one or two XV8 Crisis Battlesuits",
+            "description": "Füge eine oder zwei XV8 Crisis Battlesuits",
             "points": [
-              "50 points for one",
-              "75 points for two"
+              "50 Punkte für eine",
+              "75 Punkte für zwei"
             ]
           }
         ]
@@ -258,8 +258,8 @@
         "name": "XV9 Hazards",
         "options": [
           {
-            "description": "Add three XV9-04 Hazard Battlesuits",
-            "points": "125 points"
+            "description": "Füge drei XV9-04 Hazard Battlesuits",
+            "points": "125 Punkte"
           }
         ]
       },
@@ -267,8 +267,8 @@
         "name": "Stingwings",
         "options": [
           {
-            "description": "Add three Vespid Stingwings",
-            "points": "50 points"
+            "description": "Füge drei Vespid Stingwings",
+            "points": "50 Punkte"
           }
         ]
       },
@@ -276,8 +276,8 @@
         "name": "Gun Drones",
         "options": [
           {
-            "description": "Add two Gun Drones",
-            "points": "25 points"
+            "description": "Füge zwei Gun Drones",
+            "points": "25 Punkte"
           }
         ]
       },
@@ -285,8 +285,8 @@
         "name": "Swordfish",
         "options": [
           {
-            "description": "Add three Swordfish",
-            "points": "75 points"
+            "description": "Füge drei Swordfish",
+            "points": "75 Punkte"
           }
         ]
       },
@@ -294,8 +294,8 @@
         "name": "Kroot Hounds",
         "options": [
           {
-            "description": "Add two Kroot Hounds",
-            "points": "25 points"
+            "description": "Füge zwei Kroot Hounds",
+            "points": "25 Punkte"
           }
         ]
       },
@@ -303,8 +303,8 @@
         "name": "Krootox",
         "options": [
           {
-            "description": "Add three Krootox",
-            "points": "50 points"
+            "description": "Füge drei Krootox",
+            "points": "50 Punkte"
           }
         ]
       },
@@ -312,8 +312,8 @@
         "name": "Great Knarlocs",
         "options": [
           {
-            "description": "Add two Great Knarlocs",
-            "points": "50 points"
+            "description": "Füge zwei Great Knarlocs",
+            "points": "50 Punkte"
           }
         ]
       },
@@ -321,8 +321,8 @@
         "name": "Sky Ray",
         "options": [
           {
-            "description": "Add one Sky Ray",
-            "points": "100 points"
+            "description": "Füge eine Sky Ray",
+            "points": "100 Punkte"
           }
         ]
       }

@@ -4,27 +4,27 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"DAEMONS", "formations":[
-			{"id":500, "name":"Daemon Pool", "pts":0, "upgrades":[72,73]}
+			{"id":500, "name":"Daemon Pool", "pts":0, "Erweiterungen":[72,73]}
 		]},
 		{"name":"DAEMONIC INCURSION SPECIALS", "formations":[
-			{"id":499, "name":"Chaos Gate", "pts":0,  "units":"Replace one objective on the Daemonic Incursion half of the table with a Chaos Gate",  "upgrades":[]}
+			{"id":499, "name":"Chaos Gate", "pts":0,  "units":"Ersetze eine objective on the Daemonic Incursion half of the table mit einemChaos Gate",  "Erweiterungen":[]}
 		]},
-		{"name":"1+ EXALTED GREATER DAEMONS <br/> Max 1 for each part of 1000 points <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
-			{"id":665, "name":"Exalted Greater Daemon", "pts":300, "upgrades":[60]}
+		{"name":"1+ EXALTED GREATER DAEMONS <br/> Max 1 für jeweils part of 1000 Punkte <br/> Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations", "formations":[
+			{"id":665, "name":"Exalted Greater Daemon", "pts":300, "Erweiterungen":[60]}
 		]},
-		{"name":"DAEMON LEGIONS <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
-			{"id":666, "name":"Slaneesh Legion of Excess", "pts":200, "units":"5 Lesser Daemon Pool points",  "upgrades":[60]},
-			{"id":667, "name":"Nurgle Plague Legion", "pts":200, "units":"5 Lesser Daemon Pool points", "upgrades":[60]},
-			{"id":668, "name":"Khorne Blood Legion", "pts":200, "units":"5 Lesser Daemon Pool points", "upgrades":[60]},
-			{"id":669, "name":"Tzeentch Scintillating Legion", "pts":200, "units":"5 Lesser Daemon Pool points", "upgrades":[60]}
+		{"name":"DAEMON LEGIONS <br/> Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations", "formations":[
+			{"id":666, "name":"Slaneesh Legion of Excess", "pts":200, "units":"5 Lesser Daemon Pool Punkte",  "Erweiterungen":[60]},
+			{"id":667, "name":"Nurgle Plague Legion", "pts":200, "units":"5 Lesser Daemon Pool Punkte", "Erweiterungen":[60]},
+			{"id":668, "name":"Khorne Blood Legion", "pts":200, "units":"5 Lesser Daemon Pool Punkte", "Erweiterungen":[60]},
+			{"id":669, "name":"Tzeentch Scintillating Legion", "pts":200, "units":"5 Lesser Daemon Pool Punkte", "Erweiterungen":[60]}
 		]},
 		{"name":"PORTALS &amp; MORTALS <br/> Max 25%", "formations":[
-			{"id":501, "name":"Lost and the Damned", "pts":175,  "upgrades":[25]},
-			{"id":502, "name":"Warp Altar", "pts":225, "units": "Warp Altar of Chaos Undivided", "upgrades":[26]}
+			{"id":501, "name":"Lost und the Damned", "pts":175,  "Erweiterungen":[25]},
+			{"id":502, "name":"Warp Altar", "pts":225, "units": "Warp Altar of Chaos Undivided", "Erweiterungen":[26]}
 
         ]}
    ],
-	"upgrades":[
+	"Erweiterungen":[
 
 		{"id":10, "name":"Demagogue", 							"pts":0},
 		{"id":11, "name":"Aspiring Champion", 	"pts":0},
@@ -36,12 +36,12 @@
 		{"id":26, "name":"Defiler of Chaos Undivided", "pts":50},
 
 		{"id":30, "name":"Exalted Keeper of Secrets", "pts":0},
-		{"id":31, "name":"Exalted Great Unclean One", "pts":0},
+		{"id":31, "name":"Exalted Great Unclean Ein", "pts":0},
 		{"id":32, "name":"Exalted Bloodthirster", "pts":0},
 		{"id":33, "name":"Exalted Lord of Change", "pts":0},
 
 		{"id":40, "name":"Keeper of Secrets", "pts":100},
-		{"id":41, "name":"Great Unclean One", "pts":100},
+		{"id":41, "name":"Great Unclean Ein", "pts":100},
 		{"id":42, "name":"Bloodthirster", "pts":100},
 		{"id":43, "name":"Lord of Change", "pts":100},
 
@@ -57,7 +57,7 @@
 		{"id":60, "name":"Soul Grinder", "pts":75},
 
 		{"id":72, "name":"Lesser Daemon Pool point", "pts":15},
-		{"id":73, "name":"x 5 Lesser Daemon Pool points (Daemon Legions)", "pts":0}
+		{"id":73, "name":"x 5 Lesser Daemon Pool Punkte (Daemon Legions)", "pts":0}
 
 	],
 	"formationConstraints":[

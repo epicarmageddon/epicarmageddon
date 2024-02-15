@@ -4,36 +4,36 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"CADIAN CORE COMPANIES", "formations":[
-			{"id":500, "name":"Regimental HQ", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Supreme Commander with a Commissar, 8 Kasrkin"},
-			{"id":501, "name":"Whiteshield Company", "pts":400, "upgrades":[30,31,32,33, 34,35,36], "units":"Cadian Commander with a Commissar, 15 Whiteshields, 2 Stormlord"},
-			{"id":502, "name":"Shock Trooper Company", "pts":400, "upgrades":[], "units":"Cadian Commander with Commissar, 11 Infantry, 2 Crassus Assault Transport"}
+			{"id":500, "name":"Regiments HQ", "pts":400, "Erweiterungen":[30,31,32,33, 34,35,36], "units":"Cadian Supreme Commander mit einem Kommissar, 8 Kasrkin"},
+			{"id":501, "name":"Whiteshield Kompanie", "pts":400, "Erweiterungen":[30,31,32,33, 34,35,36], "units":"Cadian Commander mit einem Kommissar, 15 Whiteshields, 2 Stormlord"},
+			{"id":502, "name":"Shock Trooper Kompanie", "pts":400, "Erweiterungen":[], "units":"Cadian Commander with Kommissar, 11 Infanterie, 2 Crassus Assault Transport"}
 		]},
-		{"name":"CADIAN SUPPORT FORMATIONS <br/> Up to 3 for each Core Company", "formations":[
-			{"id":509, "name":"Kasrkin Platoon", "pts":275, "upgrades":[], "units":"6 Kasrkin, Crassus Assault Transport"},
-			{"id":510, "name":"Praetor Battery", "pts":275, "upgrades":[], "units":"Praetor Assault Launcher"},
-			{"id":511, "name":"Siege Artillery Battery", "pts":225, "upgrades":[18]},
-			{"id":512, "name":"Leman Russ Platoon", "pts":375, "upgrades":[18]},
-			{"id":513, "name":"Flak Battery", "pts":150, "upgrades":[], "units":"3 Hydras"},
-			{"id":514, "name":"Hellhound Platoon", "pts":250, "upgrades":[18], "units":"6 Hellhounds"},
-			{"id":515, "name":"Whiteshield Platoon", "pts":275, "upgrades":[], "units":"8 Whiteshields, Stormlord"},
-			{"id":517, "name":"Armoured Sentinel Squadron", "pts":125, "upgrades":[], "units":"4 Armoured Sentinels"},
-			{"id":518, "name":"Super-Heavy Platoon", "pts":175, "upgrades":[]},
-			{"id":519, "name":"Deathstrike Battery",	"pts":200, "upgrades":[], "units":"2 Deathstrikes"}
+		{"name":"CADIAN UNTERSTÜTZUNGSVERBÄNDE <br/>  Bis zu 3 für jeweils Core Kompanie", "formations":[
+			{"id":509, "name":"Kasrkin Zug", "pts":275, "Erweiterungen":[], "units":"6 Kasrkin, Crassus Assault Transport"},
+			{"id":510, "name":"Praetor Batterie", "pts":275, "Erweiterungen":[], "units":"Praetor Assault Launcher"},
+			{"id":511, "name":"Siege Artillerie Batterie", "pts":225, "Erweiterungen":[18]},
+			{"id":512, "name":"Leman Russ Zug", "pts":375, "Erweiterungen":[18]},
+			{"id":513, "name":"Flak Batterie", "pts":150, "Erweiterungen":[], "units":"3 Hydra"},
+			{"id":514, "name":"Höllenhund Zug", "pts":250, "Erweiterungen":[18], "units":"6 Höllenhunde"},
+			{"id":515, "name":"Whiteshield Zug", "pts":275, "Erweiterungen":[], "units":"8 Whiteshields, Stormlord"},
+			{"id":517, "name":"Armoured Sentinel Schwadron", "pts":125, "Erweiterungen":[], "units":"4 Armoured Sentinels"},
+			{"id":518, "name":"Superschwerer Zug", "pts":175, "Erweiterungen":[]},
+			{"id":519, "name":"Todesstoss-Raketensystem Batterie",	"pts":200, "Erweiterungen":[], "units":"2 Todesstoss-Raketensysteme"}
 
 		]},
-		{"name":"COLLEGIA TITANICA AND IMPERIAL NAVY SUPPORT <br/> Max 33%", "formations":[
-			{"id":520, "name":"Warhound Pack",		"pts":500, "upgrades":[50], "units":"2 Warhounds"},
-			{"id":521, "name":"Reaver Titan",		"pts":600, "upgrades":[], "units":"Reaver Titan"},
-			{"id":530, "name":"Thunderbolt Fighters", "pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
-			{"id":531, "name":"Marauder Bombers", "pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
-			{"id":532, "name":"Orbital Support", "pts":125, "upgrades":[]}
+		{"name":"COLLEGIA TITANICA AND IMPERIALE LUFTSTREITKRÄFTESUPPORT <br/> Max 33%", "formations":[
+			{"id":520, "name":"Warhound Pack",		"pts":500, "Erweiterungen":[50], "units":"2 Warhounds"},
+			{"id":521, "name":"Reaver Titan",		"pts":600, "Erweiterungen":[], "units":"Reaver Titan"},
+			{"id":530, "name":"Thunderbolts", "pts":175, "Erweiterungen":[], "units":"2 Thunderbolts"},
+			{"id":531, "name":"Marauder Bombers", "pts":250, "Erweiterungen":[], "units":"2 Marauder Bombers"},
+			{"id":532, "name":"Orbital Support", "pts":125, "Erweiterungen":[]}
 		]}
 	],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":10, "name":"Stormlord", "pts":0},
 		{"id":11, "name":"Leviathan", "pts":125},
 
-		{"id":15, "name":"3 Bombards", "pts":0},
+		{"id":15, "name":"3 Bombard", "pts":0},
 		{"id":16, "name":"4 Medusa", "pts":0},
 
 		{"id":18, "name":"Hydra", "pts":50},
@@ -66,8 +66,8 @@
 		{"max":1, "from":[500]},
 		{"max":1, "from":[519]},
 		{"max":1, "from":[532]},
-		{"max":3, "name":"Cadian Support Formations", "from":[509,510,511,512,513,514,515,517,518,519], "forEach":[500,501,502], "name2":"Cadian Core Company"},
-		{"maxPercent": 33.5, "name":"Collegia Titanica and Imperial Navy formations", "from":[520,530,531,532]}
+		{"max":3, "name":"Cadian Unterstützungsverbände", "from":[509,510,511,512,513,514,515,517,518,519], "forEach":[500,501,502], "name2":"Cadian Core Kompanie"},
+		{"maxPercent": 33.5, "name":"Collegia Titanica und Verbände der Imperialen Luftstreitkräfte", "from":[520,530,531,532]}
 
 	],
 	"upgradeConstraints":[

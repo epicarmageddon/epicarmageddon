@@ -1,37 +1,37 @@
 {
-	"id":"EA-R Lost and the Damned",
+	"id":"EA-R Lost und the Damned",
 	"version":"Approved 1.0.Beta",
 	"notes":
-		["Add one free Lesser Daemon to the Lesser Daemon pool per Daemonic Pact.", "No more Land Transporters than needed to transport the formation.", "Max 4 different upgrades per formation."],
+		["Füge eine free Lesser Daemon to the Lesser Daemon pool pro Daemonic Pact.", "No more Land Transporters than needed to transport the formation.", "Max 4 different Erweiterungen pro formation."],
 		"by":"EA Ragnarok",
 	"sections":[
 		{"name":"DAEMONS", "formations":[
-			{"id":500, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,73]}
+			{"id":500, "name":"Daemon Pool", "pts":0, "Erweiterungen":[71,72,73]}
 		]},
 		{"name":"LOST AND THE DAMNED CORE FORMATIONS", "formations":[
-			{"id":501, "name":"Cultist Coven", "pts":110, "units":"Daemonic Pact", "upgrades":[14,15,16,17,18,19]}
+			{"id":501, "name":"Cultist Coven", "pts":110, "units":"Daemonic Pact", "Erweiterungen":[14,15,16,17,18,19]}
 		]},
-		{"name":"LOST AND THE DAMNED SUPPORT COVEN FORMATIONS <br/> Max 2 for each Cultist Coven <br/> Max 1 of each formation for each part of 1500 points in the army <br/> Army may not mix Nurgle/Tzeentch or Slaanesh/Khorne formations", "formations":[
-			{"id":510, "name":"Chaos Space Marines of Chaos Undivided", "pts":275, "units":"6 Chaos Space Marines, 3 Chaos Rhinos, Daemonic Pact", "upgrades":[9]},
-			{"id":511, "name":"Cerberites of Chaos Undivided", "pts":200, "units": "3 Cerberites", "upgrades":[]},
-			{"id":513, "name":"Defilers of Chaos Undivided",	"pts":250, "units":"4 Defilers", "upgrades":[]},
-			{"id":514, "name":"Heldrakes of Chaos Undivided", "pts": 225, "units": "2 Heldrakes", "upgrades": []},
-			{"id":515, "name":"Hell-Striders of Slaanesh",	"pts":225, "units":"4 Hell-Striders", "upgrades":[]},
-			{"id":516, "name":"Subjugators of Slaanesh", "pts":75, "upgrades":[31] },
-			{"id":517, "name":"Questors of Slaanesh",	"pts":75, "upgrades":[32]},
-			{"id":518, "name":"Nurgle Plague Zombie Infestation",	"pts":175, "units":"7 Plague Zombies", "upgrades":[]},
-			{"id":519, "name":"Plague Tower of Nurgle", "pts":275, "upgrades":[]},
-			{"id":520, "name":"Contagion Engines of Nurgle", "pts":325, "units":"4 Contagion Engines", "upgrades":[]},
-			{"id":521, "name":"Cannons of Khorne", "pts":225, "units":"4 Cannons of Khorne", "upgrades":[]},
-			{"id":521, "name":"Daemonic Assault Engines of Khorne",	"pts":225, "units":"4 Daemonic Assault Engines", "upgrades":[]},
-			{"id":522, "name":"Khorne Lord of Battles", 	"pts":425, "upgrades":[]},
-			{"id":523, "name":"Silver Towers of Tzeentch",	"pts":300, "units":"4 Silver Towers", "upgrades":[]},
-			{"id":524, "name":"Warp Palace of Tzeentch",	"pts":450, "upgrades":[]},
-			{"id":525, "name":"Firelords of Tzeentch", "pts":50, "upgrades":[33] }
+		{"name":"LOST AND THE DAMNED SUPPORT COVEN FORMATIONS <br/> Max 2 für jeweils Cultist Coven <br/> Max 1 of jeweils formation für jeweils part of 1500 Punkte in the army <br/> Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations", "formations":[
+			{"id":510, "name":"Chaos Space Marines of Chaos Undivided", "pts":275, "units":"6 Chaos Space Marines, 3 Chaos Rhinos, Daemonic Pact", "Erweiterungen":[9]},
+			{"id":511, "name":"Cerberites of Chaos Undivided", "pts":200, "units": "3 Cerberites", "Erweiterungen":[]},
+			{"id":513, "name":"Defilers of Chaos Undivided",	"pts":250, "units":"4 Defilers", "Erweiterungen":[]},
+			{"id":514, "name":"Heldrakes of Chaos Undivided", "pts": 225, "units": "2 Heldrakes", "Erweiterungen": []},
+			{"id":515, "name":"Hell-Striders of Slaanesh",	"pts":225, "units":"4 Hell-Striders", "Erweiterungen":[]},
+			{"id":516, "name":"Subjugators of Slaanesh", "pts":75, "Erweiterungen":[31] },
+			{"id":517, "name":"Questors of Slaanesh",	"pts":75, "Erweiterungen":[32]},
+			{"id":518, "name":"Nurgle Plague Zombie Infestation",	"pts":175, "units":"7 Plague Zombies", "Erweiterungen":[]},
+			{"id":519, "name":"Plague Tower of Nurgle", "pts":275, "Erweiterungen":[]},
+			{"id":520, "name":"Contagion Engines of Nurgle", "pts":325, "units":"4 Contagion Engines", "Erweiterungen":[]},
+			{"id":521, "name":"Cannons of Khorne", "pts":225, "units":"4 Cannons of Khorne", "Erweiterungen":[]},
+			{"id":521, "name":"Daemonic Assault Engines of Khorne",	"pts":225, "units":"4 Daemonic Assault Engines", "Erweiterungen":[]},
+			{"id":522, "name":"Khorne Lord of Battles", 	"pts":425, "Erweiterungen":[]},
+			{"id":523, "name":"Silver Towers of Tzeentch",	"pts":300, "units":"4 Silver Towers", "Erweiterungen":[]},
+			{"id":524, "name":"Warp Palace of Tzeentch",	"pts":450, "Erweiterungen":[]},
+			{"id":525, "name":"Firelords of Tzeentch", "pts":50, "Erweiterungen":[33] }
 
          ]}
    ],
-	"upgrades":[
+	"Erweiterungen":[
 		{"id":8, "name":"Aspiring Champion with Arch-Heretic", 		"pts":50},
 		{"id":9, "name":"Champion of Chaos", 		"pts":50},
 		{"id":10, "name":"Aspiring Champion", 		"pts":0},
@@ -80,7 +80,7 @@
 		{"max":1, "perPoints":1500, "from":[524]},
 		{"max":1, "perPoints":1500, "from":[525]},
 
-		{"max":2, "name":"Lost and the Damned Support Covens", "from":[510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525], "forEach":[501], "name2":"Lost and the Damned Cultist Coven"},
+		{"max":2, "name":"Lost und the Damned Support Covens", "from":[510,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525], "forEach":[501], "name2":"Lost und the Damned Cultist Coven"},
 		{"min":1, "max":1, "from":[500]}
 	],
 	"upgradeConstraints":[

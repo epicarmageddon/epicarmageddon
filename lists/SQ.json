@@ -74,7 +74,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "One in every two units (rounding up) has a Raketenwerfer"
+        "notes": "Ein in every zwei units (rounding up) has a Raketenwerfer"
       },
       {
         "name": "Squat Berserkers",
@@ -211,7 +211,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Beritten. Squat Warlord, Grand Warlord, and Squat Thunderfire units takes two spaces each. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
+        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten. Squat Warlord, Grand Warlord, und Squat Thunderfire units takes zwei spaces jeweils. While transporting Squat Thunderfires, Squat Rhinos' speed are reduced to 20cm."
       },
       {
         "name": "Land Raider",
@@ -229,7 +229,7 @@
           "Thick Rear Armour",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Beritten. Squat Warlord and Grand Warlord units takes two spaces each."
+        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten. Squat Warlord und Grand Warlord units takes zwei spaces jeweils."
       },
       {
         "name": "Squat Thunderfire",
@@ -304,7 +304,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport two infantry units without Jump Packs or Beritten. Squat Warlord units takes two spaces each."
+        "notes": "May transport zwei Infanterie units without Jump Packs oder Beritten. Squat Warlord units takes zwei spaces jeweils."
       },
       {
         "name": "Hellbore",
@@ -323,7 +323,7 @@
           "Tunneler",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Packs or Beritten. Squat Warlord units takes two spaces each.",
+        "notes": "May transport zwölf Infanteristen units without Jump Packs oder Beritten. Squat Warlord units takes zwei spaces jeweils.",
         "crit": "The Hellbore is destroyed."
       },
       {
@@ -357,14 +357,14 @@
         ],
         "specialRules": [
           "Damage Capacity: 4",
-          "Void Shields: 4",
+          "Deflektorschilde: 4",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Furchtlos",
           "Transport"
         ],
-        "notes": "May transport twelve infantry units without Jump Packs or Beritten. Up to two units may shoot and FF from the Leviathan's fighting platform",
-        "crit": "The Leviathan is immobilized, and may not move for the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the Leviathan."
+        "notes": "May transport zwölf Infanteristen units without Jump Packs oder Beritten.  Bis zu zwei units may shoot und FF from the Leviathan's fighting platform",
+        "crit": "The Leviathan is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent crits destroys the Leviathan."
       },
       {
         "name": "Cyclops",
@@ -380,12 +380,12 @@
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Void Shields: 4",
+          "Deflektorschilde: 4",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Furchtlos"
         ],
-        "crit": "The Cyclops may no longer fire its Hellfury Geschütz. Subsequent crits destroys the Cyclops, and all units within 5cm takes a hit."
+        "crit": "The Cyclops may no longer fire its Hellfury Geschütz. Subsequent crits destroys the Cyclops, und all units within 5cm takes a hit."
       },
       {
         "name": "Colossus",
@@ -403,12 +403,12 @@
         ],
         "specialRules": [
           "Damage Capacity: 5",
-          "Void Shields: 4",
+          "Deflektorschilde: 4",
           "Reinforced Armour",
           "Thick Rear Armour",
           "Furchtlos"
         ],
-        "crit": "The Colossus is immobilized, and may not move for the rest of the game. Subsequent crits destroys the Colossus."
+        "crit": "The Colossus is immobilized, und may not move für the rest of the game. Subsequent crits destroys the Colossus."
       },
       {
         "name": "Squat Land Train",
@@ -429,11 +429,11 @@
         ],
         "specialRules": [
           "Damage Capacity: 2 + the current number of Battle Cars",
-          "Void Shields: the current number of Battle Cars",
+          "Deflektorschilde: the current number of Battle Cars",
           "Reinforced Armour",
           "Furchtlos"
         ],
-        "notes": "[*]Each Berserker Battle Car may transport one unit of Squat Berserkers. It is allowed to firefight while being transported inside the Land Train.",
+        "notes": "[*]Jeweils Berserker Battle Car may transport eine unit of Squat Berserkers. It is allowed to firefight while being transported inside the Land Train.",
         "crit": "The last Battle Car in the train is destroyed. If no Battle Cars remain the Land Train engine is destroyed."
       }
     ]

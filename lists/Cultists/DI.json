@@ -4,7 +4,7 @@
   "version": "1.0.Beta",
   "release": "2023-03-08",
   "strategy": "An unmixed Daemonic Incursion army (only consisting of daemonic formations belonging to a single Chaos Power) has a Strategy Rating of 1, while a mixed Daemonic Incursion army has a Strategy Rating of 0.",
-  "Initiative": "Exalted Greater Daemon formations have an Initiative Rating of 1+. All other formations have an Initiative Rating of 2+.",
+  "Initiative": "Exalted Greater Daemon Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
   "specialRules": [
     "Summoning",
     "Daemonic Incursion Summoning Rules",
@@ -16,7 +16,7 @@
     "DI Eternal Animosity"
   ],
   "usage": [
-    "The following army list allows you to field an army based on a Daemonic Incursion, aided and abetted by the Lost and the Damned."
+    "The following army list allows you to field an army based on a Daemonic Incursion, aided und abetted by the Lost und the Damned."
   ],
   "units": [
     {
@@ -44,8 +44,8 @@
         "Screamers of Tzeentch",
         "Exalted Keeper of Secrets",
         "Keeper of Secrets",
-        "Exalted Great Unclean One",
-        "Great Unclean One",
+        "Exalted Great Unclean Ein",
+        "Great Unclean Ein",
         "Exalted Bloodthirster",
         "Bloodthirster",
         "Exalted Lord of Change",
@@ -87,23 +87,23 @@
   "sections": [
     {
       "name": "Daemonic Incursion Specials",
-      "description": "The Army must include one Chaos Gate.",
+      "description": "The Army must include eine Chaos Gate.",
       "formations": [
         {
           "name": "1 Chaos Gate",
-          "units": "Replace the Blitz objective marker in the Daemonic Incursion player's half of the table with a Chaos Gate. It counts both as an objective and a Chaos Gate.",
-          "upgrades": [
+          "units": "Ersetze the Blitz objective marker in the Daemonic Incursion player's half of the table mit einemChaos Gate. It counts both as an objective und a Chaos Gate.",
+          "Erweiterungen": [
           ],
           "points": "0"
         }
       ]
     },
     {
-      "name": "1+ Exalted Greater Daemons. Max one for each part of 1500 points in the army.",
+      "name": "1+ Exalted Greater Daemons. Max eine für jeweils part of 1500 Punkte in the army.",
       "formations": [
         {
           "name": "Exalted Greater Daemon of Slaanesh",
-          "units": "One Exalted Keeper of Secrets ",
+          "units": "Ein Exalted Keeper of Secrets ",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -111,7 +111,7 @@
         },
         {
           "name": "Exalted Greater Daemon of Nurgle",
-          "units": "One Exalted Great Unclean One",
+          "units": "Ein Exalted Great Unclean Ein",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -119,7 +119,7 @@
         },
         {
           "name": "Exalted Greater Daemon of Khorne",
-          "units": "One Exalted Bloodthirster",
+          "units": "Ein Exalted Bloodthirster",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -127,7 +127,7 @@
         },
         {
           "name": "Exalted Greater Daemon of Tzeentch",
-          "units": "One Exalted Lord of Change",
+          "units": "Ein Exalted Lord of Change",
           "extraUnits": [
             "Soul Grinder"
           ],
@@ -141,40 +141,40 @@
       "formations": [
         {
           "name": "Slaneesh Legion of Excess",
-          "units": "Two Herald of Slaanesh, five Lesser Daemon Pool points",
+          "units": "Zwei Herald of Slaanesh, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
-            "Replace two Herald of Slaanesh with a Keeper of Secrets: 125 points",
-            "Replace two Herald of Slaanesh with two Herald of Slaanesh on Seeker Chariot: 25 points",
+            "Ersetze zwei Herald of Slaanesh mit einemKeeper of Secrets: 125 Punkte",
+            "Ersetze zwei Herald of Slaanesh with zwei Herald of Slaanesh on Seeker Chariot: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
         },
         {
           "name": "Nurgle Plague Legion ",
-          "units": "Two Herald of Nurgle on Palanquin, five Lesser Daemon Pool points",
+          "units": "Zwei Herald of Nurgle on Palanquin, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
-            "Replace two Herald of Nurgle on Palanquin with a Great Unclean One: 125 points",
-            "Replace two Herald of Nurgle on Palanquin with two Herald of Nurgle on Blight Fly: 25 points",
+            "Ersetze zwei Herald of Nurgle on Palanquin mit einemGreat Unclean Ein: 125 Punkte",
+            "Ersetze zwei Herald of Nurgle on Palanquin with zwei Herald of Nurgle on Blight Fly: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
         },
         {
           "name": "Khorne Blood Legion",
-          "units": "Two Herald of Khorne on Juggernauts, five Lesser Daemon Pool points",
+          "units": "Zwei Herald of Khorne on Juggernauts, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
-            "Replace two Herald of Khorne on Juggernaut with a Bloodthirster: 150 points",
-            "Replace two Herald of Khorne on Juggernaut with two Herald of Khorne on Skull Geschütz: 25 points",
+            "Ersetze zwei Herald of Khorne on Juggernaut mit einemBloodthirster: 150 Punkte",
+            "Ersetze zwei Herald of Khorne on Juggernaut with zwei Herald of Khorne on Skull Geschütz: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
         },
         {
           "name": "Tzeentch Scintillating Legion",
-          "units": "Two Herald of Tzeentch, five Lesser Daemon Pool points",
+          "units": "Zwei Herald of Tzeentch, fünf Lesser Daemon Pool Punkte",
           "extraUnits": [
-            "Replace two Herald of Tzeentch with a Lord of Change: 150 points",
-            "Replace two Herald of Tzeentch with two Herald of Tzeentch on Burning Chariot: 25 points",
+            "Ersetze zwei Herald of Tzeentch mit einemLord of Change: 150 Punkte",
+            "Ersetze zwei Herald of Tzeentch with zwei Herald of Tzeentch on Burning Chariot: 25 Punkte",
             "Soul Grinder"
           ],
           "points": 200
@@ -182,12 +182,12 @@
       ]
     },
     {
-      "name": "Mortals and Daemon Engines",
-      "description": "Up to half of the points available may be spent on Mortals and Daemon Engines formations.",
+      "name": "Mortals und Daemon Engines",
+      "description": " Bis zu half of the Punkte available may be spent on Mortals und Daemon Engines formations.",
       "formations": [
         {
           "name": "Cultist Coven",
-          "units": "Daemonic Pact, Aspiring Champion, nine Chaos Cultists and/or Mutants",
+          "units": "Daemonic Pact, Aspiring Champion, neun Chaos Cultists und/oder Mutants",
           "extraUnits": [
             "Cultists/Mutants",
             "Chaos Hounds",
@@ -202,71 +202,71 @@
       },
       {
         "name": "Heldrakes",
-        "units": "Two Heldrakes",
+        "units": "Zwei Heldrakes",
         "points": 225
       }
       ]
     },
     {
       "name": "Daemon Pool",
-      "description": "Any amount may be spent on Daemon Pool points",
+      "description": "Any amount may be spent on Daemon Pool Punkte",
       "formations": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool points",
+          "units": "Any amount of Lesser Daemon Pool Punkte",
           "points": 20
         }
       ]
     }
   ],
-  "upgrades": {
-    "title": "Daemonic Incursion Upgrades",
-    "description": "Each upgrade may be taken once per formation",
+  "Erweiterungen": {
+    "title": "Daemonic Incursion Erweiterungen",
+    "description": "Jeweils upgrade may be taken once pro formation",
     "items": [
       {
         "name": "Soul Grinder",
-        "description": "Add up to two Soul Grinders",
-        "points": "50 points each"
+        "description": "Füge bis zu zwei Soul Grinders",
+        "points": "50 Punkte jeweils"
       },
       {
         "name": "Icon Bearer",
-        "description": "Add one Icon Bearer character",
-        "points": "25 points"
+        "description": "Füge eine Icon Bearer character",
+        "points": "25 Punkte"
       },
       {
         "name": "Cultists/Mutants",
-        "description": "Add up to four Cultists/Mutants",
-        "points": "10 points each"
+        "description": "Füge bis zu vier Cultists/Mutants",
+        "points": "10 Punkte jeweils"
       },
       {
         "name": "Big Mutants",
-        "description": "Replace up to four Cultists/Mutants with Big Mutants",
-        "points": "15 points each"
+        "description": "Ersetze bis zu vier Cultists/Mutants with Big Mutants",
+        "points": "15 Punkte jeweils"
       },
       {
         "name": "Chaos Spawn",
-        "description": "Add one Chaos Spawn",
-        "points": "35 points"
+        "description": "Füge eine Chaos Spawn",
+        "points": "35 Punkte"
       },
       {
         "name": "Chaos Hounds",
-        "description": "Add up to three Chaos Hounds",
-        "points": "10 points each"
+        "description": "Füge bis zu drei Chaos Hounds",
+        "points": "10 Punkte jeweils"
       },
       {
         "name": "Technicals",
-        "description": "Add up to four Technicals",
-        "points": "20 points each"
+        "description": "Füge bis zu vier Technicals",
+        "points": "20 Punkte jeweils"
       },
       {
         "name": "Land Transporters",
-        "description": "Add enough Land Transporters to transport the formation",
-        "points": "10 points each"
+        "description": "Füge enough Land Transporters to transport the formation",
+        "points": "10 Punkte jeweils"
     },
     {
       "name": "Warp Altar",
-      "description": "Add one Warp Altar",
-      "points": "150 points"
+      "description": "Füge eine Warp Altar",
+      "points": "150 Punkte"
     }
     ]
   }
