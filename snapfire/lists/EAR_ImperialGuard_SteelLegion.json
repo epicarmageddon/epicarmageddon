@@ -24,7 +24,7 @@
 			{"id":520, "name":"Mechanisierte Infanterie Zug", 	"pts":225, "units":"6 Infanterie, 3 Chimäre", "Erweiterungen":[54,57,58]},
 			{"id":521, "name":"Greifen Batterie",				"pts":175,  "units":"3 Greifen", "Erweiterungen":[]}
 		]},
-		{"name":"COLLEGIA TITANICA AND VERBÄNDE DER IMPERIALEN LUFTSTREITKRÄFTE <br/> Max 33%", "formations":[
+		{"name":"COLLEGIA TITANICA UND VERBÄNDE DER IMPERIALEN LUFTSTREITKRÄFTE <br/> Max 33%", "formations":[
 			{"id":530, "name":"Warhounds",		"pts":75, "Erweiterungen":[70]},
 			{"id":531, "name":"Reaver Titan",		"pts":600, "Erweiterungen":[]},
 			{"id":535, "name":"Warlord Titan",		"pts":750, "Erweiterungen":[]},

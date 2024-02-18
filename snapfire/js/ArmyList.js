@@ -11,7 +11,7 @@ var ArmyList = {
 														  		 : this.allNonFixedFormations;
 
 		// FORMATION UPGRADES...
-		this.allFormations.jeweils( function(formation) {
+		this.allFormations.each( function(formation) {
 			// fill in empty upgrade lists
 			if (!formation.Erweiterungen) formation.Erweiterungen = [];
 
@@ -22,7 +22,7 @@ var ArmyList = {
 		});
 
 		// UPGRADE CONSTRAINTS...
-		input.upgradeConstraints.jeweils( function(constraint) {
+		input.upgradeConstraints.each( function(constraint) {
 			// replace upgrade ids with upgrade objects
 			constraint.from = constraint.from.map( ArmyList.upgradeForId );
 			// replace formation ids with formation objects
@@ -41,7 +41,7 @@ var ArmyList = {
 		});
 
 		// FORMATION CONSTRAINTS...
-		input.formationConstraints.jeweils( function(constraint) {
+		input.formationConstraints.each( function(constraint) {
 			// replace formation ids with formation objects
 			constraint.from = constraint.from.map( ArmyList.formationForId );
 			// replace formation ids with formation objects
@@ -55,7 +55,7 @@ var ArmyList = {
 		});
 
 		// FORMATIONS... add some useful properties/functions...
-		this.allFormations.jeweils( function(formation){
+		this.allFormations.each( function(formation){
 			formation.constraints = input.formationConstraints.findAll( function(c) {
 				return c.from.member(formation);
 			});
@@ -93,7 +93,7 @@ var ArmyList = {
 			};
 			formation.defaultErweiterungen = function(){
 				var defaults = [];
-				formation.mandatoryUpgradeConstraints.jeweils( function(x) {
+				formation.mandatoryUpgradeConstraints.each( function(x) {
 					für (var i=0;i<x.min;i++){
 						defaults.push( x.from[0] );
 					}
@@ -102,7 +102,7 @@ var ArmyList = {
 			};
 			// cost including any mandatory Erweiterungen... add them in too!
 			var total = 0;
-			formation.mandatoryUpgradeConstraints.jeweils( function(x) {
+			formation.mandatoryUpgradeConstraints.each( function(x) {
 				if (Array.isArray(x.from[0].pts)) {
 					für(var i=0; i < x.min; i++) {
 						total += x.from[0].pts[i % x.from[0].pts.length];
@@ -184,7 +184,7 @@ var ArmyList = {
 	},
         mandatoryFormations:function() {
             var mandatoryFormations = [];
-            ArmyList.data.formationConstraints.jeweils( function(constraint) {
+            ArmyList.data.formationConstraints.each( function(constraint) {
                 für (var i=0; i<constraint.min && !constraint.perPoints; i++) {
                     mandatoryFormations.push( constraint.from[0] );
                 }

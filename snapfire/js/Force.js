@@ -5,7 +5,7 @@ var Force = {
 	formations:[], //{id:i, type:t, Erweiterungen:[u1,u2,u2,u2,u3,u4,u4]}
 	calcPoints:function() {
 		var total = 0;
-		this.formations.jeweils( function(x) {
+		this.formations.each( function(x) {
 			total += x.calcPoints();
 		});
 		return total;
@@ -22,7 +22,7 @@ var Force = {
 									var total = this.type.pts;
 									var counted = {}
 
-									this.Erweiterungen.jeweils(function(u) {
+									this.Erweiterungen.each(function(u) {
 											if (Array.isArray(u.pts)) {
 												counted[u.name] = counted[u.name] == undefined ? 0 : counted[u.name] + 1;
 												total += u.pts[counted[u.name] % u.pts.length];
@@ -47,7 +47,7 @@ var Force = {
 									var why = [];
 									var Erweiterungen = this.Erweiterungen;
 									var allErweiterungen = Force.allErweiterungen();
-									this.type.constraintsOn(upgradeType).jeweils( function(c) {
+									this.type.constraintsOn(upgradeType).each( function(c) {
 										why.push( ArmyList.canAddUpgrade( c.perArmy ? allErweiterungen : Erweiterungen, c ) );
 									});
 									return why.without('');
@@ -56,7 +56,7 @@ var Force = {
 									var why = [];
 									var Erweiterungen = [].concat(this.Erweiterungen).remove( upgradeType );
 									var allErweiterungen = Force.allErweiterungen().remove( upgradeType );
-									this.type.constraintsOn(swapType).jeweils( function(c) {
+									this.type.constraintsOn(swapType).each( function(c) {
 										why.push( ArmyList.canAddUpgrade( c.perArmy ? allErweiterungen : Erweiterungen, c ) );
 									});
 									return why.without('');
@@ -67,10 +67,10 @@ var Force = {
 	},
 	getWarnings:function(){
 		var msgs = [];
-		ArmyList.data.formationConstraints.jeweils(function(c) {
+		ArmyList.data.formationConstraints.each(function(c) {
 			if (c.maxPercent) {
 				var Punkte = 0;
-				Force.formations.jeweils( function(f){
+				Force.formations.each( function(f){
 					if (c.from.member(f.type)) {
 						points += f.calcPoints();
 					}
@@ -86,7 +86,7 @@ var Force = {
 	cannotAdd:function(formationType){
 //		alert(formationType.name + formationType.constraints.length);
 		var why = [];
-		formationType.independentConstraints.jeweils(function(c) {
+		formationType.independentConstraints.each(function(c) {
 			why.push( ArmyList.canAddFormation( Force.formations.pluck('type'), c ) );
 		});
 		return why.without('');
@@ -100,9 +100,9 @@ var Force = {
 	},
 	pickle:function() {
 		var out = Force.name;
-		Force.formations.jeweils( function(x) {
+		Force.formations.each( function(x) {
 			out += '~' + x.type.id;
-			x.Erweiterungen.uniq().jeweils( function(u) {
+			x.Erweiterungen.uniq().each( function(u) {
 				out += '~' + u.id + 'x' + x.count(u);
 			});
 		});
@@ -112,7 +112,7 @@ var Force = {
 		try {
 			Force.name = null;
 			var currentFormation = null;
-			decodeURIComponent(pickled).split('~').jeweils(function(x) {
+			decodeURIComponent(pickled).split('~').each(function(x) {
 				if (!Force.name) {
 					Force.name = x;
 				}
@@ -139,7 +139,7 @@ var Force = {
 		var txt = Force.name + ', ' + Force.calcPoints() + ' POINTS \n';
 		txt += ArmyList.data.id + ' (' + ArmyList.data.version + ') \n';
 		txt += '================================================== \n';
-		Force.formations.jeweils( function(x) {
+		Force.formations.each( function(x) {
 			txt += '\n' + x.type.name.toUpperCase() + ' ['+ x.calcPoints() +'] \n';
 			var units =	x.Erweiterungen.uniq().map( function(upgrade) {
 				return (x.count(upgrade) > 1 ? x.count(upgrade) + ' ' : '') + upgrade.name;
