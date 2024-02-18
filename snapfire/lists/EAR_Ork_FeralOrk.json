@@ -5,31 +5,31 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"SNAKEBITES WAR HORDES", "formations":[
-			{"id":500, "name":"Snakebites Warband",				"pts":-20, 	"Erweiterungen":[11,23,39,13,52,29,55,60,61,62,58,67]},
-			{"id":501, "name":"Snakebites Warband (Big)",				"pts":-90, 	"Erweiterungen":[11,39,13,52,29,55,60,62,63,61,58,67]},
-			{"id":502, "name":"Snakebites Warband ('Uge)",				"pts":-160, 	"Erweiterungen":[11,39,13,52,29,55,60,61,62,63,64,58,67]},
-			{"id":506, "name":"Boarboyz Horde",		"pts": 0, "units":"Pigdok",	"Erweiterungen":[29,58,67]},
-			{"id":507, "name":"Boarboyz Horde (Big)",	"pts":-50, "units":"2 Pigdok",	"Erweiterungen":[29,58,67]},
-			{"id":508, "name":"Boarboyz Horde ('Uge)","pts":-100, "units":"3 Pigdok",	        "Erweiterungen":[29,58,67]}
+			{"id":500, "name":"Snakebites Warband",				"pts":-20, 	"upgrades":[11,23,39,13,52,29,55,60,61,62,58,67]},
+			{"id":501, "name":"Snakebites Warband (Big)",				"pts":-90, 	"upgrades":[11,39,13,52,29,55,60,62,63,61,58,67]},
+			{"id":502, "name":"Snakebites Warband ('Uge)",				"pts":-160, 	"upgrades":[11,39,13,52,29,55,60,61,62,63,64,58,67]},
+			{"id":506, "name":"Boarboyz Horde",		"pts": 0, "units":"Pigdok",	"upgrades":[29,58,67]},
+			{"id":507, "name":"Boarboyz Horde (Big)",	"pts":-50, "units":"2 Pigdok",	"upgrades":[29,58,67]},
+			{"id":508, "name":"Boarboyz Horde ('Uge)","pts":-100, "units":"3 Pigdok",	        "upgrades":[29,58,67]}
 		]},
-		{"name":"SNAKEBITES SUPPORT MOBS (Max 1 für jeweils Snakebites War Horde)", "formations":[
-			{"id":503, "name":"Wildboyz Mob",				"pts": -15, "Erweiterungen":[23,13, 52,29,55,60,61,62,58,67]},
-			{"id":504, "name":"Wildboyz Mob (Big)",		"pts":-80,	"Erweiterungen":[23,13, 52,29,55,60,61,62,63,58,67]},
-			{"id":509, "name":"Boarboyz Outrider Mob",				"pts":175,	"units":"6 Boarboyz (with Scout)", "Erweiterungen":[]},
-			{"id":510, "name":"Madboyz Mob",			"pts":0, 	"Erweiterungen":[35,59]},
-			{"id":513, "name":"Trappas Mob",			"pts":0, "Erweiterungen":[17]},
-			{"id":515, "name":"Lobba Mob",			"pts":150, "units":"6 Lobbas",	"Erweiterungen":[13]},
-			{"id":511, "name":"Junka Brigade",			"pts":0, "Erweiterungen":[12,14,57,67]},
-			{"id":512, "name":"Junka Brigade (Big)",	"pts":-50, "Erweiterungen":[12,14,57,67]}
+		{"name":"SNAKEBITES SUPPORT MOBS (Max 1 for each Snakebites War Horde)", "formations":[
+			{"id":503, "name":"Wildboyz Mob",				"pts": -15, "upgrades":[23,13, 52,29,55,60,61,62,58,67]},
+			{"id":504, "name":"Wildboyz Mob (Big)",		"pts":-80,	"upgrades":[23,13, 52,29,55,60,61,62,63,58,67]},
+			{"id":509, "name":"Boarboyz Outrider Mob",				"pts":175,	"units":"6 Boarboyz (with Scout)", "upgrades":[]},
+			{"id":510, "name":"Madboyz Mob",			"pts":0, 	"upgrades":[35,59]},
+			{"id":513, "name":"Trappas Mob",			"pts":0, "upgrades":[17]},
+			{"id":515, "name":"Lobba Mob",			"pts":150, "units":"6 Lobbas",	"upgrades":[13]},
+			{"id":511, "name":"Junka Brigade",			"pts":0, "upgrades":[12,14,57,67]},
+			{"id":512, "name":"Junka Brigade (Big)",	"pts":-50, "upgrades":[12,14,57,67]}
 		]},
 		{
            "name": "GARGANTS <br/> Max 33%",
            "formations": [
-			   {"id":514, "name":"Snakebites Gargant Mob",			"pts":50,		"Erweiterungen":[67, 70]}
+			   {"id":514, "name":"Snakebites Gargant Mob",			"pts":50,		"upgrades":[67, 70]}
            ]
         }
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":11, "name":"Huntas",				"pts":15},
 		{"id":12, "name":"Junkas + Junkatrukk",	"pts":30},
 		{"id":13, "name":"Brutes",				"pts":35},

@@ -5,59 +5,59 @@
 
 	"sections":[
 		{"name":"SPACE WOLVES CORE PACKS", "formations":[
-			{"id":500, "name":"Hunting Pack", 							"pts":350,  "units":"plus transport",  "Erweiterungen":[12,13, 17, 27,28, 31,32, 33, 34,35]},
-			{"id":501, "name":"Blood Claw Assault Pack", 				"pts":175, "units":"5 Blood Claw Sturmtrupp plus transport", "Erweiterungen":[12,13, 34,35]},
-			{"id":502, "name":"Sky Claw Assault Pack",					"pts":175, "units":"5 Sky Claw Sturmtrupp", "Erweiterungen":[12,13]}
+			{"id":500, "name":"Hunting Pack", 							"pts":350,  "units":"plus transport",  "upgrades":[12,13, 17, 27,28, 31,32, 33, 34,35]},
+			{"id":501, "name":"Blood Claw Assault Pack", 				"pts":175, "units":"5 Blood Claw Assaults plus transport", "upgrades":[12,13, 34,35]},
+			{"id":502, "name":"Sky Claw Assault Pack",					"pts":175, "units":"5 Sky Claw Assaults", "upgrades":[12,13]}
 		]},
-		{"name":"SPACE WOLVES SUPPORT PACKS <br/> Max 2 Support Packs für jeweils Core Pack", "formations":[
-			{"id":520, "name":"Wolf Guard Terminator Pack",		"pts":400,   "units":"plus transport", "Erweiterungen":[12,13, 27,28, 33]},
-			{"id":521, "name":"Swift Claw Biker Pack", 			"pts":200,  "units":"4 Swift Claw Assault Bikes, 2 Fenrisian Wolves", "Erweiterungen":[12,13]},
-			{"id":522, "name":"Wolf Scout Recon Pack",			"pts":175,  "units":"4 Wolf Scout Veterans plus transport", "Erweiterungen":[12,13, 34,35]},
-			{"id":523, "name":"Land Raider Pack",			"pts":275,  "units":"3 Land Raiders",  "Erweiterungen":[31,32,40]},
-			{"id":524, "name":"Predator Pack",				"pts":250, "Erweiterungen":[31,32]},
-			{"id":525, "name":"Vindicator Pack",			"pts":225,  "units":"4 Vindicators", "Erweiterungen":[31,32]},
-			{"id":526, "name":"Whirlwind Pack",				"pts":275, "units":"4 Whirlwinds", "Erweiterungen":[31,32]},
-			{"id":528, "name":"Orbital Support",			"pts":0, "Erweiterungen":[]}
+		{"name":"SPACE WOLVES SUPPORT PACKS <br/> Max 2 Support Packs for each Core Pack", "formations":[
+			{"id":520, "name":"Wolf Guard Terminator Pack",		"pts":400,   "units":"plus transport", "upgrades":[12,13, 27,28, 33]},
+			{"id":521, "name":"Swift Claw Biker Pack", 			"pts":200,  "units":"4 Swift Claw Assault Bikes, 2 Fenrisian Wolves", "upgrades":[12,13]},
+			{"id":522, "name":"Wolf Scout Recon Pack",			"pts":175,  "units":"4 Wolf Scout Veterans plus transport", "upgrades":[12,13, 34,35]},
+			{"id":523, "name":"Land Raider Pack",			"pts":275,  "units":"3 Land Raiders",  "upgrades":[31,32,40]},
+			{"id":524, "name":"Predator Pack",				"pts":250, "upgrades":[31,32]},
+			{"id":525, "name":"Vindicator Pack",			"pts":225,  "units":"4 Vindicators", "upgrades":[31,32]},
+			{"id":526, "name":"Whirlwind Pack",				"pts":275, "units":"4 Whirlwinds", "upgrades":[31,32]},
+			{"id":528, "name":"Orbital Support",			"pts":0, "upgrades":[]}
 
 		]},
 
 		{"name":"SPACE WOLVES AIRCRAFT AND FREEBLADE KNIGHTS <br/> Max 33%", "formations":[
-			{"id":530, "name": "Storm Talon Pack", "units":"2 Storm Talons",			"pts":200, "Erweiterungen":[]},
-			{"id":531, "name": "Stormwolf Assault Boat",											"pts":175, "Erweiterungen":[]},
-			{"id":532, "name": "Stormfang Gunship",													"pts":150, "Erweiterungen":[]},
-			{"id":533, "name": "Knight-Freeblade 'Crimson Glaive' (Conflagration Cannon)", 			"pts":175, "Erweiterungen":[]},
-			{"id":534, "name": "Knight-Freeblade 'Iron Wolf' (Helfrost Destructor)", 				"pts":175, "Erweiterungen":[]},
-			{"id":535, "name": "Knight-Freeblade 'Justice' (Castigator Cannon)", 				"pts":175, "Erweiterungen":[]},
-			{"id":536, "name": "Knight-Freeblade 'Canis Rex' (Las Impulsor)", 			"pts":175, "Erweiterungen":[]}
+			{"id":530, "name": "Storm Talon Pack", "units":"2 Storm Talons",			"pts":200, "upgrades":[]},
+			{"id":531, "name": "Stormwolf Assault Boat",											"pts":175, "upgrades":[]},
+			{"id":532, "name": "Stormfang Gunship",													"pts":150, "upgrades":[]},
+			{"id":533, "name": "Knight-Freeblade 'Crimson Glaive' (Conflagration Cannon)", 			"pts":175, "upgrades":[]},
+			{"id":534, "name": "Knight-Freeblade 'Iron Wolf' (Helfrost Destructor)", 				"pts":175, "upgrades":[]},
+			{"id":535, "name": "Knight-Freeblade 'Justice' (Castigator Cannon)", 				"pts":175, "upgrades":[]},
+			{"id":536, "name": "Knight-Freeblade 'Canis Rex' (Las Impulsor)", 			"pts":175, "upgrades":[]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":10, "name":"Wolf Lord Captain",		"pts":0},
 		{"id":11, "name":"Great Wolf Supreme Commander",	"pts":50},
 
-		{"id":12, "name":"Ordenspriester", 		"pts":25},
-		{"id":13, "name":"Scriptor", 		"pts":25},
+		{"id":12, "name":"Chaplain", 		"pts":25},
+		{"id":13, "name":"Librarian", 		"pts":25},
 
-		{"id":15, "name":"8 Grey Hunter Taktischer Trupp",								"pts":0},
-		{"id":16, "name":"5 Grey Hunter Taktischer Trupp, 3 Long Fang Devastoren",	"pts":50},
+		{"id":15, "name":"8 Grey Hunter Tacticals",								"pts":0},
+		{"id":16, "name":"5 Grey Hunter Tacticals, 3 Long Fang Devastators",	"pts":50},
 		{"id":17, "name":"Leman Russ Exterminator",								"pts":50},
 
 		{"id":22, "name":"Predator Annihilator",		"pts":0},
 		{"id":23, "name":"Predator Destructor",		"pts":0},
 
-		{"id":25, "name":"Wolf Guard Terminatoren",							"pts":0},
-		{"id":26, "name":"Wolf Guard Terminator Sturmtrupp",	"pts":0},
+		{"id":25, "name":"Wolf Guard Terminators",							"pts":0},
+		{"id":26, "name":"Wolf Guard Terminator Assaults",	"pts":0},
 
-		{"id":27, "name":"Blizzard Cybot", 					"pts":50},
-		{"id":28, "name":"Helfrost Cybot", 					"pts":50},
+		{"id":27, "name":"Blizzard Dreadnought", 					"pts":50},
+		{"id":28, "name":"Helfrost Dreadnought", 					"pts":50},
 
 		{"id":31, "name":"Hunter", 						"pts":75},
 		{"id":32, "name":"Stalker", 						"pts":50},
 
 		{"id":33, "name":"Land Raider", 					"pts":50},
 
-		{"id":34, "name":"Razorback (Synchronisierte Heavy Bolter)",						"pts":25},
-		{"id":35, "name":"Razorback (Synchronisierte Laserkanone)",						"pts":25},
+		{"id":34, "name":"Razorback (Twin Heavy Bolter)",						"pts":25},
+		{"id":35, "name":"Razorback (Twin Lascannon)",						"pts":25},
 
 		{"id":40, "name":"Land Raider Wrath of Mjalnar", 					"pts":125},
 

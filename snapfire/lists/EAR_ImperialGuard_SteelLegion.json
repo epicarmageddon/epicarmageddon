@@ -3,42 +3,42 @@
 	"version":"1.0.Beta",
 	"by":"EA-Ragnarok",
 	"sections":[
-		{"name":"CORE Kompanieverbände", "formations":[
-			{"id":500, "name":"Regiments HQ", 				"pts":375, "units":"Steel Legion Supreme Commander mit einem Kommissar",  "Erweiterungen":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
-			{"id":501, "name":"Infanterie Kompanie", 			"pts":250, "units":"Steel Legion Commander mit einem Kommissar", "Erweiterungen":[45,49,51,54,57,58,66,56,59,60,61,64,65]},
-			{"id":502, "name":"Mechanisierte Infanterie Kompanie", 	"pts":325, "units":"Steel Legion Commander mit einem Kommissar", "Erweiterungen":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
-			{"id":503, "name":"Tank Kompanie", 			"pts":500, "units":"Leman Russ Vanquisher mit einem Kommissar, 7 Leman Russ", "Erweiterungen":[45,54,57,58]},
-			{"id":504, "name":"Superschwere Kompanie", 		"pts":525, "units":"Kommissar", "Erweiterungen":[45,52,55,66,56,54,57,58]},
-		 	{"id":505, "name":"Artillerie Kompanie", 			"pts":400, "units":"Kommissar", "Erweiterungen":[45]}
+		{"name":"CORE COMPANY FORMATIONS", "formations":[
+			{"id":500, "name":"Regimental HQ", 				"pts":375, "units":"Steel Legion Supreme Commander with a Commissar",  "upgrades":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
+			{"id":501, "name":"Infantry Company", 			"pts":250, "units":"Steel Legion Commander with a Commissar", "upgrades":[45,49,51,54,57,58,66,56,59,60,61,64,65]},
+			{"id":502, "name":"Mechanized Infantry Company", 	"pts":325, "units":"Steel Legion Commander with a Commissar", "upgrades":[45,48,50,54,57,58,52,55,59,60,61,62,63]},
+			{"id":503, "name":"Tank Company", 			"pts":500, "units":"Leman Russ Vanquisher with a Commissar, 7 Leman Russ", "upgrades":[45,54,57,58]},
+			{"id":504, "name":"Super-Heavy Company", 		"pts":525, "units":"Commissar", "upgrades":[45,52,55,66,56,54,57,58]},
+		 	{"id":505, "name":"Artillery Company", 			"pts":400, "units":"Commissar", "upgrades":[45]}
 		]},
-		{"name":"UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Core Kompanie", "formations":[
-			{"id":510, "name":"Kavalleriezug", 			"pts":150, "Erweiterungen":[], "units":"6 Kavallerieschwadron"},
-			{"id":511, "name":"Storm Trooper Kompanie",				"pts":200, "Erweiterungen":[42,43], "units":"Kommissar, 8 Storm Troopers"},
-			{"id":512, "name":"Artillerie Batterie",				"pts":225, "Erweiterungen":[]},
-			{"id":509, "name":"Todesstoss-Raketensystem Batterie", "pts":225, "units":"2 Todesstoss-Raketensystem", "Erweiterungen":[]},
-			{"id":514, "name":"Sentinel Schwadron",				"pts":100, "Erweiterungen":[], "units":"4 Sentinels"},
-			{"id":516, "name":"Superschwerer Zug", 			"pts":200, "Erweiterungen":[]},
-			{"id":517, "name":"Leman Russ Zug", 			"pts":375, "Erweiterungen":[]},
-			{"id":518, "name":"Flak Batterie",				"pts":150, "Erweiterungen":[], "units":"3 Hydra"},
-			{"id":519, "name":"Vulture Schwadron",				"pts":300, "units":"4 Vultures", "Erweiterungen":[]},
-			{"id":520, "name":"Mechanisierte Infanterie Zug", 	"pts":225, "units":"6 Infanterie, 3 Chimäre", "Erweiterungen":[54,57,58]},
-			{"id":521, "name":"Greifen Batterie",				"pts":175,  "units":"3 Greifen", "Erweiterungen":[]}
+		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Core Company", "formations":[
+			{"id":510, "name":"Rough Rider Platoon", 			"pts":150, "upgrades":[], "units":"6 Rough Riders"},
+			{"id":511, "name":"Storm Trooper Company",				"pts":200, "upgrades":[42,43], "units":"Commissar, 8 Storm Troopers"},
+			{"id":512, "name":"Artillery Battery",				"pts":225, "upgrades":[]},
+			{"id":509, "name":"Deathstrike Battery", "pts":225, "units":"2 Deathstrike", "upgrades":[]},
+			{"id":514, "name":"Sentinel Squadron",				"pts":100, "upgrades":[], "units":"4 Sentinels"},
+			{"id":516, "name":"Super-Heavy Platoon", 			"pts":200, "upgrades":[]},
+			{"id":517, "name":"Leman Russ Platoon", 			"pts":375, "upgrades":[]},
+			{"id":518, "name":"Flak Battery",				"pts":150, "upgrades":[], "units":"3 Hydras"},
+			{"id":519, "name":"Vulture Squadron",				"pts":300, "units":"4 Vultures", "upgrades":[]},
+			{"id":520, "name":"Mechanized Infantry Platoon", 	"pts":225, "units":"6 Infantry, 3 Chimera", "upgrades":[54,57,58]},
+			{"id":521, "name":"Griffon Battery",				"pts":175,  "units":"3 Griffons", "upgrades":[]}
 		]},
-		{"name":"COLLEGIA TITANICA UND VERBÄNDE DER IMPERIALEN LUFTSTREITKRÄFTE <br/> Max 33%", "formations":[
-			{"id":530, "name":"Warhounds",		"pts":75, "Erweiterungen":[70]},
-			{"id":531, "name":"Reaver Titan",		"pts":600, "Erweiterungen":[]},
-			{"id":535, "name":"Warlord Titan",		"pts":750, "Erweiterungen":[]},
-			{"id":532, "name":"Thunderbolt Schwadron",	"pts":175, "Erweiterungen":[], "units":"2 Thunderbolts"},
-			{"id":533, "name":"Marauder Schwadron",		"pts":250, "Erweiterungen":[], "units":"2 Marauder Bombers"},
-			{"id":534, "name":"Orbital Support",		"pts":150, "Erweiterungen":[]}
+		{"name":"COLLEGIA TITANICA AND IMPERIAL NAVY FORMATIONS <br/> Max 33%", "formations":[
+			{"id":530, "name":"Warhounds",		"pts":75, "upgrades":[70]},
+			{"id":531, "name":"Reaver Titan",		"pts":600, "upgrades":[]},
+			{"id":535, "name":"Warlord Titan",		"pts":750, "upgrades":[]},
+			{"id":532, "name":"Thunderbolt Squadron",	"pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
+			{"id":533, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
+			{"id":534, "name":"Orbital Support",		"pts":150, "upgrades":[]}
 		]}
 	],
-	"Erweiterungen":[
-		{"id":20, "name":"9 Infanterie, 5 Chimären",		"pts":0},
-		{"id":21, "name":"15 Infanterie, 8 Chimären",		"pts":125},
+	"upgrades":[
+		{"id":20, "name":"9 Infantry, 5 Chimeras",		"pts":0},
+		{"id":21, "name":"15 Infantry, 8 Chimeras",		"pts":125},
 
-		{"id":22, "name":"12 Infanterie",					"pts":0},
-		{"id":23, "name":"18 Infanterie",					"pts":75},
+		{"id":22, "name":"12 Infantry",					"pts":0},
+		{"id":23, "name":"18 Infantry",					"pts":75},
 
 		{"id":24, "name":"Leman Russ",					"pts":0},
 		{"id":25, "name":"Leman Russ Vanquisher",		"pts":0},
@@ -49,51 +49,51 @@
 
 		{"id":28, "name":"Vulture",						"pts":75},
 
-		{"id":30, "name":"6 Basilisken",					"pts":0},
-		{"id":31, "name":"6 Mantikor",				"pts":50},
+		{"id":30, "name":"6 Basilisks",					"pts":0},
+		{"id":31, "name":"6 Manticores",				"pts":50},
 
-		{"id":32, "name":"3 Basilisken",					"pts":0},
-		{"id":39, "name":"3 Bombard",					"pts":0},
-		{"id":33, "name":"3 Mantikor",				"pts":25},
+		{"id":32, "name":"3 Basilisks",					"pts":0},
+		{"id":39, "name":"3 Bombards",					"pts":0},
+		{"id":33, "name":"3 Manticores",				"pts":25},
 
 		{"id":34, "name":"6 Leman Russ Punishers",		"pts":0},
-		{"id":35, "name":"6 Leman Russ Demolisher",	"pts":0},
+		{"id":35, "name":"6 Leman Russ Demolishers",	"pts":0},
 		{"id":36, "name":"6 Leman Russ Leman Russ",		"pts":0},
 
-		{"id":37, "name":"Lunar-Klasse Kreuzer",			"pts":0},
-		{"id":38, "name":"Imperator-Klasse Schlachtschiff",	"pts":50},
+		{"id":37, "name":"Lunar Class Cruiser",			"pts":0},
+		{"id":38, "name":"Emperor Class Battleship",	"pts":50},
 
-		{"id":40, "name":"Todesstoss-Raketensystem",					"pts":50},
+		{"id":40, "name":"Deathstrike",					"pts":50},
 
 		{"id":42, "name":"4 Valkyries",					"pts":150},
    		{"id":43, "name":"4 Taurox",					"pts":150},
 
 		{"id":45, "name":"Hydra",	"pts":50},
 
-		{"id":48, "name":"2 Unterstützungstrupps, Chimäre",		"pts":75},
-		{"id":49, "name":"2 Unterstützungstrupps",		"pts":50},
-		{"id":50, "name":"4 Unterstützungstrupps, 2 Chimären",		"pts":150},
-		{"id":51, "name":"4 Unterstützungstrupps",		"pts":100},
+		{"id":48, "name":"2 Fire Support Squads, Chimera",		"pts":75},
+		{"id":49, "name":"2 Fire Support Squads",		"pts":50},
+		{"id":50, "name":"4 Fire Support Squads, 2 Chimeras",		"pts":150},
+		{"id":51, "name":"4 Fire Support Squads",		"pts":100},
 
-		{"id":53, "name":"3 Greifen",					"pts":50},
+		{"id":53, "name":"3 Griffons",					"pts":50},
 
-		{"id":52, "name":"Ogryns, Chimäre",		"pts":50},
-		{"id":55, "name":"2 Ogryns, 2 Chimären",		"pts":100},
+		{"id":52, "name":"Ogryns, Chimera",		"pts":50},
+		{"id":55, "name":"2 Ogryns, 2 Chimeras",		"pts":100},
 		{"id":66, "name":"Ogryns",					"pts":25},
 		{"id":56, "name":"2 Ogryns",					"pts":50},
 
-		{"id":54, "name":"Höllenhund",					"pts":25},
-		{"id":57, "name":"2 Höllenhunde",				"pts":50},
-		{"id":58, "name":"3 Höllenhunde",				"pts":75},
+		{"id":54, "name":"Hellhound",					"pts":25},
+		{"id":57, "name":"2 Hellhounds",				"pts":50},
+		{"id":58, "name":"3 Hellhounds",				"pts":75},
 
 		{"id":59, "name":"3 Leman Russ Punishers",		"pts":150},
-		{"id":60, "name":"3 Leman Russ Demolisher",	"pts":150},
+		{"id":60, "name":"3 Leman Russ Demolishers",	"pts":150},
 		{"id":61, "name":"3 Leman Russ",		"pts":150},
 
-		{"id":62, "name":"Scharfschütze, Chimäre",			"pts":50},
-		{"id":63, "name":"2 Scharfschützen, Chimäre",		"pts":75},
-		{"id":64, "name":"Scharfschütze",					"pts":25},
-		{"id":65, "name":"2 Scharfschützen",					"pts":50},
+		{"id":62, "name":"Sniper, Chimera",			"pts":50},
+		{"id":63, "name":"2 Snipers, Chimera",		"pts":75},
+		{"id":64, "name":"Sniper",					"pts":25},
+		{"id":65, "name":"2 Snipers",					"pts":50},
 
 		{"id":70, "name":"Warhound Titan",					"pts":200},
 
@@ -102,7 +102,7 @@
 
 	],
 	"formationConstraints":[
-		{"max":2, "name":"Unterstützungsverbände", "from":[509,510,511,512,514,515,516,517,518,519,520,521], "forEach":[500,501,502,503,504,505], "name2":"Kompanie"},
+		{"max":2, "name":"Support Formations", "from":[509,510,511,512,514,515,516,517,518,519,520,521], "forEach":[500,501,502,503,504,505], "name2":"Company"},
 		{"maxPercent": 33.5, "name":"Titans & Navy", "from":[530,531,532,533,534,535]},
 		{"max":1, "from":[500]},
 		{"max":1, "from":[515]},

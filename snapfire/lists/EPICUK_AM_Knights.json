@@ -4,28 +4,28 @@
   "by":"EA-Ragnarok",
   "sections":[
     {"name":"CORE HOUSEHOLDS", "formations":[
-      {"id":500, "name":"Baron", "pts":600, "units":"Baron, 5 Paladin Knights", "Erweiterungen":[8]},
-	  {"id":501, "name":"Paladin", "pts":500, "units":"6 Paladin Knights", "Erweiterungen":[8,13]}
+      {"id":500, "name":"Baron", "pts":600, "units":"Baron, 5 Paladin Knights", "upgrades":[8]},
+	  {"id":501, "name":"Paladin", "pts":500, "units":"6 Paladin Knights", "upgrades":[8,13]}
     ]},
-    {"name":"SUPPORT HOUSEHOLDS <br/> Max 2 für jeweils Core Household", "formations":[
-      {"id":510, "name":"Support", "pts":50, "Erweiterungen":[6,7,13]},
-      {"id":511, "name":"Lancer", "pts":300, "units":"3 Lancer Knights", "Erweiterungen":[13]},
-      {"id":512, "name":"Errant", "pts":50, "Erweiterungen":[8,13]}
+    {"name":"SUPPORT HOUSEHOLDS <br/> Max 2 for each Core Household", "formations":[
+      {"id":510, "name":"Support", "pts":50, "upgrades":[6,7,13]},
+      {"id":511, "name":"Lancer", "pts":300, "units":"3 Lancer Knights", "upgrades":[13]},
+      {"id":512, "name":"Errant", "pts":50, "upgrades":[8,13]}
     ]},
-    {"name":"RETAINERS <br/> Max 1 für jeweils Core oder Support Household", "formations":[
-      {"id":520, "name":"AA Batterie", "pts":150, "units":"3 Heavy AA Guns, 3 Tractors", "Erweiterungen":[]},
-      {"id":521, "name":"Artillerie", "pts":200, "units":"3 Earthshaker platforms, 3 Tractors", "Erweiterungen":[]},
-      {"id":522, "name":"Militia", "pts":125, "units":"6 Militia", "Erweiterungen":[5]},
-      {"id":523, "name":"Field Guns", "pts":150, "units":"4 Light Artillerie, 4 Tractors", "Erweiterungen":[]},
-	  {"id":524, "name":"Rapiers", "pts":150, "units":"4 Rapiers, 4 Tractors", "Erweiterungen":[]},
-	  {"id":525, "name":"Light Tanks", "pts":175, "units":"6 Siegfried Light Tanks", "Erweiterungen":[]}
+    {"name":"RETAINERS <br/> Max 1 for each Core or Support Household", "formations":[
+      {"id":520, "name":"AA Battery", "pts":150, "units":"3 Heavy AA Guns, 3 Tractors", "upgrades":[]},
+      {"id":521, "name":"Artillery", "pts":200, "units":"3 Earthshaker platforms, 3 Tractors", "upgrades":[]},
+      {"id":522, "name":"Militia", "pts":125, "units":"6 Militia", "upgrades":[5]},
+      {"id":523, "name":"Field Guns", "pts":150, "units":"4 Light Artillery, 4 Tractors", "upgrades":[]},
+	  {"id":524, "name":"Rapiers", "pts":150, "units":"4 Rapiers, 4 Tractors", "upgrades":[]},
+	  {"id":525, "name":"Light Tanks", "pts":175, "units":"6 Siegfried Light Tanks", "upgrades":[]}
     ]},
-    {"name":"IMPERIALE LUFTSTREITKRÄFTE<br/> Max 25%", "formations":[
-        {"id":531, "name":"Thunderbolt Schwadron", "pts":150, "units":"2 Thunderbolts", "Erweiterungen":[]},
-      {"id":530, "name":"Marauder Schwadron", "pts":250, "units":"2 Marauder Bombers", "Erweiterungen":[]}
+    {"name":"IMPERIAL NAVY <br/> Max 25%", "formations":[
+        {"id":531, "name":"Thunderbolt Squadron", "pts":150, "units":"2 Thunderbolt Fighters", "upgrades":[]},
+      {"id":530, "name":"Marauder Squadron", "pts":250, "units":"2 Marauder Bombers", "upgrades":[]}
     ]}
   ],
-  "Erweiterungen":[
+  "upgrades":[
 
     {"id":5, "name":"6 Tractors", "pts":50},
     {"id":6, "name":"Castellan Knight", "pts":100},
@@ -37,8 +37,8 @@
   "formationConstraints":[
     {"max":2, "name":"Support Household", "from":[510,511,512], "forEach":[500,501], "name2":"Household"},
 	{"max":1, "from": [500]},
-    {"max":1, "name":"Retainers", "from":[520,521,522,523,524,525], "forEach":[500,501,510,511,512], "name2":"Household oder Support Household"},
-    {"maxPercent":25.5, "name":"Imperiale LuftstreitkräfteAircraft", "from":[530,531]}
+    {"max":1, "name":"Retainers", "from":[520,521,522,523,524,525], "forEach":[500,501,510,511,512], "name2":"Household or Support Household"},
+    {"maxPercent":25.5, "name":"Imperial Navy Aircraft", "from":[530,531]}
   ],
   "upgradeConstraints":[
 

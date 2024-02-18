@@ -4,20 +4,20 @@
    "by": "EA-Ragnarok",
    "sections": [
       {"name": "INDIVIDUALS", "formations": [
-            {"id": 601, "name": "Tomb Complex", "pts": 75, "Erweiterungen": []}
+            {"id": 601, "name": "Tomb Complex", "pts": 75, "upgrades": []}
          ]
       },
       {"name": "NECRON PHALANX",
          "formations": [
-            {"id": 701, "name": "Infanterie Phalanx", "pts": 200, "units": "6 Necron Warriors", "Erweiterungen": [100,101,102]}
+            {"id": 701, "name": "Infantry Phalanx", "pts": 200, "units": "6 Necron Warriors", "upgrades": [100,101,102]}
          ]
       },
-      {"name": "NECRON SUPPORT <br/> Max 2 für jeweils Necron Phalanx",
+      {"name": "NECRON SUPPORT <br/> Max 2 for each Necron Phalanx",
          "formations": [
-			 {"id": 501, "name": "Flayer Maniple", "pts": 200, "units": "6 Flayed Ones", "Erweiterungen": [9,10,11,12,100,101]},
-			 {"id": 502, "name": "Destroyer Maniple", "pts": 300, "Erweiterungen": [9,10,11,12]},
-            {"id": 503, "name": "Monolith Maniple", "pts": 200, "Erweiterungen": []},
-            {"id": 504, "name": "Wraith Maniple", "pts": 200, "units": "4 Wraiths", "Erweiterungen": []},
+			 {"id": 501, "name": "Flayer Maniple", "pts": 200, "units": "6 Flayed Ones", "upgrades": [9,10,11,12,100,101]},
+			 {"id": 502, "name": "Destroyer Maniple", "pts": 300, "upgrades": [9,10,11,12]},
+            {"id": 503, "name": "Monolith Maniple", "pts": 200, "upgrades": []},
+            {"id": 504, "name": "Wraith Maniple", "pts": 200, "units": "4 Wraiths", "upgrades": []},
 			{"id": 505, "name": "Obelisk Maniple", "pts": 300, "units": "6 Obelisks"}
          ]
       },
@@ -26,12 +26,12 @@
 			 {"id": 801, "name": "Abattoir", "pts": 650},
 			 {"id": 803, "name": "Æonic Orb", "pts": 650},
             {"id": 802, "name": "Scythe Class Cruiser", "pts": 200},
-            {"id": 804, "name": "Pylon", "pts": 200, "Erweiterungen": []},
-            {"id": 805, "name": "Warbarque", "pts": 300, "Erweiterungen": [9,10,11,12]}
+            {"id": 804, "name": "Pylon", "pts": 200, "upgrades": []},
+            {"id": 805, "name": "Warbarque", "pts": 300, "upgrades": [9,10,11,12]}
          ]
       }
    ],
-   "Erweiterungen": [
+   "upgrades": [
 	   {"id": 9, "name": "Necron Lord", "pts": 25},
       {"id": 10, "name": "Necron Overlord", "pts": 75},
       {"id": 11, "name": "C'tan (The Nightbringer)", "pts": 325},

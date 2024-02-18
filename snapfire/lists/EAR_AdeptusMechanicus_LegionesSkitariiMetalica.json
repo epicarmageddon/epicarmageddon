@@ -5,43 +5,43 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"LEGIONES METALICA CORE FORMATIONS", "formations":[
-			{"id":501, "name":"Hypaspist Maniple",	"pts":225, "Erweiterungen":[102,103,104,107, 130,131,132,133,128,129]}
+			{"id":501, "name":"Hypaspist Maniple",	"pts":225, "upgrades":[102,103,104,107, 130,131,132,133,128,129]}
 		]},
-		{"name":"LEGIONES METALICA LINE FORMATIONS <br/> Max 3 für jeweils Core Formation", "formations":[
-			{"id":510, "name":"Ballistae Cohort",			"pts":150,	 "Erweiterungen":[107,108,109]},
-			{"id":514, "name":"Kastelan Maniple",		"pts":50, "units":"Tech-Priest", "Erweiterungen":[114]},
-			{"id":511, "name":"Castellax Maniple",		"pts":175, "units":"4 Castellax Battle-Automata, Tech-Priest", "Erweiterungen":[]},
-			{"id":512, "name":"Praetorian Maniple",		"pts":250, "units":"5 Praetorian Combat Servitors, Tech-Priest", "Erweiterungen":[]},
-			{"id":513, "name":"Cataphractii Maniple",		"pts":375, "Erweiterungen":[107]},
-			{"id":515, "name":"Minoris Cohort",		"pts":75, "Erweiterungen":[130,131,132,133,128,129,135,136,137]},
-			{"id":516, "name":"Ordinatus Majoris",		"pts":425, "Erweiterungen":[]}
+		{"name":"LEGIONES METALICA LINE FORMATIONS <br/> Max 3 for each Core Formation", "formations":[
+			{"id":510, "name":"Ballistae Cohort",			"pts":150,	 "upgrades":[107,108,109]},
+			{"id":514, "name":"Kastelan Maniple",		"pts":50, "units":"Tech-Priest", "upgrades":[114]},
+			{"id":511, "name":"Castellax Maniple",		"pts":175, "units":"4 Castellax Battle-Automata, Tech-Priest", "upgrades":[]},
+			{"id":512, "name":"Praetorian Maniple",		"pts":250, "units":"5 Praetorian Combat Servitors, Tech-Priest", "upgrades":[]},
+			{"id":513, "name":"Cataphractii Maniple",		"pts":375, "upgrades":[107]},
+			{"id":515, "name":"Minoris Cohort",		"pts":75, "upgrades":[130,131,132,133,128,129,135,136,137]},
+			{"id":516, "name":"Ordinatus Majoris",		"pts":425, "upgrades":[]}
 		]},
 
 		{"name":"FORGE WORLD NAVY, QUESTORIS MECHANICUS & COLLEGIA TITANICA SUPPORT <br/> Max 33%", "formations":[
-		    {"id":519,"name":"Paladin Household", "units":"5 Knight-Paladins", "pts":450, "Erweiterungen":[]},
+		    {"id":519,"name":"Paladin Household", "units":"5 Knight-Paladins", "pts":450, "upgrades":[]},
 
-		    {"id":520,"name":"Warhound Pack","pts":475, "Erweiterungen":[]},
+		    {"id":520,"name":"Warhound Pack","pts":475, "upgrades":[]},
 
-		    {"id":521,"name":"Reaver Titan","pts":600, "Erweiterungen":[]},
-		    {"id":522,"name":"Warlord Titan","pts":750, "Erweiterungen":[]},
+		    {"id":521,"name":"Reaver Titan","pts":600, "upgrades":[]},
+		    {"id":522,"name":"Warlord Titan","pts":750, "upgrades":[]},
 
-			{"id":523, "name":"Avenger Schwadron",			"pts":175, "units":"2 Avenger Strike Fighters", "Erweiterungen":[]},
-			{"id":525, "name":"Ark Mechanicus Battleship",		"pts":225, "Erweiterungen":[]}
+			{"id":523, "name":"Avenger Squadron",			"pts":175, "units":"2 Avenger Strike Fighters", "upgrades":[]},
+			{"id":525, "name":"Ark Mechanicus Battleship",		"pts":225, "upgrades":[]}
 		]}
 
 
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":100, "name":"Magos",								"pts":0},
 		{"id":101, "name":"Magos Dominus",						"pts":75},
 
-		{"id":102, "name":"5 Chimäre",							"pts":125},
+		{"id":102, "name":"5 Chimera",							"pts":125},
 		{"id":103, "name":"5 Chimedons",						"pts":125},
 		{"id":104, "name":"Gorgon",								"pts":100},
 
 		{"id":107, "name":"Hydra",								"pts":50},
 
-		{"id":108, "name":"Chimäre",							"pts":25},
+		{"id":108, "name":"Chimera",							"pts":25},
 		{"id":109, "name":"Chimedon",							"pts":25},
 
 		{"id":110, "name":"9 Hypaspists",						"pts":0},
@@ -56,7 +56,7 @@
 		{"id":116, "name":"4 Hypaspists, 2 Sagitarii, 3 Rapiers",	"pts":25},
 
 		{"id":117, "name":"6 Leman Russ",						"pts":0},
-		{"id":118, "name":"6 Leman Russ Demolisher",			"pts":0},
+		{"id":118, "name":"6 Leman Russ Demolishers",			"pts":0},
 		{"id":119, "name":"6 Leman Russ Executioners",			"pts":0},
 
 		{"id":120, "name":"Ordinatus Armageddon (Nova Cannon)",		"pts":0},

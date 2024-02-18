@@ -4,38 +4,38 @@
         "by":"EA-Ragnarok",
         "sections":[
                 {"name":"BLACK TEMPLAR DETACHMENTS", "formations":[
-                        {"id":501, "name":"Sturmtrupp", "pts":175, "units":"4 Sturmtrupp", "Erweiterungen":[11,12,14,15,18,38]},
-                        {"id":502, "name":"Bikes", "pts":200, "Erweiterungen":[11,12,14]},
-                        {"id":503, "name":"Devastoren", "pts":250, "units":"4 Devastoren plus Transport", "Erweiterungen":[11,12,14,18,38,19,31,15,20,35,21,22]},
-                        {"id":504, "name":"Land Raiders", "pts":350, "Erweiterungen":[11,12,14,19,31,15]},
-                        {"id":505, "name":"Land Speeders", "pts":0, "Erweiterungen":[11,12,14]},
+                        {"id":501, "name":"Assaults", "pts":175, "units":"4 Assaults", "upgrades":[11,12,14,15,18,38]},
+                        {"id":502, "name":"Bikes", "pts":200, "upgrades":[11,12,14]},
+                        {"id":503, "name":"Devastators", "pts":250, "units":"4 Devastators plus Transport", "upgrades":[11,12,14,18,38,19,31,15,20,35,21,22]},
+                        {"id":504, "name":"Land Raiders", "pts":350, "upgrades":[11,12,14,19,31,15]},
+                        {"id":505, "name":"Land Speeders", "pts":0, "upgrades":[11,12,14]},
                         {"id":506, "name":"Landing Craft", "pts":350},
-                        {"id":507, "name":"Predators", "pts":225, "Erweiterungen":[11,12,14,19,31,15]},
-                        {"id":510, "name":"Taktischer Trupp", "pts":300, "units":"6 Taktischer Trupp plus Transport", "Erweiterungen":[11,12,14,32,33,18,38,19,31,15,21,22,20,35]},
-                        {"id":511, "name":"Terminatoren", "pts":350, "units":"4 Terminatoren", "Erweiterungen":[11,12,14,32,18,38,20,35,15]},
-                        {"id":513, "name":"Vindicators", "pts":50, "Erweiterungen":[11,12,14,15,19,31]}
+                        {"id":507, "name":"Predators", "pts":225, "upgrades":[11,12,14,19,31,15]},
+                        {"id":510, "name":"Tacticals", "pts":300, "units":"6 Tacticals plus Transport", "upgrades":[11,12,14,32,33,18,38,19,31,15,21,22,20,35]},
+                        {"id":511, "name":"Terminators", "pts":350, "units":"4 Terminators", "upgrades":[11,12,14,32,18,38,20,35,15]},
+                        {"id":513, "name":"Vindicators", "pts":50, "upgrades":[11,12,14,15,19,31]}
                 ]},
                 {"name":"SUPPORT DETACHMENTS <br/> Max 33%", "formations":[
                     {"id":512, "name":"Thunderhawk", "pts":200},
-                    {"id":514, "name":"Thunderhawk Transporter", "pts":75, "Erweiterungen":[34]},
-                    {"id":515, "name":"Storm Talons", "pts":200, "units":"2 Storm Talons", "Erweiterungen":[]}
+                    {"id":514, "name":"Thunderhawk Transporter", "pts":75, "upgrades":[34]},
+                    {"id":515, "name":"Storm Talons", "pts":200, "units":"2 Storm Talons", "upgrades":[]}
                 ]}
         ],
         "fixedFormations":[
                         {"id":509, "name":"Spaceship", "pts":0}
         ],
-        "Erweiterungen":[
+        "upgrades":[
                 {"id":11, "name":"Castellan", "pts":50},
-                {"id":12, "name":"Ordenspriester", "pts":50},
+                {"id":12, "name":"Chaplain", "pts":50},
                 {"id":14, "name":"Marshall", "pts":100},
                 {"id":15, "name":"Vindicator", "pts":50},
-                {"id":16, "name":"Trike", "pts":0},
+                {"id":16, "name":"Attack Bike", "pts":0},
                 {"id":17, "name":"Bikes", "pts":0},
-                {"id":18, "name":"Cybot w/ PF, AC", "pts":50},
+                {"id":18, "name":"Dreadnought w/ PF, AC", "pts":50},
                 {"id":19, "name":"Hunter", "pts":75},
                 {"id":20, "name":"Land Raider", "pts":75},
-                {"id":21, "name":"Razorback w/ Synchronisierte Heavy Bolter", "pts":25},
-                {"id":22, "name":"Razorback w/ Synchronisierte Laserkanone", "pts":25},
+                {"id":21, "name":"Razorback w/ Twin Heavy Bolter", "pts":25},
+                {"id":22, "name":"Razorback w/ Twin Lascannon", "pts":25},
                 {"id":23, "name":"Land Speeder", "pts":40},
                 {"id":24, "name":"Land Speeder Tornado", "pts":40},
                 {"id":25, "name":"Land Speeder Typhoon", "pts":50},
@@ -48,7 +48,7 @@
                 {"id":35, "name":"Land Raider Crusader", "pts":75},
                 {"id":36, "name":"4 Land Raiders", "pts":0},
                 {"id":37, "name":"4 Land Raider Crusaders", "pts":0},
-                {"id":38, "name":"Cybot w/ TLC, ML", "pts":50},
+                {"id":38, "name":"Dreadnought w/ TLC, ML", "pts":50},
 
                 {"id":40, "name":" 4 Predator Destructors", "pts":0},
                 {"id":41, "name":" 2 Predator Destructors, 2 Predator Annihilators", "pts":25},
@@ -56,7 +56,7 @@
 
         ],
         "formationConstraints":[
-                {"maxPercent":33.5, "name":"Unterstützungsverbände", "from":[512,514,515] },
+                {"maxPercent":33.5, "name":"Support Formations", "from":[512,514,515] },
                 {"min":1, "max":1, "from":[509]}
         ],
         "upgradeConstraints":[

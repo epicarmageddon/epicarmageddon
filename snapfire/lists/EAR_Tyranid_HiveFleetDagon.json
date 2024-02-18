@@ -1,5 +1,5 @@
 {
-  "id": "EA-R Schwarmflotte Dagon",
+  "id": "EA-R Hive Fleet Dagon",
   "version": "Approved 1.0.Beta",
   "by": "EA-Ragnarok",
   "sections": [
@@ -11,88 +11,88 @@
           "name": "Nexus Swarm (1-4 Instinctive Swarms)",
           "pts": 425,
 		  "units": "Dagon Dominatrix",
-          "Erweiterungen": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118]
+          "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118]
         },
         {
           "id": 502,
           "name": "Tyrant Swarm (2-4 Instinctive Swarms)",
           "pts": 150,
-          "Erweiterungen": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118,120]
+          "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118,120]
         },
         {
           "id": 503,
           "name": "Assault Swarm (2-4 Instinctive Swarms)",
           "pts": 100,
-          "Erweiterungen": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118,120]
+          "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,112,113,114,115,116,117,118,120]
         }
       ]
     },
 	{
-      "name": "SECONDARY SYNAPSE SWARMS <br/> Max 1 für jeweils Primary Synapse Swarm",
+      "name": "SECONDARY SYNAPSE SWARMS <br/> Max 1 for each Primary Synapse Swarm",
       "formations": [
 	  	    {
           "id": 512,
           "name": "Nest Swarm (1-2 Instinctive Swarms)",
           "units": "Hive Nest",
           "pts": 150,
-          "Erweiterungen": [100,101,102,103,104,105,108,109,111]
+          "upgrades": [100,101,102,103,104,105,108,109,111]
 		},
 	    {
           "id": 509,
           "name": "Breacher Swarm (1-2 Instinctive Swarms)",
           "pts": 0,
-          "Erweiterungen": [100,101,102,103,104,105,109,117,118,121,122,113,114]
+          "upgrades": [100,101,102,103,104,105,109,117,118,121,122,113,114]
 		},
           {
           "id": 504,
           "name": "Infestation Swarm (1-2 Instinctive Swarms)",
           "pts": 0,
-           "Erweiterungen": [118,117]
+           "upgrades": [118,117]
         },
         {
           "id": 505,
           "name": "Harasser Swarm (1-2 Instinctive Swarms)",
           "pts": 25,
-          "Erweiterungen": [130,109,106,107]
+          "upgrades": [130,109,106,107]
         }
       ]
     },
     {
-      "name": "COMMON INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 für jeweils Primary Synapse Swarm",
+      "name": "COMMON INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 for each Primary Synapse Swarm",
       "formations": [
           {"id": 506,
             "name": "Genestealer Swarm",
             "units": "Broodlord",
             "pts": 25,
-            "Erweiterungen": [140]},
+            "upgrades": [140]},
     {
           "id": 507,
           "name": "Lictor Swarm",
-            "units": "Vier Lictors",
+            "units": "Four Lictors",
           "pts": 225,
-          "Erweiterungen": []
+          "upgrades": []
         }
       ]
     },
     {
-      "name": "RARE INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 für jeweils Primary Synapse Swarm",
+      "name": "RARE INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 for each Primary Synapse Swarm",
       "formations": [
     {
           "id": 510,
           "name": "Bio-Titan",
           "pts": 0,
-          "Erweiterungen": []
+          "upgrades": []
     },
     {
           "id": 511,
           "name": "Bio-Vessel",
           "pts": 0,
-          "Erweiterungen": []
+          "upgrades": []
       }
       ]
     }
   ],
-  "Erweiterungen": [
+  "upgrades": [
     {"id": 100,"name": "Gaunts (5 Termagants)","pts": 75},
     {"id": 101,"name": "Gaunts (4 Termagants, Hormagaunts)","pts": 75},
     {"id": 102,"name": "Gaunts (3 Termagants, 2 Hormagaunts)","pts": 75},

@@ -5,29 +5,29 @@
 
 	"sections":[
 		{"name":"ADEPTUS CUSTODES CORE DETACHMENTS", "formations":[
-			{"id":500, "name":"Custodes Guardian Squad", 	"pts":375, "units":"Zwei Sagittarum plus either Zwei Guardian OR Zwei Sentinel Guard", "Erweiterungen":[12,10,11]}
+			{"id":500, "name":"Custodes Guardian Squad", 	"pts":375, "units":"Two Sagittarum plus either Two Guardian OR Two Sentinel Guard", "upgrades":[12,10,11]}
 		]},
 		
-		{"name":"ADEPTUS CUSTODES ELITE DETACHMENTS ( Bis zu 1 für jeweils Core Detachment)", "formations":[
-			{"id":510, "name":"Warden Wing",		"pts":325, "units":" 5 Wardens", "Erweiterungen":[12,10,11,24,25,22,23]},
-			{"id":511, "name":"Cybot Wing",		"pts":0, "Erweiterungen":[24,25]},
-			{"id":512, "name":"Aquilon Custodians",		"pts":375, "units":"Vier Aquilon Terminatoren", "Erweiterungen":[12,10,11,24,25,22,23]}
+		{"name":"ADEPTUS CUSTODES ELITE DETACHMENTS (Up to 1 for each Core Detachment)", "formations":[
+			{"id":510, "name":"Warden Wing",		"pts":325, "units":" 5 Wardens", "upgrades":[12,10,11,24,25,22,23]},
+			{"id":511, "name":"Dreadnaught Wing",		"pts":0, "upgrades":[24,25]},
+			{"id":512, "name":"Aquilon Custodians",		"pts":375, "units":"Four Aquilon Terminators", "upgrades":[12,10,11,24,25,22,23]}
 		]},
 
-		{"name":"ADEPTUS CUSTODES SUPPORT DETACHMENTS ( Bis zu 2 für jeweils Core Detachment)", "formations":[
-			{"id":520, "name":"Venatari Wing",		"pts":300, "units":"5 Venatari ", "Erweiterungen":[12,10,11]},
-			{"id":521, "name":"Kataphractoi",		"pts":250, "units":"6 Vertus Praetors ", "Erweiterungen":[12,10,11]},
-			{"id":522, "name":"Pallas Armour",		"pts":225, "units":"4 Pallas tanks ", "Erweiterungen":[]},
-			{"id":523, "name":"Caladius Armour",		"pts":225, "units":"3 Caladius tanks ", "Erweiterungen":[]},
-			{"id":524, "name":"Null Maiden Cadre",		"pts":300, "units":"Sechs Sisters of Silence units und 3 Null-Maiden Rhinos", "Erweiterungen":[20]}
+		{"name":"ADEPTUS CUSTODES SUPPORT DETACHMENTS (Up to 2 for each Core Detachment)", "formations":[
+			{"id":520, "name":"Venatari Wing",		"pts":300, "units":"5 Venatari ", "upgrades":[12,10,11]},
+			{"id":521, "name":"Kataphractoi",		"pts":250, "units":"6 Vertus Praetors ", "upgrades":[12,10,11]},
+			{"id":522, "name":"Pallas Armour",		"pts":225, "units":"4 Pallas tanks ", "upgrades":[]},
+			{"id":523, "name":"Caladius Armour",		"pts":225, "units":"3 Caladius tanks ", "upgrades":[]},
+			{"id":524, "name":"Null Maiden Cadre",		"pts":300, "units":"Six Sisters of Silence units and 3 Null-Maiden Rhinos", "upgrades":[20]}
 		]},
 
 		{"name":"AIRCRAFT AND NAVY (Max 33%)", "formations":[
-			{"id":530, "name": "Storm Talons", 	"units":"2 Storm Talons",	"pts":200, "Erweiterungen":[]},
-			{"id":531, "name": "Orion Assault Ship",	"units":" Ein Orion Assault Ship ",	"pts":225, "Erweiterungen":[]}
+			{"id":530, "name": "Storm Talons", 	"units":"2 Storm Talons",	"pts":200, "upgrades":[]},
+			{"id":531, "name": "Orion Assault Ship",	"units":" One Orion Assault Ship ",	"pts":225, "upgrades":[]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":10, "name":"Captain General",			"pts":50},
 		{"id":11, "name":"Oblivion Kinght Centura", 		"pts":50},
 		{"id":12, "name":"Tribune",				"pts":100},
@@ -37,8 +37,8 @@
 		{"id":22, "name":"Venerable Land Raider",		"pts":50},
 		{"id":23, "name":"Coronus",				"pts":50},
 		
-		{"id":24, "name":"Contemptor Cybot Achilles",	"pts":100},
-		{"id":25, "name":"Telemon Heavy Cybot",		"pts":100},
+		{"id":24, "name":"Contemptor Dreadnought Achilles",	"pts":100},
+		{"id":25, "name":"Telemon Heavy Dreadnought",		"pts":100},
 
 		{"id":26, "name":"2 Venerable Land Raiders",		"pts":0},
 		{"id":27, "name":"2 Coronus",				"pts":0}

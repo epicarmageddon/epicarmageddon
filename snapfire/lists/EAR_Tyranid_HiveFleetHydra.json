@@ -1,5 +1,5 @@
 {
-  "id": "EA-R Schwarmflotte Hydra",
+  "id": "EA-R Hive Fleet Hydra",
   "version": "Alpha 0.7.0",
   "by": "EA-Ragnarok",
   "sections": [
@@ -11,81 +11,81 @@
           "name": "Nexus Spawn Swarm (1-4 Instinctive Swarms)",
           "pts": 450,
 		  "units": "Hydra Dominatrix",
-          "Erweiterungen": [100,101,102,103,104,105,106,107,108,109,121,122,111,118,113,115,116,117]},
+          "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,111,118,113,115,116,117]},
         {
           "id": 502,
           "name": "Tyrant Swarm (2-4 Instinctive Swarms)",
           "pts": 150,
-          "Erweiterungen": [100,101,102,103,104,105,106,107,108,109,121,122,113,115,116,117,120]},
+          "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,113,115,116,117,120]},
         {
           "id": 503,
           "name": "Assault Swarm (2-4 Instinctive Swarms)",
           "pts": 100,
-          "Erweiterungen": [100,101,102,103,104,105,106,107,108,109,121,122,113,115,116,117,120]}
+          "upgrades": [100,101,102,103,104,105,106,107,108,109,121,122,113,115,116,117,120]}
       ]
     },
 	{
-      "name": "SECONDARY SYNAPSE SWARMS <br/> Max 1 für jeweils Primary Synapse Swarm",
+      "name": "SECONDARY SYNAPSE SWARMS <br/> Max 1 for each Primary Synapse Swarm",
       "formations": [
 	  	    {
           "id": 512,
           "name": "Tervigon Spawn Swarm (1-2 Instinctive Swarms)",
           "units": "Tervigon Prime",
           "pts": 175,
-          "Erweiterungen": [100,101,102,103,104,105,121,122,111,118,113]},
+          "upgrades": [100,101,102,103,104,105,121,122,111,118,113]},
 	    {
           "id": 509,
           "name": "Breacher Swarm (1-2 Instinctive Swarms)",
           "pts": 125,
-          "Erweiterungen": [100,101,102,103,104,105,117,121,122,115,116]},
+          "upgrades": [100,101,102,103,104,105,117,121,122,115,116]},
           {
           "id": 504,
           "name": "Infestation Swarm (1-2 Instinctive Swarms)",
           "pts": 150,
-           "Erweiterungen": [117]},
+           "upgrades": [117]},
         {
           "id": 505,
           "name": "Harridan Spawn Swarm (0-2 Instinctive Swarms)",
           "pts": 200,
-          "Erweiterungen": [106,107]}
+          "upgrades": [106,107]}
       ]
     },
     {
-      "name": "COMMON INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 für jeweils Primary Synapse Swarm",
+      "name": "COMMON INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 for each Primary Synapse Swarm",
       "formations": [
         {"id": 506,
           "name": "Genestealer Swarm",
           "units": "Broodlord",
           "pts": 25,
-          "Erweiterungen": [140]},
+          "upgrades": [140]},
     {
           "id": 507,
           "name": "Infiltrator Swarm",
           "pts": 225,
-          "Erweiterungen": []}
+          "upgrades": []}
       ]
     },
     {
-      "name": "RARE INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 für jeweils Primary Synapse Swarm",
+      "name": "RARE INDEPENDENT SWARMS <br/> Max 33% <br/> Max 1 for each Primary Synapse Swarm",
       "formations": [
     {
           "id": 510,
           "name": "Bio-Titan",
           "pts": 0,
-          "Erweiterungen": [
+          "upgrades": [
           ]
     },
     {
           "id": 511,
           "name": "Bio-Vessel",
           "pts": 0,
-          "Erweiterungen": [
+          "upgrades": [
           ]
       }
       ]
     }
   ],
-  "Erweiterungen": [
+  "upgrades": [
     {"id": 100,      "name": "Gaunts (5 Termagants)", "pts": 75 },
     {"id": 101,      "name": "Gaunts (4 Termagants, Hormagaunts)",      "pts": 75    },
     {"id": 102,      "name": "Gaunts (3 Termagants, 2 Hormagaunts)",      "pts": 75    },

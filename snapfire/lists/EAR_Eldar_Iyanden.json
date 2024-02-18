@@ -4,36 +4,36 @@
    "by": "EA-Ragnarok",
    "sections": [
       {"name": "INDIVIDUALS", "formations": [
-          {"id": 507, "name": "Wraithgate", "pts": 50,  "Erweiterungen": []},
-  	    {"id": 508, "name": "Avatar", "pts": 0, "Erweiterungen": []}
+          {"id": 507, "name": "Wraithgate", "pts": 50,  "upgrades": []},
+  	    {"id": 508, "name": "Avatar", "pts": 0, "upgrades": []}
          ]},
       {"name": "WRAITHHOSTS", "formations": [
-            {"id": 510, "name": "Spirit Guard Wraithhost", "pts": 250, "Erweiterungen": [51,52,53,55]},
-            {"id": 511, "name": "Spirit Blade Wraithhost", "pts": 200, "Erweiterungen": [44,51,52,53,55]}
+            {"id": 510, "name": "Spirit Guard Wraithhost", "pts": 250, "upgrades": [51,52,53,55]},
+            {"id": 511, "name": "Spirit Blade Wraithhost", "pts": 200, "upgrades": [44,51,52,53,55]}
         ]},
-      {"name": "TROUPES <br/> Max 2 für jeweils Wraithhost", "formations": [
-            {"id": 513, "name": "Guardians", "pts": 150, "units": "Farseer", "Erweiterungen": [14,8,9,55,51,52,53]},
-            {"id": 613, "name": "Rangers", "pts": 0, "Erweiterungen": [11]},
-       	    {"id": 614, "name": "War Walker Troupe", "pts": 175, "units": "4 War Walkers", "Erweiterungen": []},
-            {"id": 616, "name": "Swords of Vaul", "pts": 250, "Erweiterungen": []},
-            {"id": 617, "name": "Night Spinner Troupe", "pts": 175, "units": "3 Night Spinners", "Erweiterungen": []},
-            {"id": 618, "name": "Engines of Vaul", "pts": 50, "Erweiterungen": [47,48,49]},
-            {"id": 619, "name": "Fire Prism Troupe", "pts": 250, "units": "3 Fire Prisms", "Erweiterungen": []},
-            {"id": 620, "name": "Aspect Warrior Troupe", "pts": 225, "Erweiterungen": [39]},
-            {"id": 512, "name": "Spirit Walker Troupe", "pts": 250,  "units": "4 Wraithlords",  "Erweiterungen": []}
+      {"name": "TROUPES <br/> Max 2 for each Wraithhost", "formations": [
+            {"id": 513, "name": "Guardians", "pts": 150, "units": "Farseer", "upgrades": [14,8,9,55,51,52,53]},
+            {"id": 613, "name": "Rangers", "pts": 0, "upgrades": [11]},
+       	    {"id": 614, "name": "War Walker Troupe", "pts": 175, "units": "4 War Walkers", "upgrades": []},
+            {"id": 616, "name": "Swords of Vaul", "pts": 250, "upgrades": []},
+            {"id": 617, "name": "Night Spinner Troupe", "pts": 175, "units": "3 Night Spinners", "upgrades": []},
+            {"id": 618, "name": "Engines of Vaul", "pts": 50, "upgrades": [47,48,49]},
+            {"id": 619, "name": "Fire Prism Troupe", "pts": 250, "units": "3 Fire Prisms", "upgrades": []},
+            {"id": 620, "name": "Aspect Warrior Troupe", "pts": 225, "upgrades": [39]},
+            {"id": 512, "name": "Spirit Walker Troupe", "pts": 250,  "units": "4 Wraithlords",  "upgrades": []}
          ]},
       {"name": "SPACESHIPS, AIRCRAFT &amp; TITANS <br/> Max 33%", "formations": [
-            {"id": 523, "name": "Wraithknights", "pts": 350, "Erweiterungen": []},
-            {"id": 519, "name": "Revenant Titans", "pts": 650, "units": "2 Revenant Titans", "Erweiterungen": []},
-            {"id": 518, "name": "Phantom Titan", "pts": 700, "Erweiterungen": []},
-            {"id": 520, "name": "Nightwing Aerie", "pts": 75, "Erweiterungen": [67]},
-            {"id": 521, "name": "Hemlock Aerie", "pts": 250,  "units": "2 Hemlock Wraithfighters",  "Erweiterungen": []},
-            {"id": 522, "name": "Vampire Raider", "pts": 200, "Erweiterungen": []},
-            {"id": 515, "name": "Wraithship", "pts": 150, "Erweiterungen": []},
-            {"id": 516, "name": "Dragonship", "pts": 300, "Erweiterungen": []}
+            {"id": 523, "name": "Wraithknights", "pts": 350, "upgrades": []},
+            {"id": 519, "name": "Revenant Titans", "pts": 650, "units": "2 Revenant Titans", "upgrades": []},
+            {"id": 518, "name": "Phantom Titan", "pts": 700, "upgrades": []},
+            {"id": 520, "name": "Nightwing Aerie", "pts": 75, "upgrades": [67]},
+            {"id": 521, "name": "Hemlock Aerie", "pts": 250,  "units": "2 Hemlock Wraithfighters",  "upgrades": []},
+            {"id": 522, "name": "Vampire Raider", "pts": 200, "upgrades": []},
+            {"id": 515, "name": "Wraithship", "pts": 150, "upgrades": []},
+            {"id": 516, "name": "Dragonship", "pts": 300, "upgrades": []}
          ]}
    ],
-   "Erweiterungen": [
+   "upgrades": [
       {"id": 8, "name": "2 Wraithblades", "pts": 50},
       {"id": 9, "name": "2 Wraithguards", "pts": 75},
       {"id": 11, "name": "Eldar Rangers", "pts": 25},
@@ -75,8 +75,8 @@
       {"id": 67, "name": "Nightwing Interceptors", "pts": 75},
       {"id": 71, "name": "War Walker", "pts": 25},
 
-      {"id": 75, "name": "2 Wraithknights (Synchronisierte Heavy Wraithcannon)", "pts": 0},
-      {"id": 76, "name": "2 Wraithknights (Ghostglaive und Scattershield)", "pts": 0},
+      {"id": 75, "name": "2 Wraithknights (Twin Heavy Wraithcannon)", "pts": 0},
+      {"id": 76, "name": "2 Wraithknights (Ghostglaive and Scattershield)", "pts": 0},
       {"id": 77, "name": "2 Wraithknights (Suncannon)", "pts": 0},
 
       {"id": 80, "name": "2x Titan Pulsars", "pts": 0},
@@ -87,7 +87,7 @@
       {"min": 1, "max": 1, "from": [508]},
       {"max": 1, "name": "Spacecraft", "from": [515,516]},
       {"max": 1, "from": [517]},
-      {"maxPercent": 33.5, "name": "Kriegsmaschinen & Allies", "from": [515,516,517,518,519,520,521,522,523]},
+      {"maxPercent": 33.5, "name": "War Engines & Allies", "from": [515,516,517,518,519,520,521,522,523]},
       {"max": 2, "name": "Troupes", "from": [612,613,614,615,616,617,618,619,620,512], "forEach": [510,511], "name2": "Wraithhost"}
    ],
    "upgradeConstraints": [

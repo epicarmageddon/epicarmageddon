@@ -1,27 +1,27 @@
 {
-	"id":"NetEA Snagga Snagga's Wild Orks",
+	"id":"NetEA Snagga Snagga's Feral Orks",
 	"version":"2019-10-16",
-	"notes":["A Warlord must be selected und assigned to the formation with the most units (WE DC counts as eine unit jeweils)."],
+	"notes":["A Warlord must be selected and assigned to the formation with the most units (WE DC counts as one unit each)."],
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"WAR HORDES", "formations":[
-			{"id":500, "name":"Warband",				"pts":-20,	"Erweiterungen":[11,39,13,23,52,29,57,61,58,67]},
-			{"id":501, "name":"Warband (Big)",			"pts":-90, "Erweiterungen":[11,39,13,23,52,29,57,61,58,67]},
-			{"id":502, "name":"Warband ('Uge)",		"pts":-160, "Erweiterungen":[11,39,13,23,52,29,57,58,61,67]},
-			{"id":503, "name":"Wildboyz",				"pts":-20, "Erweiterungen":[23,13, 52,29,57,61,58,67]},
-			{"id":504, "name":"Wildboyz (Big)",		"pts":-65,	"Erweiterungen":[23,13, 52,29,57,61,58,67]},
-			{"id":505, "name":"Wildboyz ('Uge)",		"pts":-110,	"Erweiterungen":[23,13, 52,29,57,61,58,67]},
-			{"id":506, "name":"Boarboyz Horde",		"pts":-25,	"Erweiterungen":[29,58,67]},
-			{"id":507, "name":"Boarboyz Horde (Big)",	"pts":-75,	"Erweiterungen":[29,58,67]},
-			{"id":508, "name":"Boarboyz Horde ('Uge)","pts":-125,	        "Erweiterungen":[29,58,67]},
-			{"id":509, "name":"Trappas",				"pts":150,	"units":"6 Wildboyz w/ Scout", "Erweiterungen":[13]},
-			{"id":510, "name":"Madboyz Horde",			"pts":10, 	"Erweiterungen":[35,58]},
-			{"id":511, "name":"Junka Brigade",			"pts":25, "Erweiterungen":[12,14,58,67]},
-			{"id":512, "name":"Junka Brigade (Big)",	"pts":0, "Erweiterungen":[12,14,58,67]},
-			{"id":514, "name":"Steam Gargant",			"pts":50,		"Erweiterungen":[36,37,38,67]}
+			{"id":500, "name":"Warband",				"pts":-20,	"upgrades":[11,39,13,23,52,29,57,61,58,67]},
+			{"id":501, "name":"Warband (Big)",			"pts":-90, "upgrades":[11,39,13,23,52,29,57,61,58,67]},
+			{"id":502, "name":"Warband ('Uge)",		"pts":-160, "upgrades":[11,39,13,23,52,29,57,58,61,67]},
+			{"id":503, "name":"Wildboyz",				"pts":-20, "upgrades":[23,13, 52,29,57,61,58,67]},
+			{"id":504, "name":"Wildboyz (Big)",		"pts":-65,	"upgrades":[23,13, 52,29,57,61,58,67]},
+			{"id":505, "name":"Wildboyz ('Uge)",		"pts":-110,	"upgrades":[23,13, 52,29,57,61,58,67]},
+			{"id":506, "name":"Boarboyz Horde",		"pts":-25,	"upgrades":[29,58,67]},
+			{"id":507, "name":"Boarboyz Horde (Big)",	"pts":-75,	"upgrades":[29,58,67]},
+			{"id":508, "name":"Boarboyz Horde ('Uge)","pts":-125,	        "upgrades":[29,58,67]},
+			{"id":509, "name":"Trappas",				"pts":150,	"units":"6 Wildboyz w/ Scout", "upgrades":[13]},
+			{"id":510, "name":"Madboyz Horde",			"pts":10, 	"upgrades":[35,58]},
+			{"id":511, "name":"Junka Brigade",			"pts":25, "upgrades":[12,14,58,67]},
+			{"id":512, "name":"Junka Brigade (Big)",	"pts":0, "upgrades":[12,14,58,67]},
+			{"id":514, "name":"Steam Gargant",			"pts":50,		"upgrades":[36,37,38,67]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":11, "name":"Boyz",				"pts":25},
 		{"id":12, "name":"Boyz + Junkatrukk",	"pts":25},
 		{"id":13, "name":"Nobz",				"pts":35},
@@ -32,7 +32,7 @@
 		{"id":30, "name":"Pigdok",				"pts":35},
 		{"id":35, "name":"Madboyz",				"pts":15},
 		{"id":36, "name":"Steam Gargant (2 Soopaguns)",		"pts":150},
-		{"id":37, "name":"Steam Gargant (Soopagun und Mega Choppa)",		"pts":150},
+		{"id":37, "name":"Steam Gargant (Soopagun and Mega Choppa)",		"pts":150},
 		{"id":38, "name":"Steam Gargant (2 Mega Choppa)",		"pts":150},
 		{"id":52, "name":"Squig Katapult",		"pts":25},
 		{"id":57, "name":"Squiggoth",			"pts":50},

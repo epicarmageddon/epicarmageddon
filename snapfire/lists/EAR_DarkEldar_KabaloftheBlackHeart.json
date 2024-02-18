@@ -2,35 +2,35 @@
 	"id":"EA-R Kabal of the Black Heart",
 	"version":"Approved 1.0.Beta",
 	"by":"EA-Ragnarok",
-	"notes":["Raiders / Venoms may carry Incubi, Warrior, Wych, Haemonculi und Wrack units. No Raider / Venom / Barge of Pleasure transport space may be left over if possible."],
+	"notes":["Raiders / Venoms may carry Incubi, Warrior, Wych, Haemonculi and Wrack units. No Raider / Venom / Barge of Pleasure transport space may be left over if possible."],
 	"sections":[
 		{"name":"DARK ELDAR SPECIALS", "formations":[
-			{"id":530, "name":"Wraithgate", "pts":50, "Erweiterungen":[]}
+			{"id":530, "name":"Wraithgate", "pts":50, "upgrades":[]}
 		]},
 		{"name":"BLACK HEART KABALS", "formations":[
-			{"id":511, "name":"Black Heart Coterie", "pts":225, "Erweiterungen":[57,61,70,40,41,42,43,72]},
-			{"id":512, "name":"Black Heart Syndicate", "pts":200,	"Erweiterungen":[61,70,40,41,42,43,72]},
-			{"id":513, "name":"Black Heart Flotilla", "pts":25, "Erweiterungen":[61]}
+			{"id":511, "name":"Black Heart Coterie", "pts":225, "upgrades":[57,61,70,40,41,42,43,72]},
+			{"id":512, "name":"Black Heart Syndicate", "pts":200,	"upgrades":[61,70,40,41,42,43,72]},
+			{"id":513, "name":"Black Heart Flotilla", "pts":25, "upgrades":[61]}
 		]},
-		{"name":"BLACK HEART PARTISANS <br/> Max 2 für jeweils Kabal", "formations":[
-			{"id":505, "name":"Reaver Gang", "pts":50, "Erweiterungen":[83]},
-			{"id":503, "name":"Wych Cult", "pts":200, "units":"4 Wyches", "Erweiterungen":[70,40,41,72]},
-			{"id":504, "name":"Hellion Murder", "pts":200, "units":"6 Hellions", "Erweiterungen":[62]},
-			{"id":506, "name":"Mandrake Throng", "pts":200, "units":"6 Mandrakes", "Erweiterungen":[]},
-			{"id":501, "name":"Haemonculi Coven", "pts":225, "units":"2 Haemonculi, 4 Wracks", "Erweiterungen":[65,70,40,41,72,73,74]},
-			{"id":502, "name":"Talos Swarm", "pts":225, "Erweiterungen":[]},
-			{"id":507, "name":"Scourge Flight", "pts":250, "units":"6 Scourges", "Erweiterungen":[]},
-			{"id":508, "name":"Vessel of Pain", "pts":250, "Erweiterungen":[]}
+		{"name":"BLACK HEART PARTISANS <br/> Max 2 for each Kabal", "formations":[
+			{"id":505, "name":"Reaver Gang", "pts":50, "upgrades":[83]},
+			{"id":503, "name":"Wych Cult", "pts":200, "units":"4 Wyches", "upgrades":[70,40,41,72]},
+			{"id":504, "name":"Hellion Murder", "pts":200, "units":"6 Hellions", "upgrades":[62]},
+			{"id":506, "name":"Mandrake Throng", "pts":200, "units":"6 Mandrakes", "upgrades":[]},
+			{"id":501, "name":"Haemonculi Coven", "pts":225, "units":"2 Haemonculi, 4 Wracks", "upgrades":[65,70,40,41,72,73,74]},
+			{"id":502, "name":"Talos Swarm", "pts":225, "upgrades":[]},
+			{"id":507, "name":"Scourge Flight", "pts":250, "units":"6 Scourges", "upgrades":[]},
+			{"id":508, "name":"Vessel of Pain", "pts":250, "upgrades":[]}
 		]},
 		{"name":"COMMORRAGH NAVY & WAR ENGINES <br/> Max 33%", "formations":[
-			{"id":525, "name":"Executioner Landing Module", "pts":450, "Erweiterungen":[]},
-			{"id":526, "name":"Razorwing Cast", "pts":225, "units":"2 Razorwing Fighters", "Erweiterungen":[]},
-			{"id":527, "name":"Voidraven Cast", "pts":250, "units":"2 Voidraven Interdictors", "Erweiterungen":[]},
-			{"id":523, "name":"Slavebringer Assault Boat", "pts":200, "Erweiterungen":[]},
-			{"id":522, "name":"Torture Class Cruiser", "pts":250, "Erweiterungen":[]}
+			{"id":525, "name":"Executioner Landing Module", "pts":450, "upgrades":[]},
+			{"id":526, "name":"Razorwing Cast", "pts":225, "units":"2 Razorwing Fighters", "upgrades":[]},
+			{"id":527, "name":"Voidraven Cast", "pts":250, "units":"2 Voidraven Interdictors", "upgrades":[]},
+			{"id":523, "name":"Slavebringer Assault Boat", "pts":200, "upgrades":[]},
+			{"id":522, "name":"Torture Class Cruiser", "pts":250, "upgrades":[]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":1, "name":"Archon w/ Portable Webway Portal", "pts":50},
 		{"id":2, "name":"Dracon w/ Portable Webway Portal", "pts":100},
 		{"id":3, "name":"Haemonculus Ancient w/ Portable Webway Portal", "pts":50},
@@ -72,7 +72,7 @@
 
 	],
 	"formationConstraints":[
-		{"maxPercent": 33.5, "name": "Navy & Kriegsmaschinen", "from":[522,523,525,526,527,528]},
+		{"maxPercent": 33.5, "name": "Navy & War Engines", "from":[522,523,525,526,527,528]},
 		{"max":1, "from":[530]},
 		{"max":1, "from":[531]},
 		{"min":1, "max":1, "from":[511]},

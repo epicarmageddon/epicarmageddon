@@ -4,38 +4,38 @@
    "by": "EA Ragnarok Team",
    "sections": [
       {"name": "INDIVIDUALS", "formations": [
-            {"id": 501, "name": "Tomb Complex", "pts": 25, "Erweiterungen": []}
+            {"id": 501, "name": "Tomb Complex", "pts": 25, "upgrades": []}
          ]
       },
       {"name": "SAUTEKH NECRON PHALANXES",
          "formations": [
-            {"id": 601, "name": "Warrior Phalanx in Ghost Arks", "pts": 25, "Erweiterungen": [89,22,23,7,25]}
+            {"id": 601, "name": "Warrior Phalanx in Ghost Arks", "pts": 25, "upgrades": [89,22,23,7,25]}
          ]
       },
-      {"name": "SAUTEKH NECRON UNTERSTÜTZUNGSVERBÄNDE",
+      {"name": "SAUTEKH NECRON SUPPORT FORMATIONS",
          "formations": [
-            {"id": 600, "name": "Warrior Phalanx", "pts": 50, "Erweiterungen": [21,22,24,99]},
+            {"id": 600, "name": "Warrior Phalanx", "pts": 50, "upgrades": [21,22,24,99]},
             {"id": 706, "name": "Blade Maniple", "units":"6 Tomb Blade units", "pts": 200},
-            {"id": 700, "name": "Iudicium Maniple", "pts": 250, "Erweiterungen": [3]},
-            {"id": 701, "name": "Eques Maniple", "pts": 300, "Erweiterungen": [1,2]},
-            {"id": 702, "name": "Monolith Maniple", "pts": 25, "Erweiterungen": [75,59]},
-            {"id": 704, "name": "Letum Maniple", "units":"4 Deathmark units", "pts": 200, "Erweiterungen": [1,5]},
-            {"id": 705, "name": "Triarch Maniple", "pts": 275, "Erweiterungen": [1,2,5,23,99]},
-            {"id": 708, "name": "Stalker Maniple", "units":"4 Triarch Stalkers", "pts": 200, "Erweiterungen": [88]},
+            {"id": 700, "name": "Iudicium Maniple", "pts": 250, "upgrades": [3]},
+            {"id": 701, "name": "Eques Maniple", "pts": 300, "upgrades": [1,2]},
+            {"id": 702, "name": "Monolith Maniple", "pts": 25, "upgrades": [75,59]},
+            {"id": 704, "name": "Letum Maniple", "units":"4 Deathmark units", "pts": 200, "upgrades": [1,5]},
+            {"id": 705, "name": "Triarch Maniple", "pts": 275, "upgrades": [1,2,5,23,99]},
+            {"id": 708, "name": "Stalker Maniple", "units":"4 Triarch Stalkers", "pts": 200, "upgrades": [88]},
 	    {"id": 709, "name": "Sentry Pylon", "units":"4 Sentry pylons", "pts": 225}
          ]
       },
       {"name": "SAUTEKH NECRON HARVESTERS AND AIRCRAFT",
          "formations": [
             {"id": 804, "name": "Tesseract Vault", "units":"1 Tesseract Vault", "pts": 300},
-            {"id": 805, "name": "Doom Scythes", "pts": 0, "Erweiterungen": [73]},
+            {"id": 805, "name": "Doom Scythes", "pts": 0, "upgrades": [73]},
             {"id": 806, "name": "Night Scythes", "units":"2 Night Scythes", "pts": 175},
             {"id": 807, "name": "Night Shroud Bomber", "units":"2 Night Shroud Bombers", "pts": 275},
             {"id": 801, "name": "Spacecraft", "units":"1 Scythe Class Harvester", "pts": 350}
          ]
       }
    ],
-   "Erweiterungen": [
+   "upgrades": [
       {"id": 1, "name": "Necron Lord", "pts": 25},
       {"id": 2, "name": "Necron Overlord", "pts": 100},
       {"id": 3, "name": "Necron Lord in Command Barge", "pts": 50},
@@ -76,7 +76,7 @@
       {"id": 74, "name": "Monolith", "pts": 75},
       {"id": 75, "name": "Obelisk", "pts": 50},
       {"id": 88, "name": "Seraptek Heavy Construct", "pts": 125},
-      {"id": 89, "name": "Cryptek und a Ghost Ark", "pts": 100},
+      {"id": 89, "name": "Cryptek and a Ghost Ark", "pts": 100},
       {"id": 90, "name": "Destroyer Lord", "pts": 25},
       {"id": 99, "name": "C'tan Shard", "pts": 100}
    ],
@@ -88,8 +88,8 @@
       {"max": 2, "from": [802]},
       {"max": 1, "from": [804]},
       {"max": 1, "from": [809]},
-      {"maxPercent": 33.5, "name": "Harvesters und Aircraft", "from": [800,801,802,803,804,805,806,807,809]},
-      {"max": 2, "name": "Unterstützungsverbände", "from": [600,700,701,702,703,704,705,706,707,708], "forEach": [601], "name2": "Necron Phalanx"}
+      {"maxPercent": 33.5, "name": "Harvesters and Aircraft", "from": [800,801,802,803,804,805,806,807,809]},
+      {"max": 2, "name": "Support Formations", "from": [600,700,701,702,703,704,705,706,707,708], "forEach": [601], "name2": "Necron Phalanx"}
    ],
    "upgradeConstraints": [
       {"max": 1, "from": [2,4,6], "perArmy": true},

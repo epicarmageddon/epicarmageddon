@@ -4,35 +4,35 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"INDIVIDUALS", "formations":[
-			{"id":501, "name":"Gate of Vaul",	"pts":100,		"Erweiterungen":[]},
-			{"id":502, "name":"Avatar",		"pts":0,		"Erweiterungen":[]}
+			{"id":501, "name":"Gate of Vaul",	"pts":100,		"upgrades":[]},
+			{"id":502, "name":"Avatar",		"pts":0,		"upgrades":[]}
 		]},
 		{"name":"VAULHOSTS", "formations":[
-			{"id":510, "name":"Engines of Vaul", "pts":50, "Erweiterungen":[40,34,35,36]},
-			{"id":511, "name":"Swords of Vaul",	"pts":300, "Erweiterungen":[29]}
+			{"id":510, "name":"Engines of Vaul", "pts":50, "upgrades":[40,34,35,36]},
+			{"id":511, "name":"Swords of Vaul",	"pts":300, "upgrades":[29]}
 
 		]},
-		{"name":"TROUPES <br/> Max 2 für jeweils Vaulhost", "formations":[
-			{"id":520, "name":"Mounted Aspect Warrior Troupe", "pts":325,  "units":"3 Wave Serpents", "Erweiterungen":[39]},
-			{"id":524, "name":"Mounted Guardian Troupe", "units":"Farseer, 2 Wave Serpents, 2 Falcons", "pts":300, "Erweiterungen":[]},
-			{"id":522, "name":"Lynx Troupe", "units":"2 Lynx",	"pts":275, "Erweiterungen":[]},
-			{"id":521, "name":"Fire Spinner Troupe", "pts":225, "units":"3 Night Spinners, Firestorm", "Erweiterungen":[]},
-			{"id":525, "name":"Fire Prism Troupe", "units":"3 Fire Prisms",	"pts":250, "Erweiterungen":[]},
-			{"id":526, "name":"Warp Hunter Troupe", "units":"3 Warp Hunters", "pts":175, "Erweiterungen":[]},
-			{"id":527, "name":"Wind Rider Troupe", "units":"6 Vypers",	"pts":200, "Erweiterungen":[]},
-			{"id":528, "name":"Hornet Troupe", "pts":0,  "Erweiterungen":[32]}
+		{"name":"TROUPES <br/> Max 2 for each Vaulhost", "formations":[
+			{"id":520, "name":"Mounted Aspect Warrior Troupe", "pts":325,  "units":"3 Wave Serpents", "upgrades":[39]},
+			{"id":524, "name":"Mounted Guardian Troupe", "units":"Farseer, 2 Wave Serpents, 2 Falcons", "pts":300, "upgrades":[]},
+			{"id":522, "name":"Lynx Troupe", "units":"2 Lynx",	"pts":275, "upgrades":[]},
+			{"id":521, "name":"Fire Spinner Troupe", "pts":225, "units":"3 Night Spinners, Firestorm", "upgrades":[]},
+			{"id":525, "name":"Fire Prism Troupe", "units":"3 Fire Prisms",	"pts":250, "upgrades":[]},
+			{"id":526, "name":"Warp Hunter Troupe", "units":"3 Warp Hunters", "pts":175, "upgrades":[]},
+			{"id":527, "name":"Wind Rider Troupe", "units":"6 Vypers",	"pts":200, "upgrades":[]},
+			{"id":528, "name":"Hornet Troupe", "pts":0,  "upgrades":[32]}
 		]},
 		{"name":"CRAFTWORLD NAVY & TITANS <br/> Max 33%", "formations":[
-			{"id":530, "name":"Wraithship",	"pts":150, "Erweiterungen":[]},
-			{"id":531, "name":"Dragonship",	"pts":300, "Erweiterungen":[]},
-		 	{"id":532, "name":"Warlock Titan",	"pts":850, "Erweiterungen":[]},
-			{"id":533, "name":"Phantom Titan",	"pts":700, "Erweiterungen":[40]},
-			{"id":534, "name":"Revenant Titans","pts":650, "units":"2 Revenant Titans", "Erweiterungen":[]},
-			{"id":535, "name":"Nightwing Aerie",	"pts":75, "Erweiterungen":[63]},
-			{"id":536, "name":"Phoenix Aerie",   "pts":325, "units":"3 Phoenix Bombers", "Erweiterungen":[]}
+			{"id":530, "name":"Wraithship",	"pts":150, "upgrades":[]},
+			{"id":531, "name":"Dragonship",	"pts":300, "upgrades":[]},
+		 	{"id":532, "name":"Warlock Titan",	"pts":850, "upgrades":[]},
+			{"id":533, "name":"Phantom Titan",	"pts":700, "upgrades":[40]},
+			{"id":534, "name":"Revenant Titans","pts":650, "units":"2 Revenant Titans", "upgrades":[]},
+			{"id":535, "name":"Nightwing Aerie",	"pts":75, "upgrades":[63]},
+			{"id":536, "name":"Phoenix Aerie",   "pts":325, "units":"3 Phoenix Bombers", "upgrades":[]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":15, "name":"Dire Avengers",		"pts":0},
 		{"id":16, "name":"Striking Scorpions",	"pts":0},
 		{"id":17, "name":"Howling Banshees",	"pts":0},
@@ -60,7 +60,7 @@
 		{"id":63, "name":"Nightwing",	"pts":75},
 
 		{"id":70, "name":"2x Titan Pulsar",	"pts":0},
-		{"id":71, "name":"Titan Pulsar, Titan Energiefaust",	"pts":0}
+		{"id":71, "name":"Titan Pulsar, Titan Power Fist",	"pts":0}
 	],
 	"formationConstraints":[
 		{"max":2, "name":"Troupes", "from":[520,521,522,524,525,526,527,528], "forEach":[510,511], "name2":"Vaulhost"},

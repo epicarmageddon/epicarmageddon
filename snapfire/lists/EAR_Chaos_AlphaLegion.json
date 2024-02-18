@@ -5,45 +5,45 @@
 	"notes":[],
 	"sections":[
 		{"name":"DAEMONS", "formations": [
-			{ "id":401, "name":"Daemon Pool", "pts":0, "Erweiterungen":[50,51] }
+			{ "id":401, "name":"Daemon Pool", "pts":0, "upgrades":[50,51] }
 		]},
-		{"name":"ALPHA LEGION CORE FORMATIONS <br/> Max 1 Cultist Coven für jeweils Alpha Legion Marines", "formations": [
-				{ "id":501, "name":"Alpha Legion Marines", "pts":200, "Erweiterungen":[30,31,32,33] },
-				{ "id":500, "name":"Cultist Coven", "pts":225, "Erweiterungen":[16,17,45,46,48] }
+		{"name":"ALPHA LEGION CORE FORMATIONS <br/> Max 1 Cultist Coven for each Alpha Legion Marines", "formations": [
+				{ "id":501, "name":"Alpha Legion Marines", "pts":200, "upgrades":[30,31,32,33] },
+				{ "id":500, "name":"Cultist Coven", "pts":225, "upgrades":[16,17,45,46,48] }
 		]},
-		{"name":"ALPHA LEGION ELITE FORMATIONS <br/> Max 1 für jeweils Alpha Legion Marines", "formations": [
-			{ "id":522, "name":"Destroyers", "pts":200,"units":"4 Alpha Legion Destroyers", "Erweiterungen":[33] },
-			{ "id":521, "name":"Headhunters", "pts":250, "units":"4 Alpha Legion Headhunters plus transport", "Erweiterungen":[31] },
-			{ "id":523, "name":"Lernaean Terminatoren", "pts":275,"units":"4 Lernaean Terminatoren plus transport", "Erweiterungen":[30] },
-			{ "id":520, "name":"Sicarians", "pts":275, "units":"4 Alpha Legion Sicarian Battle Tanks", "Erweiterungen":[33] }
+		{"name":"ALPHA LEGION ELITE FORMATIONS <br/> Max 1 for each Alpha Legion Marines", "formations": [
+			{ "id":522, "name":"Destroyers", "pts":200,"units":"4 Alpha Legion Destroyers", "upgrades":[33] },
+			{ "id":521, "name":"Headhunters", "pts":250, "units":"4 Alpha Legion Headhunters plus transport", "upgrades":[31] },
+			{ "id":523, "name":"Lernaean Terminators", "pts":275,"units":"4 Lernaean Terminators plus transport", "upgrades":[30] },
+			{ "id":520, "name":"Sicarians", "pts":275, "units":"4 Alpha Legion Sicarian Battle Tanks", "upgrades":[33] }
 
 		]},
-		{"name":"ALPHA LEGION CULTIST UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Cultist Coven", "formations": [
-			{ "id":534, "name":"Kavalleriezug", "pts":150, "units":"6 Kavallerieschwadron", "Erweiterungen":[19] },
-			{ "id":532, "name":"Salamander Schwadron", "pts":150, "units":"4 Salamander Scout Tanks", "Erweiterungen":[] },
-		{ "id":535, "name":"Flak Batterie", "pts":150, "units":"3 Hydra",  "Erweiterungen":[] },
-		{ "id":533, "name":"Greifen Batterie", "pts":175, "units":"3 Greifen", "Erweiterungen":[] }
+		{"name":"ALPHA LEGION CULTIST SUPPORT FORMATIONS <br/> Max 2 for each Cultist Coven", "formations": [
+			{ "id":534, "name":"Rough Rider Platoon", "pts":150, "units":"6 Rough Riders", "upgrades":[19] },
+			{ "id":532, "name":"Salamander Squadron", "pts":150, "units":"4 Salamander Scout Tanks", "upgrades":[] },
+		{ "id":535, "name":"Flak Battery", "pts":150, "units":"3 Hydras",  "upgrades":[] },
+		{ "id":533, "name":"Griffon Battery", "pts":175, "units":"3 Griffons", "upgrades":[] }
 
 	]},
 			{"name":"ALPHA LEGION NAVY <br/> Max 33%", "formations": [
-			{ "id":552, "name":"Chaos Fire Raptor", "pts":175, "Erweiterungen":[] },
-			{ "id":551, "name":"Alpha Legion Storm Eagle", "pts":175, "Erweiterungen":[] },
-			{ "id":550, "name":"Xiphon Schwadron", "pts":225, "units":"2 Chaos Xiphon Interceptors", "Erweiterungen":[] },
-			{ "id":553, "name":"Chaos Strike Cruiser", "pts":200, "Erweiterungen":[] }
+			{ "id":552, "name":"Chaos Fire Raptor", "pts":175, "upgrades":[] },
+			{ "id":551, "name":"Alpha Legion Storm Eagle", "pts":175, "upgrades":[] },
+			{ "id":550, "name":"Xiphon Squadron", "pts":225, "units":"2 Chaos Xiphon Interceptors", "upgrades":[] },
+			{ "id":553, "name":"Chaos Strike Cruiser", "pts":200, "upgrades":[] }
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{ "id":10, "name":"Alpha Legion Lord", "pts":0 },
 		{ "id":11, "name":"Alpha Legion Sorcerer", "pts":0 },
-		{ "id":12, "name":"Alpha Legion Lord <br/>'I'm Alpharius!' (Alpha Legion Lords all Zählt als being the Supreme Commander)", "pts":75 },
+		{ "id":12, "name":"Alpha Legion Lord <br/>'I'm Alpharius!' (Alpha Legion Lords all count as being the Supreme Commander)", "pts":75 },
 		{ "id":13, "name":"Aspiring Champion", "pts":0 },
 		{ "id":14, "name":"Daemon Prince", "pts":100 },
 
 		{ "id":15, "name":"Daemonic Icon", "pts":25 },
 
 		{ "id":16, "name":"Land Transporter", "pts":10 },
-		{ "id":17, "name":"Chimäre", "pts":25 },
-		{ "id":18, "name":"Höllenhund", "pts":25 },
+		{ "id":17, "name":"Chimera", "pts":25 },
+		{ "id":18, "name":"Hellhound", "pts":25 },
 
 		{ "id":19, "name":"Daemonic Icon", "pts":75 },
 
@@ -53,7 +53,7 @@
 		{ "id":25, "name":"Cultists", "pts":0 },
 		{ "id":26, "name":"Mutants", "pts":0 },
 
-		{ "id":30, "name":"Alpha Legion Cybot", "pts":50 },
+		{ "id":30, "name":"Alpha Legion Dreadnought", "pts":50 },
 		{ "id":31, "name":"Alpha Legion Vindicator", "pts":35 },
 		{ "id":32, "name":"Alpha Legion Land Raider", "pts":50 },
 		{ "id":33, "name":"Alpha Legion Predator", "pts":50 },

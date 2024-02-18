@@ -5,35 +5,35 @@
 	"notes":[],
 	"sections":[
 		{"name":"Questoris Lances", "formations":[
-			{"id":500, "name":"Questoris", 		"pts":75, "Erweiterungen":[100,101,102,103,104,105,140,141,142,143,144,149,145,146,150,151,152,153,154,159,155,156]}
+			{"id":500, "name":"Questoris", 		"pts":75, "upgrades":[100,101,102,103,104,105,140,141,142,143,144,149,145,146,150,151,152,153,154,159,155,156]}
 		]},
-		{"name":"Cerastus Lances / / Max 1 Cerastus Lance pro Questoris Lance", "formations":[
-			{"id":501, "name":"Cerastus",	"pts":300,  "Erweiterungen":[113,114,115,116]}
+		{"name":"Cerastus Lances / / Max 1 Cerastus Lance per Questoris Lance", "formations":[
+			{"id":501, "name":"Cerastus",	"pts":300,  "upgrades":[113,114,115,116]}
 	    ]},
-		{"name":"Arminger Lances / / Max 1 Arminger Lance pro Questoris oder Cerastus Lance", "formations":[
-			{"id":502, "name":"Arminger",			"pts":175, "Erweiterungen":[]}
+		{"name":"Arminger Lances / / Max 1 Arminger Lance per Questoris or Cerastus Lance", "formations":[
+			{"id":502, "name":"Arminger",			"pts":175, "upgrades":[]}
 		]},
-		{"name":"Relic Lances / / Max 1 of jeweils Relic Lance pro Army", "formations":[
-			{"id":503, "name":"Questoris Reliquae",	"pts":100,  "Erweiterungen":[160,161,165,166,163,164]},
-			{"id":504, "name":"Acastus Reliquae",	"pts":100,  "Erweiterungen":[]}
+		{"name":"Relic Lances / / Max 1 of each Relic Lance per Army", "formations":[
+			{"id":503, "name":"Questoris Reliquae",	"pts":100,  "upgrades":[160,161,165,166,163,164]},
+			{"id":504, "name":"Acastus Reliquae",	"pts":100,  "upgrades":[]}
 		]},
-		{"name":"Allies / / Max 1 pro Questoris Lance / / Max 33%", "formations":[
-			{"id":510, "name":"Skitarii",		"pts":300,  "Erweiterungen":[], "units":"2 Secutors, 8 Hypaspists, 1 Ordinatus Minorus-Corvus"},
+		{"name":"Allies / / Max 1 per Questoris Lance / / Max 33%", "formations":[
+			{"id":510, "name":"Skitarii",		"pts":300,  "upgrades":[], "units":"2 Secutors, 8 Hypaspists, 1 Ordinatus Minorus-Corvus"},
 
-			{"id":512, "name":"Dune Crawlers",		"pts":200,  "Erweiterungen":[]},
+			{"id":512, "name":"Dune Crawlers",		"pts":200,  "upgrades":[]},
 			
-            {"id":514, "name":"Thunderbolt Schwadron",				"pts":175,  "Erweiterungen":[], "units":"2 Thunderbolts"},
-            {"id":515, "name":"Maruder Schwadron",				"pts":225,  "Erweiterungen":[], "units":"2 Maruder Bombers"},
+            {"id":514, "name":"Thunderbolt Squadron",				"pts":175,  "upgrades":[], "units":"2 Thunderbolts"},
+            {"id":515, "name":"Maruder Squadron",				"pts":225,  "upgrades":[], "units":"2 Maruder Bombers"},
 			
-			{"id":520, "name":"Warhound Scout Titan Pack",	"pts":500, "Erweiterungen":[], "units":"2 Warhound Titans"},
-			{"id":521, "name":"Reaver Titan",			"pts":650, "Erweiterungen":[], "units":"1 Reaver Titan"},
+			{"id":520, "name":"Warhound Scout Titan Pack",	"pts":500, "upgrades":[], "units":"2 Warhound Titans"},
+			{"id":521, "name":"Reaver Titan",			"pts":650, "upgrades":[], "units":"1 Reaver Titan"},
 			
-			{"id":522, "name":"Orbital Support", 		"pts":150, "Erweiterungen":[]}
+			{"id":522, "name":"Orbital Support", 		"pts":150, "upgrades":[]}
 			
 		]}
 	],	
 	
-	"Erweiterungen":[
+	"upgrades":[
 	
 		{"id":100, "name":"Knight-Paladin (Questoris Battle Cannon, 2 Hvy Stubbers, Questoris Shock Lance, Reaper Chainsword)",								"pts":75},
 		{"id":101, "name":"Knight-Errant (Thermal Cannon, Hvy Stubber, Thunderstrike Gauntlet)",															"pts":75},
@@ -81,13 +81,13 @@
 		{"id":170, "name":"Onager Dune Crawler with Eradication Beamer",			 																		"pts":0},	
 		{"id":171, "name":"Onager Dune Crawler with Icarus Array",																							"pts":0},
 		
-		{"id":180, "name":"Lunar-Klasse Kreuzer",																											"pts":0},
-		{"id":181, "name":"Imperator-Klasse Schlachtschiff",																										"pts":25}
+		{"id":180, "name":"Lunar Class Cruiser",																											"pts":0},
+		{"id":181, "name":"Emperor Class Battleship",																										"pts":25}
 		
     ],
 	"formationConstraints":[
 		{"max":1, "name":"", "from":[501], "forEach":[500], "name2":"Questoris Lance"},
-		{"max":1, "name":"", "from":[502], "forEach":[500,501], "name2":"Questoris oder Cerastus Lance"},
+		{"max":1, "name":"", "from":[502], "forEach":[500,501], "name2":"Questoris or Cerastus Lance"},
 		{"max":1, "name":"", "from":[510,512,513,514,515,520,521,522,530], "forEach":[500], "name2":"Questoris Lance"},
 		{"maxPercent": 33.5, "name":"Mechanicus Allies", "from":[510,512,513,514,515,520,521,522,530]},
 		{"max":1, "perArmy":true, "from":[503]},

@@ -1,25 +1,25 @@
 {
 "id":"EpicUK Adeptus Titanicus",
 "version":"v26-01-19",
-"notes":["At least 1 Battle Titan must be selected at 2000 Punkte, with einen zusätzlichen required für every 1000 Punkte"],
+"notes":["At least 1 Battle Titan must be selected at 2000 points, with an additional required for every 1000 points"],
 "by":"EA-Ragnarok",
 "sections":[
 {
 "name":"TITANS & KNIGHTS",
 "formations":[
-        {"id":501,"name":"Warlord Battle Titan","pts":850, "Erweiterungen":[10,11,12]},
-        {"id":502,"name":"Reaver Battle Titan","pts":650, "Erweiterungen":[10,11,12]},
-        {"id":503,"name":"Warhound Pack","pts":550, "Erweiterungen":[]},
-        {"id":504,"name":"Warhound","pts":300, "Erweiterungen":[]},
-        {"id":505,"name":"Questoris Knight", "pts":0, "Erweiterungen":[13,14,15, 40,41,42]},
-        {"id":506,"name":"Cerastus Knight", "pts":0, "Erweiterungen":[13,14, 45]}
+        {"id":501,"name":"Warlord Battle Titan","pts":850, "upgrades":[10,11,12]},
+        {"id":502,"name":"Reaver Battle Titan","pts":650, "upgrades":[10,11,12]},
+        {"id":503,"name":"Warhound Pack","pts":550, "upgrades":[]},
+        {"id":504,"name":"Warhound","pts":300, "upgrades":[]},
+        {"id":505,"name":"Questoris Knight", "pts":0, "upgrades":[13,14,15, 40,41,42]},
+        {"id":506,"name":"Cerastus Knight", "pts":0, "upgrades":[13,14, 45]}
 ]},
 {"name":"AUXILIA",
 "formations":[
-        {"id":531,"name":"Adeptus Mechanicus Cruiser","pts":150, "Erweiterungen":[]}
+        {"id":531,"name":"Adeptus Mechanicus Cruiser","pts":150, "upgrades":[]}
 ]}
 ],
-"Erweiterungen":[
+"upgrades":[
         {"id":10,"name":"Legate","pts":50},
         {"id":11,"name":"Veteran Princeps","pts":25},
         {"id":12,"name":"Carapace Multilasers","pts":50},
@@ -54,7 +54,7 @@
 
         {"id":80,"name":"Gatling Blaster","pts":0},
         {"id":81,"name":"Laser Blaster","pts":0},
-        {"id":82,"name":"Reaver Titan Energiefaust","pts":0},
+        {"id":82,"name":"Reaver Titan Power Fist","pts":0},
         {"id":83,"name":"Reaver Titan Chainfist","pts":0},
         {"id":84,"name":"Melta Cannon","pts":0},
         {"id":85,"name":"Volcano Cannon","pts":0},

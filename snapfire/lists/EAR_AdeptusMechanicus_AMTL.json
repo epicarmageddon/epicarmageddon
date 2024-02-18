@@ -6,41 +6,41 @@
 {
 "name":"BATTLE TITAN FORMATIONS",
 "formations":[
-        {"id":500,"name":"Emperor Titan","pts":925, "Erweiterungen":[]},
+        {"id":500,"name":"Emperor Titan","pts":925, "upgrades":[]},
 
-		{"id":501,"name":"Warlord Titan (Deathbringer Class)","pts":725, "Erweiterungen":[]},
-        {"id":502,"name":"Warlord Titan (Nemesis Class)","pts":725, "Erweiterungen":[]},
+		{"id":501,"name":"Warlord Titan (Deathbringer Class)","pts":725, "upgrades":[]},
+        {"id":502,"name":"Warlord Titan (Nemesis Class)","pts":725, "upgrades":[]},
 
-		{"id":503,"name":"Reaver Titan (Hun Class)","pts":600, "Erweiterungen":[11]},
-        {"id":504,"name":"Reaver Titan (Goth Class)","pts":600, "Erweiterungen":[11]}
+		{"id":503,"name":"Reaver Titan (Hun Class)","pts":600, "upgrades":[11]},
+        {"id":504,"name":"Reaver Titan (Goth Class)","pts":600, "upgrades":[11]}
 
 ]},
 
-{"name":"RECON FORMATIONS <br/> Max 2 für jeweils Battle Titan formation",
+{"name":"RECON FORMATIONS <br/> Max 2 for each Battle Titan formation",
 "formations":[
-	    {"id":510,"name":"Warhounds","pts":0, "Erweiterungen":[11]},
-		{"id":520,"name":"Questoris Banner","pts":325, "Erweiterungen":[]}
+	    {"id":510,"name":"Warhounds","pts":0, "upgrades":[11]},
+		{"id":520,"name":"Questoris Banner","pts":325, "upgrades":[]}
 ]},
-{"name":"UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Battle Titan formation",
+{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Battle Titan formation",
 "formations":[
-    {"id":530,"name":"Secutarii Titan Guard","pts":225,"units":"Secutarii Axiarch","Erweiterungen":[15,130,131,132,133,134,135]},
-    {"id":531,"name":"Kastelan Maniple","pts":50,"units":"Tech-Priest", "Erweiterungen":[14]},
-    {"id":536, "name":"Castellax Maniple",		"pts":175, "units":"4 Castellax Battle-Automata, Tech-Priest", "Erweiterungen":[]},
-    {"id":535,"name":"Minoris Maniple","pts":75, "Erweiterungen":[]}
+    {"id":530,"name":"Secutarii Titan Guard","pts":225,"units":"Secutarii Axiarch","upgrades":[15,130,131,132,133,134,135]},
+    {"id":531,"name":"Kastelan Maniple","pts":50,"units":"Tech-Priest", "upgrades":[14]},
+    {"id":536, "name":"Castellax Maniple",		"pts":175, "units":"4 Castellax Battle-Automata, Tech-Priest", "upgrades":[]},
+    {"id":535,"name":"Minoris Maniple","pts":75, "upgrades":[]}
 ]},
 
-{"name":"ADEPTUS MECHANICUS NAVY <br/> Max 33% <br/> Max 1 Lysander Fighter für jeweils Warmonger Titan <br/> oder Anvilus Carapace Landing Pad",
+{"name":"ADEPTUS MECHANICUS NAVY <br/> Max 33% <br/> Max 1 Lysander Fighter for each Warmonger Titan <br/> or Anvilus Carapace Landing Pad",
 "formations":[
-        {"id":533,"name":"Lysander Fighter","pts":75 ,"Erweiterungen":[]},
-        {"id":532,"name":"Avenger Schwadron","pts":175,"units":"2 Avenger Strike Fighters","Erweiterungen":[]},
-		{"id":534,"name":"Ark Mechanicus Battleship","pts":225,"Erweiterungen":[]}
+        {"id":533,"name":"Lysander Fighter","pts":75 ,"upgrades":[]},
+        {"id":532,"name":"Avenger Squadron","pts":175,"units":"2 Avenger Strike Fighters","upgrades":[]},
+		{"id":534,"name":"Ark Mechanicus Battleship","pts":225,"upgrades":[]}
 ]}
 
 ],
-"Erweiterungen":[
+"upgrades":[
         {"id":10,"name":"Legate","pts":50},
         {"id":11,"name":"Veteran Princeps","pts":25},
-        {"id":13,"name":"Independent: Warhound Pack acts as zwei separate formations during the battle","pts":50},
+        {"id":13,"name":"Independent: Warhound Pack acts as two separate formations during the battle","pts":50},
         {"id":14,"name":"Kastelan Robot","pts":25},
         {"id":15,"name":"Gorgon","pts":100},
 
@@ -59,7 +59,7 @@
 
 	    {"id":40,"name":"Gatling Blaster","pts":0},
         {"id":41,"name":"Turbo-Laser Destructor","pts":0},
-	    {"id":42,"name":"Titan Energiefaust","pts":0},
+	    {"id":42,"name":"Titan Power Fist","pts":0},
         {"id":43,"name":"Laser Burner","pts":0},
         {"id":44,"name":"Titan Plasma Cannon","pts":0},
         {"id":45,"name":"Volcano Cannon","pts":0},
@@ -84,13 +84,13 @@
 
         {"id":80,"name":"Turbo-Laser Destructor","pts":0},
         {"id":81,"name":"Gatling Blaster","pts":0},
-	    {"id":83,"name":"Titan Energiefaust","pts":0},
+	    {"id":83,"name":"Titan Power Fist","pts":0},
         {"id":84,"name":"Laser Burner","pts":0},
 	    {"id":85,"name":"Melta Cannon","pts":0},
         {"id":86,"name":"Titan Chainfist","pts":0},
 
 	    {"id":90,"name":"Warp Missile","pts":0},
-	    {"id":91,"name":"Todesstoss-Raketensystem Missile","pts":0},
+	    {"id":91,"name":"Deathstrike Missile","pts":0},
 	    {"id":92,"name":"Quad Hydra Autocannon","pts":0},
 	    {"id":93,"name":"Anvilus Carapace Landing Pad","pts":0},
 	    {"id":94,"name":"Titan Plasma Cannon","pts":0},
@@ -107,7 +107,7 @@
 		{"id":100, "name":"2 Knight-Paladins (Rapid Fire Battle Cannon, Reaper Chainsword)",													"pts":0},
 		{"id":101, "name":"2 Knight-Errants (Thermal Cannon, Reaper Chainsword)",											         				"pts":0},
 		{"id":102, "name":"2 Knight-Crusaders (Rapid Fire Battle Cannon, Gatling Cannon)",							"pts":0},
-		{"id":103, "name":"2 Knight-Gallants (Gauntlet, Reaper Chainsword, Synchronisierte Icarus Autocannon)",							             			"pts":0},
+		{"id":103, "name":"2 Knight-Gallants (Gauntlet, Reaper Chainsword, Twin Icarus Autocannon)",							             			"pts":0},
 		{"id":104, "name":"2 Knight-Wardens (Gatling Cannon, Reaper Chainsword, Ironstorm Missile Pod)",											     "pts":0},
 
     	{"id":130, "name":"Ordinatus Minoris (Heavy Icarus Array)",	"pts":125},
@@ -130,7 +130,7 @@
         {"max":1, "perArmy":true, "from":[500]},
 		{"max":1, "perArmy":true, "from":[534]},
 		{"max":2, "name":"Recon Formations", "from":[510,520], "forEach":[500,501,502,503,504], "name2":"Battle Titan"},
-        {"max":2, "name":"Unterstützungsverbände", "from":[530,531,535,536], "forEach":[500,501,502,503,504], "name2":"Battle Titan"},
+        {"max":2, "name":"Support Formations", "from":[530,531,535,536], "forEach":[500,501,502,503,504], "name2":"Battle Titan"},
         {"maxPercent": 33.5,"name":"Adeptus Mechanicus Navy","from":[532,533,534]}
 ],
 "upgradeConstraints":[

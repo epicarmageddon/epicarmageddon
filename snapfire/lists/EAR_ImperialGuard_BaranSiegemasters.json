@@ -1,38 +1,38 @@
 {
-	"id":"EA-R Baran Belagerungsmeister",
+	"id":"EA-R Baran Siegemasters",
 	"version":"0.6.4",
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"CORE COMPANIES", "formations":[
-			{"id":501, "name":"1 Siegemaster Regiments HQ", "pts":350, "Erweiterungen":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Siegemaster mit einem Kommissar, 9 Siege Infanterie"},
-		 	{"id":502, "name":"Siege Infanterie Kompanie", "pts":300, "Erweiterungen":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Commander mit einem Kommissar, 9 Siege Infanterie"}
+			{"id":501, "name":"1 Siegemaster Regimental HQ", "pts":350, "upgrades":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Siegemaster with a Commissar, 9 Siege Infantry"},
+		 	{"id":502, "name":"Siege Infantry Company", "pts":300, "upgrades":[18,20,21,19,22,24,27,44,45,46], "units":"Baran Commander with a Commissar, 9 Siege Infantry"}
 
 		]},
-		{"name":"UNTERSTÜTZUNGSVERBÄNDE <br/> Max 3 für jeweils Core Kompanie", "formations":[
-			{"id":515, "name":"Heavy Tank Emplacement",			"pts":325, "Erweiterungen":[]},
-			{"id":520, "name":"Macharius Kompanie", 				"pts":375,  "units":"2 Macharius", "Erweiterungen":[]},
-			{"id":518, "name":"Sapper Kompanie",					"pts":250, "Erweiterungen":[], "units":"Baran Commander mit einem Kommissar, 7 Sappers, Hades Breaching Drill"},
-			{"id":511, "name":"Siege Artillerie Emplacement", 	"pts":250, "Erweiterungen":[15]},
-			{"id":519, "name":"Superschwerer Zug", 			"pts":200, "Erweiterungen":[]},
-			{"id":510, "name":"Haubitzen Emplacement", 			"pts":275, "Erweiterungen":[], "units":"4 Howitzers, 4 Gun Emplacements"},
-			{"id":514, "name":"Flak Emplacement", 				"pts":175, "Erweiterungen":[], "units":"3 Heavy AA Guns, 3 Gun Emplacements"},
-			{"id":517, "name":"Death Rider Zug",			"pts":150, "Erweiterungen":[], "units":"6 Death Riders"},
-			{"id":516, "name":"Siege Recon Schwadron",			"pts":150, "Erweiterungen":[], "units":"4 Siegfried Light Tanks"}
+		{"name":"SUPPORT FORMATIONS <br/> Max 3 for each Core Company", "formations":[
+			{"id":515, "name":"Heavy Tank Emplacement",			"pts":325, "upgrades":[]},
+			{"id":520, "name":"Macharius Company", 				"pts":375,  "units":"2 Macharius", "upgrades":[]},
+			{"id":518, "name":"Sapper Company",					"pts":250, "upgrades":[], "units":"Baran Commander with a Commissar, 7 Sappers, Hades Breaching Drill"},
+			{"id":511, "name":"Siege Artillery Emplacement", 	"pts":250, "upgrades":[15]},
+			{"id":519, "name":"Super-Heavy Platoon", 			"pts":200, "upgrades":[]},
+			{"id":510, "name":"Howitzer Emplacement", 			"pts":275, "upgrades":[], "units":"4 Howitzers, 4 Gun Emplacements"},
+			{"id":514, "name":"Flak Emplacement", 				"pts":175, "upgrades":[], "units":"3 Heavy AA Guns, 3 Gun Emplacements"},
+			{"id":517, "name":"Death Rider Platoon",			"pts":150, "upgrades":[], "units":"6 Death Riders"},
+			{"id":516, "name":"Siege Recon Squadron",			"pts":150, "upgrades":[], "units":"4 Siegfried Light Tanks"}
 		]},
-		{"name":"IMPERIALE LUFTSTREITKRÄFTE<br/> Max 33%", "formations":[
-			{"id":532, "name":"Thunderbolt Schwadron",	"pts":175, "Erweiterungen":[], "units":"2 Thunderbolts"},
-			{"id":533, "name":"Marauder Schwadron",		"pts":250, "Erweiterungen":[], "units":"2 Marauder Bombers"}
+		{"name":"IMPERIAL NAVY <br/> Max 33%", "formations":[
+			{"id":532, "name":"Thunderbolt Squadron",	"pts":175, "upgrades":[], "units":"2 Thunderbolt Fighters"},
+			{"id":533, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":6, "name":"4 Ragnarok Heavy Tanks, 4 Gun Emplacements",	"pts":0},
 		{"id":7, "name":"2 Malcador Annihilators, 4 Ragnarok Heavy Tanks, 4 Gun Emplacements",	"pts":175},
 		{"id":8, "name":"7 Ragnarok Heavy Tanks, 7 Gun Emplacements",	"pts":175},
 		{"id":9, "name":"2 Malcadors, 4 Ragnarok Heavy Tanks, 4 Gun Emplacements",	"pts":175},
-		{"id":12, "name":"3 Basilisk und 3 Gun Emplacements",								"pts":0},
-		{"id":13, "name":"3 Bombard und 3 Gun Emplacements",								"pts":0},
-		{"id":14, "name":"4 Medusa Guns und 4 Gun Emplacements",								"pts":0},
-		{"id":15, "name":"Todesstoss-Raketensystem und Gun Emplacement",								"pts":50},
+		{"id":12, "name":"3 Basilisk and 3 Gun Emplacements",								"pts":0},
+		{"id":13, "name":"3 Bombards and 3 Gun Emplacements",								"pts":0},
+		{"id":14, "name":"4 Medusa Guns and 4 Gun Emplacements",								"pts":0},
+		{"id":15, "name":"Deathstrike and Gun Emplacement",								"pts":50},
 
 		{"id":16, "name":"Baneblade",								"pts":0},
 		{"id":26, "name":"Shadowsword",								"pts":0},
@@ -41,17 +41,17 @@
 		{"id":18, "name":"3 Mole Launcher Squads, 12cm Trenches",					"pts":75},
 		{"id":20, "name":"4 Rapiers, 16cm Trenches",								"pts":75},
 		{"id":21, "name":"3 Thudd Guns, 12cm Trenches",							"pts":75},
-		{"id":19, "name":"2 Baran Unterstützungstrupps, 8cm Trenches",					"pts":50},
-		{"id":22, "name":"4 Baran Unterstützungstrupps, 16cm Trenches",					"pts":100},
+		{"id":19, "name":"2 Baran Fire Support Squads, 8cm Trenches",					"pts":50},
+		{"id":22, "name":"4 Baran Fire Support Squads, 16cm Trenches",					"pts":100},
 
-		{"id":23, "name":"3 Greifen",								"pts":75},
-		{"id":24, "name":"Scharfschützen",									"pts":25},
-		{"id":27, "name":"2 Scharfschützen",								"pts":50},
+		{"id":23, "name":"3 Griffons",								"pts":75},
+		{"id":24, "name":"Snipers",									"pts":25},
+		{"id":27, "name":"2 Snipers",								"pts":50},
 		{"id":25, "name":"40cm Razor Wire, 40cm Trenches",		"pts":0},
 		{"id":28, "name":"40cm Razor Wire, 20cm Trenches, 2 Bunkers",		"pts":25},
 
-		{ "id":40, "name":"Macharius Command Tank mit einem Kommissar (Synchronisierte Vanquishers)", "pts":0 },
-		{ "id":41, "name":"Macharius Command Tank mit einem Kommissar (Vulcan Mega-Bolter)", "pts":0 },
+		{ "id":40, "name":"Macharius Command Tank with a Commissar (Twin Vanquishers)", "pts":0 },
+		{ "id":41, "name":"Macharius Command Tank with a Commissar (Vulcan Mega-Bolter)", "pts":0 },
 
 		{ "id":44, "name":"3 Ragnarok Heavy Tanks, 3 Gun Emplacements",	"pts":175},
 		{ "id":45, "name":"2 Malcadors", "pts":175},
@@ -60,7 +60,7 @@
 	],
 	"formationConstraints":[
 		{"maxPercent": 33.5, "name":"Imperial Navy", "from":[530,531]},
-		{"max":3, "name":"Unterstützungsverbände", "from":[510,511,513,514,515,516,517,518,519,520], "forEach":[501,502], "name2":"Regiment Kompanie"},
+		{"max":3, "name":"Support Formations", "from":[510,511,513,514,515,516,517,518,519,520], "forEach":[501,502], "name2":"Regiment Company"},
 		{"max":1, "from":[513]},
 		{"min":1, "max":1, "from":[501]}
 

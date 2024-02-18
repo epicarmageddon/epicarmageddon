@@ -4,76 +4,76 @@
 	"notes":[],
 	"by":"MrDieAlot",
 	"sections":[
-		{"name":"BATTLE TITANS / / Army may not mix factions that hate jeweils other (Tzeentch hates Nurgle & vice-versa, Khorne hates Slaanesh & vice-versa) ", "formations":[
-			{"id":501, "name":"CARRION LORD   (Chaos Emperor Titan of Chaos Undivided)", "pts":1000,"Erweiterungen":[10,11,8,9,12,13,14,15,31,33,34,35,36,51,52,53,54,55,56]},
-			{"id":502, "name":"SKULLHOARDER   (Chaos Emperor Titan of Khorne)", 		"pts":1000,"Erweiterungen":[10,11,8,9,12,13,14,16,17,33,34,35,37,38,39,40,51,52,53,54,57,58]},
-			{"id":503, "name":"VICEKEEPER   (Chaos Emperor Titan of Slaanesh)", 		"pts":1000,"Erweiterungen":[10,11,8,9,12,13,14,20,33,34,35,48,49,50,51,52,53,54]},
-			{"id":504, "name":"BLIGHTSPREADER   (Chaos Emperor Titan of Nurgle)", 		"pts":1000,"Erweiterungen":[10,11,8,9,12,13,14,19,33,34,35,44,45,46,47,51,52,53,54,64,65,66,67]},
-			{"id":505, "name":"GIFTGRANTER   (Chaos Emperor Titan of Tzeentch)", 		"pts":1000,"Erweiterungen":[10,11,8,9,12,13,14,18,33,34,35,41,42,43,51,52,53,54,60,61,62,63]},
+		{"name":"BATTLE TITANS / / Army may not mix factions that hate each other (Tzeentch hates Nurgle & vice-versa, Khorne hates Slaanesh & vice-versa) ", "formations":[
+			{"id":501, "name":"CARRION LORD   (Chaos Emperor Titan of Chaos Undivided)", "pts":1000,"upgrades":[10,11,8,9,12,13,14,15,31,33,34,35,36,51,52,53,54,55,56]},
+			{"id":502, "name":"SKULLHOARDER   (Chaos Emperor Titan of Khorne)", 		"pts":1000,"upgrades":[10,11,8,9,12,13,14,16,17,33,34,35,37,38,39,40,51,52,53,54,57,58]},
+			{"id":503, "name":"VICEKEEPER   (Chaos Emperor Titan of Slaanesh)", 		"pts":1000,"upgrades":[10,11,8,9,12,13,14,20,33,34,35,48,49,50,51,52,53,54]},
+			{"id":504, "name":"BLIGHTSPREADER   (Chaos Emperor Titan of Nurgle)", 		"pts":1000,"upgrades":[10,11,8,9,12,13,14,19,33,34,35,44,45,46,47,51,52,53,54,64,65,66,67]},
+			{"id":505, "name":"GIFTGRANTER   (Chaos Emperor Titan of Tzeentch)", 		"pts":1000,"upgrades":[10,11,8,9,12,13,14,18,33,34,35,41,42,43,51,52,53,54,60,61,62,63]},
 
-			{"id":506, "name":"FORGELORD   (Chaos Warlord Titan of Chaos Undivided)", 		"pts":750, "Erweiterungen":[10,11,8,9,12,13,14,15,31,33,34,35,36,51,52,53,54,55,56,200,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233]},
-			{"id":507, "name":"BANELORD (Chaos Warlord Titan of Khorne)", 		"pts":750, "Erweiterungen":[10,11,8,9,12,13,14,16,17,33,34,35,37,38,39,40,51,52,53,54,57,58,200,201,202,203,204]},
-			{"id":508, "name":"PAINLORD  (Chaos Warlord Titan of Slaanesh)", 		"pts":750, "Erweiterungen":[10,11,8,9,12,13,14,20,33,34,35,48,49,50,200,201,202,203,204]},
-			{"id":509, "name":"PLAGUELORD (Chaos Warlord Titan of Nurgle)", 		"pts":750, "Erweiterungen":[10,11,8,9,12,13,14,19,33,34,35,44,45,46,47,64,65,66,67,200,201,202,203,204]},
-			{"id":510, "name":"WARPLORD  (Chaos Warlord Titan of Tzeentch)", 		"pts":750, "Erweiterungen":[10,11,8,9,12,13,14,18,33,34,35,41,42,43,60,61,62,63,200,201,202,203,204]},
+			{"id":506, "name":"FORGELORD   (Chaos Warlord Titan of Chaos Undivided)", 		"pts":750, "upgrades":[10,11,8,9,12,13,14,15,31,33,34,35,36,51,52,53,54,55,56,200,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233]},
+			{"id":507, "name":"BANELORD (Chaos Warlord Titan of Khorne)", 		"pts":750, "upgrades":[10,11,8,9,12,13,14,16,17,33,34,35,37,38,39,40,51,52,53,54,57,58,200,201,202,203,204]},
+			{"id":508, "name":"PAINLORD  (Chaos Warlord Titan of Slaanesh)", 		"pts":750, "upgrades":[10,11,8,9,12,13,14,20,33,34,35,48,49,50,200,201,202,203,204]},
+			{"id":509, "name":"PLAGUELORD (Chaos Warlord Titan of Nurgle)", 		"pts":750, "upgrades":[10,11,8,9,12,13,14,19,33,34,35,44,45,46,47,64,65,66,67,200,201,202,203,204]},
+			{"id":510, "name":"WARPLORD  (Chaos Warlord Titan of Tzeentch)", 		"pts":750, "upgrades":[10,11,8,9,12,13,14,18,33,34,35,41,42,43,60,61,62,63,200,201,202,203,204]},
 
-			{"id":511, "name":"HERALD (Chaos Reaver Titan of Chaos Undivided)",			"pts":550, "Erweiterungen":[31,33,34,35,36,51,52,53,54,55,56,300,301,311,312,302,303,304,305]},
-			{"id":512, "name":"RAVAGER (Chaos Reaver Titan of Khorne)",			"pts":550, "Erweiterungen":[33,34,35,37,38,39,40,51,52,53,54,57,58,300,301,311,312,302,303,304,306,307]},
-			{"id":513, "name":"REVILER (Chaos Reaver Titan of Slaanesh)",			"pts":550, "Erweiterungen":[33,34,35,48,49,50,300,301,311,312,302,303,304,310]},
-			{"id":514, "name":"REPUGNANT (Chaos Reaver Titan of Nurgle)",			"pts":550, "Erweiterungen":[33,34,35,44,45,46,47,64,65,66,67,300,301,311,312,302,303,304,309]},
-			{"id":515, "name":"MUTATOR (Chaos Reaver Titan of Tzeentch)",			"pts":550, "Erweiterungen":[33,34,35,41,42,43,60,61,62,63,300,301,311,312,302,303,304,308]}
+			{"id":511, "name":"HERALD (Chaos Reaver Titan of Chaos Undivided)",			"pts":550, "upgrades":[31,33,34,35,36,51,52,53,54,55,56,300,301,311,312,302,303,304,305]},
+			{"id":512, "name":"RAVAGER (Chaos Reaver Titan of Khorne)",			"pts":550, "upgrades":[33,34,35,37,38,39,40,51,52,53,54,57,58,300,301,311,312,302,303,304,306,307]},
+			{"id":513, "name":"REVILER (Chaos Reaver Titan of Slaanesh)",			"pts":550, "upgrades":[33,34,35,48,49,50,300,301,311,312,302,303,304,310]},
+			{"id":514, "name":"REPUGNANT (Chaos Reaver Titan of Nurgle)",			"pts":550, "upgrades":[33,34,35,44,45,46,47,64,65,66,67,300,301,311,312,302,303,304,309]},
+			{"id":515, "name":"MUTATOR (Chaos Reaver Titan of Tzeentch)",			"pts":550, "upgrades":[33,34,35,41,42,43,60,61,62,63,300,301,311,312,302,303,304,308]}
 		]},
-		{"name":"GREATER DAEMON ENGINES / / Ein Greater Daemon Engine formation may be taken für jeweils Battle Titan und Greater Daemon Possession upgrade", "formations":[
-			{"id":551, "name":"FORGEHOUND (Chaos Warhound of Chaos Undivided)",		"pts":300, "units":"Ein Forgehound Chaos Warhound", "Erweiterungen":[]},
-			{"id":552, "name":"FORGEHOUND Pack (Chaos Warhounds of Chaos Undivided)",	"pts":500, "units": "Zwei Forgehound Chaos Warhounds", "Erweiterungen":[]},
+		{"name":"GREATER DAEMON ENGINES / / One Greater Daemon Engine formation may be taken for each Battle Titan and Greater Daemon Possession upgrade", "formations":[
+			{"id":551, "name":"FORGEHOUND (Chaos Warhound of Chaos Undivided)",		"pts":300, "units":"One Forgehound Chaos Warhound", "upgrades":[]},
+			{"id":552, "name":"FORGEHOUND Pack (Chaos Warhounds of Chaos Undivided)",	"pts":500, "units": "Two Forgehound Chaos Warhounds", "upgrades":[]},
 
-			{"id":553, "name":"WILD WARHOUND Pack (Chaos Warhounds of Khorne)",	"pts":500, "units": "Zwei Wild Warhounds", "Erweiterungen":[]},
+			{"id":553, "name":"FERAL WARHOUND Pack (Chaos Warhounds of Khorne)",	"pts":500, "units": "Two Feral Warhounds", "upgrades":[]},
 
-			{"id":554, "name":"PLAGUEHOUND (Chaos Warhound of Nurgle)",		"pts":300, "units":"Ein Plaguehound Chaos Warhound",  "Erweiterungen":[]},
-			{"id":555, "name":"PLAGUEHOUND Pack (Chaos Warhounds of Nurgle)",	"pts":500, "units": "Zwei Plaguehound Chaos Warhounds", "Erweiterungen":[]},
+			{"id":554, "name":"PLAGUEHOUND (Chaos Warhound of Nurgle)",		"pts":300, "units":"One Plaguehound Chaos Warhound",  "upgrades":[]},
+			{"id":555, "name":"PLAGUEHOUND Pack (Chaos Warhounds of Nurgle)",	"pts":500, "units": "Two Plaguehound Chaos Warhounds", "upgrades":[]},
 
-			{"id":556, "name":"WARPHOUND (Chaos Warhound of Tzeentch)",		"pts":300, "units":"Ein Warphound Chaos Warhound",  "Erweiterungen":[]},
-			{"id":557, "name":"WARPHOUND Pack (Chaos Warhounds of Tzeentch)",	"pts":500, "units": "Zwei Warphound Chaos Warhounds", "Erweiterungen":[]},
+			{"id":556, "name":"WARPHOUND (Chaos Warhound of Tzeentch)",		"pts":300, "units":"One Warphound Chaos Warhound",  "upgrades":[]},
+			{"id":557, "name":"WARPHOUND Pack (Chaos Warhounds of Tzeentch)",	"pts":500, "units": "Two Warphound Chaos Warhounds", "upgrades":[]},
 
-			{"id":558, "name":"DEATH WHEEL (Chaos Undivided)",	"pts":50,  "Erweiterungen":[400]},
-			{"id":559, "name":"LORD OF BATTLES (Khorne)",	"pts":50,  "Erweiterungen":[401]},
-			{"id":560, "name":"GREATER BRASS SCORPION (Khorne)", 	"pts":50, "Erweiterungen":[402]},
-			{"id":561, "name":"SUBJUGATOR (Slaanesh)",	"pts":50,  "Erweiterungen":[403]},
-			{"id":562, "name":"QUESTOR (Slaanesh)",	"pts":50,  "Erweiterungen":[404]}
+			{"id":558, "name":"DEATH WHEEL (Chaos Undivided)",	"pts":50,  "upgrades":[400]},
+			{"id":559, "name":"LORD OF BATTLES (Khorne)",	"pts":50,  "upgrades":[401]},
+			{"id":560, "name":"GREATER BRASS SCORPION (Khorne)", 	"pts":50, "upgrades":[402]},
+			{"id":561, "name":"SUBJUGATOR (Slaanesh)",	"pts":50,  "upgrades":[403]},
+			{"id":562, "name":"QUESTOR (Slaanesh)",	"pts":50,  "upgrades":[404]}
 		]},
 
-		{"name":"LESSER DAEMON ENGINES / / Ein Lesser Daemon Engine formation may be taken für jeweils Battle Titan, Greater Daemon Engine Model und Greater Daemon Possession upgrade", "formations":[
-			{"id":570, "name":"DAEMON KNIGHTS Hell-Scourges (Slaanesh)",			"pts":75, "Erweiterungen":[405]},
-			{"id":571, "name":"DAEMON KNIGHTS Hell-Knights (Slaanesh)",			"pts":45, "Erweiterungen":[406]},
-			{"id":572, "name":"DAEMON KNIGHTS Hell-Striders (Slaanesh)",			"pts":225, "Erweiterungen":[]},
+		{"name":"LESSER DAEMON ENGINES / / One Lesser Daemon Engine formation may be taken for each Battle Titan, Greater Daemon Engine Model and Greater Daemon Possession upgrade", "formations":[
+			{"id":570, "name":"DAEMON KNIGHTS Hell-Scourges (Slaanesh)",			"pts":75, "upgrades":[405]},
+			{"id":571, "name":"DAEMON KNIGHTS Hell-Knights (Slaanesh)",			"pts":45, "upgrades":[406]},
+			{"id":572, "name":"DAEMON KNIGHTS Hell-Striders (Slaanesh)",			"pts":225, "upgrades":[]},
 
-			{"id":573, "name":"CHAOS KNIGHTS (Chaos Undivided)",	"pts":75, "Erweiterungen":[408]},
-			{"id":574, "name":"CHAOS KNIGHTS (Khorne)",	"pts":75, "Erweiterungen":[409]},
-			{"id":575, "name":"CHAOS KNIGHTS (Nurgle)",	"pts":75, "Erweiterungen":[410]},
-			{"id":576, "name":"CHAOS KNIGHTS (Tzeentch)",	"pts":75, "Erweiterungen":[411]},
+			{"id":573, "name":"CHAOS KNIGHTS (Chaos Undivided)",	"pts":75, "upgrades":[408]},
+			{"id":574, "name":"CHAOS KNIGHTS (Khorne)",	"pts":75, "upgrades":[409]},
+			{"id":575, "name":"CHAOS KNIGHTS (Nurgle)",	"pts":75, "upgrades":[410]},
+			{"id":576, "name":"CHAOS KNIGHTS (Tzeentch)",	"pts":75, "upgrades":[411]},
 
-			{"id":577, "name":"DAEMON ASSAULT ENGINES (Khorne)", "pts":5, "Erweiterungen":[412]},
+			{"id":577, "name":"DAEMON ASSAULT ENGINES (Khorne)", "pts":5, "upgrades":[412]},
 
-			{"id":578, "name":"DEFILERS (Chaos Undivided)",		"pts":20, "Erweiterungen":[413]},
-			{"id":579, "name":"DEFILERS (Nurgle)",		"pts":20, "Erweiterungen":[414]},
-			{"id":580, "name":"DEFILERS (Tzeentch)",		"pts":20, "Erweiterungen":[415]},
+			{"id":578, "name":"DEFILERS (Chaos Undivided)",		"pts":20, "upgrades":[413]},
+			{"id":579, "name":"DEFILERS (Nurgle)",		"pts":20, "upgrades":[414]},
+			{"id":580, "name":"DEFILERS (Tzeentch)",		"pts":20, "upgrades":[415]},
 
-			{"id":581, "name":"DAEMONIC ARTILLERIE (Khorne)",			"pts":20, "Erweiterungen":[416]}
+			{"id":581, "name":"DAEMONIC ARTILLERY (Khorne)",			"pts":20, "upgrades":[416]}
 		]},
 		{"name":"DAEMON POOL", "formations":[
-      		{"id": 600, "name": "LESSER DAEMON POOL", "pts": 0, "Erweiterungen": [450]}
+      		{"id": 600, "name": "LESSER DAEMON POOL", "pts": 0, "upgrades": [450]}
 
 		]},
 		{"name": "CHAOS NAVY / / Max 25%", "formations": [
-			{"id": 530, "name": "HELL BLADE SQUADRON", "pts": 200, "units": "Drei Hell Blade Fighters", "Erweiterungen": []},
-			{"id": 531, "name": "HELL TALON SQUADRON", "pts": 225, "units": "Zwei Hell Talon Fighter-Bombers", "Erweiterungen": []},
-			{"id": 532, "name": "HARBRINGER BOMBER", "pts": 350, "units": "Ein Harbringer Bomber", "Erweiterungen": []},
-			{"id": 533, "name": "CHAOS BATTLESHIP", "pts": 200, "units": "Ein Despoiler Class Battleship", "Erweiterungen": []}
+			{"id": 530, "name": "HELL BLADE SQUADRON", "pts": 200, "units": "Three Hell Blade Fighters", "upgrades": []},
+			{"id": 531, "name": "HELL TALON SQUADRON", "pts": 225, "units": "Two Hell Talon Fighter-Bombers", "upgrades": []},
+			{"id": 532, "name": "HARBRINGER BOMBER", "pts": 350, "units": "One Harbringer Bomber", "upgrades": []},
+			{"id": 533, "name": "CHAOS BATTLESHIP", "pts": 200, "units": "One Despoiler Class Battleship", "upgrades": []}
       ]}
 
 
 	],
-	"Erweiterungen":[
+	"upgrades":[
 
 		{"id":10, "name":"Retlaxi Cyclone (Chaos Undivided Support Weapon (Arm))",		"pts":0},
 		{"id":11, "name":"Retlaxi Cyclone (Chaos Undivided Support Weapon (Carapace))",		"pts":0},

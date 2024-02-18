@@ -6,32 +6,32 @@
 
 	"sections":[
 		{"name":"WHITE SCARS CORE DETACHMENTS", "formations":[
-			{"id":511, "name":"Taktischer Trupp",		"pts":275, "units":"6 Taktischer Trupp plus transport", "Erweiterungen":[15,16,17,18,14,38,39,30,31,36,37,32,33]},
-			{"id":516, "name":"Vindicators",	"pts":300, "units":"6 White Scars Vindicators", "Erweiterungen":[30,31]},
-			{"id":501, "name":"Bikes", 		"pts":325, "Erweiterungen":[15,16,17,18,14]},
-			{"id":512, "name":"Terminatoren",		"pts":425, "units":"4 Terminatoren", "Erweiterungen":[15,16,17,18,14,30,31,36,37]}
+			{"id":511, "name":"Tacticals",		"pts":275, "units":"6 Tacticals plus transport", "upgrades":[15,16,17,18,14,38,39,30,31,36,37,32,33]},
+			{"id":516, "name":"Vindicators",	"pts":300, "units":"6 White Scars Vindicators", "upgrades":[30,31]},
+			{"id":501, "name":"Bikes", 		"pts":325, "upgrades":[15,16,17,18,14]},
+			{"id":512, "name":"Terminators",		"pts":425, "units":"4 Terminators", "upgrades":[15,16,17,18,14,30,31,36,37]}
 		]},
-		{"name":"WHITE SCARS SUPPORT DETACHMENTS <br/> Max 2 für jeweils Core Detachment", "formations":[
-			{"id":500, "name":"Sturmtrupp", 		"pts":175, "units":"4 Sturmtrupp", "Erweiterungen":[15,16,17,18,14,36,37]},
-			{"id":522, "name":"Scout Bikes",	"pts":150, "Erweiterungen":[]},
-			{"id":504, "name":"Land Speeders",	"pts":200, "Erweiterungen":[]},
-			{"id":515, "name":"Whirlwinds",		"pts":275, "units":"4 Whirlwinds", "Erweiterungen":[36,37,30,31]},
-			{"id":506, "name":"Predators",		"pts":250, "Erweiterungen":[30,31,36,37]},
-			{"id":505, "name":"Landing Craft",			"pts":350, "Erweiterungen":[]},
-			{"id":509, "name":"Orbital Support",	"pts":200, "Erweiterungen":[]}
+		{"name":"WHITE SCARS SUPPORT DETACHMENTS <br/> Max 2 for each Core Detachment", "formations":[
+			{"id":500, "name":"Assaults", 		"pts":175, "units":"4 Assaults", "upgrades":[15,16,17,18,14,36,37]},
+			{"id":522, "name":"Scout Bikes",	"pts":150, "upgrades":[]},
+			{"id":504, "name":"Land Speeders",	"pts":200, "upgrades":[]},
+			{"id":515, "name":"Whirlwinds",		"pts":275, "units":"4 Whirlwinds", "upgrades":[36,37,30,31]},
+			{"id":506, "name":"Predators",		"pts":250, "upgrades":[30,31,36,37]},
+			{"id":505, "name":"Landing Craft",			"pts":350, "upgrades":[]},
+			{"id":509, "name":"Orbital Support",	"pts":200, "upgrades":[]}
 			]},
 		{"name":"WHITE SCARS NAVY & COLLEGIA TITANICA ALLIES <br/> Max 33%", "formations":[
-			{"id":517, "name":"Storm Talons",			"pts":200, "units":"2 Storm Talons", "Erweiterungen":[]},
-			{"id":513, "name":"Thunderhawk",			"pts":225, "Erweiterungen":[]},
-			{"id":524, "name":"Warhounds",	"pts":75, "Erweiterungen":[50]}
+			{"id":517, "name":"Storm Talons",			"pts":200, "units":"2 Storm Talons", "upgrades":[]},
+			{"id":513, "name":"Thunderhawk",			"pts":225, "upgrades":[]},
+			{"id":524, "name":"Warhounds",	"pts":75, "upgrades":[50]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":5, "name":"2 Land Raider Crusaders", 			"pts":0},
 		{"id":6, "name":"Land Raider Crusader, 2 Land Raiders", 			"pts":50},
 		{"id":7, "name":"4 Land Raiders", 			"pts":100},
 
-		{"id":10, "name":"White Scars Trike",		"pts":0},
+		{"id":10, "name":"White Scars Attack Bike",		"pts":0},
 		{"id":11, "name":"White Scars Melta Bike",		"pts":0},
 		{"id":12, "name":"White Scars Scout Bikes",		"pts":0},
 		{"id":13, "name":"White Scars Assault Bikes",			"pts":0},
@@ -39,8 +39,8 @@
 		{"id":14, "name":"Damocles Command Rhino",				"pts":25},
 
 		{"id":15, "name":"Captain",				"pts":25},
-		{"id":17, "name":"Ordenspriester", 				"pts":50},
-		{"id":16, "name":"Scriptor", 				"pts":25},
+		{"id":17, "name":"Chaplain", 				"pts":50},
+		{"id":16, "name":"Librarian", 				"pts":25},
 		{"id":18, "name":"Supreme Commander",			"pts":75},
 
 		{"id":20, "name":"White Scars Vindicator",		"pts":[0,0,0,0,50,25]},
@@ -55,11 +55,11 @@
 		{"id":32, "name":"Land Raider", 			"pts":50},
 		{"id":33, "name":"Land Raider Crusader", 			"pts":50},
 		{"id":34, "name":"4 Scouts plus transport",				"pts":0},
-		{"id":35, "name":"4 Scouts with Scharfschütze, plus transport",			"pts":25},
+		{"id":35, "name":"4 Scouts with Sniper, plus transport",			"pts":25},
 		{"id":36, "name":"White Scars Vindicator",		"pts":50},
 		{"id":37, "name":"2 White Scars Vindicators",		"pts":75},
-		{"id":38, "name":"Razorback w/ Synchronisierte Laserkanone",				"pts":25},
-		{"id":39, "name":"Razorback w/ Synchronisierte Heavy Bolter",				"pts":25},
+		{"id":38, "name":"Razorback w/ Twin Lascannon",				"pts":25},
+		{"id":39, "name":"Razorback w/ Twin Heavy Bolter",				"pts":25},
 		{"id":40, "name":"Strike Cruiser",		"pts":0},
 		{"id":41, "name":"Battle Barge",		"pts":75},
 		{"id":42, "name":"Whirlwind",		"pts":50},

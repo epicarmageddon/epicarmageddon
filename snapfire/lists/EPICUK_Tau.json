@@ -5,33 +5,33 @@
    "sections": [
       { "name": "CADRES",
          "formations": [
-            {"id": 532,"name": "Crisis Battlesuit Cadre","pts": 50,"Erweiterungen": [17,35]},
-            {"id": 531,"name": "Fire Warrior Cadre","pts": 225,"Erweiterungen": [62,63,60,35,61,54,55]}
+            {"id": 532,"name": "Crisis Battlesuit Cadre","pts": 50,"upgrades": [17,35]},
+            {"id": 531,"name": "Fire Warrior Cadre","pts": 225,"upgrades": [62,63,60,35,61,54,55]}
          ]
       },
-      {"name": "SUPPORT GROUPS <br/> Max 3 für jeweils Cadre",
+      {"name": "SUPPORT GROUPS <br/> Max 3 for each Cadre",
          "formations": [
-             {"id": 516,"name": "Armoured Support Group","pts": 200,"Erweiterungen": [80,81,82,83,84,55]},
-            {"id": 514,"name": "Broadside Group","pts": 300,"units": "6 XV88 Broadsides","Erweiterungen": []},
-            {"id": 518,"name": "Kroot Kindred","pts": 175,"units": "Kroot Master Shaper","Erweiterungen": [58,59]},
-            {"id": 512,"name": "Pathfinder Group","pts": 200,"units": "4 Pathfinders, 2 Devilfish","Erweiterungen": [35,54]},
-            {"id": 515,"name": "Recon Antigrav Group","pts": 175,"Erweiterungen": [35,54]},
-            {"id": 517,"name": "Skysweep Support Group","pts": 250,"units": "3 Sky Ray Gunships","Erweiterungen": []},
-            {"id": 513,"name": "Stealth Group","pts": 225,"units": "6 XV15 Stealth Battlesuits","Erweiterungen": [35]}
+             {"id": 516,"name": "Armoured Support Group","pts": 200,"upgrades": [80,81,82,83,84,55]},
+            {"id": 514,"name": "Broadside Group","pts": 300,"units": "6 XV88 Broadsides","upgrades": []},
+            {"id": 518,"name": "Kroot Kindred","pts": 175,"units": "Kroot Master Shaper","upgrades": [58,59]},
+            {"id": 512,"name": "Pathfinder Group","pts": 200,"units": "4 Pathfinders, 2 Devilfish","upgrades": [35,54]},
+            {"id": 515,"name": "Recon Skimmer Group","pts": 175,"upgrades": [35,54]},
+            {"id": 517,"name": "Skysweep Support Group","pts": 250,"units": "3 Sky Ray Gunships","upgrades": []},
+            {"id": 513,"name": "Stealth Group","pts": 225,"units": "6 XV15 Stealth Battlesuits","upgrades": [35]}
          ]
       },
       { "name": "AIR CASTE <br/> Max 33%",
          "formations": [
-            {"id": 521,"name": "Barracuda Schwadron","pts": 150,"units": "2 Barracuda Fighters","Erweiterungen": []},
-            {"id": 524,"name": "Manta Dropship","pts": 650,"Erweiterungen": []},
-            {"id": 526,"name": "Orca Dropship","pts": 150,"Erweiterungen": []},
-            {"id": 525,"name": "Spacecraft","pts": 200,"Erweiterungen": []},
-            {"id": 522,"name": "Tiger Shark Schwadron","pts": 175,"units": "2 Tiger Sharks","Erweiterungen": [70]},
-            {"id": 523,"name": "AX-1-0 Schwadron","pts": 350,"units": "2 Tiger Shark AX-1-0","Erweiterungen": []}
+            {"id": 521,"name": "Barracuda Squadron","pts": 150,"units": "2 Barracuda Fighters","upgrades": []},
+            {"id": 524,"name": "Manta Dropship","pts": 650,"upgrades": []},
+            {"id": 526,"name": "Orca Dropship","pts": 150,"upgrades": []},
+            {"id": 525,"name": "Spacecraft","pts": 200,"upgrades": []},
+            {"id": 522,"name": "Tiger Shark Squadron","pts": 175,"units": "2 Tiger Sharks","upgrades": [70]},
+            {"id": 523,"name": "AX-1-0 Squadron","pts": 350,"units": "2 Tiger Shark AX-1-0","upgrades": []}
          ]
       }
    ],
-   "Erweiterungen": [
+   "upgrades": [
       {"id": 17,"name": "XV8 Crisis Battlesuits","pts": 50},
       {"id": 19,"name": "9 Kroot Warriors","pts": 0},
       {"id": 20,"name": "14 Kroot Warriors","pts": 75},

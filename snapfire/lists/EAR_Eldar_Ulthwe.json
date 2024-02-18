@@ -4,36 +4,36 @@
    "by": "EA-Ragnarok",
    "sections": [
       {"name": "ULTHWÉ SPECIALS", "formations": [
-            {"id": 500, "name": "Wraithgate", "pts": 50, "Erweiterungen": []},
-            {"id": 501, "name": "Avatar", "pts": 0, "Erweiterungen": []}
+            {"id": 500, "name": "Wraithgate", "pts": 50, "upgrades": []},
+            {"id": 501, "name": "Avatar", "pts": 0, "upgrades": []}
          ]},
       {"name": "ULTHWÉ WARHOSTS", "formations": [
-            {"id": 510, "name": "Black Guardian Warhost", "pts": 175, "Erweiterungen": [43,44,51]},
-            {"id": 511, "name": "Mounted Black Guardian Warhost", "pts": 275,  "Erweiterungen": []},
-            {"id": 512, "name": "Swords of Ulthwé", "pts": 300,  "units": "4 Guardians", "Erweiterungen": []}
+            {"id": 510, "name": "Black Guardian Warhost", "pts": 175, "upgrades": [43,44,51]},
+            {"id": 511, "name": "Mounted Black Guardian Warhost", "pts": 275,  "upgrades": []},
+            {"id": 512, "name": "Swords of Ulthwé", "pts": 300,  "units": "4 Guardians", "upgrades": []}
          ]},
-      {"name": "ULTHWÉ TROUPES <br/> Max 1 für jeweils Warhost", "formations": [
-            {"id": 528, "name": "Windriders", "pts": 200, "Erweiterungen": []},
-            {"id": 529, "name": "Aspect Warrior Troupe", "pts": 225, "Erweiterungen": [39]},
-            {"id": 530, "name": "Ranger Troupe", "pts": 0, "Erweiterungen": [11]},
-            {"id": 531, "name": "War Walker Troupe", "pts": 175, "units": "4 War Walkers", "Erweiterungen": []},
-            {"id": 532, "name": "Night Spinner Troupe", "pts": 175, "units": "3 Night Spinners", "Erweiterungen": []},
-            {"id": 533, "name": "Engines of Vaul Troupe", "pts": 50, "Erweiterungen": [47,48,49]},
-            {"id": 534, "name": "Fire Prism Troupe", "pts": 250, "units": "3 Fire Prisms", "Erweiterungen": []}
+      {"name": "ULTHWÉ TROUPES <br/> Max 1 for each Warhost", "formations": [
+            {"id": 528, "name": "Windriders", "pts": 200, "upgrades": []},
+            {"id": 529, "name": "Aspect Warrior Troupe", "pts": 225, "upgrades": [39]},
+            {"id": 530, "name": "Ranger Troupe", "pts": 0, "upgrades": [11]},
+            {"id": 531, "name": "War Walker Troupe", "pts": 175, "units": "4 War Walkers", "upgrades": []},
+            {"id": 532, "name": "Night Spinner Troupe", "pts": 175, "units": "3 Night Spinners", "upgrades": []},
+            {"id": 533, "name": "Engines of Vaul Troupe", "pts": 50, "upgrades": [47,48,49]},
+            {"id": 534, "name": "Fire Prism Troupe", "pts": 250, "units": "3 Fire Prisms", "upgrades": []}
          ]},
       {"name": "ULTHWÉ SPACECRAFT, AIRCRAFT &amp; TITANS <br/> Max 33%","formations": [
-            {"id": 540, "name": "Wraithknights", "pts": 350, "Erweiterungen": []},
-            {"id": 547, "name": "Revenant Titans", "pts": 650, "units": "2 Revenant Titans", "Erweiterungen": []},
-            {"id": 541, "name": "Warlock Titan", "pts": 850, "Erweiterungen": []},
-            {"id": 542, "name": "Nightwing Aerie", "pts": 75, "Erweiterungen": [67]},
-            {"id": 544, "name": "Phoenix Aerie", "pts": 325, "units": "3 Phoenix Bombers",  "Erweiterungen": []},
-            {"id": 543, "name": "Vampire Raider", "pts": 200, "Erweiterungen": []},
-            {"id": 545, "name": "Wraithship", "pts": 150, "Erweiterungen": []},
-            {"id": 546, "name": "Dragonship", "pts": 300, "Erweiterungen": []}
+            {"id": 540, "name": "Wraithknights", "pts": 350, "upgrades": []},
+            {"id": 547, "name": "Revenant Titans", "pts": 650, "units": "2 Revenant Titans", "upgrades": []},
+            {"id": 541, "name": "Warlock Titan", "pts": 850, "upgrades": []},
+            {"id": 542, "name": "Nightwing Aerie", "pts": 75, "upgrades": [67]},
+            {"id": 544, "name": "Phoenix Aerie", "pts": 325, "units": "3 Phoenix Bombers",  "upgrades": []},
+            {"id": 543, "name": "Vampire Raider", "pts": 200, "upgrades": []},
+            {"id": 545, "name": "Wraithship", "pts": 150, "upgrades": []},
+            {"id": 546, "name": "Dragonship", "pts": 300, "upgrades": []}
 
          ]}
    ],
-   "Erweiterungen": [
+   "upgrades": [
 
        {"id": 10, "name": "Firestorm", "pts": 50},
 
@@ -59,8 +59,8 @@
        {"id": 30, "name": "5 Eldar Guardians, 3 Wave Serpents", "pts": 0},
        {"id": 31, "name": "3 Eldar Guardians, 2 Wraithguards, 4 Wave Serpents", "pts": 100},
 
-       {"id": 35, "name": "2 Wraithknights (Synchronisierte Heavy Wraithcannon)", "pts": 0},
-       {"id": 36, "name": "2 Wraithknights (Ghostglaive und Scattershield)", "pts": 0},
+       {"id": 35, "name": "2 Wraithknights (Twin Heavy Wraithcannon)", "pts": 0},
+       {"id": 36, "name": "2 Wraithknights (Ghostglaive and Scattershield)", "pts": 0},
        {"id": 37, "name": "2 Wraithknights (Suncannon)", "pts": 0},
 
 
@@ -97,7 +97,7 @@
       {"max": 1, "min": 1, "from": [501]},
       {"max": 1, "name": "Spacecraft", "from": [545,546]},
       {"max": 1, "from": [541]},
-      {"maxPercent": 33.5, "name": "Spacecraft, Aircraft und Titans", "from": [540,541,542,543,544,545,546,547]},
+      {"maxPercent": 33.5, "name": "Spacecraft, Aircraft and Titans", "from": [540,541,542,543,544,545,546,547]},
       {"max": 1, "name": "Troupe", "from": [528,529,530,531,532,533,534], "forEach": [510,511,512], "name2": "Ulthwé Warhost"}
 	  ],
    "upgradeConstraints": [

@@ -5,41 +5,41 @@
 
         "sections":[
                 {"name":"IMPERIAL FISTS DETACHMENTS", "formations": [
-                        { "id":501, "name":"Centurions",                               "pts":0,   "Erweiterungen":[28,29,30,31,32, 26,27] },
-                        { "id":502, "name":"Devastoren",   "units":"4 Devastoren plus transport / 2 Bunkers, 50cm Minefields/Trenches",   "pts":250, "Erweiterungen":[11,12,13,14, 16, 17,18, 26,27, 28,29,30,31,32,33,34, 45,46, 50,51]},
-                        { "id":503, "name":"Scouts",        "units":"4 Scouts plus enough Rhinos to transport the formation",        "pts":150, "Erweiterungen":[11,12,13,14, 44, 50,51] },
-                        { "id":504, "name":"Taktischer Trupp",     "units":"6 Taktischer Trupp plus transport / 2 Bunkers, 50cm Minefields/Trenches",     "pts":275, "Erweiterungen":[11,12,13,14, 16, 17,18, 26,27, 28,29,30,31,32,33,34, 45,46, 50,51] },
-                        { "id":505, "name":"Terminatoren",   "units":"4 Terminatoren",   "pts":325, "Erweiterungen":[11,12,13,14, 17,18, 26,27, 28,29,30,31,32] },
-                        { "id":506, "name":"Thunderfires",  "units":"4 Thunderfire Cannons",  "pts":250, "Erweiterungen":[15, 17,18] },
-                        { "id":507, "name":"Land Raiders",                             "pts":325, "Erweiterungen":[11,12,13,14, 16, 26,27] },
-                        { "id":508, "name":"Land Speeders",                            "pts":200, "Erweiterungen":[11,12,13,14] },
-                        { "id":509, "name":"Vindicators",                              "pts":225, "Erweiterungen":[11,12,13,14, 16] },
-                        { "id":510, "name":"Whirlwinds",                                "pts":300, "Erweiterungen":[11,12,13,14, 16] },
-                        { "id":511, "name":"Predators",                                "pts":250, "Erweiterungen":[11,12,13,14, 16, 26,27]},
-                        { "id":512, "name":"Fellblade",                                "pts":325, "Erweiterungen":[] },
-                        { "id":513, "name":"Bastion",                                  "pts":200, "Erweiterungen":[15,45,46,70,71] }
+                        { "id":501, "name":"Centurions",                               "pts":0,   "upgrades":[28,29,30,31,32, 26,27] },
+                        { "id":502, "name":"Devastators",   "units":"4 Devastators plus transport / 2 Bunkers, 50cm Minefields/Trenches",   "pts":250, "upgrades":[11,12,13,14, 16, 17,18, 26,27, 28,29,30,31,32,33,34, 45,46, 50,51]},
+                        { "id":503, "name":"Scouts",        "units":"4 Scouts plus enough Rhinos to transport the formation",        "pts":150, "upgrades":[11,12,13,14, 44, 50,51] },
+                        { "id":504, "name":"Tacticals",     "units":"6 Tacticals plus transport / 2 Bunkers, 50cm Minefields/Trenches",     "pts":275, "upgrades":[11,12,13,14, 16, 17,18, 26,27, 28,29,30,31,32,33,34, 45,46, 50,51] },
+                        { "id":505, "name":"Terminators",   "units":"4 Terminators",   "pts":325, "upgrades":[11,12,13,14, 17,18, 26,27, 28,29,30,31,32] },
+                        { "id":506, "name":"Thunderfires",  "units":"4 Thunderfire Cannons",  "pts":250, "upgrades":[15, 17,18] },
+                        { "id":507, "name":"Land Raiders",                             "pts":325, "upgrades":[11,12,13,14, 16, 26,27] },
+                        { "id":508, "name":"Land Speeders",                            "pts":200, "upgrades":[11,12,13,14] },
+                        { "id":509, "name":"Vindicators",                              "pts":225, "upgrades":[11,12,13,14, 16] },
+                        { "id":510, "name":"Whirlwinds",                                "pts":300, "upgrades":[11,12,13,14, 16] },
+                        { "id":511, "name":"Predators",                                "pts":250, "upgrades":[11,12,13,14, 16, 26,27]},
+                        { "id":512, "name":"Fellblade",                                "pts":325, "upgrades":[] },
+                        { "id":513, "name":"Bastion",                                  "pts":200, "upgrades":[15,45,46,70,71] }
                 ]},
-                {"name":"STATIC DEFENSES, NAVY & TITAN LEGIONS <br/> Max 33% <br/> Max 1 Hyperios und Tarantula für jeweils Scout Detachment", "formations":[
-                    { "id":521, "name":"Fortified Positions", "pts":50, "Erweiterungen":[] },
-                    { "id":522, "name":"Hyperios Platforms",        "units":"3 Hyperios Platforms",              "pts":125, "Erweiterungen":[] },
-                    { "id":523, "name":"Tarantula Sentry Gun",     "pts":0, "Erweiterungen": [] },
-                    { "id":531, "name":"Storm Talons",  "units":"2 Storm Talons",  "pts":200, "Erweiterungen":[] },
-                    { "id":532, "name":"Thunderhawk Saturation Bomber",            "pts":250, "Erweiterungen":[] },
-                    { "id":541, "name":"Reaver Titan",          "pts":650, "Erweiterungen":[] },
-                    { "id":542, "name":"Warlord Titan (Todesstoss-Raketensystem Configuration)",           "pts":825, "Erweiterungen":[] }
+                {"name":"STATIC DEFENSES, NAVY & TITAN LEGIONS <br/> Max 33% <br/> Max 1 Hyperios and Tarantula for each Scout Detachment", "formations":[
+                    { "id":521, "name":"Fortified Positions", "pts":50, "upgrades":[] },
+                    { "id":522, "name":"Hyperios Platforms",        "units":"3 Hyperios Platforms",              "pts":125, "upgrades":[] },
+                    { "id":523, "name":"Tarantula Sentry Gun",     "pts":0, "upgrades": [] },
+                    { "id":531, "name":"Storm Talons",  "units":"2 Storm Talons",  "pts":200, "upgrades":[] },
+                    { "id":532, "name":"Thunderhawk Saturation Bomber",            "pts":250, "upgrades":[] },
+                    { "id":541, "name":"Reaver Titan",          "pts":650, "upgrades":[] },
+                    { "id":542, "name":"Warlord Titan (Deathstrike Configuration)",           "pts":825, "upgrades":[] }
                 ]}
         ],
-        "Erweiterungen":[
+        "upgrades":[
                 { "id":11, "name":"Captain", "pts":50 },
-                { "id":12, "name":"Ordenspriester", "pts":50 },
-                { "id":13, "name":"Scriptor", "pts":50 },
+                { "id":12, "name":"Chaplain", "pts":50 },
+                { "id":13, "name":"Librarian", "pts":50 },
                 { "id":14, "name":"Supreme Commander", "pts":100 },
 
                 { "id":15, "name":"Techmarine", "pts":25 },
 
                 { "id":16, "name":"Hunter", "pts":75 },
-                { "id":17, "name":"Cybot (Hellfire)", "pts":50 },
-                { "id":18, "name":"Cybot (Siege)", "pts":50 },
+                { "id":17, "name":"Dreadnought (Hellfire)", "pts":50 },
+                { "id":18, "name":"Dreadnought (Siege)", "pts":50 },
 
                 { "id":19, "name":"Land speeder", "pts":0 },
                 { "id":20, "name":"Land Speeder Tornado", "pts":0 },
@@ -75,19 +75,19 @@
                 { "id":42, "name":"Assault Centurion", "pts":75 },
                 { "id":43, "name":"Devastator Centurion","pts":75 },
 
-                { "id":44, "name":"Scharfschützen","pts":50 },
+                { "id":44, "name":"Snipers","pts":50 },
 
                 { "id":45, "name":"SM Rapier", "pts":25 },
                 { "id":46, "name":"SM Thudd Gun", "pts":25 },
 
-                { "id":50, "name":"Razorback (Synchronisierte HB)",  "pts":25},
-                { "id":51, "name":"Razorback (Synchronisierte Las)",  "pts":25},
+                { "id":50, "name":"Razorback (Twin HB)",  "pts":25},
+                { "id":51, "name":"Razorback (Twin Las)",  "pts":25},
 
-                { "id":70, "name":"Tarantula (Synchronisierte Heavy Bolter), Gun Emplacement","pts":25 },
-                { "id":71, "name":"Tarantula (Synchronisierte Laserkanone), Gun Emplacement","pts":25 }
+                { "id":70, "name":"Tarantula (Twin Heavy Bolter), Gun Emplacement","pts":25 },
+                { "id":71, "name":"Tarantula (Twin Lascannon), Gun Emplacement","pts":25 }
         ],
         "formationConstraints":[
-                {"maxPercent":33.5, "name":"Static Defenses, Navy und Titan Legion Allies", "from":[521,522,523,531,532,541,542]},
+                {"maxPercent":33.5, "name":"Static Defenses, Navy and Titan Legion Allies", "from":[521,522,523,531,532,541,542]},
                 {"max": 1, "name": "Hyperios Platforms", "from": [522], "forEach": [503], "name2": "Scout Detachment"},
                 {"max": 1, "name": "Tarantula Sentry Guns", "from": [523], "forEach": [503], "name2": "Scout Detachment"}
         ],

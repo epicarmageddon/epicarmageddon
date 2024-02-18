@@ -2,44 +2,44 @@
 	"id":"EA-R Word Bearers",
 	"version":"Alpha 0.5.1",
 	"notes":
-		["Füge eine free Lesser Daemon to the Lesser Daemon pool pro Daemonic Pact"],
+		["Add one free Lesser Daemon to the Lesser Daemon pool per Daemonic Pact"],
 		"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"DAEMONS", "formations":[
-			{"id":666, "name":"Daemon Pool", "pts":0, "Erweiterungen":[71,72,73]}
+			{"id":666, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,73]}
 		]},
-		{"name":"WORD BEARERS CORE FORMATIONS <br/> Max 1 Cultist Coven für jeweils Word Bearers Retinue", "formations":[
-			{"id":500, "name":"Word Bearers Retinue", "pts":350, "units":"Daemonic Pact", "Erweiterungen":[14,40,41,47,80]},
-			{"id":501, "name":"Cultist Coven", "pts":250, "units":"Demagogue, Daemonic Pact", "Erweiterungen":[14,21,16,17]}
+		{"name":"WORD BEARERS CORE FORMATIONS <br/> Max 1 Cultist Coven for each Word Bearers Retinue", "formations":[
+			{"id":500, "name":"Word Bearers Retinue", "pts":350, "units":"Daemonic Pact", "upgrades":[14,40,41,47,80]},
+			{"id":501, "name":"Cultist Coven", "pts":250, "units":"Demagogue, Daemonic Pact", "upgrades":[14,21,16,17]}
 		]},
-		{"name":"WORD BEARERS ELITE FORMATIONS <br/> Max 2 für jeweils Word Bearers Retinue", "formations":[
-			{"id":505, "name":"Iconoclasts",	"pts":225, "units":"Diabolist, 4 Word Bearers Iconoclasts, Daemonic Pact", "Erweiterungen":[14]},
-			{"id":507, "name":"Havocs",	"pts":225, "units":"Diabolist, 4 Havocs, Daemonic Pact", "Erweiterungen":[14]},
-			{"id":504, "name":"Bike Kompanie",	"pts":325, "units":"Diabolist, 8 Chaos Assault Bikes, Daemonic Pact", "Erweiterungen":[14]},
-			{"id":502, "name":"Chaos Terminatoren", "pts":150, "units":"Daemonic Pact", "Erweiterungen":[50,14,41,47,80]}
+		{"name":"WORD BEARERS ELITE FORMATIONS <br/> Max 2 for each Word Bearers Retinue", "formations":[
+			{"id":505, "name":"Iconoclasts",	"pts":225, "units":"Diabolist, 4 Word Bearers Iconoclasts, Daemonic Pact", "upgrades":[14]},
+			{"id":507, "name":"Havocs",	"pts":225, "units":"Diabolist, 4 Havocs, Daemonic Pact", "upgrades":[14]},
+			{"id":504, "name":"Bike Company",	"pts":325, "units":"Diabolist, 8 Chaos Assault Bikes, Daemonic Pact", "upgrades":[14]},
+			{"id":502, "name":"Chaos Terminators", "pts":150, "units":"Daemonic Pact", "upgrades":[50,14,41,47,80]}
 		]},
-		{"name":"DAEMON ENGINE FORMATIONS <br/> Max 2 für jeweils Cultist Coven", "formations":[
-			{"id":512, "name":"Cerberites", "pts":200, "units": "3 Cerberites", "Erweiterungen":[]},
-			{"id":513, "name":"Maulerfiends", "pts":225, "units": "4 Maulerfiends", "Erweiterungen":[]},
-            {"id":515, "name":"Forgefiends", "pts": 200, "units": "2 Forgefiends", "Erweiterungen": []},
-			{"id":514, "name":"Defilers", "pts":250, "units": "4 Defilers", "Erweiterungen":[]}
+		{"name":"DAEMON ENGINE FORMATIONS <br/> Max 2 for each Cultist Coven", "formations":[
+			{"id":512, "name":"Cerberites", "pts":200, "units": "3 Cerberites", "upgrades":[]},
+			{"id":513, "name":"Maulerfiends", "pts":225, "units": "4 Maulerfiends", "upgrades":[]},
+            {"id":515, "name":"Forgefiends", "pts": 200, "units": "2 Forgefiends", "upgrades": []},
+			{"id":514, "name":"Defilers", "pts":250, "units": "4 Defilers", "upgrades":[]}
 		]},
 		{"name":"WAR ENGINES & CHAOS NAVY FORMATIONS <br/> Max 33%", "formations":[
-			{"id":518, "name":"Dreadblade", "pts":250, "units": "Daemonic Pact", "Erweiterungen":[]},
-			{"id":511, "name":"Death Wheel",	"pts":300, "Erweiterungen":[]},
-            {"id":516, "name":"Heldrakes", "pts": 225, "units": "2 Heldrakes", "Erweiterungen": []},
-			{"id":536, "name":"Harbringer Bomber", 	"pts":300, "Erweiterungen":[]},
-			{"id":520, "name":"Devastation Class Cruiser",	"pts":150, "Erweiterungen":[]},
-			{"id":521, "name":"Despoiler Class Battleship","pts":200, "Erweiterungen":[]}
+			{"id":518, "name":"Dreadblade", "pts":250, "units": "Daemonic Pact", "upgrades":[]},
+			{"id":511, "name":"Death Wheel",	"pts":300, "upgrades":[]},
+            {"id":516, "name":"Heldrakes", "pts": 225, "units": "2 Heldrakes", "upgrades": []},
+			{"id":536, "name":"Harbringer Bomber", 	"pts":300, "upgrades":[]},
+			{"id":520, "name":"Devastation Class Cruiser",	"pts":150, "upgrades":[]},
+			{"id":521, "name":"Despoiler Class Battleship","pts":200, "upgrades":[]}
 			]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 
 		{"id":9, "name":"Diabolist", 		"pts":0},
 
 		{"id":11, "name":"Dark Apostle", 		"pts":0},
 		{"id":12, "name":"Grand Apostle", 		"pts":50},
-		{"id":13, "name":"Daemon Prince (replaces the Dark Apostle und its unit)", 		"pts":50},
+		{"id":13, "name":"Daemon Prince (replaces the Dark Apostle and its unit)", 		"pts":50},
 
 		{"id":14, "name":"Icon Bearer", "pts":25},
 
@@ -62,10 +62,10 @@
 		{"id":41, "name":"Chaos Land Raider", 	"pts":50},
 		{"id":45, "name":"Chaos Stalker", "pts":50},
 
-		{"id":47, "name":"Chaos Cybot", "pts":50},
+		{"id":47, "name":"Chaos Dreadnought", "pts":50},
 
 
-		{"id":50, "name":"Chaos Terminatoren", "pts":50},
+		{"id":50, "name":"Chaos Terminators", "pts":50},
 
 		{"id":60, "name":"Death Wheel", "pts":225},
 		{"id":61, "name":"Decimator", "pts":175},
@@ -92,7 +92,7 @@
 		{"max":2, "name":"Daemon Engine formations", "from":[513,514,515,512], "forEach":[501], "name2":"Word Bearers Cultist Coven"},
 		{"max":2, "name":"Word Bearers Elite formations", "from":[502,503,504,505,506,507], "forEach":[500], "name2":"Word Bearers Retinue"},
 		{"min":1, "max":1, "from":[666]},
-		{"maxPercent": 33.5, "name":"Kriegsmaschinen & Chaos Navy", "from":[511,516,517,518,519,520,521,536,510]}
+		{"maxPercent": 33.5, "name":"War Engines & Chaos Navy", "from":[511,516,517,518,519,520,521,536,510]}
 	],
 	"upgradeConstraints":[
 		{"max":1, "perArmy":true, "from":[12,13,10]},

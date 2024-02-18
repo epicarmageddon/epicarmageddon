@@ -1,34 +1,34 @@
 {
    "id": "EpicUK Ulani Tank Regiment",
    "version":"v03-11-19",
-   "notes": ["Max 1 Kommissar für jeweils part of 500 Punkte in the army. The first must be allocated to the Regiments HQ (if any)."],
+   "notes": ["Max 1 Commissar for each part of 500 points in the army. The first must be allocated to the Regimental HQ (if any)."],
    "by":"EA-Ragnarok",
    "sections": [
       {	 "name": "ULANI COMPANIES",
          "formations": [
-            {"id": 521, "name": "Regiments HQ", "pts": 700, "units": "Ulani HQ Command Tank", "Erweiterungen": [26,31,32,27,28,29,30, 1] },
-            {"id": 522, "name": "Tank Kompanie",  "pts": 400, "Erweiterungen": [14,26,31,32,27,28,29,30,33,34,35, 1] }
+            {"id": 521, "name": "Regimental HQ", "pts": 700, "units": "Ulani HQ Command Tank", "upgrades": [26,31,32,27,28,29,30, 1] },
+            {"id": 522, "name": "Tank Company",  "pts": 400, "upgrades": [14,26,31,32,27,28,29,30,33,34,35, 1] }
          ]},
-      {	 "name": "ULANI UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Ulani Kompanie",
+      {	 "name": "ULANI SUPPORT FORMATIONS <br/> Max 2 for each Ulani Company",
          "formations": [
-            {"id": 501, "name": "Light Artillerie Zug", "pts": 100, "units": "3 Greifen", "Erweiterungen": [1] },
-            {"id": 502, "name": "Medium Artillerie Zug", "pts": 250, "units": "3 Basilisken", "Erweiterungen": [1] },
-            {"id": 503, "name": "Recon Support", "pts": 200, "units": "6 Salamander Scout Tanks", "Erweiterungen": [1] },
-            {"id": 505, "name": "Superschwere Tank Zug", "pts": 200, "Erweiterungen": [1] },
-            {"id": 506, "name": "Anti-Tank Support", "pts": 200, "units": "3 Leman Russ Tank Destroyers", "Erweiterungen": [1] },
-            {"id": 507, "name": "Flak Zug", "pts": 150, "units": "3 Hydra", "Erweiterungen": [1] },
-            {"id": 508, "name": "Conqueror Support", "pts": 250, "units": "6 Leman Russ Conquerors", "Erweiterungen": [1] },
-            {"id": 509, "name": "Höllenhund Support", "pts": 150, "units": "3 Höllenhunde", "Erweiterungen": [1] }
+            {"id": 501, "name": "Light Artillery Platoon", "pts": 100, "units": "3 Griffons", "upgrades": [1] },
+            {"id": 502, "name": "Medium Artillery Platoon", "pts": 250, "units": "3 Basilisks", "upgrades": [1] },
+            {"id": 503, "name": "Recon Support", "pts": 200, "units": "6 Salamander Scout Tanks", "upgrades": [1] },
+            {"id": 505, "name": "Super-Heavy Tank Platoon", "pts": 200, "upgrades": [1] },
+            {"id": 506, "name": "Anti-Tank Support", "pts": 200, "units": "3 Leman Russ Tank Destroyers", "upgrades": [1] },
+            {"id": 507, "name": "Flak Platoon", "pts": 150, "units": "3 Hydra", "upgrades": [1] },
+            {"id": 508, "name": "Conqueror Support", "pts": 250, "units": "6 Leman Russ Conquerors", "upgrades": [1] },
+            {"id": 509, "name": "Hellhound Support", "pts": 150, "units": "3 Hellhounds", "upgrades": [1] }
          ]},
-      {  "name": "IMPERIALE LUFTSTREITKRÄFTE<br/> Max 33%",
+      {  "name": "IMPERIAL NAVY <br/> Max 33%",
          "formations": [
-            {"id": 531, "name": "Thunderbolt Schwadron", "pts": 150, "units": "2 Thunderbolts", "Erweiterungen": [] },
-            {"id": 532, "name": "Marauder Schwadron", "pts": 250, "units": "2 Marauder Bombers", "Erweiterungen": [] },
-			{"id": 504, "name": "Orbital Support", "pts": 150, "Erweiterungen": [] }
+            {"id": 531, "name": "Thunderbolt Squadron", "pts": 150, "units": "2 Thunderbolt Fighters", "upgrades": [] },
+            {"id": 532, "name": "Marauder Squadron", "pts": 250, "units": "2 Marauder Bombers", "upgrades": [] },
+			{"id": 504, "name": "Orbital Support", "pts": 150, "upgrades": [] }
          ]}
    ],
-   "Erweiterungen": [
-       {"id":1, "name":"Kommissar",			"pts":0},
+   "upgrades": [
+       {"id":1, "name":"Commissar",			"pts":0},
 
        {"id": 11, "name": "Leman Russ", "pts": 0},
        {"id": 12, "name": "Leman Russ Executioner", "pts": 0},
@@ -40,24 +40,24 @@
       {"id": 20, "name": "Shadowsword", "pts": 0},
       {"id": 21, "name": "Stormblade", "pts": 0},
 
-      {"id": 23, "name": "Lunar-Klasse Kreuzer", "pts": 0},
-      {"id": 24, "name": "Imperator-Klasse Schlachtschiff", "pts": 50},
+      {"id": 23, "name": "Lunar Class Cruiser", "pts": 0},
+      {"id": 24, "name": "Emperor Class Battleship", "pts": 50},
 
       {"id": 26, "name": "3 Leman Russ", "pts": 175},
       {"id": 27, "name": "Hydra", "pts": 50},
-      {"id": 28, "name": "3 Höllenhunde", "pts": 100},
-      {"id": 29, "name": "3 Greifen", "pts": 50},
-      {"id": 30, "name": "6 Tank Rider Infanterie",  "pts": 100},
+      {"id": 28, "name": "3 Hellhounds", "pts": 100},
+      {"id": 29, "name": "3 Griffons", "pts": 50},
+      {"id": 30, "name": "6 Tank Rider Infantry",  "pts": 100},
 	  {"id": 31, "name": "3 Leman Russ Demolisher", "pts": 175},
 	  {"id": 32, "name": "3 Leman Russ Executioner", "pts": 175},
 	  {"id": 33, "name": "6 Leman Russ", "pts": 350},
-	  {"id": 34, "name": "6 Leman Russ Demolisher", "pts": 350},
+	  {"id": 34, "name": "6 Leman Russ Demolishers", "pts": 350},
 	  {"id": 35, "name": "6 Leman Russ Executioners", "pts": 350}
    ],
    "formationConstraints": [
       {"max": 1, "from": [521]},
       {"maxPercent": 33.5, "name": "Imperial Navy", "from": [531,532,504]},
-      {"max": 2, "name": "Unterstützungsverbände", "from": [501,502,503,505,506,507,508,509],"forEach": [521,522], "name2": "Kompanie"}
+      {"max": 2, "name": "Support Formations", "from": [501,502,503,505,506,507,508,509],"forEach": [521,522], "name2": "Company"}
    ],
    "upgradeConstraints": [
        {"max":1, "from":[1]},
@@ -68,8 +68,8 @@
       {"max": 1, "from": [28], "appliesTo": [521,522]},
       {"max": 1, "from": [29], "appliesTo": [521,522]},
       {"max": 1, "from": [30], "appliesTo": [521,522]},
-      {"max": 3, "from": [26,27,28,29,30,31,32], "appliesTo": [521],"name": "Erweiterungen"},
-      {"max": 3, "from": [33,27,28,29,30,34,35], "appliesTo": [522],"name": "Erweiterungen"},
+      {"max": 3, "from": [26,27,28,29,30,31,32], "appliesTo": [521],"name": "Upgrades"},
+      {"max": 3, "from": [33,27,28,29,30,34,35], "appliesTo": [522],"name": "Upgrades"},
       {"max": 1, "from": [14], "appliesTo": [522]},
 	  {"max": 1, "from": [26,31,32,33,34,35], "appliesTo": [522]},
       {"max": 6,"min": 6,"from": [11,12,13], "appliesTo": [522]},

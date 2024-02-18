@@ -4,34 +4,34 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"INDIVIDUALS", "formations":[
-			{"id":530, "name":"Webway Portal",	"pts":50,		"Erweiterungen":[]},
-			{"id":531, "name":"Kashnarak",		"pts":50,		"Erweiterungen":[]}
+			{"id":530, "name":"Webway Portal",	"pts":50,		"upgrades":[]},
+			{"id":531, "name":"Kashnarak",		"pts":50,		"upgrades":[]}
 		]},
 		{"name":"KABALS", "formations":[
-			{"id":511, "name":"Kabal Coterie", 	"pts":200,	"Erweiterungen":[53,10,12,14,16,56,57,19,22,23,24,61,70,71,72]},
-			{"id":512, "name":"Kabal Syndicate",	"pts":200,	"Erweiterungen":[17,18,53,14,56,19,23,61,70,71,72]},
-			{"id":513, "name":"Kabal Flotilla",	"pts":250,	"Erweiterungen":[17,18,53,69]}
+			{"id":511, "name":"Kabal Coterie", 	"pts":200,	"upgrades":[53,10,12,14,16,56,57,19,22,23,24,61,70,71,72]},
+			{"id":512, "name":"Kabal Syndicate",	"pts":200,	"upgrades":[17,18,53,14,56,19,23,61,70,71,72]},
+			{"id":513, "name":"Kabal Flotilla",	"pts":250,	"upgrades":[17,18,53,69]}
 		]},
-		{"name":"PARTISANS <br/> Max 2 für jeweils Kabal formation", "formations":[
-			{"id":501, "name":"Haemonculi Coven",			"pts":250, "Erweiterungen":[53,93,94,74,78]},
-			{"id":502, "name":"Talos Swarm",				"pts":200, "Erweiterungen":[72,74,78]},
-			{"id":503, "name":"Wych Cult",					"pts":200, "Erweiterungen":[75,76,77,53,70]},
-			{"id":504, "name":"Hellion Murder",				"pts":200, "Erweiterungen":[53]},
-			{"id":505, "name":"Reaver Gang",				"pts":200, 	"Erweiterungen":[53]},
-			{"id":506, "name":"Mandrake Throng",			"pts":225, "Erweiterungen":[]},
-			{"id":507, "name":"Scourge Flight",				"pts":225, "Erweiterungen":[53]},
-			{"id":508, "name":"Heavy Barges",				"pts":0,	"Erweiterungen":[69]}
+		{"name":"PARTISANS <br/> Max 2 for each Kabal formation", "formations":[
+			{"id":501, "name":"Haemonculi Coven",			"pts":250, "upgrades":[53,93,94,74,78]},
+			{"id":502, "name":"Talos Swarm",				"pts":200, "upgrades":[72,74,78]},
+			{"id":503, "name":"Wych Cult",					"pts":200, "upgrades":[75,76,77,53,70]},
+			{"id":504, "name":"Hellion Murder",				"pts":200, "upgrades":[53]},
+			{"id":505, "name":"Reaver Gang",				"pts":200, 	"upgrades":[53]},
+			{"id":506, "name":"Mandrake Throng",			"pts":225, "upgrades":[]},
+			{"id":507, "name":"Scourge Flight",				"pts":225, "upgrades":[53]},
+			{"id":508, "name":"Heavy Barges",				"pts":0,	"upgrades":[69]}
 		]},
 		{"name":"DARK ELDAR NAVY & WAR ENGINES <br/> Max 33%", "formations":[
-			{"id":522, "name":"Torture Class Cruiser",		"pts":300, "Erweiterungen":[]},
-			{"id":523, "name":"Corsair Escorts",			"pts":0, "Erweiterungen":[11]},
-			{"id":524, "name":"Tormentor Titan",			"pts":500, "Erweiterungen":[]},
-			{"id":525, "name":"Executor Landing Module",	"pts":750, "Erweiterungen":[]},
-			{"id":526, "name":"Raven Schwadron",				"pts":0, "Erweiterungen":[13]},
-			{"id":527, "name":"Razorwing Schwadron",			"pts":0, "Erweiterungen":[15]}
+			{"id":522, "name":"Torture Class Cruiser",		"pts":300, "upgrades":[]},
+			{"id":523, "name":"Corsair Escorts",			"pts":0, "upgrades":[11]},
+			{"id":524, "name":"Tormentor Titan",			"pts":500, "upgrades":[]},
+			{"id":525, "name":"Executor Landing Module",	"pts":750, "upgrades":[]},
+			{"id":526, "name":"Raven Squadron",				"pts":0, "upgrades":[13]},
+			{"id":527, "name":"Razorwing Squadron",			"pts":0, "upgrades":[15]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":11, "name":"Corsair Class Escort",	"pts":150},
 		{"id":13, "name":"Raven Fighter",			"pts":100},
 		{"id":15, "name":"Razorwing Bomber",		"pts":125},

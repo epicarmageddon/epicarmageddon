@@ -4,32 +4,32 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"IYANDEN CRAFTWORLD INDIVIDUALS", "formations":[
-			{"id":500, "name":"Avatar",										"pts":0,		"Erweiterungen":[]},
-			{"id":501, "name":"Wraithgate",									"pts":50,		"Erweiterungen":[]}
+			{"id":500, "name":"Avatar",										"pts":0,		"upgrades":[]},
+			{"id":501, "name":"Wraithgate",									"pts":50,		"upgrades":[]}
 		]},
 		{"name":"IYANDEN CRAFTWORLD WARHOSTS", "formations":[
-			{"id":601, "name":"Ghost Warhost",							"pts":0, "Erweiterungen":[60]},
-			{"id":603, "name":"Wraithlord Warhost",						"pts":350, "Erweiterungen":[], "units":"6 Wraithlords"}
+			{"id":601, "name":"Ghost Warhost",							"pts":0, "upgrades":[60]},
+			{"id":603, "name":"Wraithlord Warhost",						"pts":350, "upgrades":[], "units":"6 Wraithlords"}
 		]},
-		{"name":"IYANDEN CRAFTWORLD TROUPES <br/> Max 2 für jeweils Warhost", "formations":[
-			{"id":701, "name":"Aspect Warrior Troupe", 						"pts":175,	"Erweiterungen":[60,61,97]},
-			{"id":702, "name":"Ranger Troupe",								"pts":0, "Erweiterungen":[22]},
-			{"id":703, "name":"Guardian Troupe",							"pts":150, 	"Erweiterungen":[25,13,60,30,31,32,33]},
-			{"id":704, "name":"Windrider Troupe",							"pts":200, 	"Erweiterungen":[]},
-			{"id":705, "name":"War Walker Troupe",							"pts":50, 	"Erweiterungen":[28]},
-			{"id":706, "name":"Swords of Vaul Troupe",						"pts":0, "Erweiterungen":[61]},
-			{"id":707, "name":"Night Spinner Troupe",						"pts":175, "Erweiterungen":[], "units":"3 Night Spinners"},
-			{"id":708, "name":"Engines of Vaul Troupe",						"pts":0, "Erweiterungen":[64,65,66]}
+		{"name":"IYANDEN CRAFTWORLD TROUPES <br/> Max 2 for each Warhost", "formations":[
+			{"id":701, "name":"Aspect Warrior Troupe", 						"pts":175,	"upgrades":[60,61,97]},
+			{"id":702, "name":"Ranger Troupe",								"pts":0, "upgrades":[22]},
+			{"id":703, "name":"Guardian Troupe",							"pts":150, 	"upgrades":[25,13,60,30,31,32,33]},
+			{"id":704, "name":"Windrider Troupe",							"pts":200, 	"upgrades":[]},
+			{"id":705, "name":"War Walker Troupe",							"pts":50, 	"upgrades":[28]},
+			{"id":706, "name":"Swords of Vaul Troupe",						"pts":0, "upgrades":[61]},
+			{"id":707, "name":"Night Spinner Troupe",						"pts":175, "upgrades":[], "units":"3 Night Spinners"},
+			{"id":708, "name":"Engines of Vaul Troupe",						"pts":0, "upgrades":[64,65,66]}
 		]},
 		{"name":"IYANDEN NAVY & TITANS <br/> Max 33%", "formations":[
-			{"id":515, "name":"Wraithship",	"pts":150, "Erweiterungen":[]},
-			{"id":516, "name":"Dragonship",	"pts":300, "Erweiterungen":[]},
-			{"id":802, "name":"Nightwings",				"pts":300, "Erweiterungen":[], "units":"3 Nightwing Interceptors"},
-			{"id":803, "name":"Phoenix",					"pts":325, "Erweiterungen":[], "units":"3 Phoenix Bombers"},
-			{"id":804, "name":"Vampire Raider",						"pts":200, "Erweiterungen":[]},
-			{"id":805, "name":"Revenant Titans",					"pts":650, "Erweiterungen":[], "units":"2 Revenant Titans"},
-			{"id":806, "name":"Phantom Titan",						"pts":750, "Erweiterungen":[]},
-		 	{"id":807, "name":"Warlock Titan",						"pts":850, "Erweiterungen":[]}
+			{"id":515, "name":"Wraithship",	"pts":150, "upgrades":[]},
+			{"id":516, "name":"Dragonship",	"pts":300, "upgrades":[]},
+			{"id":802, "name":"Nightwings",				"pts":300, "upgrades":[], "units":"3 Nightwing Interceptors"},
+			{"id":803, "name":"Phoenix",					"pts":325, "upgrades":[], "units":"3 Phoenix Bombers"},
+			{"id":804, "name":"Vampire Raider",						"pts":200, "upgrades":[]},
+			{"id":805, "name":"Revenant Titans",					"pts":650, "upgrades":[], "units":"2 Revenant Titans"},
+			{"id":806, "name":"Phantom Titan",						"pts":750, "upgrades":[]},
+		 	{"id":807, "name":"Warlock Titan",						"pts":850, "upgrades":[]}
 
 
 
@@ -37,7 +37,7 @@
 
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":1, "name":"4 Wraithblades",							"pts":225},
 		{"id":2, "name":"5 Wraithblades",							"pts":275},
 		{"id":3, "name":"4 Wraithblades, Wraithguards",				"pts":275},

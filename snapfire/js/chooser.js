@@ -48,7 +48,7 @@ var ArmyforgeUI = {
 	},
 
 	addUpgrade:function(formation, upgradeType) {
-		formation.Erweiterungen.push( upgradeType );
+		formation.upgrades.push( upgradeType );
 		ArmyforgeUI.updateUpgrade(formation, upgradeType);
 		ArmyforgeUI.checkUpgradeMenuItems();		
 		ArmyforgeUI.checkWarnings();		
@@ -76,8 +76,8 @@ var ArmyforgeUI = {
 
 	checkUpgradeMenuItems:function() {
 		Force.formations.each(function(f) {
-			// formation Erweiterungen
-			f.type.Erweiterungen.each(function(u) {
+			// formation upgrades
+			f.type.upgrades.each(function(u) {
 				var id = '_' + f.id + '_' + u.id;
 				var msgs = f.cannotAdd(u);
 				if (msgs.empty()) {
@@ -89,7 +89,7 @@ var ArmyforgeUI = {
 			});
 			
 			// upgrade swaps			
-			f.Erweiterungen.uniq().each(function(u) {
+			f.upgrades.uniq().each(function(u) {
 				f.type.optionsFor(u).each( function(o) {
 					var id = '_' + f.id + '_' + u.id + '_' + o.id; 
 					var msgs = f.cannotSwap(u,o);
@@ -134,15 +134,15 @@ var ArmyforgeUI = {
 		return new Element('div', {'class':'listDiv'}).update(newTable);
 	},
 
-	createSwapPopup:function(formation, Erweiterungen, upgradeType) {
+	createSwapPopup:function(formation, upgrades, upgradeType) {
 		var menuItems = [];
-		Erweiterungen.each(function(x) {
+		upgrades.each(function(x) {
 			var id = formation.id + '_' + upgradeType.id + '_' + x.id;
-			var Punkte = x.pts - upgradeType.pts;
+			var points = x.pts - upgradeType.pts;
 			if (points > 0) {
-				points = '+' + Punkte;
+				points = '+' + points;
 			}
-			var menuItem = ArmyforgeUI.createMenuItem(id, x.name, Punkte);
+			var menuItem = ArmyforgeUI.createMenuItem(id, x.name, points);
 			menuItems.push(menuItem);		
 			menuItem.observe('click',
 					ArmyforgeUI.wrapActivatableHandler(menuItem, ArmyforgeUI.swapUpgrade)
@@ -170,9 +170,9 @@ var ArmyforgeUI = {
 		$('armyList').insert(menu);
 	},
 
-	createErweiterungenPopup:function(formation) {
+	createUpgradesPopup:function(formation) {
 		var menuItems = [];
-		formation.type.Erweiterungen.each( function(u){
+		formation.type.upgrades.each( function(u){
 			var menuItem = ArmyforgeUI.createMenuItem(formation.id+'_'+u.id, u.name, u.pts);
 			menuItems.push(menuItem);
 			menuItem.observe('click',
@@ -231,11 +231,11 @@ var ArmyforgeUI = {
 
 	initUI:function() {		
 
-		// render name und options
+		// render name and options
 		$('orbatListName').update( ArmyList.data.id + ' (' + ArmyList.data.version + ')' );
 		ArmyList.data.sections.each( ArmyforgeUI.createSectionMenu );
 
-		// render force und mandatory units
+		// render force and mandatory units
 		if (ArmyforgeUI.urlData.force) {
 			Force.unpickle(ArmyforgeUI.urlData.force);
 			ArmyforgeUI.renderForce();
@@ -276,7 +276,7 @@ var ArmyforgeUI = {
 
 	removeUpgrade:function(upgradeType, formation) {
 		if (formation.canRemove(upgradeType)) {
-			formation.Erweiterungen.remove( upgradeType );
+			formation.upgrades.remove( upgradeType );
 			ArmyforgeUI.updateUpgrade(formation, upgradeType);
 			ArmyforgeUI.checkUpgradeMenuItems();		
 			ArmyforgeUI.checkWarnings();
@@ -293,7 +293,7 @@ var ArmyforgeUI = {
 
 		//alert('renderFormation');
 
-		var dropDown = ArmyforgeUI.createErweiterungenPopup( formation );
+		var dropDown = ArmyforgeUI.createUpgradesPopup( formation );
 		var labelCell = new Element('td').update(formation.type.name).insert( dropDown );
 		if (formation.type.units) {
 			labelCell.insert(
@@ -316,7 +316,7 @@ var ArmyforgeUI = {
 		newRow.observe('mouseout', function() { dropDown.hide(); });
 		newRow.observe('click', ArmyforgeUI.removeFormation.bind(this, formation));		
 
-		formation.Erweiterungen.uniq().each( function(x) {
+		formation.upgrades.uniq().each( function(x) {
 			ArmyforgeUI.renderUpgrade( formation,x );
 		});
 
@@ -338,7 +338,7 @@ var ArmyforgeUI = {
 		// insert new row after last upgrade
 		if (upgradeRows.length > 0) {
 
-			// place new mandatories after mandatories but before other Erweiterungen
+			// place new mandatories after mandatories but before other upgrades
 			var firstNonMandatoryRow = upgradeRows.find(function(x) {
 						return !x.hasClassName('mandatory');
 					});

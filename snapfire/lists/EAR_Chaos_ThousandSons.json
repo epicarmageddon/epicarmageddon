@@ -2,38 +2,38 @@
 	"id":"EA-R Thousand Sons",
 	"version":"Approved 1.0.Beta",
 	"notes":
-		["Füge eine free Lesser Daemon to the Lesser Daemon pool pro Daemonic Pact"],
+		["Add one free Lesser Daemon to the Lesser Daemon pool per Daemonic Pact"],
 		"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"DAEMONS", "formations":[
-			{"id":500, "name":"Daemon Pool", "pts":0, "Erweiterungen":[71,72,73]}
+			{"id":500, "name":"Daemon Pool", "pts":0, "upgrades":[71,72,73]}
 		]},
-		{"name":"THOUSAND SONS CORE FORMATIONS <br/> Max 1 Thousand Sons Terminatoren für jeweils Thousand Sons Retinue", "formations":[
-			{"id":501, "name":"Thousand Sons Retinue", "pts":375, "units": "5 Rubric Marines, Daemonic Pact", "Erweiterungen":[15,16, 20,21, 30, 40]},
-			{"id":502, "name":"Thousand Sons Terminatoren", "pts":400, "units": "3 Scarab Occult Terminatoren, Daemonic Pact", "Erweiterungen":[15, 22]}
+		{"name":"THOUSAND SONS CORE FORMATIONS <br/> Max 1 Thousand Sons Terminators for each Thousand Sons Retinue", "formations":[
+			{"id":501, "name":"Thousand Sons Retinue", "pts":375, "units": "5 Rubric Marines, Daemonic Pact", "upgrades":[15,16, 20,21, 30, 40]},
+			{"id":502, "name":"Thousand Sons Terminators", "pts":400, "units": "3 Scarab Occult Terminators, Daemonic Pact", "upgrades":[15, 22]}
 		]},
-		{"name":"THOUSAND SONS UNTERSTÜTZUNGSVERBÄNDE <br/> Max 3 für jeweils Core formation", "formations":[
-			{"id":505, "name":"Tzaangor Host",	"pts":200, "units":"8 Tzaangors, Daemonic Pact", "Erweiterungen":[]},
-			{"id":506, "name":"Defilers of Tzeentch",	"pts":200, "units":"3 Decievers", "Erweiterungen":[]},
-			{"id":503, "name":"Havocs", "pts":225,  "units": "4 Thousand Sons Havocs, 2 Chaos Rhinos, Daemonic Pact", "Erweiterungen":[15, 30]},
-			{"id":504, "name":"Armoured Kompanie", "pts":0, "Erweiterungen":[]},
-			{"id":507, "name":"Disc Riders", "pts":250, "units": "5 Sorcerer Disc Riders, Daemonic Pact", "Erweiterungen":[15,16] },
-			{"id":508, "name":"Silver Towers of Tzeench",	"pts":300, "units":"4 Silver Towers", "Erweiterungen":[]}
+		{"name":"THOUSAND SONS SUPPORT FORMATIONS <br/> Max 3 for each Core formation", "formations":[
+			{"id":505, "name":"Tzaangor Host",	"pts":200, "units":"8 Tzaangors, Daemonic Pact", "upgrades":[]},
+			{"id":506, "name":"Defilers of Tzeentch",	"pts":200, "units":"3 Decievers", "upgrades":[]},
+			{"id":503, "name":"Havocs", "pts":225,  "units": "4 Thousand Sons Havocs, 2 Chaos Rhinos, Daemonic Pact", "upgrades":[15, 30]},
+			{"id":504, "name":"Armoured Company", "pts":0, "upgrades":[]},
+			{"id":507, "name":"Disc Riders", "pts":250, "units": "5 Sorcerer Disc Riders, Daemonic Pact", "upgrades":[15,16] },
+			{"id":508, "name":"Silver Towers of Tzeench",	"pts":300, "units":"4 Silver Towers", "upgrades":[]}
 		]},
 		{"name":"DARK MECHANICUS AND THOUSAND SONS NAVY FORMATIONS <br/> Max 33%", "formations":[
-			{"id":512, "name":"Warphound", "pts":300,  "Erweiterungen":[]},
-			{"id":513, "name":"Warp Palace",	"pts":450,  "Erweiterungen":[]},
-			{"id":510, "name":"Doomwings of Tzeench",	"pts":175, "units": "3 Doomwings", "Erweiterungen":[]},
-			{"id":511, "name":"Firelords of Tzeench", "pts":50, "Erweiterungen":[50]},
-			{"id":514, "name":"Devastation Class Cruiser",	"pts":150, "Erweiterungen":[]}
+			{"id":512, "name":"Warphound", "pts":300,  "upgrades":[]},
+			{"id":513, "name":"Warp Palace",	"pts":450,  "upgrades":[]},
+			{"id":510, "name":"Doomwings of Tzeench",	"pts":175, "units": "3 Doomwings", "upgrades":[]},
+			{"id":511, "name":"Firelords of Tzeench", "pts":50, "upgrades":[50]},
+			{"id":514, "name":"Devastation Class Cruiser",	"pts":150, "upgrades":[]}
 			]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":10, "name":"Aspiring Sorcerer", 				"pts":0},
-		{"id":11, "name":"Scarab Occult Terminatoren with Aspiring Sorcerer", 	"pts":0},
+		{"id":11, "name":"Scarab Occult Terminators with Aspiring Sorcerer", 	"pts":0},
 		{"id":12, "name":"Exalted Sorcerer", 				"pts":50},
-		{"id":13, "name":"Scarab Occult Terminatoren with Exalted Sorcerer", 	"pts":50},
-		{"id":14, "name":"Daemon Prince of Tzeentch (Replaces the Aspiring Sorcerer und its unit)", 	"pts":100},
+		{"id":13, "name":"Scarab Occult Terminators with Exalted Sorcerer", 	"pts":50},
+		{"id":14, "name":"Daemon Prince of Tzeentch (Replaces the Aspiring Sorcerer and its unit)", 	"pts":100},
 
 		{"id":15, "name":"Icon Bearer", 			"pts":25},
 		{"id":16, "name":"Champion of Chaos", 			"pts":50},
@@ -53,7 +53,7 @@
 		{"id":35, "name":"4 Thousand Sons Predators", 	"pts":225},
 		{"id":36, "name":"4 Thousand Sons Land Raiders", 	"pts":300},
 
-		{"id":40, "name":"Thousand Sons Cybot", "pts":50},
+		{"id":40, "name":"Thousand Sons Dreadnought", "pts":50},
 
 		{"id":41, "name":"Chaos Spawn", "pts":0},
 		{"id":42, "name":"Mutalith Vortex Beast", "pts":75},
@@ -73,10 +73,10 @@
 	],
 	"formationConstraints":[
 		{"max":1, "name":"Spacecraft", "from":[514]},
-		{"max":1, "name":"Thousand Sons Terminatoren", "from":[502], "forEach":[501], "name2":"Thousand Sons Retinue"},
-		{"max":3, "name":"Unterstützungsverbände", "from":[503,504,506,507,505,508], "forEach":[501,502], "name2":"Core Formation"},
+		{"max":1, "name":"Thousand Sons Terminators", "from":[502], "forEach":[501], "name2":"Thousand Sons Retinue"},
+		{"max":3, "name":"Support Formations", "from":[503,504,506,507,505,508], "forEach":[501,502], "name2":"Core Formation"},
 		{"min":1, "max":1, "from":[500]},
-		{"maxPercent": 33.5, "name":"Dark Mechanicus und Thousand Sons Navy", "from":[509,510,511,512,513,514]}
+		{"maxPercent": 33.5, "name":"Dark Mechanicus and Thousand Sons Navy", "from":[509,510,511,512,513,514]}
 	],
 	"upgradeConstraints":[
 		{"max":1, "perArmy":true, "from":[12,13,14]},

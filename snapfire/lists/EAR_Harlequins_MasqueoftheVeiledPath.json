@@ -4,42 +4,42 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"LUGGANATH SPECIALS", "formations":[
-			{"id":500, "name":"Wraithgates",	"pts":-75, 		"Erweiterungen":[60]},
-			{"id":501, "name":"Avatar",		"pts":50, 		"Erweiterungen":[]}
+			{"id":500, "name":"Wraithgates",	"pts":-75, 		"upgrades":[60]},
+			{"id":501, "name":"Avatar",		"pts":50, 		"upgrades":[]}
 		]},
 
 		{"name":"LUGGANATH WARHOSTS & WRAITHHOSTS", "formations":[
-			{"id":510, "name":"Lugganath Warhost",		"units":"Farseer, 4 Guardians, 5 Venoms",	"pts":250,	"Erweiterungen":[10]},
-			{"id":511, "name":"Lugganath Wraithhost",	"units":"Spiritseer, 4 Wraithreapers, 4 Wave Serpents", "pts":375,"Erweiterungen":[]}
+			{"id":510, "name":"Lugganath Warhost",		"units":"Farseer, 4 Guardians, 5 Venoms",	"pts":250,	"upgrades":[10]},
+			{"id":511, "name":"Lugganath Wraithhost",	"units":"Spiritseer, 4 Wraithreapers, 4 Wave Serpents", "pts":375,"upgrades":[]}
 		]},
 
-		{"name":"LUGGANATH TROUPES <br/> Max 1 für jeweils Warhost/Wraithhost", "formations":[
-			{"id":520, "name":"Corsair Scouts", 				"pts":150, "Erweiterungen":[]},
-			{"id":521, "name":"Mounted Aspect Warrior Troupe", 	"pts":325, "units":"3 Wave Serpents", "Erweiterungen":[10,11]},
-			{"id":522, "name":"Swords of Vaul", 				"pts":250, "Erweiterungen": []},
-			{"id":524, "name":"Fire Prism Troupe",				"pts":250,	"units":"Drei Fire Prisms", 		"Erweiterungen":[]},
-			{"id":525, "name":"Engines of Vaul",					"pts":50,	"Erweiterungen":[50,51,52]}
+		{"name":"LUGGANATH TROUPES <br/> Max 1 for each Warhost/Wraithhost", "formations":[
+			{"id":520, "name":"Corsair Scouts", 				"pts":150, "upgrades":[]},
+			{"id":521, "name":"Mounted Aspect Warrior Troupe", 	"pts":325, "units":"3 Wave Serpents", "upgrades":[10,11]},
+			{"id":522, "name":"Swords of Vaul", 				"pts":250, "upgrades": []},
+			{"id":524, "name":"Fire Prism Troupe",				"pts":250,	"units":"Three Fire Prisms", 		"upgrades":[]},
+			{"id":525, "name":"Engines of Vaul",					"pts":50,	"upgrades":[50,51,52]}
 		]},
 
-			{"name":"VEILED PATH SAEDATHS <br/> Max 1 für jeweils Warhost/Wraithhost", "formations":[
-			{"id":530, "name":"Cegorach's Escape",	"pts":200, "units":"Harlequin Avatar, 2 Harlequin Troupes, Death Jesters, 3 Starweavers", "Erweiterungen":[]},
-			{"id":531, "name":"Serpent's Scales",	"pts":225, "units":"Harlequin Avatar, 3 Skyweavers, 2 Voidweavers", "Erweiterungen":[]},
-			{"id":532, "name":"Devourer's Hunt",	"pts":225, "units":"Master Mime, 6 Mimes", "Erweiterungen":[]},
-			{"id":533, "name":"Cegorach's Revenge",	"pts":325, "units":"Harlequin Avatar, 2 Harlequin Troupes, 2 Death Jesters, 4 Starweavers, 3 Skyweavers", "Erweiterungen":[]},
-			{"id":534, "name":"Devourer's Feast",	"pts":350, "units":"Master Mime, Solitaire, 8 Mimes", "Erweiterungen":[]},
-			{"id":535, "name":"Ynnead's Dream",		"pts":450, "units":"Harlequin Avatar, Shadowseer, 3 Harlequin Troupes, 3 Death Jesters, 6 Starweavers", "Erweiterungen":[]}
+			{"name":"VEILED PATH SAEDATHS <br/> Max 1 for each Warhost/Wraithhost", "formations":[
+			{"id":530, "name":"Cegorach's Escape",	"pts":200, "units":"Harlequin Avatar, 2 Harlequin Troupes, Death Jesters, 3 Starweavers", "upgrades":[]},
+			{"id":531, "name":"Serpent's Scales",	"pts":225, "units":"Harlequin Avatar, 3 Skyweavers, 2 Voidweavers", "upgrades":[]},
+			{"id":532, "name":"Devourer's Hunt",	"pts":225, "units":"Master Mime, 6 Mimes", "upgrades":[]},
+			{"id":533, "name":"Cegorach's Revenge",	"pts":325, "units":"Harlequin Avatar, 2 Harlequin Troupes, 2 Death Jesters, 4 Starweavers, 3 Skyweavers", "upgrades":[]},
+			{"id":534, "name":"Devourer's Feast",	"pts":350, "units":"Master Mime, Solitaire, 8 Mimes", "upgrades":[]},
+			{"id":535, "name":"Ynnead's Dream",		"pts":450, "units":"Harlequin Avatar, Shadowseer, 3 Harlequin Troupes, 3 Death Jesters, 6 Starweavers", "upgrades":[]}
 		]},
 
 		{"name":"CRAFTWORLD TITANS & NAVY <br/> Max 33%", "formations":[
-			{"id":540, "name":"Skathach Wraithknights",	"pts":350, "Erweiterungen":[]},
-			{"id":540, "name":"Crimson Aerie",	"pts":250, "units":"2 Nightshade Interceptors", "Erweiterungen":[]},
-			{"id":544, "name":"Hemlock Aerie",	"pts":225, "units":"2 Hemlock Wraithfighters", "Erweiterungen":[]},
-			{"id":542, "name":"Corsair Vampire Hunter","pts":225, "units":"Corsair Vampire Hunter", "Erweiterungen":[]},
-			{"id":545, "name":"Wraithship",	"pts":150, "Erweiterungen":[]},
-			{"id":546, "name":"Dragonship",	"pts":300, "Erweiterungen":[]}
+			{"id":540, "name":"Skathach Wraithknights",	"pts":350, "upgrades":[]},
+			{"id":540, "name":"Crimson Aerie",	"pts":250, "units":"2 Nightshade Interceptors", "upgrades":[]},
+			{"id":544, "name":"Hemlock Aerie",	"pts":225, "units":"2 Hemlock Wraithfighters", "upgrades":[]},
+			{"id":542, "name":"Corsair Vampire Hunter","pts":225, "units":"Corsair Vampire Hunter", "upgrades":[]},
+			{"id":545, "name":"Wraithship",	"pts":150, "upgrades":[]},
+			{"id":546, "name":"Dragonship",	"pts":300, "upgrades":[]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":10, "name":"Autarch",					"pts":75},
 		{"id":11, "name":"Exarch",					"pts":25},
 
@@ -66,8 +66,8 @@
 
 		{"id":60, "name":"Wraithgate", 				"pts":75},
 
-		{"id": 75, "name": "2 Skathach Wraithknights (Synchronisierte Deathshroud Cannon)", "pts": 0},
-        {"id": 76, "name": "2 Skathach Wraithknights (Synchronisierte Inferno Lance)", "pts": 0}
+		{"id": 75, "name": "2 Skathach Wraithknights (Twin Deathshroud Cannon)", "pts": 0},
+        {"id": 76, "name": "2 Skathach Wraithknights (Twin Inferno Lance)", "pts": 0}
 
 	],
 
@@ -81,7 +81,7 @@
 		{"max":1, "from":[534]},
 		{"max":1, "from":[535]},
 
-		{"maxPercent": 33.5, "name":"Lugganath Titans und Navy", "from":[540,541,542,543,544,545,546]},
+		{"maxPercent": 33.5, "name":"Lugganath Titans and Navy", "from":[540,541,542,543,544,545,546]},
 		{"max":1, "name":"Spacecraft", "from":[545,546]}
 	],
 	"upgradeConstraints":[

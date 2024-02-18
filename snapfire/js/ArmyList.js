@@ -13,10 +13,10 @@ var ArmyList = {
 		// FORMATION UPGRADES...
 		this.allFormations.each( function(formation) {
 			// fill in empty upgrade lists
-			if (!formation.Erweiterungen) formation.Erweiterungen = [];
+			if (!formation.upgrades) formation.upgrades = [];
 
 			// replace upgrade ids with upgrade objects
-			formation.Erweiterungen = formation.Erweiterungen.map(function(id) {
+			formation.upgrades = formation.upgrades.map(function(id) {
 				return ArmyList.upgradeForId(id);
 			 });
 		});
@@ -32,7 +32,7 @@ var ArmyList = {
 			else {
 				constraint.appliesTo = ArmyList.allFormations;
 			}
-			// set some useful properties und defaults
+			// set some useful properties and defaults
 			if (!constraint.min && constraint.max) constraint.min = 0;
 			if (constraint.min && !constraint.max) constraint.max = 1000000;
                         if (!constraint.name && constraint.perPoints) constraint.name = constraint.from[0].name;
@@ -48,7 +48,7 @@ var ArmyList = {
 			if (constraint.forEach) {
 				constraint.forEach = constraint.forEach.map( ArmyList.formationForId );
 			}
-			// set some useful properties und defaults
+			// set some useful properties and defaults
                         if (!constraint.min && constraint.max) constraint.min = 0;
 			if (constraint.min && !constraint.max) constraint.max = 1000000;
                         if (!constraint.name && constraint.perPoints) constraint.name = constraint.from[0].name;
@@ -91,20 +91,20 @@ var ArmyList = {
 				var constraint = formation.mandatoryConstraint(upgrade);
 				return constraint ? constraint.from.without(upgrade) : [];
 			};
-			formation.defaultErweiterungen = function(){
+			formation.defaultUpgrades = function(){
 				var defaults = [];
 				formation.mandatoryUpgradeConstraints.each( function(x) {
-					für (var i=0;i<x.min;i++){
+					for (var i=0;i<x.min;i++){
 						defaults.push( x.from[0] );
 					}
 				});
 				return defaults;
 			};
-			// cost including any mandatory Erweiterungen... add them in too!
+			// cost including any mandatory upgrades... add them in too!
 			var total = 0;
 			formation.mandatoryUpgradeConstraints.each( function(x) {
 				if (Array.isArray(x.from[0].pts)) {
-					für(var i=0; i < x.min; i++) {
+					for(var i=0; i < x.min; i++) {
 						total += x.from[0].pts[i % x.from[0].pts.length];
 					}
 				} else {
@@ -115,7 +115,7 @@ var ArmyList = {
 		});
 	},
 	upgradeForId:function(id) {
-		return ArmyList.data.Erweiterungen.find( function(x) { return x.id == id; });
+		return ArmyList.data.upgrades.find( function(x) { return x.id == id; });
 	},
 	formationForId:function(id) {
 		return ArmyList.allFormations.find( function(x){ return x.id == id; });
@@ -142,20 +142,20 @@ var ArmyList = {
 		if (constraint.perPoints && constraint.max) {
                         var slots = ArmyList.roundUp(pts,constraint.perPoints) / constraint.perPoints;
 			var tooMany = formations.countAll(constraint.from) > slots * constraint.max;
-			if (tooMany) return 'more than ' +constraint.max+ ' ' +constraint.name+ ' pro ' +constraint.perPoints+ ' Punkte';
+			if (tooMany) return 'more than ' +constraint.max+ ' ' +constraint.name+ ' per ' +constraint.perPoints+ ' points';
 		}
 		if (constraint.perPoints && constraint.min) {
                         var slots = ArmyList.roundUp(pts,constraint.perPoints) / constraint.perPoints;
                         var tooFew = formations.countAll(constraint.from) < slots * constraint.min;
-			if (tooFew) return 'less than ' +constraint.min+ ' ' +constraint.name+ ' pro ' +constraint.perPoints+ ' Punkte';
+			if (tooFew) return 'less than ' +constraint.min+ ' ' +constraint.name+ ' per ' +constraint.perPoints+ ' points';
 		}
 		if (constraint.forEach && constraint.max) {
 			var tooMany = formations.countAll(constraint.from) > formations.countAll(constraint.forEach) * constraint.max;
-			if (tooMany) return 'more than ' +constraint.max+' '+constraint.name+ ' pro ' +constraint.name2;
+			if (tooMany) return 'more than ' +constraint.max+' '+constraint.name+ ' per ' +constraint.name2;
 		}
 		if (constraint.forEach && constraint.min) {
 			var tooFew = formations.countAll(constraint.from) < formations.countAll(constraint.forEach) * constraint.min;
-			if (tooMany) return 'less than ' +constraint.min+' '+constraint.name+ ' pro ' +constraint.name2;
+			if (tooMany) return 'less than ' +constraint.min+' '+constraint.name+ ' per ' +constraint.name2;
 		}
 
 		return '';
@@ -171,8 +171,8 @@ var ArmyList = {
 		}
 		return '';
 	},
-	canAddUpgrade:function(Erweiterungen,constraint) {
-		if (constraint.max <= Erweiterungen.countAll(constraint.from)) {
+	canAddUpgrade:function(upgrades,constraint) {
+		if (constraint.max <= upgrades.countAll(constraint.from)) {
 			return ArmyList.maxString( constraint );
 		}
 		return '';
@@ -180,12 +180,12 @@ var ArmyList = {
 	maxString:function(constraint, ignorePerArmy) {
 		return 'max ' + constraint.max
 				+ (constraint.name ? ' ' + constraint.name : '')
-				+ (constraint.perArmy && !ignorePerArmy ? ' pro Army' : '');
+				+ (constraint.perArmy && !ignorePerArmy ? ' per Army' : '');
 	},
         mandatoryFormations:function() {
             var mandatoryFormations = [];
             ArmyList.data.formationConstraints.each( function(constraint) {
-                für (var i=0; i<constraint.min && !constraint.perPoints; i++) {
+                for (var i=0; i<constraint.min && !constraint.perPoints; i++) {
                     mandatoryFormations.push( constraint.from[0] );
                 }
             });

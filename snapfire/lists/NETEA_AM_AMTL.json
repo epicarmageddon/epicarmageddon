@@ -4,26 +4,26 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"BATTLE TITANS", "formations":[
-			{"id":501, "name":"Imperator Titan", 		"pts":1250,"Erweiterungen":[81,82,83,84]},
-			{"id":502, "name":"Warmonger Titan", 		"pts":1250,"Erweiterungen":[81,82,83,84]},
-			{"id":503, "name":"Warlord Titan", 			"pts":675, "Erweiterungen":[80,81,82,83,84]},
-			{"id":504, "name":"Reaver Titan",			"pts":550, "Erweiterungen":[80,81,82,83,84]}
+			{"id":501, "name":"Imperator Titan", 		"pts":1250,"upgrades":[81,82,83,84]},
+			{"id":502, "name":"Warmonger Titan", 		"pts":1250,"upgrades":[81,82,83,84]},
+			{"id":503, "name":"Warlord Titan", 			"pts":675, "upgrades":[80,81,82,83,84]},
+			{"id":504, "name":"Reaver Titan",			"pts":550, "upgrades":[80,81,82,83,84]}
 		]},
-		{"name":"SCOUT TITANS <br/> Max 2 Scout Titan formations für jeweils Battle Titan formation", "formations":[
-			{"id":551, "name":"Warhound Titan",		"pts":275, "Erweiterungen":[82]},
-			{"id":552, "name":"Warhound Titan Pack",	"pts":500, "Erweiterungen":[82]}
+		{"name":"SCOUT TITANS <br/> Max 2 Scout Titan formations for each Battle Titan formation", "formations":[
+			{"id":551, "name":"Warhound Titan",		"pts":275, "upgrades":[82]},
+			{"id":552, "name":"Warhound Titan Pack",	"pts":500, "upgrades":[82]}
 		]},
-		{"name":"UNTERSTÜTZUNGSVERBÄNDE <br/> Max 1 Support Formation für jeweils Battle oder Scout Titan formation <br/> Max 1 Lysander Fighter für jeweils Warmonger Titan", "formations":[
-			{"id":561, "name":"Forge Knight Maniple",			"pts":250, "units":"5 Forge Knights", "Erweiterungen":[]},
-			{"id":562, "name":"Crusader Scout Maniple",			"pts":150, "units":"4 Crusader Robots", "Erweiterungen":[]},
-			{"id":563, "name":"Thunderbolt Schwadron",	"pts":150, "units":"2 Thunderbolts", "Erweiterungen":[]},
-			{"id":564, "name":"Marauder Schwadron",		"pts":250, "units":"2 Marauder Bombers", "Erweiterungen":[]},
-			{"id":565, "name":"Ark Mechanicus Battleship",		"pts":200, "Erweiterungen":[]},
-			{"id":566, "name":"Skitarii Demi-Century",	"pts":250, "units":"2 Secutors, 8 Hypaspists", "Erweiterungen":[]},
-			{"id":567, "name":"Lysander Fighter",		"pts":75,	 "Erweiterungen":[]}
+		{"name":"SUPPORT FORMATIONS <br/> Max 1 Support Formation for each Battle or Scout Titan formation <br/> Max 1 Lysander Fighter for each Warmonger Titan", "formations":[
+			{"id":561, "name":"Forge Knight Maniple",			"pts":250, "units":"5 Forge Knights", "upgrades":[]},
+			{"id":562, "name":"Crusader Scout Maniple",			"pts":150, "units":"4 Crusader Robots", "upgrades":[]},
+			{"id":563, "name":"Thunderbolt Squadron",	"pts":150, "units":"2 Thunderbolt Fighters", "upgrades":[]},
+			{"id":564, "name":"Marauder Squadron",		"pts":250, "units":"2 Marauder Bombers", "upgrades":[]},
+			{"id":565, "name":"Ark Mechanicus Battleship",		"pts":200, "upgrades":[]},
+			{"id":566, "name":"Skitarii Demi-Century",	"pts":250, "units":"2 Secutors, 8 Hypaspists", "upgrades":[]},
+			{"id":567, "name":"Lysander Fighter",		"pts":75,	 "upgrades":[]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":1, "name":"2x Inferno Gun", 						"pts":25},
 		{"id":2, "name":"Inferno Gun, Vulcan Mega-Bolter",		"pts":0},
 		{"id":3, "name":"Inferno Gun, Plasma Blastgun",			"pts":0},
@@ -54,7 +54,7 @@
 		{"id":36, "name":"Quake Cannon",		"pts":75},
 		{"id":37, "name":"Support Missile (Vortex)",		"pts":75},
 		{"id":38, "name":"Support Missile (Warp)",		"pts":75},
-		{"id":39, "name":"Support Missile (Todesstoss-Raketensystem)",		"pts":75},
+		{"id":39, "name":"Support Missile (Deathstrike)",		"pts":75},
 		{"id":40, "name":"Support Missile (Barrage)",		"pts":75},
 
 		{"id":80, "name":"Single Weapon Loadout Surcharge",		"pts":25},

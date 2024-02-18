@@ -1,38 +1,38 @@
 {
 	"id":"EpicUK Vanaheim Air Cavalry",
     "version":"v03-11-19",
-	"notes": ["Max 1 Kommissar für jeweils part of 500 Punkte in the army. The first must be allocated to the Regiments HQ (if any)."],
+	"notes": ["Max 1 Commissar for each part of 500 points in the army. The first must be allocated to the Regimental HQ (if any)."],
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"VANAHEIM COMPANIES", "formations":[
-			{"id":510, "name":"Regiments HQ", 			"pts":450, "Erweiterungen":[13,14,15,1], "units":"Vanaheim Supreme Commander, 9 Vanaheim Infanterie"},
-			{"id":511, "name":"Air Cavalry Kompanie", 			"pts":250, "Erweiterungen":[13,14,15,1], "units":"Vanaheim Commander, 9 Vanaheim Infanterie"}
+			{"id":510, "name":"Regimental HQ", 			"pts":450, "upgrades":[13,14,15,1], "units":"Vanaheim Supreme Commander, 9 Vanaheim Infantry"},
+			{"id":511, "name":"Air Cavalry Company", 			"pts":250, "upgrades":[13,14,15,1], "units":"Vanaheim Commander, 9 Vanaheim Infantry"}
 		]},
-		{"name":"UNTERSTÜTZUNGSVERBÄNDE <br/> Max 2 für jeweils Vanaheim Kompanie", "formations":[
-			{"id":501, "name":"Storm Trooper Zug",			"pts":350, "Erweiterungen":[1], "units":"8 Storm Troopers, 4 Valkyries"},
-			{"id":502, "name":"Sentinel Schwadron",				"pts":100, "Erweiterungen":[33, 1]},
-			{"id":503, "name":"Vulture Schwadron",				"pts":300, "Erweiterungen":[1], "units":"4 Vultures"}
+		{"name":"SUPPORT FORMATIONS <br/> Max 2 for each Vanaheim Company", "formations":[
+			{"id":501, "name":"Storm Trooper Platoon",			"pts":350, "upgrades":[1], "units":"8 Storm Troopers, 4 Valkyries"},
+			{"id":502, "name":"Sentinel Squadron",				"pts":100, "upgrades":[33, 1]},
+			{"id":503, "name":"Vulture Squadron",				"pts":300, "upgrades":[1], "units":"4 Vultures"}
 		]},
-		{"name":"IMPERIALE LUFTSTREITKRÄFTE<br/> Max 33%", "formations":[
-			{"id":520, "name":"Thunderbolt Schwadron",	"pts":150, "Erweiterungen":[], "units":"2 Thunderbolts"},
-            {"id":521, "name":"Lightning Schwadron",	"pts":150, "Erweiterungen":[], "units":"2 Lightning Strike Fighters"},
-			{"id":522, "name":"Marauder Schwadron",		"pts":250, "Erweiterungen":[], "units":"2 Marauder Bombers"},
-            {"id":523, "name":"Marauder Destroyer Schwadron",		"pts":275, "Erweiterungen":[], "units":"2 Marauder Destroyers"},
-            {"id":524, "name":"Orbital Support",				"pts":150, "Erweiterungen":[]}
+		{"name":"IMPERIAL NAVY <br/> Max 33%", "formations":[
+			{"id":520, "name":"Thunderbolt Squadron",	"pts":150, "upgrades":[], "units":"2 Thunderbolt Fighters"},
+            {"id":521, "name":"Lightning Squadron",	"pts":150, "upgrades":[], "units":"2 Lightning Strike Fighters"},
+			{"id":522, "name":"Marauder Squadron",		"pts":250, "upgrades":[], "units":"2 Marauder Bombers"},
+            {"id":523, "name":"Marauder Destroyer Squadron",		"pts":275, "upgrades":[], "units":"2 Marauder Destroyers"},
+            {"id":524, "name":"Orbital Support",				"pts":150, "upgrades":[]}
 
 		]}
 	],
-	"Erweiterungen":[
-        {"id":1, "name":"Kommissar",				"pts":0},
+	"upgrades":[
+        {"id":1, "name":"Commissar",				"pts":0},
 
 		{"id":11, "name":"Valkyrie",	"pts":0},
         {"id":12, "name":"Vendetta",			"pts":0},
-		{"id":13, "name":"2 Vanaheim Infanterie, Valkyrie",	"pts":75},
-        {"id":14, "name":"2 Vanaheim Unterstützungstrupps, Valkyrie",			"pts":100},
+		{"id":13, "name":"2 Vanaheim Infantry, Valkyrie",	"pts":75},
+        {"id":14, "name":"2 Vanaheim Fire Support, Valkyrie",			"pts":100},
 		{"id":15, "name":"2 Mortar Support, Valkyrie",	"pts":75},
 
-		{"id":23, "name":"Lunar-Klasse Kreuzer",			"pts":0},
-		{"id":24, "name":"Imperator-Klasse Schlachtschiff",	"pts":50},
+		{"id":23, "name":"Lunar Class Cruiser",			"pts":0},
+		{"id":24, "name":"Emperor Class Battleship",	"pts":50},
 
         {"id":30, "name":"4 Light Sentinels",	"pts":0},
         {"id":31, "name":"2 Light Sentinels, 2 Support Sentinels",			"pts":25},
@@ -41,7 +41,7 @@
 
 	],
 	"formationConstraints":[
-		{"max":2, "name":"Unterstützungsverbände", "from":[501,502,503], "forEach":[510,511], "name2":"Kompanie"},
+		{"max":2, "name":"Support Formations", "from":[501,502,503], "forEach":[510,511], "name2":"Company"},
 		{"maxPercent":33.5, "name":"Navy", "from":[520,521,522,523,524]},
 		{"max":1, "from":[510]},
 		{"max":1, "from":[524]}

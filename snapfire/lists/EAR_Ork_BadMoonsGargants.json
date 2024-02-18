@@ -5,41 +5,41 @@
    "by": "Mrdiealot",
    "sections": [
       {
-         "name": "BAD MOONS BIG MOB GARGANTS <br/> At least 1 Mega Gargant oder Great Gargant",
+         "name": "BAD MOONS BIG MOB GARGANTS <br/> At least 1 Mega Gargant or Great Gargant",
          "formations": [
-            {"id": 501, "name": "Mega Gargant", "pts": 950, "Erweiterungen": [10,15]},
-            {"id": 502, "name": "Great Gargant", "pts": 750, "Erweiterungen": [10,15,16]},
-            {"id": 503, "name": "Gargant", "pts": 550, "Erweiterungen": [16]}
+            {"id": 501, "name": "Mega Gargant", "pts": 950, "upgrades": [10,15]},
+            {"id": 502, "name": "Great Gargant", "pts": 750, "upgrades": [10,15,16]},
+            {"id": 503, "name": "Gargant", "pts": 550, "upgrades": [16]}
 	       ]
       },
 	  {
-		 "name": "BAD MOONS BIG MOB MOBS <br/> Max 3 für jeweils Gargant",
+		 "name": "BAD MOONS BIG MOB MOBS <br/> Max 3 for each Gargant",
          "formations": [
-             {"id": 511, "name": "Bad Moons Warband", "pts": 0, "Erweiterungen": [90,91,99,100,101,102,104,105,106,107,108,98,109,103,12,13,14]},
-             {"id": 517, "name": "Bad Moons Blitz Brigade", "pts": 30, "Erweiterungen": [102,104,105,73,13,12,14,109]},
-             {"id": 512, "name": "Bad Moons Rokkitzmob", "pts": 0, "Erweiterungen": [95,99,102,109,12,13,14]},
-             {"id": 518, "name": "Bad Moons Gunzmob", "pts": 25, "Erweiterungen": [99, 102, 109, 90,91, 12,13,14]},
-             {"id": 516, "name": "Bad Moons Fortressmob", "pts": 225, "units":"Flash Gitz, 3 Boyz, Grotz, Gunfortress", "Erweiterungen": [12,13,14,102,104,105]},
+             {"id": 511, "name": "Bad Moons Warband", "pts": 0, "upgrades": [90,91,99,100,101,102,104,105,106,107,108,98,109,103,12,13,14]},
+             {"id": 517, "name": "Bad Moons Blitz Brigade", "pts": 30, "upgrades": [102,104,105,73,13,12,14,109]},
+             {"id": 512, "name": "Bad Moons Rokkitzmob", "pts": 0, "upgrades": [95,99,102,109,12,13,14]},
+             {"id": 518, "name": "Bad Moons Gunzmob", "pts": 25, "upgrades": [99, 102, 109, 90,91, 12,13,14]},
+             {"id": 516, "name": "Bad Moons Fortressmob", "pts": 225, "units":"Flash Gitz, 3 Boyz, Grotz, Gunfortress", "upgrades": [12,13,14,102,104,105]},
 
-            {"id": 510, "name": "Big Mek Stompamob", "pts": 55, "Erweiterungen": [90,91,100,101,96,102,110,111,112,113,114,115]},
+            {"id": 510, "name": "Big Mek Stompamob", "pts": 55, "upgrades": [90,91,100,101,96,102,110,111,112,113,114,115]},
 
-            {"id": 513, "name": "Big Mek Dreadmob", "pts": 15, "Erweiterungen": [100,101,102,96]},
-            {"id": 514, "name": "Big Mek Dreadmob (Big)", "pts": -20, "Erweiterungen": [100,101,102,96]},
-            {"id": 515, "name": "Big Mek Dreadmob ('Uge)", "pts": -55, "Erweiterungen": [100,101,102,96]}
+            {"id": 513, "name": "Big Mek Dreadmob", "pts": 15, "upgrades": [100,101,102,96]},
+            {"id": 514, "name": "Big Mek Dreadmob (Big)", "pts": -20, "upgrades": [100,101,102,96]},
+            {"id": 515, "name": "Big Mek Dreadmob ('Uge)", "pts": -55, "upgrades": [100,101,102,96]}
 
          ]
       },
       {
          "name": "BAD MOONS 'CRAFT <br/> Max 33%",
          "formations": [
-            {"id": 530, "name": "Fighta-Bommer Skwadron", "pts": 25, "Erweiterungen": [20]},
-            {"id": 531, "name": "Bommer", "pts": 175, "Erweiterungen": []},
-            {"id": 532, "name": "Kroozer", "pts": 0, "Erweiterungen": []}
+            {"id": 530, "name": "Fighta-Bommer Skwadron", "pts": 25, "upgrades": [20]},
+            {"id": 531, "name": "Bommer", "pts": 175, "upgrades": []},
+            {"id": 532, "name": "Kroozer", "pts": 0, "upgrades": []}
 
          ]
       }
    ],
-   "Erweiterungen": [
+   "upgrades": [
       {"id": 10, "name": "Big Mek", "pts": 0},
       {"id": 13, "name": "Oddboy (Supa-Zzap-Gun)", "pts": 50},
       {"id": 12, "name": "Oddboy (Soopagun)", "pts": 50},
@@ -93,7 +93,7 @@
       {"id": 136, "name": "Snappa (Belly)", "pts": 0},
       {"id": 137, "name": "Soopagun (Belly)", "pts": 0},
 
-      {"id": 140, "name": "Synchronisierte Soopagun (Arm)", "pts": 0},
+      {"id": 140, "name": "Twin Soopagun (Arm)", "pts": 0},
       {"id": 141, "name": "Dakka-Dakka Kannon (Arm)", "pts": 0},
       {"id": 142, "name": "Mega-Lobba (Arm)", "pts": 0},
       {"id": 143, "name": "Lifta-Droppa (Arm)", "pts": 0},

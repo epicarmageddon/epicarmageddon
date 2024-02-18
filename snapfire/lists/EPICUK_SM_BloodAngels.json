@@ -4,23 +4,23 @@
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"BLOOD ANGELS DETACHMENTS", "formations":[
-			{"id":501, "name":"Sturmtrupp", "pts":250, "units":"6 Sturmtrupp", "Erweiterungen":[11,12,13,14,15]},
-			{"id":515, "name":"Baal Predators", "pts":275, "units":"4 Baal Predators", "Erweiterungen":[11,12,13,14,15,19]},
-			{"id":502, "name":"Bikes", "pts":200, "Erweiterungen":[11,12,13,14]},
-			{"id":504, "name":"Land Raiders", "pts":350, "units":"4 Land Raiders", "Erweiterungen":[11,12,13,14,19,15]},
-			{"id":505, "name":"Land Speeders", "pts":0, "Erweiterungen":[11,12,13,14]},
+			{"id":501, "name":"Assaults", "pts":250, "units":"6 Assaults", "upgrades":[11,12,13,14,15]},
+			{"id":515, "name":"Baal Predators", "pts":275, "units":"4 Baal Predators", "upgrades":[11,12,13,14,15,19]},
+			{"id":502, "name":"Bikes", "pts":200, "upgrades":[11,12,13,14]},
+			{"id":504, "name":"Land Raiders", "pts":350, "units":"4 Land Raiders", "upgrades":[11,12,13,14,19,15]},
+			{"id":505, "name":"Land Speeders", "pts":0, "upgrades":[11,12,13,14]},
 			{"id":506, "name":"Landing Craft", "pts":350},
-			{"id":507, "name":"Predators", "pts":225, "Erweiterungen":[11,12,13,14,19,15]},
-			{"id":508, "name":"Scouts", "pts":150, "units":"4 Scouts plus Transport", "Erweiterungen":[11,12,13,14,21,22,28]},
-			{"id":509, "name":"Spaceship", "pts":0, "Erweiterungen":[29,30]},
-			{"id":510, "name":"Taktischer Trupp", "pts":300, "units":"6 Taktischer Trupp plus Transport", "Erweiterungen":[11,12,13,14,18,34,19,15,21,22]},
-			{"id":511, "name":"Terminatoren", "pts":350, "units":"4 Terminatoren", "Erweiterungen":[11,12,13,14,18,34,20,15]},
-			{"id":513, "name":"Vindicators", "pts":250, "units":"4 Vindicators", "Erweiterungen":[11,12,13,14,19]},
-			{"id":514, "name":"Whirlwinds", "pts":300, "units":"4 Whirlwinds", "Erweiterungen":[11,12,13,14,19]}
+			{"id":507, "name":"Predators", "pts":225, "upgrades":[11,12,13,14,19,15]},
+			{"id":508, "name":"Scouts", "pts":150, "units":"4 Scouts plus Transport", "upgrades":[11,12,13,14,21,22,28]},
+			{"id":509, "name":"Spaceship", "pts":0, "upgrades":[29,30]},
+			{"id":510, "name":"Tacticals", "pts":300, "units":"6 Tacticals plus Transport", "upgrades":[11,12,13,14,18,34,19,15,21,22]},
+			{"id":511, "name":"Terminators", "pts":350, "units":"4 Terminators", "upgrades":[11,12,13,14,18,34,20,15]},
+			{"id":513, "name":"Vindicators", "pts":250, "units":"4 Vindicators", "upgrades":[11,12,13,14,19]},
+			{"id":514, "name":"Whirlwinds", "pts":300, "units":"4 Whirlwinds", "upgrades":[11,12,13,14,19]}
 		]},
-		{"name":"IMPERIALE LUFTSTREITKRÄFTE& TITANS <br/> Max 33%", "formations":[
-			{"id":551, "name":"Thunderbolt Schwadron", "pts":150, "units":"2 Thunderbolts" },
-			{"id":552, "name":"Marauder Schwadron", "pts":250, "units":"2 Marauder Bombers" },
+		{"name":"IMPERIAL NAVY & TITANS <br/> Max 33%", "formations":[
+			{"id":551, "name":"Thunderbolt Squadron", "pts":150, "units":"2 Thunderbolt Fighters" },
+			{"id":552, "name":"Marauder Squadron", "pts":250, "units":"2 Marauder Bombers" },
 			{"id":512, "name":"Thunderhawk", "pts":200},
 			{"id":553, "name":"Warlord Titan", "pts":850},
 			{"id":554, "name":"Reaver Titan", "pts":650},
@@ -29,38 +29,38 @@
 		]}
 	],
 	"fixedFormations":[
-			{"id":516, "name":"Death Kompanie", "pts":300, "Erweiterungen":[12,31]}
+			{"id":516, "name":"Death Company", "pts":300, "upgrades":[12,31]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":11, "name":"Captain", "pts":50},
-		{"id":12, "name":"Ordenspriester", "pts":50},
-		{"id":13, "name":"Scriptor", "pts":50},
+		{"id":12, "name":"Chaplain", "pts":50},
+		{"id":13, "name":"Librarian", "pts":50},
 		{"id":14, "name":"Supreme Commander", "pts":100},
 		{"id":15, "name":"Vindicator", "pts":50},
-		{"id":16, "name":"Trike", "pts":0},
+		{"id":16, "name":"Attack Bike", "pts":0},
 		{"id":17, "name":"Bikes", "pts":0},
-		{"id":18, "name":"Cybot w/ PF, AC", "pts":50},
+		{"id":18, "name":"Dreadnought w/ PF, AC", "pts":50},
 		{"id":19, "name":"Hunter", "pts":75},
 		{"id":20, "name":"Land Raider", "pts":75},
-		{"id":21, "name":"Razorback w/ Synchronisierte Heavy Bolter", "pts":25},
-		{"id":22, "name":"Razorback w/ Synchronisierte Laserkanone", "pts":25},
+		{"id":21, "name":"Razorback w/ Twin Heavy Bolter", "pts":25},
+		{"id":22, "name":"Razorback w/ Twin Lascannon", "pts":25},
 		{"id":23, "name":"Land Speeder", "pts":40},
 		{"id":24, "name":"Land Speeder Tornado", "pts":40},
 		{"id":25, "name":"Land Speeder Typhoon", "pts":50},
-		{"id":28, "name":"Scharfschützen", "pts":50},
+		{"id":28, "name":"Snipers", "pts":50},
 		{"id":29, "name":"Strike Cruiser", "pts":200},
 		{"id":30, "name":"Battle Barge", "pts":350},
-		{"id":31, "name":"Death Kompanie Cybot", "pts":75},
-		{"id":32, "name":"4 Death Kompanie Squads w/ Sprungmodule", "pts":50},
-		{"id":33, "name":"4 Death Kompanie Squads plus Transport", "pts":0},
-		{"id":34, "name":"Cybot w/ TLC, ML", "pts":50},
+		{"id":31, "name":"Death Company Dreadnought", "pts":75},
+		{"id":32, "name":"4 Death Company Squads w/ Jump Packs", "pts":50},
+		{"id":33, "name":"4 Death Company Squads plus Transport", "pts":0},
+		{"id":34, "name":"Dreadnought w/ TLC, ML", "pts":50},
 		{"id":40, "name":" 4 Predator Destructors", "pts":0},
 		{"id":41, "name":" 2 Predator Destructors, 2 Predator Annihilators", "pts":25},
 		{"id":42, "name":" 4 Predator Annihilators", "pts":50}
 
 	],
 	"formationConstraints":[
-		{"maxPercent":33.5, "name":"Imperiale Luftstreitkräfteund Kriegsmaschinen",
+		{"maxPercent":33.5, "name":"Imperial Navy and War Engines",
 			"from":[512,551,552,553,554,555,556] },
 		{"max":1, "perArmy":true, "from":[509]},
 		{"min":1, "max":1, "perArmy":true, "from":[516]}

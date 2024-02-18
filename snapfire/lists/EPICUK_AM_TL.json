@@ -1,42 +1,42 @@
 {
 "id":"EpicUK Titan Legion",
 "version":"v12-10-13",
-"notes":["At least 1 Battle Titan must be selected at 2000 Punkte, with einen zusätzlichen required für every 1000 Punkte"],
+"notes":["At least 1 Battle Titan must be selected at 2000 points, with an additional required for every 1000 points"],
 "by":"EA-Ragnarok",
 "sections":[
 {
 "name":"COMPANIES",
 "formations":[
-        {"id":501,"name":"Warlord Battle Titan","pts":850,"Erweiterungen":[10,11,12]},
-        {"id":502,"name":"Reaver Battle Titan","pts":650,"Erweiterungen":[11,12]},
-        {"id":503,"name":"Warhound Scout Pack","pts":550,"units":"2 Warhound Scout Titans","Erweiterungen":[12]},
-        {"id":504,"name":"Warhound Scout Titan","pts":300,"Erweiterungen":[12]}
+        {"id":501,"name":"Warlord Battle Titan","pts":850,"upgrades":[10,11,12]},
+        {"id":502,"name":"Reaver Battle Titan","pts":650,"upgrades":[11,12]},
+        {"id":503,"name":"Warhound Scout Pack","pts":550,"units":"2 Warhound Scout Titans","upgrades":[12]},
+        {"id":504,"name":"Warhound Scout Titan","pts":300,"upgrades":[12]}
 ]},
-{"name":"UNTERSTÜTZUNGSVERBÄNDE <br/> Max 1 für jeweils Battle Titan",
+{"name":"SUPPORT FORMATIONS <br/> Max 1 for each Battle Titan",
 "formations":[{
-        "id":521,"name":"Cybernetic Guards","pts":200,"units":"8 Robots","Erweiterungen":[]}
+        "id":521,"name":"Cybernetic Guards","pts":200,"units":"8 Robots","upgrades":[]}
 ]},
-{"name":"IMPERIALE LUFTSTREITKRÄFTE<br/> Max 17%",
+{"name":"IMPERIAL NAVY <br/> Max 17%",
 "formations":[
-        {"id":531,"name":"Adeptus Mechanicus Mars Cruiser","pts":150,"Erweiterungen":[]},
-        {"id":532,"name":"Thunderbolt Schwadron","pts":150,"units":"2 Thunderbolts","Erweiterungen":[]},
-        {"id":533,"name":"Marauder Schwadron","pts":250,"units":"2 Marauder Bombers","Erweiterungen":[]}
+        {"id":531,"name":"Adeptus Mechanicus Mars Cruiser","pts":150,"upgrades":[]},
+        {"id":532,"name":"Thunderbolt Squadron","pts":150,"units":"2 Thunderbolt Fighters","upgrades":[]},
+        {"id":533,"name":"Marauder Squadron","pts":250,"units":"2 Marauder Bombers","upgrades":[]}
 ]}
 ],
-"Erweiterungen":[
+"upgrades":[
         {"id":10,"name":"Legate","pts":50},
         {"id":11,"name":"Carapace Multilasers","pts":50},
         {"id":12,"name":"Veteran Princeps","pts":50},
         {"id":13,"name":"Veteran Princeps + Quake Cannon","pts":50},
         {"id":14,"name":"Veteran Princeps + Volcano Cannon","pts":50},
         {"id":15,"name":"Veteran Princeps + Plasma Destructor","pts":50},
-        {"id":16,"name":"Veteran Princeps + Todesstoss-Raketensystem Missile","pts":50},
+        {"id":16,"name":"Veteran Princeps + Deathstrike Missile","pts":50},
         {"id":17,"name":"Veteran Princeps + Barrage Missile","pts":50},
 
         {"id":50,"name":"Quake Cannon","pts":0},
         {"id":51,"name":"Volcano Cannon","pts":0},
         {"id":52,"name":"Plasma Destructor","pts":0},
-        {"id":53,"name":"Todesstoss-Raketensystem Missile","pts":0},
+        {"id":53,"name":"Deathstrike Missile","pts":0},
         {"id":54,"name":"Barrage Missile","pts":0},
         {"id":60,"name":"Gatling Blaster","pts":0},
         {"id":61,"name":"Turbo Laser Destructor","pts":0},

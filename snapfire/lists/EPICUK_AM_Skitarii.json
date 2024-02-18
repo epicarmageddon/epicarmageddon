@@ -1,41 +1,41 @@
 {
 	"id":"EpicUK Skitarii",
 	"version":"21-01-15",
-	"notes":["May only add enough Chimären to transport all units in the formation without any space left over, oder add eine Gorgon."],
+	"notes":["May only add enough Chimeras to transport all units in the formation without any space left over, or add one Gorgon."],
 	"by":"EA-Ragnarok",
 	"sections":[
 		{"name":"SKITARII COHORTS", "formations":[
-			{"id":566, "name":"Skitarii",	"pts":225, "units":"Secutors, 9 Hypaspists", "Erweiterungen":[101,102,103,104,105,106,107,108,109,110]}
+			{"id":566, "name":"Skitarii",	"pts":225, "units":"Secutors, 9 Hypaspists", "upgrades":[101,102,103,104,105,106,107,108,109,110]}
 		]},
-		{"name":"SKITARII MANIPLES <br/> Max 3 für jeweils Skitarii Cohort", "formations":[
-			{"id":567, "name":"Sagitarii",	"pts":175, "units":"5 Sagitarii",	 "Erweiterungen":[101,103,104,105,106,107,108,109,110]},
-			{"id":561, "name":"Sentry",			"pts":150, "units":"4 Robots, 3 Rapiers", "Erweiterungen":[101]},
-			{"id":563, "name":"Praetorian",		"pts":225, "units":"5 Praetorians", "Erweiterungen":[104,105,107,108,109,110]},
-			{"id":580, "name":"Cataphractii",			"pts":400, "units":"6 Leman Russ", "Erweiterungen":[]},
-			{"id":571, "name":"Ordinatus Minoris",	"pts":50, "Erweiterungen":[107,108,109,110,112,113,114]},
-			{"id":572, "name":"Ordinatus Majoris",	"pts":500, "Erweiterungen":[111,115,116]}
+		{"name":"SKITARII MANIPLES <br/> Max 3 for each Skitarii Cohort", "formations":[
+			{"id":567, "name":"Sagitarii",	"pts":175, "units":"5 Sagitarii",	 "upgrades":[101,103,104,105,106,107,108,109,110]},
+			{"id":561, "name":"Sentry",			"pts":150, "units":"4 Robots, 3 Rapiers", "upgrades":[101]},
+			{"id":563, "name":"Praetorian",		"pts":225, "units":"5 Praetorians", "upgrades":[104,105,107,108,109,110]},
+			{"id":580, "name":"Cataphractii",			"pts":400, "units":"6 Leman Russ", "upgrades":[]},
+			{"id":571, "name":"Ordinatus Minoris",	"pts":50, "upgrades":[107,108,109,110,112,113,114]},
+			{"id":572, "name":"Ordinatus Majoris",	"pts":500, "upgrades":[111,115,116]}
 		]},
 		{"name":"IMPERIAL NAVY, KNIGHTS & TITANS <br/> Max 33%", "formations":[
-			{"id":564, "name":"Thunderbolt Schwadron",					"pts":150, "units":"2 Thunderbolts", "Erweiterungen":[]},
-			{"id":575, "name":"Marauder Schwadron",						"pts":250, "units":"2 Marauder Bombers", "Erweiterungen":[]},
-			{"id":565, "name":"Adeptus Mechanicus Cruiser",				"pts":150, "Erweiterungen":[]},
-			{"id":576, "name":"Paladin Household",						"pts":500, "units":"6 Paladin Knights", "Erweiterungen":[]},
-			{"id":503, "name":"Warlord Titan", 							"pts":850, "Erweiterungen":[]},
-			{"id":504, "name":"Reaver Titan",							"pts":650, "Erweiterungen":[]},
-			{"id":552, "name":"Warhound Titan Pack",					"pts":500, "units":"2 Warhound Titans", "Erweiterungen":[]}
+			{"id":564, "name":"Thunderbolt Squadron",					"pts":150, "units":"2 Thunderbolt Fighters", "upgrades":[]},
+			{"id":575, "name":"Marauder Squadron",						"pts":250, "units":"2 Marauder Bombers", "upgrades":[]},
+			{"id":565, "name":"Adeptus Mechanicus Cruiser",				"pts":150, "upgrades":[]},
+			{"id":576, "name":"Paladin Household",						"pts":500, "units":"6 Paladin Knights", "upgrades":[]},
+			{"id":503, "name":"Warlord Titan", 							"pts":850, "upgrades":[]},
+			{"id":504, "name":"Reaver Titan",							"pts":650, "upgrades":[]},
+			{"id":552, "name":"Warhound Titan Pack",					"pts":500, "units":"2 Warhound Titans", "upgrades":[]}
 		]}
 	],
-	"Erweiterungen":[
+	"upgrades":[
 		{"id":101, "name":"3 Rapiers",		"pts":50},
 		{"id":102, "name":"Magos",	"pts":50},
 		{"id":103, "name":"Hydra",				"pts":50},
-		{"id":104, "name":"Chimäre",			"pts":25},
+		{"id":104, "name":"Chimera",			"pts":25},
 		{"id":105, "name":"Gorgon",			"pts":75},
 		{"id":106, "name":"2 Sagitarii",			"pts":50},
 		{"id":111, "name":"Hellfire Missiles",	"pts":50},
     	{"id":115, "name":"Nova Cannon",		"pts":0},
 		{"id":116, "name":"Sonic Disruption Cannon",		"pts":0},
-		{"id":107, "name":"Minoris w/ 3x Synchronisierte Hydra Autocannon",		"pts":125},
+		{"id":107, "name":"Minoris w/ 3x Twin Hydra Autocannon",		"pts":125},
 		{"id":108, "name":"Minoris w/ Plasma Cannon",		"pts":125},
 		{"id":109, "name":"Minoris w/ Turbo-Laser Destructor",	"pts":125},
 		{"id":110, "name":"Minoris w/ Multiple Rocket Launcher",	"pts":125},
