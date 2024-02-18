@@ -39,7 +39,7 @@
                     <div class="col-3 order-lg-9" style="text-align: right">
                         {{#if points}}{{appendOnNumber points ' points'}}{{/if}}
                         {{#if pointsOptions}}
-                        {{#each pointsOptions}}{{this.name}} - {{appendOnNumber points ' points'}}{{#unless @last}}<br>{{/unless}}{{/each}}
+                        {{#each pointsOptions}}{{this.name}} - {{appendOnNumber points ' Punkte'}}{{#unless @last}}<br>{{/unless}}{{/each}}
                         {{/if}}
                     </div>
                     <div class="col-12 col-lg-5">
@@ -113,9 +113,9 @@
                         <div class="col-8" style="text-align: right">{{description}}</div>
                         <div class="col-4" style="text-align: right">
                             {{#if (isArray points)}}
-                            {{#each points}}{{appendOnNumber this ' points'}}{{#unless @last}}<br>{{/unless}}{{/each}}
+                            {{#each points}}{{appendOnNumber this ' Punkte'}}{{#unless @last}}<br>{{/unless}}{{/each}}
                             {{else}}
-                            {{appendOnNumber points ' points'}}
+                            {{appendOnNumber points ' Punkte'}}
                             {{/if}}
                         </div>
                     </div>
