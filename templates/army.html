@@ -37,7 +37,7 @@
                         {{/if}}
                     </div>
                     <div class="col-3 order-lg-9" style="text-align: right">
-                        {{#if points}}{{appendOnNumber points ' points'}}{{/if}}
+                        {{#if points}}{{appendOnNumber points ' Punkte'}}{{/if}}
                         {{#if pointsOptions}}
                         {{#each pointsOptions}}{{this.name}} - {{appendOnNumber points ' Punkte'}}{{#unless @last}}<br>{{/unless}}{{/each}}
                         {{/if}}
