@@ -11,7 +11,7 @@
           "n/a"
         ],
         "specialRules": [
-          "Spirit Lords",
+          "Geisterherr",
           "Anführer"
         ]
       },
@@ -74,7 +74,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Ein in every zwei units (rounding up) has a Raketenwerfer"
+        "notes": "Eine von zwei Einheiten (aufgerundet) hat einen Raketenwerfer"
       },
       {
         "name": "Squat Berserkers",
@@ -284,8 +284,8 @@
           "Flak Cannons"
         ],
         "specialRules": [
-          "Damage Capacity 3",
-          "Support Craft"
+          "Schadenskapazität 3",
+          "Hilfstransportschiff"
         ],
         "crit": "The Overlord is destroyed. All units within 5cm suffers a hit on 6+."
       },
@@ -317,7 +317,7 @@
           "Sturmbolter Array"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Furchtlos",
           "Verstärkte Heckpanzerung",
           "Tunneler",
@@ -337,7 +337,7 @@
           "Squat Mega Geschütz"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Verstärkte Panzerung"
         ],
         "crit": "The unit is destroyed. All units within 5cm takes a hit."
@@ -424,7 +424,7 @@
           "BATTLE CAR WEAPONS",
           "Berserker Battle Car",
           "Dragon Battle Car",
-          "Siege Mörser Battle Car",
+          "Belagerungsmörser Battle Car",
           "0-1 Bomb Battle Car"
         ],
         "specialRules": [

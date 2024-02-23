@@ -5,7 +5,7 @@
   "release": "2022-09-29",
   "armyforge": "EAR_Chaos_IronWarriors",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Dark Mechanicus und Chaos Navy Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
+  "Initiative": "Dark Mechanicus und Chaos Navy Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "Iron Warriors Dreadclaws",
     "Iron Warriors Characters"
@@ -17,12 +17,12 @@
     {
       "from": "CSM.json",
       "units": [
-        "Iron Warriors Warsmith",
+        "Iron Warriors Kriegsschmied",
         "Iron Warriors Warpsmith",
-        "Daemon Prince",
+        "Dämonenprinz",
         "Chaos Space Marines",
         "Havocs",
-        "Chosen",
+        "Auserwählte",
         "Bezashk Destroyers",
         "Tyrant Siege Terminatoren",
         "Kyborgs",
@@ -72,8 +72,8 @@
   ],
   "sections": [
     {
-      "name": "Iron Warriors Core Formations",
-      "formations": [
+      "name": "Iron Warriors Core Verbände",
+      "Verbände": [
         {
           "name": "Iron Warriors Retinue",
           "units": "Ein Iron Warriors Warpsmith, sechs Chaos Space Marines",
@@ -109,12 +109,12 @@
       ]
     },
     {
-      "name": "Iron Warriors Elite Formations",
+      "name": "Iron Warriors Elite Verbände",
       "description": "Ein Elite formation may be taken pro Core formation.",
-      "formations": [
+      "Verbände": [
         {
-          "name": "Chosen",
-          "units": "Vier Chosen, zwei Chaos Rhinos",
+          "name": "Auserwählte",
+          "units": "Vier Auserwählte, zwei Chaos Rhinos",
           "extraUnits": [
             "Ersetze zwei Chaos Rhinos with zwei Chaos Siege Rhinos (10 Punkte), oder zwei Chaos Cybots oder zwei Chaos Siege Cybots (75 Punkte)",
             "Vindicators"
@@ -152,9 +152,9 @@
       ]
     },
     {
-      "name": "Iron Warriors Siege Formations",
+      "name": "Iron Warriors Siege Verbände",
       "description": "Ein Siege formation may be taken pro Core formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Heavy Siege Engine",
           "units": "Iron Warriors Stormsword",
@@ -192,8 +192,8 @@
     },
     {
       "name": "Dark Mechanicus und Chaos Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "Verbände": [
         {
           "name": "Maulerfiends",
           "units": "Vier Maulerfiends",
@@ -264,11 +264,11 @@
         "description": "Choose eine of the following:",
         "options": [
           {
-            "description": "Ersetze an Iron Warriors Warpsmith mit einem Iron Warriors Warsmith",
+            "description": "Ersetze an Iron Warriors Warpsmith mit einem Iron Warriors Kriegsschmied",
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze an Iron Warriors Warpsmith und its unit mit einemDaemon Prince",
+            "description": "Ersetze an Iron Warriors Warpsmith und its unit mit einemDämonenprinz",
             "points": "100 Punkte"
           }
         ]

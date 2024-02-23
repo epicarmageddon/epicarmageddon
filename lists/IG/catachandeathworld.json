@@ -4,9 +4,9 @@
   "version": "0.7.2",
   "release": "2022-04-01",
   "strategy": "Catachan Jungle Fighter Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All Verbände haben eine Initiative von 2+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "Catachan Befehlshabers"
+    "Catachanischer Befehlshabers"
   ],
   "usage": [
     "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Catachan Jungle Fighters Regiment"
@@ -16,14 +16,14 @@
       "from": "IG.json",
       "units": [
         "Catachanischer Oberbefehlshaber",
-        "Catachan Befehlshaber",
+        "Catachanischer Befehlshaber",
         "Catachan Infanterie",
         "Flakk Team",
         "Scharfschützen",
         "Ogryns",
-        "Death World Veterans",
-        "Catachan Sentinel",
-        "Death World Chimäre",
+        "Todeswelt Veteranen",
+        "Catachanischer Sentinel",
+        "Todeswelt Chimäre",
         "Basilisk",
         "Greif",
         "Todesstoss-Raketensystem",
@@ -40,7 +40,7 @@
         "Shadowsword"
       ],
       "unitRules": [
-                    "Shield Disruptor"
+                    "Schildstörer"
       ]
     },
     {
@@ -58,12 +58,12 @@
   "sections": [
     {
       "name": "Catachan Core Companies",
-      "formations": [
+      "Verbände": [
         {
           "name": "Catachan Regiments HQ",
           "units": "Ein Catachanischer Oberbefehlshaber, sieben Catachan Infanterie",
           "extraUnits": [
-            "Death World Transport (Compulsory)",
+            "Todeswelt Transport (Compulsory)",
             "Flakk Teams",
             "Ogryns",
             "Devil Dogs"
@@ -72,9 +72,9 @@
         },
         {
           "name": "Catachan Kompanie",
-          "units": "Ein Catachan Befehlshaber, sieben Catachan Infanterie",
+          "units": "Ein Catachanischer Befehlshaber, sieben Catachan Infanterie",
           "extraUnits": [
-            "Death World Transport (Compulsory)",
+            "Todeswelt Transport (Compulsory)",
             "Flakk Teams",
             "Ogryns",
             "Devil Dogs"
@@ -86,7 +86,7 @@
     {
       "name": "Catachan Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Leman Russ Zug",
           "units": "Sechs Leman Russ, Leman Russ Demolisher, oder Leman Russ Exterminators",
@@ -119,9 +119,9 @@
         },
         {
           "name": "Veteran Kompanie",
-          "units": "Ein Catachan Befehlshaber und sieben Death World Veterans",
+          "units": "Ein Catachanischer Befehlshaber und sieben Todeswelt Veteranen",
           "extraUnits": [
-            "Death World Transport"
+            "Todeswelt Transport"
           ],
           "points": 200
         },
@@ -149,14 +149,14 @@
         },
         {
           "name": "Scharfschütze Zug",
-          "units": "Vier Scharfschützen, zwei Death World Chimären",
+          "units": "Vier Scharfschützen, zwei Todeswelt Chimären",
           "extraUnits": [
           ],
           "points": 150
         },
         {
-          "name": "Catachan Sentinel Schwadron",
-          "units": "Vier Catachan Sentinels",
+          "name": "Catachanischer Sentinel Schwadron",
+          "units": "Vier Catachanischer Sentinels",
           "extraUnits": [
           ],
           "points": 125
@@ -166,7 +166,7 @@
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu a fourth of the Punkte available may be spent on Verbände der Imperialen Luftstreitkräfte",
-      "formations": [
+      "Verbände": [
         {
           "name": "Thunderbolt Schwadron",
           "units": "Zwei Thunderbolts",
@@ -229,14 +229,14 @@
         ]
       },
       {
-        "name": "Death World Transport",
+        "name": "Todeswelt Transport",
         "options": [
           {
             "description": "Choose eine of the following:",
             "points": ""
           },
           {
-            "description": "Füge enough Death World Chimären to transport the entire formation with no space left over",
+            "description": "Füge enough Todeswelt Chimären to transport the entire formation with no space left over",
             "points": "25 Punkte jeweils"
           },
           {

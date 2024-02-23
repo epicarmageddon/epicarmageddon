@@ -4,7 +4,7 @@
   "version": "0.5.0",
   "release": "2022-04-01",
   "strategy": "Necron Armeen haben einen Strategiewert von 2.",
-  "Initiative": "All Necron Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Necron Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "Necron Reserves",
     "Necron Garrisons",
@@ -46,7 +46,7 @@
       ],
       "unitRules": [
           "Regeneration",
-          "Machine Spirit",
+          "Maschinengeist",
           "Ponderous",
           "Enduring"
       ]
@@ -66,10 +66,10 @@
   "sections": [
     {
       "name": "Maynarkh Dynasty Special",
-      "formations": [
+      "Verbände": [
         {
           "name": "0–1 pro army - Tomb Complex",
-          "units": "The first objective the Necron player places on their own table edge functions both as a Portal und as an objective für the rules purposes. It may not be destroyed. Formations using the Portal should measure from the edge of the board as the formation’s starting point.",
+          "units": "The first objective the Necron player places on their own table edge functions both as a Portal und as an objective für the rules purposes. It may not be destroyed. Verbände using the Portal should measure from the edge of the board as the formation’s starting point.",
           "points": 25
         },
         {
@@ -81,7 +81,7 @@
     },
     {
       "name": "Sautekh Dynasty Phalanx’s",
-      "formations": [
+      "Verbände": [
         {
           "name": "Ghost Ark Phalanx",
           "units": "Drei Ghost Arks, sechs Necron Warrior eine Necron Lord.",
@@ -95,7 +95,7 @@
     {
       "name": "Sautekh Dynasty Unterstützungsverbände",
       "description": " Bis zu drei für jeweils Maynarkh Dynasty Phalanx taken",
-      "formations": [
+      "Verbände": [
         {
           "name": "Infanterie Phalanx",
           "units": "Acht Necron Warriors und eine Necron Lord",
@@ -105,7 +105,7 @@
           "points": 275
         },
         {
-          "name": "Blade Maniple",
+          "name": "Blade Manipel",
           "units": "Sechs Tomb Blades",
           "Erweiterungen": [
             "Listed Below"
@@ -113,7 +113,7 @@
           "points": 200
         },
         {
-          "name": "Iudicium Maniple",
+          "name": "Iudicium Manipel",
           "units": "Fünf Doomsday Arks oder fünf Annihilation Barges",
           "Erweiterungen": [
             "Listed Below"
@@ -121,15 +121,15 @@
           "points": 225
         },
         {
-          "name": "Eques Maniple",
-          "units": "Any sechs of the following units: Destroyers, Heavy Destroyers",
+          "name": "Eques Manipel",
+          "units": "Any sechs Einheiten, in beliebiger Kombination: Destroyers, Heavy Destroyers",
           "Erweiterungen": [
             "Listed Below"
           ],
           "points": 300
         },
         {
-          "name": "Monolith Maniple",
+          "name": "Monolith Manipel",
           "units": "Zwei Monoliths und zwei Obelisks",
           "Erweiterungen": [
             "Listed Below"
@@ -137,7 +137,7 @@
           "points": 250
         },
         {
-          "name": "Stalker Maniple",
+          "name": "Stalker Manipel",
           "units": "Vier Triarch Stalkers",
           "Erweiterungen": [
             "Listed Below"
@@ -145,7 +145,7 @@
           "points": 200
         },
         {
-          "name": "Sentry Maniple",
+          "name": "Sentry Manipel",
           "units": "Vier Sentry Pylons.",
           "Erweiterungen": [
             "Listed Below"
@@ -161,7 +161,7 @@
           "points": 275
         },
         {
-          "name": "Letum Maniple",
+          "name": "Letum Manipel",
           "units": "Vier Death Marks",
           "Erweiterungen": [
             "Listed Below"
@@ -172,11 +172,11 @@
     },
     {
       "name": "Maynarkh Dynasty Harvesters",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "0–1 Harvester Engine",
-          "units": "Ein of the following units: Abattoir, Æonic Orb",
+          "units": "Ein Einheiten, in beliebiger Kombination: Abattoir, Æonic Orb",
           "Erweiterungen": [
             "None"
           ],
@@ -275,7 +275,7 @@
         ]
       },
       {
-        "name": "Iudicium Maniple",
+        "name": "Iudicium Manipel",
         "options": [
           {
             "description": "Füge eine Command barge mit einemLord Character",
@@ -284,7 +284,7 @@
         ]
       },
       {
-        "name": "Eques Maniple",
+        "name": "Eques Manipel",
         "options": [
           {
             "description": "Füge Ein Necron Lord",
@@ -297,7 +297,7 @@
         ]
       },
       {
-        "name": "Monolith Maniple",
+        "name": "Monolith Manipel",
         "options": [
           {
             "description": "Füge eine Obelisk",
@@ -310,7 +310,7 @@
         ]
       },
       {
-        "name": "Stalker Maniple",
+        "name": "Stalker Manipel",
         "options": [
           {
             "description": "Füge 0-2 Seraptek Heavy Construct",

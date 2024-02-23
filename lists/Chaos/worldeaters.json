@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Chaos_WorldEaters",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "All World Eaters Core und Elite Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "All World Eaters Core und Elite Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "World Eaters Summoning Rules",
@@ -20,15 +20,15 @@
     {
       "from": "CSM.json",
       "units": [
-        "Warlord",
+        Kriegsherr,
         "Chaos Lord",
-        "Champion of Chaos",
-        "Icon Bearer",
-        "Daemon Prince of Khorne",
+        "Champion des Chaos",
+        "Ikonenträger",
+        "Dämonenprinz des Khorne",
         "Chaos Assault Marines",
         "Chaos Space Marines",
         "Skullseeker Terminatoren",
-        "Khorne Berzerkers",
+        "Khorne Berserker",
         "Chaos Destroyers",
         "Mutilators",
         "Khorne Berzerker Assault Bikes",
@@ -41,8 +41,8 @@
         "Berzerker Cybot"
       ],
       "unitRules": [
-          "Augment Summoning (+x)",
-          "Daemonic Focus",
+          "Verbesserte Beschwörung (+X)",
+          "Dämonischer Fokus",
         "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
@@ -50,7 +50,7 @@
       "from": "darkmechanicus.json",
       "units": [
         "Doomblaster",
-        "Geschütz of Khorne",
+        "Geschütz des Khorne",
         "Slaughterfiend",
         "Daemonic Assault Engine",
         "Greater Brass Scorpion",
@@ -65,9 +65,9 @@
     {
       "from": "daemons.json",
       "units": [
-        "Bloodletters of Khorne",
-        "Fleshhounds of Khorne",
-        "Bloodcrushers of Khorne",
+        "Bloodletters des Khorne",
+        "Fleshhounds des Khorne",
+        "Bloodcrushers des Khorne",
         "Bloodthirster"
       ],
       "unitRules": [
@@ -87,17 +87,17 @@
   ],
   "sections": [
     {
-      "name": "World Eaters Core Formations",
-      "formations": [
+      "name": "World Eaters Core Verbände",
+      "Verbände": [
         {
           "name": "World Eaters Retinue",
-          "units": "Ein Chaos Lord, vier Khorne Berzerkers, vier World Eaters Assault Marines, vier World Eaters Rhinos, Daemonic Pact",
+          "units": "Ein Chaos Lord, vier Khorne Berserker, vier World Eaters Assault Marines, vier World Eaters Rhinos, Dämonischer Pakt",
           "extraUnits": [
             "Füge zwei Berzerker Cybots: 75 Punkte",
             "Oberbefehlshaber",
             "Berzerker Transport",
             "Champion",
-            "Icon Bearer",
+            "Ikonenträger",
             "Stalker",
             "Vindicators"
           ],
@@ -105,32 +105,32 @@
         },
         {
           "name": "Skullseeker Terminatoren",
-          "units": "Ein Chaos Lord, vier Skullseeker Terminatoren, Daemonic Pact",
+          "units": "Ein Chaos Lord, vier Skullseeker Terminatoren, Dämonischer Pakt",
           "extraUnits": [
             "Füge bis zu zwei Mutilators: 50 Punkte jeweils",
             "Oberbefehlshaber",
             "Skullseeker Transport",
             "Champion",
-            "Icon Bearer"
+            "Ikonenträger"
           ],
           "points": 400
         }
       ]
     },
     {
-      "name": "World Eaters Elite Formations",
+      "name": "World Eaters Elite Verbände",
       "description": "Ein Elite formation may be taken pro Core formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Destroyers",
-          "units": "Vier Chaos Destroyers, Daemonic Pact",
+          "units": "Vier Chaos Destroyers, Dämonischer Pakt",
           "extraUnits": [
           ],
           "points": 225
         },
         {
           "name": "Chaos Space Marines",
-          "units": "Sechs Chaos Space Marines, drei World Eaters Rhinos, Daemonic Pact",
+          "units": "Sechs Chaos Space Marines, drei World Eaters Rhinos, Dämonischer Pakt",
           "extraUnits": [
             "Ersetze drei World Eaters Rhinos with drei Chaos Land Raiders: 125 Punkte",
             "Stalker",
@@ -140,21 +140,21 @@
         },
         {
           "name": "Berzerker Bikes",
-          "units": "Ein Chaos Lord, sechs Khorne Berzerker Assault Bikes, Daemonic Pact",
+          "units": "Ein Chaos Lord, sechs Khorne Berzerker Assault Bikes, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
-            "Icon Bearer"
+            "Ikonenträger"
           ],
           "points": 275
         },
         {
           "name": "Juggernaut Riders",
-          "units": "Ein Chaos Lord, sechs Juggernaut Riders, Daemonic Pact",
+          "units": "Ein Chaos Lord, sechs Juggernaut Riders, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Champion",
-            "Icon Bearer"
+            "Ikonenträger"
           ],
           "points": 300
         }
@@ -163,7 +163,7 @@
     {
       "name": "World Eaters Unterstützungsverbände",
       "description": "Zwei Unterstützungsverbände may be taken pro Core formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Doomblasters",
           "units": "Drei Doomblasters",
@@ -180,8 +180,8 @@
           "points": 250
         },
         {
-          "name": "Cannons of Khorne",
-          "units": "Vier Cannons of Khorne",
+          "name": "Cannons des Khorne",
+          "units": "Vier Cannons des Khorne",
           "extraUnits": [
           ],
           "points": 225
@@ -196,9 +196,9 @@
       ]
     },
     {
-      "name": "Kriegsmaschinen und Chaos Navy Formations",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
-      "formations": [
+      "name": "Kriegsmaschinen und Chaos Navy Verbände",
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "Verbände": [
         {
           "name": "Greater Brass Scorpions",
           "units": "Ein Greater Brass Scorpion",
@@ -244,7 +244,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",
@@ -276,7 +276,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Chaos Lord und its unit mit einemDaemon Prince of Khorne",
+            "description": "Ersetze the Chaos Lord und its unit mit einemDämonenprinz des Khorne",
             "points": "100 Punkte"
           }
         ]
@@ -286,7 +286,7 @@
         "options": [
           {
             "description": "Ersetze vier Chaos Rhinos with Dreadclaws",
-            "points": "Free"
+            "points": "Kostenlos"
           },
           {
             "description": "Ersetze vier Chaos Rhinos with zwei Chaos Spartan Assault Panzers",
@@ -299,7 +299,7 @@
         "options": [
           {
             "description": "Füge Dreadclaws to the formation",
-            "points": "Free"
+            "points": "Kostenlos"
           },
           {
             "description": "Füge zwei Chaos Spartan Assault Panzers",
@@ -308,8 +308,8 @@
         ]
       },
       {
-        "name": "Daemonic Pact",
-        "description": "Füge Daemonic Pact to the formation, und eine point to the Lesser Daemon Pool",
+        "name": "Dämonischer Pakt",
+        "description": "Füge Dämonischer Pakt to the formation, und eine point to the Lesser Daemon Pool",
         "points": "25 Punkte"
       },
       {
@@ -319,12 +319,12 @@
       },
       {
         "name": "Champion",
-        "description": "Füge eine Champion of Chaos character to the formation",
+        "description": "Füge eine Champion des Chaos character to the formation",
         "points": "50 Punkte"
       },
       {
-        "name": "Icon Bearer",
-        "description": "Füge eine Icon Bearer character",
+        "name": "Ikonenträger",
+        "description": "Füge eine Ikonenträger character",
         "points": "25 Punkte"
       },
       {

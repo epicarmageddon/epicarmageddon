@@ -4,7 +4,7 @@
   "version": "0.9.0",
   "release": "2022-08-03",
   "strategy": "Elysianische Sturmtruppen Armeen haben einen Strategiewert von 3.",
-  "Initiative": "All formations have a Initiative of 2+.",
+  "Initiative": "All Verbände have a Initiative of 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
     "Air Superiority",
@@ -15,15 +15,15 @@
       "from": "IG.json",
       "units": [
         "Elysianischer Oberbefehlshaber",
-        "Elysian Befehlshaber",
+        "Elysianischer Befehlshaber",
         "Kommissar",
         "Elysianische Sturmtruppen",
-        "Elysian Unterstützungstrupp",
+        "Elysianischer Unterstützungstrupp",
         "Elysian Mörser Squad",
         "Elysian Sturmtruppen",
-        "Armoured Sentinel",
-        "Drop Sentinel",
-        "Support Sentinel",
+        "Gepanzerter Sentinel",
+        "Luftlandungs-Sentinel",
+        "Unterstützungs-Sentinel",
         "Sentinel",
         "Tauros",
         "Tauros Venator",
@@ -42,7 +42,7 @@
         "Tarantula"
       ],
       "unitRules": [
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {
@@ -61,13 +61,13 @@
   ],
   "sections": [
     {
-      "name": "Elysian Core Formations",
-      "formations": [
+      "name": "Elysian Core Verbände",
+      "Verbände": [
         {
           "name": "0-1 Regiments HQ",
           "units": "Ein Elysianischer Oberbefehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
           "extraUnits": [
-            "Drop Sentinels",
+            "Luftlandungs-Sentinels",
             "Unterstützungstrupps",
             "Infanterie Zug"
           ],
@@ -75,9 +75,9 @@
         },
         {
           "name": "Drop Troop Kompanie",
-          "units": "Ein Elysian Befehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
+          "units": "Ein Elysianischer Befehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
           "extraUnits": [
-            "Drop Sentinels",
+            "Luftlandungs-Sentinels",
             "Unterstützungstrupps",
             "Infanterie Zug"
           ],
@@ -88,10 +88,10 @@
     {
       "name": "Elysian Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
-      "formations": [
+      "Verbände": [
         {
-          "name": "Drop Sentinel Schwadron",
-          "units": "Sechs Drop Sentinels",
+          "name": "Luftlandungs-Sentinel Schwadron",
+          "units": "Sechs Luftlandungs-Sentinels",
           "extraUnits": [
             "Füge drei Sky Talons: 75 Punkte"
           ],
@@ -101,8 +101,8 @@
           "name": "Sentinel Schwadron",
           "units": "Vier Sentinels",
           "extraUnits": [
-            "Ersetze all Sentinels with Armoured Sentinels: 25 Punkte",
-            "Ersetze all Sentinels with Support Sentinels: 50 Punkte"
+            "Ersetze all Sentinels with Gepanzerter Sentinels: 25 Punkte",
+            "Ersetze all Sentinels with Unterstützungs-Sentinels: 50 Punkte"
           ],
           "points": 100
         },
@@ -144,8 +144,8 @@
     },
     {
       "name": "Static Defenses & Imperiale LuftstreitkräfteAllies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.  Bis zu eine Tarantula formation für jeweils Tauros Recon Schwadron",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula formation für jeweils Tauros Recon Schwadron",
+      "Verbände": [
         {
           "name": "Tarantula",
           "units": "Vier Tarantulas",
@@ -187,13 +187,13 @@
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [
       {
-        "name": "Drop Sentinels",
-        "description": "Ersetze zwei Elysianische Sturmtruppen und eine Valkyrie with zwei Drop Sentinels und eine Sky Talon",
-        "points": "Free"
+        "name": "Luftlandungs-Sentinels",
+        "description": "Ersetze zwei Elysianische Sturmtruppen und eine Valkyrie with zwei Luftlandungs-Sentinels und eine Sky Talon",
+        "points": "Kostenlos"
       },
       {
         "name": "Unterstützungstrupps",
-        "description": "Ersetze zwei Elysianische Sturmtruppen und eine Valkyrie with zwei Elysian Unterstützungstrupps und eine Vendetta",
+        "description": "Ersetze zwei Elysianische Sturmtruppen und eine Valkyrie with zwei Elysianischer Unterstützungstrupps und eine Vendetta",
         "points": "25 Punkte"
       },
       {

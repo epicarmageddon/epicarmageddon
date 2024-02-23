@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Tau Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Crisis Battlesuit und Manta Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Crisis Battlesuit und Manta Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
   ],
   "usage": [
@@ -39,7 +39,7 @@
       ],
       "unitRules": [
           "Coordinated Fire",
-          "Deflector Shield",
+          "Energiefeld",
           "Ethereal",
           "Guided Raketen",
           "Markerlights",
@@ -63,7 +63,7 @@
   "sections": [
     {
       "name": "Fal'shia Cadres",
-      "formations": [
+      "Verbände": [
         {
           "name": "XV8 Crisis Battlesuit Cadre",
           "units": "Ein Shas'el, vier XV8 Crisis Battlesuits",
@@ -95,7 +95,7 @@
     {
       "name": "Fal'shia Support Groups",
       "description": " Bis zu drei für jeweils Fal'shia Cadre",
-      "formations": [
+      "Verbände": [
         {
           "name": "Hammerhead Group",
           "units": "Vier Ion oder vier Fusion Hammerheads",
@@ -154,8 +154,8 @@
     },
     {
       "name": "Fal'shia Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Manta Dropship",
           "units": "Ein Manta",

@@ -181,7 +181,7 @@
           "Energiewaffe"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Ponderous"
@@ -197,7 +197,7 @@
           "Mitralocks"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Ponderous"
@@ -227,7 +227,7 @@
           "Energiefaust"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Ponderous"
@@ -246,7 +246,7 @@
           "Energiefaust"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Ponderous"
@@ -263,7 +263,7 @@
           "Raketenwerfer"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Antigrav",
@@ -282,7 +282,7 @@
           "Arc Klauen"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Ponderous",
@@ -300,7 +300,7 @@
           "Plasma Culverins"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich",
           "Ponderous"
@@ -333,7 +333,7 @@
           }
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich"
         ],
@@ -349,7 +349,7 @@
           "Hyperios Launcher"
         ],
         "specialRules": [
-          "Machine Spirit",
+          "Maschinengeist",
           "Furchtlos",
           "Entbehrlich"
         ]
@@ -438,7 +438,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Skorpius Dunerider",
@@ -453,7 +453,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Skorpius Disintegrator",
@@ -478,7 +478,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter Hydra Maschinenkanone|2",
+          "Synchronisierte Hydra Maschinenkanone|2",
           "Schwerer Bolter"
         ],
         "specialRules": [
@@ -498,7 +498,7 @@
         "specialRules": [
           "Transport"
         ],
-        "notes": "May carry zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
+        "notes": "Darf zwei Infanterie Einheiten ohne Sprungmodule oder Beritten Eigenschaft transportieren."
       },
       {
         "name": "Termite",
@@ -587,7 +587,7 @@
           "Vulkangeschütz|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -613,7 +613,7 @@
           "Gatling Blaster|0-1|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 2",
+          "Schadenskapazität 2",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -639,7 +639,7 @@
           "Hellfire Rakete|6|FxF"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Deflektorschilde 4",
           "Verstärkte Panzerung",
           "Furchtlos"
@@ -657,7 +657,7 @@
           "Synchronisierter schweres Maschinengewehr|4|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Geländegängig",
           "Transport"

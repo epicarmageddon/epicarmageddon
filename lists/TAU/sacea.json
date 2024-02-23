@@ -6,7 +6,7 @@
   "armyforge": "EAR_Tau_SaCea",
   "intro": "The Sa'cea Tau army list lets you field a Tau army from the Sa'cea Sept.",
   "strategy": "Tau Armeen haben einen Strategiewert von 3.",
-  "Initiative": "Crisis Battlesuit und Manta Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Crisis Battlesuit und Manta Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Tiger Shark Gun Drones"
   ],
@@ -45,7 +45,7 @@
         "Guided Raketen",
         "Markerlights",
         "Tau Jet Packs",
-        "Deflector Shield"
+        "Energiefeld"
       ]
     },
     {
@@ -65,7 +65,7 @@
   "sections": [
     {
       "name": "Sa'cea Cadres",
-      "formations": [
+      "Verbände": [
         {
           "name": "XV8 Crisis Battlesuit Cadre",
           "units": "Ein Shas'el, vier XV8 Crisis Battlesuits",
@@ -97,7 +97,7 @@
     {
       "name": "Sa'cea Unterstützungsverbände",
       "description": " Bis zu drei für jeweils Sa'cea Cadre taken",
-      "formations": [
+      "Verbände": [
         {
           "name": "Hammerhead Group",
           "units": "Vier Ion oder vier Fusion Hammerheads",
@@ -138,7 +138,7 @@
         },
         {
           "name": "Recon Antigrav Group",
-          "units": "Any sechs of the following units: Piranha, Tetra",
+          "units": "Any sechs Einheiten, in beliebiger Kombination: Piranha, Tetra",
           "extraUnits": [
             "Füge bis zu zwei Piranhas: 25 Punkte jeweils"
           ],
@@ -164,8 +164,8 @@
     },
     {
       "name": "Sa'cea Aircraft, Spacecraft und Titans",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Barracuda Schwadron",
           "units": "Zwei Barracudas",

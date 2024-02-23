@@ -4,7 +4,7 @@
   "version": "0.6.2",
   "release": "2022-04-01",
   "strategy": "Cadian Shock Troops Armeen haben einen Strategiewert von 2.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität"
   ],
@@ -16,12 +16,12 @@
       "from": "IG.json",
       "units": [
         "Cadianischer Oberbefehlshaber",
-        "Cadian Befehlshaber",
+        "Cadianischer Befehlshaber",
         "Kommissar",
         "Whiteshields",
         "Infanterie",
         "Kasrkin",
-        "Armoured Sentinel",
+        "Gepanzerter Sentinel",
         "Basilisk",
         "Medusa",
         "Todesstoss-Raketensystem",
@@ -75,7 +75,7 @@
   "sections": [
     {
       "name": "Cadian Core Kompanieverbände",
-      "formations": [
+      "Verbände": [
         {
           "name": "0–1 Regiments HQ",
           "units": "Ein Cadianischer Oberbefehlshaber mit einem Kommissar, acht Kasrkin, eine Stormlord.",
@@ -88,7 +88,7 @@
         },
         {
           "name": "Whiteshield Kompanie",
-          "units": "Ein Cadian Befehlshaber mit einem Kommissar, fifteen Whiteshields, zwei Stormlords.",
+          "units": "Ein Cadianischer Befehlshaber mit einem Kommissar, fifteen Whiteshields, zwei Stormlords.",
           "extraUnits": [
             "Leman Russ Schwadron",
             "Superschwere Panzer"
@@ -97,7 +97,7 @@
         },
         {
           "name": "Shock Trooper Kompanie",
-          "units": "Ein Cadian Befehlshaber mit einem Kommissar, eleven Infanterie Einheiten, zwei Crassus Assault Transports",
+          "units": "Ein Cadianischer Befehlshaber mit einem Kommissar, eleven Infanterie Einheiten, zwei Crassus Assault Transports",
           "Erweiterungen": [
           ],
           "points": 400
@@ -107,7 +107,7 @@
     {
       "name": "Cadian Unterstützungsverbände",
       "description": " Bis zu drei Cadian Unterstützungsverbände für jeweils Cadian Core Kompanie Formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Kasrkin Zug",
           "units": "Sechs Kasrkin, eine Crassus Assault Transport",
@@ -161,8 +161,8 @@
           ]
         },
         {
-          "name": "Armoured Sentinel Schwadron",
-          "units": "Vier Armoured Sentinels",
+          "name": "Gepanzerter Sentinel Schwadron",
+          "units": "Vier Gepanzerter Sentinels",
           "Erweiterungen": [
           ],
           "points": 125
@@ -180,7 +180,7 @@
     {
       "name": "Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
       "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Collegia Titanica und Verbände der Imperialen Luftstreitkräfte",
-      "formations": [
+      "Verbände": [
         {
           "name": "Warhound Pack",
           "units": "Zwei Warhounds",

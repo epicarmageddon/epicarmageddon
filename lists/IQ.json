@@ -98,7 +98,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Psycannon",
+          "Psibolter",
           "Zorn des Imperators",
           "Energiewaffe"
         ],
@@ -117,7 +117,7 @@
         "cc": 3,
         "ff": 4,
         "weapons": [
-          "Psycannon",
+          "Psibolter",
           "Zorn des Imperators",
           "Energiewaffe"
         ],
@@ -186,7 +186,7 @@
         "cc": 5,
         "ff": 4,
         "weapons": [
-          "Plasmawerfers"
+          "Plasmawerfer "
         ],
         "specialRules": [
         ]
@@ -199,8 +199,8 @@
         "cc": 5,
         "ff": 5,
         "weapons": [
-          "Grenade Launchers",
-          "Power Mauls & Suppression Shields"
+          "Granatwerfers",
+          "Power Mauls & SuppressIonenfelder"
         ],
         "specialRules": []
       },
@@ -231,7 +231,7 @@
         "specialRules": [
           "Furchtlos",
           "Entbehrlich",
-          "Machine Spirit",
+          "Maschinengeist",
           "Ponderous"
         ]
       },
@@ -334,7 +334,7 @@
         "specialRules": [
           "Infiltratoren",
           "Furchtlos",
-          "Machine Spirit",
+          "Maschinengeist",
           "Entbehrlich"
         ]
       },
@@ -366,7 +366,7 @@
         ]
       },
       {
-        "name": "Crusaders",
+        "name": "Kreuzritter",
         "type": "INF",
         "speed": 15,
         "armour": 5,
@@ -405,7 +405,7 @@
         "specialRules": [
           "Furchtlos",
           "Entbehrlich",
-          "Machine Spirit",
+          "Maschinengeist",
           "Geländegängig"
         ]
       },
@@ -565,7 +565,7 @@
           "Synchronisierter Schwerer Flammenwerfer  |2|"
         ],
         "specialRules": [
-          "Damage Capacity 3",
+          "Schadenskapazität 3",
           "Gläubig",
           "Verstärkte Panzerung",
           "Transport"
@@ -585,7 +585,7 @@
           "Inferno Geschütz|2|"
         ],
         "specialRules": [
-          "Damage Capacity 4",
+          "Schadenskapazität 4",
           "Deflektorschilde 2",
           "Verstärkte Panzerung",
           "Gläubig",
@@ -608,7 +608,7 @@
           "Schwerer Bolter AA Turm|2|"
         ],
         "specialRules": [
-          "Damage Capacity 8",
+          "Schadenskapazität 8",
           "Deflektorschilde 6",
           "Gottgleiche Maschine",
           "Feuer aufteilen",

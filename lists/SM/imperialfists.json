@@ -6,8 +6,8 @@
   "armyforge": "EAR_AdeptusAstartes_ImperialFists",
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Imperial Fists Space Marine chapter oder any of its successor chapters. The Imperial Fists specializes in siege warfare.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "Tarantula und Hyperios Emplacement Verbände haben eine Initiative von 2+. Alle anderen Verbände haben eine Initiative von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all non-'Machine Spirit' Imperial Fists detachments.",
+  "Initiative": "Tarantula und Hyperios Emplacement Verbände haben eine Initiativewert von 2+. Alle anderen Verbände haben eine Initiativewert von 1+.",
+  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all non-'Maschinengeist' Imperial Fists detachments.",
   "specialRules": [
     "Imperial Fists Transports",
     "They Shall Know No Fear",
@@ -62,7 +62,7 @@
         "Tarantula"
       ],
       "unitRules": [
-        "Machine Spirit"
+        "Maschinengeist"
       ]
     },
     {
@@ -78,7 +78,7 @@
   "sections": [
     {
       "name": "Imperial Fists Core Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Devastoren",
           "units": "Vier Devastoren plus transport",
@@ -122,7 +122,7 @@
     {
       "name": "Imperial Fists Support Detachments",
       "description": " Bis zu zwei Support Detachments für jeweils Core Detachment.",
-      "formations": [
+      "Verbände": [
           {
             "name": "Land Raiders",
             "units": "Drei Land Raiders",
@@ -145,7 +145,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Fünf Einheiten, in beliebiger Kombination: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -205,8 +205,8 @@
     },
     {
       "name": "Imperial Fists Static Defenses, Navy & Titan Legion Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.  Bis zu eine Tarantula oder Hyperios formation für jeweils Aufklärer detachment.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.  Bis zu eine Tarantula oder Hyperios formation für jeweils Aufklärer detachment.",
+      "Verbände": [
         {
           "name": "Bastion",
           "units": "Ein Bastion",
@@ -248,7 +248,7 @@
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Füge any eine of the following units to the formation",
+        "description": "Füge any eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Füge eine Hunter",
@@ -284,19 +284,19 @@
       },
       {
         "name": "Cybots",
-        "description": "Füge any zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
+        "description": "Füge Zwei of the following: Cybot, Hellfire Cybot, Siege Cybot",
         "points": [
           "50 Punkte jeweils"
         ]
       },
       {
         "name": "Land Raider Transport",
-        "description": "Füge any number of Land Raiders oder Land Raider Crusaders, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Land Raiders oder Land Raider Crusaders, bis zu the number required to transport the formation",
         "points": "50 Punkte jeweils"
       },
       {
         "name": "Razorbacks",
-        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks, bis zu the number required to transport the formation",
         "points": "25 Punkte jeweils"
       },
       {

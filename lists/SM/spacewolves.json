@@ -4,8 +4,8 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
-  "armyRules": "The <i>They Shall Know No Fear</i> special rule applies to all Space Wolves detachments und Aircraft formations. <i>Pack Mentality</i> applies to all Core und Elite Packs.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
+  "armyRules": "The <i>They Shall Know No Fear</i> Sonderregel applies to all Space Wolves detachments und Aircraft Verbände. <i>Pack Mentality</i> applies to all Core und Elite Packs.",
   "specialRules": [
     "Pack Mentality",
     "Space Marine Transports",
@@ -66,7 +66,7 @@
   "sections": [
     {
       "name": "Space Wolves Core Packs",
-      "formations": [
+      "Verbände": [
         {
           "name": "Hunting Pack",
           "units": "Ein Wolf Lord Captain, sechs Grey Hunter Taktischer Trupp plus transport",
@@ -114,7 +114,7 @@
     {
       "name": "Space Wolf Elite Packs",
       "description": "Ein Elite Pack may be taken pro Hunting Pack (note: not eine pro Core Pack)",
-      "formations": [
+      "Verbände": [
         {
           "name": "Long Fang Pack",
           "units": "Ein Wolf Lord Captain, vier Long Fang Devastoren",
@@ -157,7 +157,7 @@
     {
       "name": "Space Wolf Support Packs",
       "description": "Zwei Support Packs may be taken pro Hunting Pack (note: not eine pro Core Pack)",
-      "formations": [
+      "Verbände": [
         {
           "name": "Land Raiders",
           "units": "Drei Land Raiders",
@@ -169,7 +169,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Fünf Einheiten, in beliebiger Kombination: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Typhoons"
           ],
@@ -203,8 +203,8 @@
     },
     {
       "name": "Space Wolf Navy & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "0-1 Orbital Support",
           "units": "Ein Strike Cruiser",
@@ -247,7 +247,7 @@
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Füge any eine of the following units to the formation",
+        "description": "Füge any eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Hunter",
@@ -285,7 +285,7 @@
       },
       {
         "name": "Heavy Transports",
-        "description": "Füge any number of Razorbacks oder Land Raiders, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks oder Land Raiders, bis zu the number required to transport the formation",
         "options": [
           {
             "description": "Razorback",

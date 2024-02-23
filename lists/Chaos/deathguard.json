@@ -5,7 +5,7 @@
   "release": "2023-01-28",
   "armyforge": "EAR_Chaos_DeathGuard",
   "strategy": "Chaos Space Marine Armeen haben einen Strategiewert von 4.",
-  "Initiative": "Death Guard Core, Elite, und Traitor Titan Verbände haben eine Initiative von 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "Death Guard Core, Elite, und Traitor Titan Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "Death Guard Summoning Rules",
@@ -19,16 +19,16 @@
     {
       "from": "CSM.json",
       "units": [
-        "Warlord",
+        Kriegsherr,
         "Chaos Lord",
         "Sorcerer Lord",
-        "Champion of Chaos",
-        "Icon Bearer",
-        "Daemon Prince of Nurgle",
+        "Champion des Chaos",
+        "Ikonenträger",
+        "Dämonenprinz des Nurgle",
         "Chaos Space Marines",
         "Havocs",
         "Blightlord Terminatoren",
-        "Plague Marines",
+        "Seuchenmarines",
         "Death Guard Rhino",
         "Death Guard Land Raider",
         "Death Guard Vindicator",
@@ -36,15 +36,15 @@
         "Death Guard Stalker"
       ],
       "unitRules": [
-      "Augment Summoning (+x)",
-      "Daemonic Focus",
+      "Verbesserte Beschwörung (+X)",
+      "Dämonischer Fokus",
         "Schwergepanzertes Fahrzeug (H-AV)"
       ]
     },
     {
       "from": "chaoscultists.json",
       "units": [
-        "Poxwalkers of Nurgle"
+        "Poxwalkers des Nurgle"
       ],
       "unitRules": [
         "Infestation"
@@ -67,9 +67,9 @@
     {
       "from": "daemons.json",
       "units": [
-        "Plaguebearers of Nurgle",
-        "Beasts of Nurgle",
-        "Plague Drones of Nurgle",
+        "Plaguebearers des Nurgle",
+        "Beasts des Nurgle",
+        "Plague Drones des Nurgle",
         "Great Unclean Ein"
       ],
       "unitRules": [
@@ -98,17 +98,17 @@
   ],
   "sections": [
     {
-      "name": "Death Guard Core Formations",
-      "formations": [
+      "name": "Death Guard Core Verbände",
+      "Verbände": [
         {
           "name": "Death Guard Retinue",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Plague Marines, drei Chaos Space Marines, Daemonic Pact",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Seuchenmarines, drei Chaos Space Marines, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Retinue Transport",
             "Champion",
             "Stalker",
-            "Icon Bearer",
+            "Ikonenträger",
             "Vindicators",
             "Havocs",
             "Cybots"
@@ -117,12 +117,12 @@
         },
         {
           "name": "Death Guard Terminatoren",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Blightlord Terminatoren, Daemonic Pact",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Blightlord Terminatoren, Dämonischer Pakt",
           "extraUnits": [
             "Oberbefehlshaber",
             "Terminator Transport",
             "Champion",
-            "Icon Bearer",
+            "Ikonenträger",
             "Vindicators",
             "Cybots"
           ],
@@ -131,17 +131,17 @@
       ]
     },
     {
-      "name": "Death Guard Elite Formations",
+      "name": "Death Guard Elite Verbände",
       "description": "Ein Elite formation may be taken pro Core formation",
-      "formations": [
+      "Verbände": [
         {
           "name": "Havocs",
-          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, Daemonic Pact",
+          "units": "Ein Chaos Lord oder Sorcerer Lord, vier Havocs, Dämonischer Pakt",
           "extraUnits": [
             "Havoc Transport",
             "Cybots",
             "Vindicators",
-            "Icon Bearer",
+            "Ikonenträger",
             "Stalker"
           ],
           "points": 225
@@ -161,7 +161,7 @@
     {
       "name": "Death Guard Unterstützungsverbände",
       "description": " Bis zu zwei Unterstützungsverbände may be taken pro Core Formation.",
-      "formations": [
+      "Verbände": [
         {
           "name": "Poxwalker Infestation",
           "units": "sieben Poxwalkers",
@@ -199,8 +199,8 @@
     },
     {
       "name": "Traitor Titans und Chaos Navy",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Plaguehound",
           "units": "Ein Plaguehound Titan",
@@ -235,7 +235,7 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lesser Daemon Pool",
           "units": "Any amount of Lesser Daemon Pool Punkte",
@@ -262,7 +262,7 @@
             "points": "50 Punkte"
           },
           {
-            "description": "Ersetze the Chaos Lord und its unit mit einemDaemon Prince of Nurgle",
+            "description": "Ersetze the Chaos Lord und its unit mit einemDämonenprinz des Nurgle",
             "points": "100 Punkte"
           }
         ]
@@ -320,12 +320,12 @@
       },
       {
         "name": "Champion",
-        "description": "Füge eine Champion of Chaos character to the formation",
+        "description": "Füge eine Champion des Chaos character to the formation",
         "points": "50 Punkte"
       },
       {
-        "name": "Icon Bearer",
-        "description": "Füge eine Icon Bearer character",
+        "name": "Ikonenträger",
+        "description": "Füge eine Ikonenträger character",
         "points": "25 Punkte"
       },
       {

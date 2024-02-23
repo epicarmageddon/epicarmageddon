@@ -4,7 +4,7 @@
   "version": "0.6.0",
   "release": "2022-04-01",
   "strategy": "Dark Mechanicus Armeen haben einen Strategiewert von 3.",
-  "Initiative": "The Chaos Warbringer formation has an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiative von 2+.",
+  "Initiative": "The Chaos Warbringer formation has an Initiative Rating of 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
     "Summoning",
     "QT Summoning Rules",
@@ -20,15 +20,15 @@
       "units": [
         "Chaos Icon",
         "Hell-Strider",
-        "Hell-Knight",
+        "Höllenritter",
         "Hell-Scourge",
-        "Knight-Desecrator",
-        "Knight-Rampager",
-        "Knight-Despoiler",
-        "Knight-Renegade",
-        "Knight-Tyrant",
-        "Knight-Doomglaive",
-        "Knight-Perfidor",
+        "Ritter-Desecrator",
+        "Ritter-Rampager",
+        "Ritter-Despoiler",
+        "Ritter-Renegade",
+        "Ritter-Tyrant",
+        "Ritter-Doomglaive",
+        "Ritter-Perfidor",
         "Arch-Heretek",
         "Hellwright",
         "Chaos Squats",
@@ -43,12 +43,12 @@
         "The Kaban Machine"
       ],
       "unitRules": [
-         "Daemonic Focus",
+         "Dämonischer Fokus",
         "Daemon Engine (x)",
         "Schwergepanzertes Fahrzeug (H-AV)",
         "Deflektorschilde",
         "Schildbohrer",
-        "Shield Disruptor",
+        "Schildstörer",
         "Lanze"
       ]
     },
@@ -56,9 +56,9 @@
       "from": "daemons.json",
       "units": [
         "Daemonettes of Slaanesh",
-        "Plaguebearers of Nurgle",
-        "Bloodletters of Khorne",
-        "Horrors of Tzeentch",
+        "Plaguebearers des Nurgle",
+        "Bloodletters des Khorne",
+        "Horrors des Tzeentch",
         "Daemonic Beasts of Chaos Undivided"
       ],
       "unitRules": [
@@ -86,10 +86,10 @@
   ],
   "sections": [
     {
-      "name": "Hell-Forge Core formations",
-      "formations": [
+      "name": "Hell-Forge Core Verbände",
+      "Verbände": [
         {
-          "name": "Hell-Forge Maniple",
+          "name": "Hell-Forge Manipel",
           "units": "Ein Hellwright, eleven Chaos Squats",
           "extraUnits": [
             "Ersetze vier Chaos Squats with vier Phospexors: 25 Punkte",
@@ -103,68 +103,68 @@
       ]
     },
     {
-      "name": "Daemonic Banner Formations",
-      "description": " Bis zu drei für jeweils Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne formations.",
-      "formations": [
+      "name": "Daemonic Banner Verbände",
+      "description": " Bis zu drei für jeweils Hell-Forge Core formation. Army may not mix Nurgle/Tzeentch oder Slaanesh/Khorne Verbände.",
+      "Verbände": [
         {
-          "name": "Hell-Knights of Slaanesh",
-          "units": "Daemonic Pact, zwei Hell-Knights",
+          "name": "Höllenritter of Slaanesh",
+          "units": "Dämonischer Pakt, zwei Höllenritter",
           "extraUnits": [
-            "Füge einen zusätzlichen Hell-Knight: 100 Punkte"
+            "Füge einen zusätzlichen Höllenritter: 100 Punkte"
           ],
           "points": 300
         },
         {
           "name": "Hell-Scourges of Slaanesh",
-          "units": "Daemonic Pact, zwei Hell-Scourges",
+          "units": "Dämonischer Pakt, zwei Hell-Scourges",
           "extraUnits": [
-            "Füge einen zusätzlichen Hell-Knight: 100 Punkte"
+            "Füge einen zusätzlichen Höllenritter: 100 Punkte"
           ],
           "points": 300
         },
         {
           "name": "Hell-Striders of Slaanesh",
-          "units": "Daemonic Pact, vier Hell-Striders",
+          "units": "Dämonischer Pakt, vier Hell-Striders",
           "extraUnits": [
             "Füge einen zusätzlichen Hell-Strider: 50 Punkte"
           ],
           "points": 250
         },
         {
-          "name": "Knight-Despoilers of Tzeentch",
-          "units": "Daemonic Pact, zwei Knight-Despoilers",
+          "name": "Ritter-Despoilers des Tzeentch",
+          "units": "Dämonischer Pakt, zwei Ritter-Despoilers",
           "extraUnits": [
             "Chaos Icon"
           ],
           "points": 350
         },
         {
-          "name": "Knight-Desecrators of Nurgle",
-          "units": "Daemonic Pact, zwei Knight-Desecrators",
+          "name": "Ritter-Desecrators des Nurgle",
+          "units": "Dämonischer Pakt, zwei Ritter-Desecrators",
           "extraUnits": [
             "Chaos Icon"
           ],
           "points": 350
         },
         {
-          "name": "Knight-Rampagers of Khorne",
-          "units": "Daemonic Pact, zwei Knight-Rampagers",
+          "name": "Ritter-Rampagers des Khorne",
+          "units": "Dämonischer Pakt, zwei Ritter-Rampagers",
           "extraUnits": [
             "Chaos Icon"
           ],
           "points": 350
         },
         {
-          "name": "Knight-Renegades of Chaos Undivided",
-          "units": "Daemonic Pact, zwei Knight-Renegades",
+          "name": "Ritter-Renegades of Chaos Undivided",
+          "units": "Dämonischer Pakt, zwei Ritter-Renegades",
           "extraUnits": [
             "Chaos Icon"
           ],
           "points": 350
         },
         {
-          "name": "Knight-Tyrant of Chaos Undivided",
-          "units": "Daemonic Pact, eine Knight-Tyrant",
+          "name": "Ritter-Tyrant of Chaos Undivided",
+          "units": "Dämonischer Pakt, eine Ritter-Tyrant",
           "extraUnits": [
             "Chaos Icon"
           ],
@@ -172,9 +172,9 @@
         },
         {
           "name": "Armigers of Chaos Undivided",
-          "units": "Daemonic Pact, vier Knight-Doomglaives oder vier Knight-Perfidors",
+          "units": "Dämonischer Pakt, vier Ritter-Doomglaives oder vier Ritter-Perfidors",
           "extraUnits": [
-            "Füge einen zusätzlichen Knight-Doomglaive oder Knight-Perfidor (formation may not mix configurations): 50 Punkte"
+            "Füge einen zusätzlichen Ritter-Doomglaive oder Ritter-Perfidor (formation may not mix configurations): 50 Punkte"
           ],
           "points": 250
         }
@@ -182,8 +182,8 @@
     },
     {
       "name": "Hell-Forge Support, Traitor Titan und Chaos Navy Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations.",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände.",
+      "Verbände": [
         {
           "name": "Chrono-Gladiators",
           "units": "Sechs Chrono-Gladiators",
@@ -236,10 +236,10 @@
     {
       "name": "Daemon Pool",
       "description": "Any amount may be spent on Daemon Pool Punkte",
-      "formations": [
+      "Verbände": [
         {
           "name": "Lesser Daemon Pool",
-          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine Lesser Daemon pool point für jeweils Daemonic Pact.",
+          "units": "Any amount of Lesser Daemon Pool Punkte. Füge eine Lesser Daemon pool point für jeweils Dämonischer Pakt.",
           "points": 15
         }
       ]

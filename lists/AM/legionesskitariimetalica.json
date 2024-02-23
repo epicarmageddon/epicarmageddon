@@ -5,7 +5,7 @@
   "release": "2022-04-01",
   "armyforge": "EAR_AdeptusMechanicus_LegionesSkitariiMetalica",
   "strategy": "The Legiones Skitarii have a Strategy Rating of 3.",
-  "Initiative": "Collegia Titanica Verbände haben eine Initiative von 1+. All other formations have a Initiative Rating of 2+.",
+  "Initiative": "Collegia Titanica Verbände haben eine Initiativewert von 1+. All other Verbände have a Initiative Rating of 2+.",
   "specialRules": [
   ],
   "usage": [
@@ -37,19 +37,19 @@
         "Ark Mechanicus Battleship"
       ],
       "unitRules": [
-        "Machine Spirit",
+        "Maschinengeist",
         "Ponderous",
-        "Shield Disruptor"
+        "Schildstörer"
       ]
     },
     {
       "from": "QK.json",
       "units": [
-        "Knight-Paladin"
+        "Paladinritter"
       ],
       "unitRules": [
-        "Bravery",
-        "Ion Shield (x)",
+        "Tapferkeit",
+        "Ionenfeld (x)",
         "Lightning Charge",
         "Schwergepanzertes Fahrzeug (H-AV)"
       ]
@@ -70,13 +70,13 @@
   ],
   "sections": [
     {
-      "name": "Legiones Metalica Core Formations",
-      "formations": [
+      "name": "Legiones Metalica Core Verbände",
+      "Verbände": [
         {
-          "name": "Hypaspist Maniple",
+          "name": "Hypaspist Manipel",
           "units": "Ein Magos, neun Hypaspists",
           "extraUnits": [
-            "Ersetze drei Hypaspists with drei Rapiers: Free",
+            "Ersetze drei Hypaspists with drei Rapiers: Kostenlos",
             "Ersetze zwei Hypaspists with zwei Sagitarii: 25 Punkte",
             "Minoris",
             "Oberbefehlshaber",
@@ -88,9 +88,9 @@
       ]
     },
     {
-      "name": "Legiones Metalica Line Formations",
-      "description": " Bis zu drei Metalica Line Formations für jeweils Core Formation.",
-      "formations": [
+      "name": "Legiones Metalica Line Verbände",
+      "description": " Bis zu drei Metalica Line Verbände für jeweils Core Formation.",
+      "Verbände": [
         {
           "name": "Ballistae Cohort",
           "units": "Vier Sagitarii",
@@ -102,7 +102,7 @@
           "points": 150
         },
         {
-          "name": "Kastelan Maniple",
+          "name": "Kastelan Manipel",
           "units": "Ein Tech-Priest, fünf Kastelan Robots",
           "extraUnits": [
             "Füge bis zu zwei Kastelan Robots für 25 Punkte jeweils"
@@ -110,21 +110,21 @@
           "points": 175
         },
         {
-          "name": "Castellax Maniple",
+          "name": "Castellax Manipel",
           "units": "Ein Tech-Priest, vier Castellax Battle-Automata",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Praetorian Maniple",
+          "name": "Praetorian Manipel",
           "units": "Ein Tech-Priest, fünf Praetorian Combat Servitors",
           "extraUnits": [
           ],
           "points": 250
         },
         {
-          "name": "Cataphractii Maniple",
+          "name": "Cataphractii Manipel",
           "units": "Sechs Leman Russ, Leman Russ Demolisher oder Leman Russ Executioners",
           "extraUnits": [
             "Hydra"
@@ -153,11 +153,11 @@
     },
     {
       "name": "Forge World Navy, Collegia Titanica und Questoris Mechanicus Support",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Paladin Household",
-          "units": "Fünf Knight-Paladins",
+          "units": "Fünf Ritter-Paladins",
           "extraUnits": [
           ],
           "points": 450
@@ -166,7 +166,7 @@
           "name": "Warhound Pack",
           "units": "Zwei Warhound Aufklärer Titans, both of either Standard oder Support Configuration",
           "extraUnits": [
-            "Panzer Hunter Configuration"
+            "Panzerjägerkonfiguration"
           ],
           "points": 475
         },
@@ -242,7 +242,7 @@
       {
         "name": "Ordinatus Mars",
         "description": "Ersetze the Ordinatus Armageddon mit einem Ordinatus Mars (Sonic Disruptor)",
-        "points": "Free"
+        "points": "Kostenlos"
       },
       {
         "name": "Ordinatus Golgotha",
@@ -251,7 +251,7 @@
       },
       {
         "name": "Panzer Hunter",
-        "description": "Upgrade both Warhounds to Panzer Hunter Configuration",
+        "description": "Upgrade both Warhounds to Panzerjägerkonfiguration",
         "points": "50 Punkte"
       }
     ]

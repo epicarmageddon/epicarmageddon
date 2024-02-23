@@ -6,7 +6,7 @@
   "armyforge": "EAR_AdeptusAstartes_Ravenguard",
   "intro": "Der folgende Armeeorganisationsplan ermöglicht es eine Armee Raven Guard Space Marine chapter oder any of its successor chapters. The Raven Guard specialise in guerrilla warfare, moving behind enemy lines with unrivalled stealth, und striking with precise application of force.",
   "strategy": "Space Marine Armeen haben einen Strategiewert von 5.",
-  "Initiative": "All Verbände haben eine Initiative von 1+.",
+  "Initiative": "All Verbände haben eine Initiativewert von 1+.",
   "specialRules": [
     "Land Speeder Escort",
     "Space Marine Transports",
@@ -63,7 +63,7 @@
   "sections": [
     {
       "name": "Ravenguard Core Detachments",
-      "formations": [
+      "Verbände": [
         {
           "name": "Storm Aufklärers",
           "units": "Drei Raven Guard Aufklärers, drei Land Speeder Storms",
@@ -89,7 +89,7 @@
     {
       "name": "Ravenguard Elite Detachments",
       "description": "Ein Elite Detachment may be taken pro Core Detachment",
-      "formations": [
+      "Verbände": [
         {
           "name": "Sternguard Veteran",
           "units": "Vier Sternguard Veterans plus transport",
@@ -112,7 +112,7 @@
         },
         {
           "name": "Terminatoren",
-          "units": "Any vier of the following units: Terminatoren, Cyclone Terminatoren",
+          "units": "Vier Einheiten, in beliebiger Kombination: Terminatoren, Cyclone Terminatoren",
           "extraUnits": [
             "Befehlshaber"
           ],
@@ -123,7 +123,7 @@
     {
       "name": "Ravenguard Support Detachments",
       "description": "Zwei Support Detachment may be taken pro Core Detachment",
-      "formations": [
+      "Verbände": [
         {
           "name": "Sturmtrupp",
           "units": "Vier Sturmtrupp",
@@ -135,7 +135,7 @@
         },
         {
           "name": "Bikes",
-          "units": "Any fünf of the following units: Trike, Assault Bikes",
+          "units": "Fünf Einheiten, in beliebiger Kombination: Trike, Assault Bikes",
           "extraUnits": [
             "Befehlshaber",
             "Land Speeders"
@@ -155,7 +155,7 @@
         },
         {
           "name": "Land Speeders",
-          "units": "Any fünf of the following units: Land Speeder, Land Speeder Tornado",
+          "units": "Fünf Einheiten, in beliebiger Kombination: Land Speeder, Land Speeder Tornado",
           "extraUnits": [
             "Land Speeder Variants"
           ],
@@ -175,8 +175,8 @@
     },
     {
       "name": "Ravenguard Navy & Collegia Titanica Allies",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these formations",
-      "formations": [
+      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für these Verbände",
+      "Verbände": [
         {
           "name": "Storm Talons",
           "units": "Zwei Storm Talons",
@@ -212,7 +212,7 @@
     "items": [
       {
         "name": "Anti-Air",
-        "description": "Füge any eine of the following units to the formation",
+        "description": "Füge any eine Einheiten, in beliebiger Kombination to the formation",
         "options": [
           {
             "description": "Füge eine Hunter",
@@ -249,7 +249,7 @@
       },
       {
         "name": "Raven Guard Land Speeders",
-        "description": "Füge any zwei of the following. All Land Speeders bought as part of this upgrade are subject to the 'Land Speeder Escort' special rule.",
+        "description": "Füge any zwei of the following. All Land Speeders bought as part of this upgrade are subject to the 'Land Speeder Escort' Sonderregel.",
         "options": [
           {
             "description": "Land Speeder, Land Speeder Tornado",
@@ -267,12 +267,12 @@
       },
       {
         "name": "Razorbacks",
-        "description": "Füge any number of Razorbacks, bis zu the number required to transport the formation",
+        "description": "Füge eine beliebige Anzahl Razorbacks, bis zu the number required to transport the formation",
         "points": "25 Punkte jeweils"
       },
       {
         "name": "Scharfschützen",
-        "description": "All Aufklärers in the formation gain the 'Scharfschütze' special rule on their Schwerer Bolter",
+        "description": "All Aufklärers in the formation gain the 'Scharfschütze' Sonderregel on their Schwerer Bolter",
         "points": "25 Punkte"
       },
       {
