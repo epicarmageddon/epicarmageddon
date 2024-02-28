@@ -6,7 +6,7 @@
   "strategy": "Dark Mechanicus Armeen haben einen Strategiewert von 3.",
   "Initiative": "All Battle Titan und Chaos Warhound Verbände haben eine Initiativewert von 1+. Alle anderen Verbände haben eine Initiativewert von 2+.",
   "specialRules": [
-    "TTL Eternal Animosity"
+    "TTL Eternal Animösität"
   ],
   "usage": [
     "The following army list allows you to field an army from the Traitor Titan Legions with Dark Mechanicus support."
@@ -180,7 +180,7 @@
         {
           "name": "Forgefiends of Chaos Undivided",
           "units": "Drei Forgefiends",
-          "Erweiterungen": [
+          "upgrades": [
           ],
           "points": 225
         },
@@ -226,7 +226,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Traitor Titan Legion Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [

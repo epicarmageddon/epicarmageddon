@@ -1,17 +1,17 @@
 [
   {
-    "name": "Genestealer Streitmächte",
+    "name": "Symbionten Streitmächte",
     "specialRules": [
     ],
     "unit": [
       {
-        "name": "Genestealer Patriarch",
+        "name": "Symbionten Patriarch",
         "type": "CH",
         "weapons": [
-          "Large Rending Klauen||EA(+1)"
+          "Large Zangenkrallen||EA(+1)"
         ],
         "specialRules": [
-          "Extended Command",
+          "Erweiterter Befehlsradius",
           "Inspirierend",
           "Unmodifizierter Rettungswurf",
           "Verstärkte Panzerung",
@@ -19,23 +19,23 @@
         ]
       },
       {
-        "name": "Genestealer Magus",
+        "name": "Symbionten Magus",
         "type": "CH",
         "weapons": [
           "Mental Onslaught"
         ],
         "specialRules": [
           "Befehlshaber",
-          "Extended Command",
+          "Erweiterter Befehlsradius",
           "Unmodifizierter Rettungswurf",
           "Anführer"
         ]
       },
       {
-        "name": "Genestealer Primus",
+        "name": "Symbionten Primus",
         "type": "CH",
         "weapons": [
-          "Large Rending Klauen||EA(+1)"
+          "Large Zangenkrallen||EA(+1)"
         ],
         "specialRules": [
           "Inspirierend",
@@ -74,7 +74,7 @@
         "weapons": [
           "Schweres Maschinengewehr",
           "Automatikpistolen",
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Entbehrlich"
@@ -82,13 +82,13 @@
         "notes": "Eine von zwei Einheiten (aufgerundet) hat eine Schweres Maschinengewehr"
       },
       {
-        "name": "Genestealers",
+        "name": "Symbionten",
         "type": "INF",
         "speed": 20,
         "armour": 6,
         "cc": 2,
         "weapons": [
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Aufklärer",
@@ -118,11 +118,11 @@
         "weapons": [
           "Blasting Charges",
           "Flammenpistole",
-          "Rending Klauen"
+          "Zangenkrallen"
         ],
         "specialRules": [
           "Infiltratoren",
-          "Honour Guard"
+          "Ehrengarde"
         ]
       },
       {
@@ -204,7 +204,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr Turm"
+          "Synchronisiertes schweres Maschinengewehr Turm"
         ]
       },
       {
@@ -270,13 +270,13 @@
         "ff": 5,
         "weapons": [
           "Retrofitted Defense Laser||FxF",
-          "Synchronisierter schweres Maschinengewehr|2|FxF"
+          "Synchronisiertes schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 4",
           "Furchtlos"
         ],
-        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
+        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten innerhalb von 5cm of the model suffer a hit on a roll of 4+."
       },
       {
         "name": "Assault Excavator",
@@ -287,7 +287,7 @@
         "ff": 6,
         "weapons": [
           "Excavator Power Arms",
-          "Synchronisierter schweres Maschinengewehr|2|FxF"
+          "Synchronisiertes schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 4",

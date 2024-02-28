@@ -74,7 +74,7 @@
       "name": "Kompanieverbände",
       "formations": [
         {
-          "name": "Regiments HQ",
+          "name": "Regiments Hauptquartier",
           "units": "Ein Stahlegion Oberbefehlshaber mit einem Kommissar, neun Infanteristen und fünf Chimären",
           "extraUnits": [
             "Alle"
@@ -256,7 +256,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Stahlegion Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden. Nicht mehr als drei Erweiterungen pro Kompanieverband",
     "items": [

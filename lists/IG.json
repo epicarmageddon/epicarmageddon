@@ -1,6 +1,6 @@
 [
   {
-    "name": "Streitmächte des Astra Militarum",
+    "name": "Astra Militarum",
     "specialRules": [
     ],
     "unit": [
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "name": "Baranische Belagerungsmeister",
+        "name": "Baranischer Belagerungsmeister",
         "type": "INF",
         "speed": 15,
         "armour": 4,
@@ -786,7 +786,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr Turm"
+          "Synchronisiertes schweres Maschinengewehr Turm"
         ],
         "specialRules": [
         ]
@@ -1171,7 +1171,7 @@
         ],
         "specialRules": [
         ],
-        "notes": "Formation must start the game in the reserves, und may only enter the board by Tunneling. When resolving Tunnelgräber, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, oder within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
+        "notes": "Formation must start the game in the Reserven, und may only enter the board by Tunneling. When resolving Tunnelgräber, first place the Hades Breaching Drill at the designated co-ordinates. Then place the remainder of the formation within 5cm of it, oder within 5cm of another unit from the same formation that has already been placed, so long as all units are placed within 15cm of the Hades Breaching Drill. Finally, remove the Hades Breaching Drill from the board."
       },
       {
         "name": "Schwerer Ragnarok Panzer",
@@ -1504,7 +1504,7 @@
         ],
         "specialRules": [
         ],
-        "crit": "The Minotaur is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "The Minotaur is destroyed. All Einheiten innerhalb von 5cm suffers a hit on 6+."
       },
       {
         "name": "Macharius",
@@ -1515,7 +1515,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisiertes Kampfgeschütz",
-          "Synchronisierter schweres Maschinengewehr",
+          "Synchronisiertes schweres Maschinengewehr",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
@@ -1532,7 +1532,7 @@
         "weapons": [
           "Synchronisierter Vanquisher Geschütz|0-1|",
           "Vulcan Mega-Bolter|0-1|",
-          "Synchronisierter schweres Maschinengewehr||",
+          "Synchronisiertes schweres Maschinengewehr||",
           "Schwerer Bolter|2|"
         ],
         "specialRules": [
@@ -1551,7 +1551,7 @@
         "ff": 4,
         "weapons": [
           "Synchronisierter Ragnarok Kampfgeschütz",
-          "Synchronisierter schweres Maschinengewehr|3|FxF"
+          "Synchronisiertes schweres Maschinengewehr|3|FxF"
         ],
         "specialRules": [
           "Schadenskapazität 2",
@@ -1568,7 +1568,7 @@
         "ff": 4,
         "weapons": [
           "Medusa Belagerungsgeschütz||FxF",
-          "Synchronisierter schweres Maschinengewehr|3|"
+          "Synchronisiertes schweres Maschinengewehr|3|"
         ],
         "specialRules": [
           "Schadenskapazität 2",
@@ -1585,13 +1585,13 @@
         "ff": 5,
         "weapons": [
           "Planetary Defense Laser",
-          "Synchronisierter schweres Maschinengewehr|3|"
+          "Synchronisiertes schweres Maschinengewehr|3|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All units within 5cm of the model suffer a hit on a roll of 4+."
+        "crit": "The Defence Laser plasma reservoirs explodes, destroying the unit. All Einheiten innerhalb von 5cm of the model suffer a hit on a roll of 4+."
       },
       {
         "name": "Gorgon",
@@ -1601,7 +1601,7 @@
         "cc": 6,
         "ff": 6,
         "weapons": [
-          "Synchronisierter schweres Maschinengewehr|4|"
+          "Synchronisiertes schweres Maschinengewehr|4|"
         ],
         "specialRules": [
           "Schadenskapazität 3",
@@ -1609,7 +1609,7 @@
           "Geländegängig",
           "Transport"
         ],
-        "notes": "May carry 10 Infanterie Einheiten without Jump Pack oder Beritten Eigenschaft transportieren",
+        "notes": "May carry 10 Infanterie Einheiten without Sprungmodule oder Beritten Eigenschaft transportieren",
         "crit": "The Gorgon is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Any subsequent criticals destroys the Gorgon."
       },
       {
@@ -1622,7 +1622,7 @@
         "weapons": [
           "Banebladegeschütz",
           "Maschinenkanone",
-          "Demolisher||FxF",
+          "Demolisher Geschütz||FxF",
           "Laserkanone|2|FxF",
           "Synchronisierter schwerer Bolter|3|FxF"
         ],
@@ -1630,7 +1630,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Hellhammer",
@@ -1650,7 +1650,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Stormlord",
@@ -1669,7 +1669,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "notes": "May transport zwölf Infanteristen units without Jump Pack oder Beritten, zwei may fire from the firing deck und participate with FF during assaults.",
+        "notes": "May transport zwölf Infanteristen Einheiten mitout Sprungmodule oder Beritten, zwei may fire from the firing deck und participate with FF during assaults.",
         "crit": "The Stormlord is immobilized, und may not move für the rest of the game. 1D3 random units inside takes a hit. Subsequent hits destroys the unit."
       },
       {
@@ -1688,7 +1688,7 @@
           "Verstärkte Panzerung",
           "Transport"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Shadowsword",
@@ -1705,7 +1705,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Stormblade",
@@ -1723,7 +1723,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Stormsword",
@@ -1741,7 +1741,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       },
       {
         "name": "Stormhammer",
@@ -1760,7 +1760,7 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung"
         ],
-        "crit": "The unit is destroyed. All units within 5cm suffers a hit on 6+."
+        "crit": "Die Einheit wird vernichtet. Alle Einheiten innerhalb von  5cm suffers a hit on 6+."
       }
     ]
   }

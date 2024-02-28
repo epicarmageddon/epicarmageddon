@@ -7,8 +7,8 @@
   "Initiative": "All Verbände have a Initiative of 2+.",
   "specialRules": [
     "Mut, Disziplin und Loyalität",
-    "Air Superiority",
-    "Deep Strike"
+    "Luftüberlegenheit",
+    "Hinterlandeinsatz"
   ],
   "units": [
     {
@@ -61,10 +61,10 @@
   ],
   "sections": [
     {
-      "name": "Elysian Core Verbände",
+      "name": "Elysian Kern Verbände",
       "formations": [
         {
-          "name": "0-1 Regiments HQ",
+          "name": "0-1 Regiments Hauptquartier",
           "units": "Ein Elysianischer Oberbefehlshaber mit einem Kommissar, sieben Elysianische Sturmtruppen, vier Valkyries.",
           "extraUnits": [
             "Luftlandungs-Sentinels",
@@ -87,7 +87,7 @@
     },
     {
       "name": "Elysian Unterstützungsverbände",
-      "description": " Bis zu zwei Unterstützungsverbände für jeweils Core Kompanie.",
+      "description": " Bis zu zwei Unterstützungsverbände für jeweils Kern Kompanie.",
       "formations": [
         {
           "name": "Luftlandungs-Sentinel Schwadron",
@@ -182,7 +182,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Elysian Erweiterungen",
     "description": "Jede Erweiterung kann nur einmalig ausgewählt werden.",
     "items": [

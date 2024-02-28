@@ -26,10 +26,10 @@
               "img": "images/AdeptusMechanicus_LegionesMetalica.jpg"
             },
             {
-              "name": "Ritter World",
+              "name": "Ritter Welten",
               "file": "questorisimperialis",
               "status": "approved",
-              "img": "images/AdeptusMechanicus_RitterWorld.jpg"
+              "img": "images/AdeptusMechanicus_KnightWorld.jpg"
             },
             {
               "name": "Questoris Mechanicus",
@@ -40,7 +40,7 @@
           ]
         },
         {
-          "name": "Streitmächte des Astra Militarum",
+          "name": "Astra Militarum",
           "abbreviation": "IG",
           "lists": [
             {
@@ -116,7 +116,7 @@
           "abbreviation": "SM",
           "lists": [
             {
-              "name": "Blood Ravens/Grey Ritters",
+              "name": "Blood Ravens/Grey Knights",
               "file": "greyRitters",
               "status": "alpha",
               "img": "images/Inquisition_GreyRitters.jpg"

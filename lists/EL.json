@@ -357,7 +357,7 @@
           "Shuriken Pistols"
         ],
         "specialRules": [
-          "First Strike",
+          "Erstschlag",
           "Infiltratoren"
         ]
       },
@@ -419,7 +419,7 @@
           "Death Spinners"
         ],
         "specialRules": [
-          "First Strike",
+          "Erstschlag",
           "Sprungmodule"
         ]
       },
@@ -435,7 +435,7 @@
         "specialRules": [
           "Furchtlos"
         ],
-        "notes": "Counts as a unit of Wraithguards für die Transport Regel."
+        "notes": "Zählt als a unit of Wraithguards für die Transport Regel."
       },
       {
         "name": "Wraithguards",
@@ -703,7 +703,7 @@
           "Holofield (5+)",
           "Antigrav"
         ],
-        "crit": "The Lynx is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Lynx is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Scorpion",
@@ -723,7 +723,7 @@
           "Holofield (4+)",
           "Antigrav"
         ],
-        "crit": "The Scorpion is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Scorpion is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Cobra",
@@ -743,7 +743,7 @@
           "Holofield (4+)",
           "Antigrav"
         ],
-        "crit": "The Cobra is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Cobra is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Storm Serpent",
@@ -760,10 +760,10 @@
           "Schadenskapazität 3",
           "Verstärkte Panzerung",
           "Holofield (4+)",
-          "Webway Portal",
+          "Tor zum Netz der tausend Tore",
           "Antigrav"
         ],
-        "crit": "The Storm Serpent is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Storm Serpent is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Void Spinner",
@@ -780,7 +780,7 @@
           "Verstärkte Panzerung",
           "Antigrav"
         ],
-        "crit": "The Void Spinner is destroyed. Any units within 5cm take a hit on 6+."
+        "crit": "The Void Spinner is destroyed. Any Einheiten innerhalb von 5cm take a hit on 6+."
       },
       {
         "name": "Skathach WraithRitter",
@@ -837,7 +837,7 @@
           "Schadenskapazität 3",
           "Furchtlos",
           "Holofield (3+)",
-          "Jump Pack",
+          "Sprungmodule",
           "Geländegängig"
         ],
         "crit": "The Revenant Titan’s Holofield projector is destroyed. Any further critical hits cause einen zusätzlichen point of damage."

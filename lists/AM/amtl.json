@@ -23,7 +23,7 @@
         "Warmonger Titan"
       ],
       "unitRules": [
-        "Extended Command",
+        "Erweiterter Befehlsradius",
         "Schildstörer",
         "Schildbohrer",
         "Gottgleiche Maschine",
@@ -183,7 +183,7 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Titan Legion Erweiterungen",
     "description": "Jeweils upgrade may be taken once pro formation",
     "items": [

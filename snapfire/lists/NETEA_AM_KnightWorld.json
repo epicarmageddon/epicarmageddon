@@ -24,7 +24,7 @@
   ],
   "upgrades":[
     {"id":1, "name":"Aspirant", "pts":25},
-    {"id":3, "name":"3 Gun Emplacements", "pts":0},
+    {"id":3, "name":"3 Geschützstellungen", "pts":0},
     {"id":4, "name":"3 Gun Transporters", "pts":0},
     {"id":5, "name":"2 Infantry Levy", "pts":25},
     {"id":6, "name":"Knight Castellan", "pts":115},
@@ -36,7 +36,7 @@
     {"id":13, "name":"Seneschal", "pts":25},
     {"id":14, "name":"Snipers", "pts":25},
     {"id":15, "name":"Thudd Gun", "pts":25},
-    {"id":17, "name":"52cm of Trench and 52cm of Razor Wire", "pts":50},
+    {"id":17, "name":"52cm of Graben and 52cm of Stacheldraht", "pts":50},
 
     {"id":20, "name":"Warden w/ Demolisher, 2x Hvy Bolters", "pts":85},
     {"id":21, "name":"Warden w/ AA Missile Launcher, 2x Multilasers", "pts":85},

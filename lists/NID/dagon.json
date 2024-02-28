@@ -5,12 +5,12 @@
   "release": "2022-04-01",
   "armyforge": "EAR_Tyranid_HiveFleetDagon",
   "strategy": "Tyranid Armeen haben einen Strategiewert von 1.",
-  "Initiative": "The Nexus Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Hive Mind' Sonderregel.",
+  "Initiative": "The Nexus Swarm has an Initiative Rating of 1+. All other Tyranid Verbände haben eine Initiativewert von 2+. In addition, all Verbände are subject to the 'Schwarmbewusstsein' Sonderregel.",
   "specialRules": [
     "Synapse",
-    "Hive Mind Locus",
-    "Hive Mind",
-    "Shoot the Big Ones!",
+    "Schwarmbewusstsein Locus",
+    "Schwarmbewusstsein",
+    "Knallt die Großen ab!",
     "Extreme Mobility",
     "Tunnelgräber",
     "Dagon Vanguard Organisms"
@@ -20,29 +20,29 @@
       "from": "NIDS.json",
       "units": [
         "Brood Lord",
-        "Termagants",
-        "Hormagaunts",
+        "Termaganten",
+        "Hormaganten",
         "Gargoyles",
-        "Raveners",
-        "Genestealers",
+        "Venatoren",
+        "Symbionten",
         "Biovore",
-        "Ravener Alphas",
-        "Tyranid Warriors",
-        "Tyranid Warrior Shrikes",
+        "Alpha Venatoren",
+        "Tyranidenkrieger",
+        "Tyranidenkrieger Shrikes",
         "Zoanthrope",
-        "Lictor",
+        "Liktor",
         "Dagon Overlord",
         "Dagon Overlord Shrike",
-        "Hive Tyrant",
-        "Hive Tyrant Shrike",
+        "Schwarmtyrant",
+        "Schwarmtyrant Shrike",
         "Barbed Carnifex",
-        "Screamer-Killer Carnifex",
+        "Kreischer-Killer Carnifex",
         "Dactylis",
         "Exocrine",
         "Haruspex",
         "Malefactor",
-        "Harpy",
-        "Hive Crone",
+        "Harpie",
+        "Schwarmdrude",
         "Trygon Prime",
         "Trygon",
         "Harridan",
@@ -56,7 +56,7 @@
         "Hydraphant"
       ],
       "unitRules": [
-          "Gaunts",
+          "Ganten",
           "Regeneration",
         "Schwergepanzertes Fahrzeug (H-AV)"
       ]
@@ -86,22 +86,22 @@
         },
         {
           "name": "Tyrant Swarm",
-          "units": "Ein Hive Tyrant",
+          "units": "Ein Schwarmtyrant",
           "extraUnits": [
             "Zwei to vier Instinctive Swarms",
-            "Ersetze the Hive Tyrant mit einemHive Tyrant Shrike: Kostenlos",
-            "0-1 Hive Tyrant in the army may be replaced with the Dagon Overlord: 75 Punkte",
+            "Ersetze the Schwarmtyrant mit einemSchwarmtyrant Shrike: Kostenlos",
+            "0-1 Schwarmtyrant in the army may be replaced with the Dagon Overlord: 75 Punkte",
             "Ersetze the Dagon Overlord mit einemDagon Overlord Shrike: Kostenlos"
           ],
           "points": 150
         },
         {
           "name": "Assault Swarm",
-          "units": "Zwei Tyranid Warriors und/oder Zoanthropes",
+          "units": "Zwei Tyranidenkrieger und/oder Zoanthropes",
           "extraUnits": [
             "Zwei to vier Instinctive Swarms",
             "1+ Gaunts, Gargoyles oder Biovores must be chosen",
-            "Ersetze bis zu zwei Tyranid Warriors with Tyranid Warrior Shrikes: Kostenlos"
+            "Ersetze bis zu zwei Tyranidenkrieger with Tyranidenkrieger Shrikes: Kostenlos"
           ],
           "points": 100
         }
@@ -130,7 +130,7 @@
         },
         {
           "name": "Infestation Swarm",
-          "units": "Drei Ravener Alphas oder eine Trygon Prime",
+          "units": "Drei Alpha Venatoren oder eine Trygon Prime",
           "extraUnits": [
             "Ein to zwei Burrower Instinctive Swarms"
           ],
@@ -148,20 +148,20 @@
       ]
     },
     {
-      "name": "Common Independent Swarms",
-      "description": " Bis zu eine Common Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "name": "Common Unabhängig Swarms",
+      "description": " Bis zu eine Common Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
-          "name": "Genestealer Swarm",
-          "units": "Ein Brood Lord, sechs Genestealers",
+          "name": "Symbionten Swarm",
+          "units": "Ein Brood Lord, sechs Symbionten",
           "extraUnits": [
-            "Füge bis zu drei Genestealers: 25 Punkte jeweils"
+            "Füge bis zu drei Symbionten: 25 Punkte jeweils"
           ],
           "points": 200
         },
         {
-          "name": "Lictor Swarm",
-          "units": "Vier Lictors",
+          "name": "Liktor Swarm",
+          "units": "Vier Liktoren",
           "extraUnits": [
           ],
           "points": 225
@@ -169,8 +169,8 @@
       ]
     },
     {
-      "name": "Rare Independent Swarms",
-      "description": " Bis zu eine Rare Independent Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
+      "name": "Rare Unabhängig Swarms",
+      "description": " Bis zu eine Rare Unabhängig Swarm für jeweils Primary Synapse Swarm. Nicht mehr als a third of the army.",
       "formations": [
         {
           "name": "Bio-Titan",
@@ -191,13 +191,13 @@
       ]
     }
   ],
-  "Erweiterungen": {
+  "upgrades": {
     "title": "Instinctive Swarms",
     "description": "It is compulsory to buy the minimum amount of Instinctive Swarms.",
     "items": [
       {
-        "name": "Gaunts",
-        "description": "Fünf Termagants und/oder Hormagaunts",
+        "name": "Ganten",
+        "description": "Fünf Termaganten und/oder Hormaganten",
         "points": "75 Punkte"
       },
       {
@@ -212,12 +212,12 @@
       },
       {
         "name": "Bio-Flyers",
-        "description": "Drei Harpies oder drei Hive Crones",
+        "description": "Drei Harpies oder drei Schwarmdrudes",
         "points": "100 Punkte"
       },
       {
         "name": "Carnifex",
-        "description": "Drei Barbed Carnifex oder drei Screamer-Killer Carnifex",
+        "description": "Drei Barbed Carnifex oder drei Kreischer-Killer Carnifex",
         "points": "125 Punkte"
       },
       {
@@ -237,7 +237,7 @@
       },
       {
         "name": "Burrower",
-        "description": "Zwei Trygons oder fünf Raveners",
+        "description": "Zwei Trygons oder fünf Venatoren",
         "points": "100 Punkte"
       },
       {
