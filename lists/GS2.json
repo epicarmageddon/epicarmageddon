@@ -43,7 +43,7 @@
         ]
       },
       {
-        "name": "Hybrid Iconward",
+        "name": "Hybrid Ikonenwächter",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -54,7 +54,7 @@
         ]
       },
       {
-        "name": "Brood Lord",
+        "name": "Symbiarch",
         "type": "CH",
         "weapons": [
           "n/a"
@@ -204,7 +204,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Synchronisiertes schweres Maschinengewehr Turm"
+          "Synchronisiertes schweres Maschinengewehr (Turm)"
         ]
       },
       {
@@ -269,7 +269,7 @@
         "cc": 6,
         "ff": 5,
         "weapons": [
-          "Retrofitted Defense Laser||FxF",
+          "Retrofitted Verteidigungslaser||FxF",
           "Synchronisiertes schweres Maschinengewehr|2|FxF"
         ],
         "specialRules": [

@@ -587,7 +587,7 @@
       ]
     },
     {
-      "name": "AC Synchronisiertes schweres Maschinengewehr Turm",
+      "name": "AC Synchronisiertes schweres Maschinengewehr (Turm)",
       "modes": [
         {
           "firepower": "AA5+",
@@ -1839,7 +1839,7 @@
       ]
     },
     {
-      "name": "Barbed Klauen",
+      "name": "Stachel-Klauen",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -2090,7 +2090,7 @@
       ]
     },
     {
-      "name": "Bio-Geschütz",
+      "name": "Biokanone",
       "modes": [
         {
           "firepower": "2x AP4+/AT5+",
@@ -2101,7 +2101,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Bio-Geschütz",
+      "name": "Synchronisierter Biokanone",
       "modes": [
         {
           "firepower": "3x AP3+/AT4+",
@@ -2112,7 +2112,7 @@
       ]
     },
     {
-      "name": "Bio-Energy Pulse",
+      "name": "Bioenergie Entladung",
       "modes": [
         {
           "firepower": "3BP",
@@ -2142,7 +2142,7 @@
       ]
     },
     {
-      "name": "Bio-Plasma Burst",
+      "name": "Bioplasmatischer Ausbruch",
       "modes": [
         {
           "firepower": "4BP",
@@ -2172,7 +2172,7 @@
       ]
     },
     {
-      "name": "Bio-Plasmic Ray",
+      "name": "Bioplasmatischer Strahl",
       "modes": [
         {
           "firepower": "AA5",
@@ -2184,7 +2184,7 @@
       ]
     },
     {
-      "name": "Bio-Plasmic Ray",
+      "name": "Bioplasmatischer Strahl",
       "modes": [
         {
           "firepower": "AP4+/AT4+/AA5",
@@ -2196,7 +2196,7 @@
       ]
     },
     {
-      "name": "Bio-Titan Bio-Geschütz",
+      "name": "Bio-Titan Biokanone",
       "modes": [
         {
           "firepower": "4x AP3+/AT4+",
@@ -2207,7 +2207,7 @@
       ]
     },
     {
-      "name": "Bio-Titan Bio-Geschütz",
+      "name": "Bio-Titan Biokanone",
       "modes": [
         {
           "firepower": "4x AP3+/AT4+",
@@ -3452,7 +3452,7 @@
       ]
     },
     {
-      "name": "Defense Laser",
+      "name": "Verteidigungslaser",
       "modes": [
         {
           "firepower": "MW2+/AA5+",
@@ -3464,7 +3464,7 @@
       ]
     },
     {
-      "name": "Retrofitted Defense Laser",
+      "name": "Retrofitted Verteidigungslaser",
       "modes": [
         {
           "firepower": "MW4+",
@@ -3476,7 +3476,7 @@
       ]
     },
     {
-      "name": "Planetary Defense Laser",
+      "name": "Planetarer Verteidigungslaser",
       "modes": [
         {
           "firepower": "MW4+",
@@ -3894,7 +3894,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Tremorkanone",
+      "name": "Synchronisierte Tremorkanone",
       "modes": [
         {
           "firepower": "AP3+/AT3+",
@@ -4247,7 +4247,7 @@
       ]
     },
     {
-      "name": "Flakk Raketenwerfer",
+      "name": "Flak Raketenwerfer",
       "modes": [
         {
           "firepower": "AP5+/AA6+",
@@ -4922,7 +4922,7 @@
       ]
     },
     {
-      "name": "Hail of Barbed Spears",
+      "name": "Dornenspießhagel",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -5379,7 +5379,7 @@
       ]
     },
     {
-      "name": "Accatran Mörser",
+      "name": "Mörser (Accatran Schema)",
       "modes": [
         {
           "firepower": "1BP",
@@ -5464,7 +5464,7 @@
       ]
     },
     {
-      "name": "Synchronisiertes schweres Maschinengewehr Turm",
+      "name": "Synchronisiertes schweres Maschinengewehr (Turm)",
       "modes": [
         {
           "firepower": "AP5+/AA6+",
@@ -6139,7 +6139,7 @@
       ]
     },
     {
-      "name": "Chem Gun",
+      "name": "Chemokanone",
       "modes": [
         {
           "firepower": "AP2+",
@@ -7102,7 +7102,7 @@
       ]
     },
     {
-      "name": "Titan Melter Geschütz",
+      "name": "Titan Melterkanone",
       "modes": [
         {
           "firepower": "MW2+",
@@ -7123,7 +7123,7 @@
       ]
     },
     {
-      "name": "Titan Melter Geschütz ",
+      "name": "Titan Melterkanone ",
       "modes": [
         {
           "firepower": "MW2+",
@@ -7329,7 +7329,7 @@
       ]
     },
     {
-      "name": "Mole Launchers",
+      "name": "Tunnelmörser",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -7342,7 +7342,7 @@
       ]
     },
     {
-      "name": "Mole Mörsers",
+      "name": "Tunnelmörser",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -8155,7 +8155,7 @@
       ]
     },
     {
-      "name": "Plasma Destroyer",
+      "name": "Plasmazerstörer",
       "modes": [
         {
           "firepower": "AP3+/AT3+",
@@ -8551,7 +8551,7 @@
       ]
     },
     {
-      "name": "Praetor Heavy Assault Launcher",
+      "name": "Praetor schwerer Angriffswerfer",
       "modes": [
         {
           "firepower": "3BP",
@@ -8981,7 +8981,7 @@
       ]
     },
     {
-      "name": "Pyro-Acid",
+      "name": "Pyro-Säure",
       "modes": [
         {
           "firepower": "Handfeuerwaffen",
@@ -8993,7 +8993,7 @@
       ]
     },
     {
-      "name": "Punisher Gatling Geschütz",
+      "name": "Vollstrecker-Sturmkanone",
       "modes": [
         {
           "firepower": "3x AP6+/AT6+",
@@ -9203,7 +9203,7 @@
       ]
     },
     {
-      "name": "Rapier Laser Destroyer",
+      "name": "Rapier-Lasergeschütz",
       "modes": [
         {
           "firepower": "AP6+/AT4+",
@@ -9371,7 +9371,7 @@
       ]
     },
     {
-      "name": "Ripper Swarms",
+      "name": "Absorberschwärme",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -9382,7 +9382,7 @@
       ]
     },
     {
-      "name": "Ripper Tentacles",
+      "name": "Absorbertentakel",
       "modes": [
         {
           "firepower": "Nahkampfwaffen",
@@ -9426,7 +9426,7 @@
       ]
     },
     {
-      "name": "Rocket Pods",
+      "name": "Salvenraketenwerfer",
       "modes": [
         {
           "firepower": "1BP",
@@ -10861,7 +10861,7 @@
       ]
     },
     {
-      "name": "Tentaklids",
+      "name": "Tentakliden",
       "modes": [
         {
           "firepower": "AA4+",
@@ -10980,7 +10980,7 @@
       ]
     },
     {
-      "name": "Thudd Gun",
+      "name": "Salvengeschütz",
       "modes": [
         {
           "firepower": "AP4+/AT6+",
@@ -11384,7 +11384,7 @@
       ]
     },
     {
-      "name": "AC Synchronisierter Maschinenkanone",
+      "name": "AC Synchronisierte Maschinenkanone",
       "modes": [
         {
           "firepower": "AP4+/AT5+/AA5+",
@@ -11411,7 +11411,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Maschinenkanone",
+      "name": "Synchronisierte Maschinenkanone",
       "modes": [
         {
           "firepower": "AP4+/AT5+",
@@ -11839,7 +11839,7 @@
       ]
     },
     {
-      "name": "Melter Geschütz",
+      "name": "Melterkanone",
       "modes": [
         {
           "firepower": "MW4+",
@@ -12034,7 +12034,7 @@
       ]
     },
     {
-      "name": "Vanquisher Geschütz",
+      "name": "Vernichter-Panzerabwehrkanone",
       "modes": [
         {
           "firepower": "AP4+/AT2+",
@@ -12045,7 +12045,7 @@
       ]
     },
     {
-      "name": "Synchronisierter Vanquisher Geschütz",
+      "name": "Synchronisierter Vernichter-Panzerabwehrkanone",
       "modes": [
         {
           "firepower": "AP2+/AT2+",
@@ -12871,7 +12871,7 @@
       ]
     },
     {
-      "name": "Icarus Rocket Pods",
+      "name": "Icarus Salvenraketenwerfer",
       "modes": [
         {
           "firepower": "AA5+",

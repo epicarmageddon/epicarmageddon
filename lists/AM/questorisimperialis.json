@@ -34,12 +34,12 @@
     {
       "from": "IG.json",
       "units": [
-        "PDF Infanterie",
-        "Thudd Gun",
+        "PDS Infanterie",
+        "Salvengeschütz",
         "Rapier",
         "Schweres Flugabwehrgeschütz",
         "Haubitzen",
-        "Kavallerieschwadron",
+        "Kavallerie",
         "Land Transporter"
       ],
       "unitRules": [
@@ -73,7 +73,7 @@
     },
     {
       "name": "Ritter Welten Support Häusers",
-      "description": " Bis zu zwei Support Häusers für jeweils Kern Häuser.",
+      "description": "Bis zu zwei Support Häusers pro Kern Häuser.",
       "formations": [
         {
           "name": "Castellan Häuser",
@@ -115,35 +115,35 @@
     },
     {
       "name": "Ritter Welten Retainer Verbände",
-      "description": " Bis zu eine Retainer Formation für jeweils Kern oder Support Häuser.",
+      "description": "Bis zu eine Retainer Formation pro Kern oder Support Häuser.",
       "formations": [
         {
-          "name": "Planetary Defense Zug",
-          "units": "Acht PDF Infanterie",
+          "name": "Planetarer Defense Zug",
+          "units": "Acht PDS Infanterie",
           "extraUnits": [
             "Land Transporters",
             "Support Weapons",
-            "Entrenchments"
+            "Grabenanlagen"
           ],
           "points": 150
         },
         {
           "name": "Kavalleriezug",
-          "units": "Sechs Kavallerieschwadronen",
+          "units": "Sechs Kavallerie Einheiten",
           "extraUnits": [
           ],
           "points": 150
         },
         {
-          "name": "Flak Emplacement",
+          "name": "Flak Stellung",
           "units": "Drei Schweres Flugabwehrgeschützs, drei Geschützstellungen",
           "extraUnits": [
           ],
           "points": 175
         },
         {
-          "name": "Haubitzen Emplacement",
-          "units": "Vier Howitzers, vier Geschützstellungen",
+          "name": "Haubitzen Stellung",
+          "units": "Vier Haubitzen, vier Geschützstellungen",
           "extraUnits": [
           ],
           "points": 275
@@ -152,7 +152,7 @@
     },
     {
       "name": "Verbände der Imperialen Luftstreitkräfte",
-      "description": " Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte.",
+      "description": "Bis zu einem Drittel der verfügbaren Punkte dürfen für Verbände der Imperialen Luftstreitkräfte.",
       "formations": [
         {
           "name": "Thunderbolt Schwadron",
@@ -208,19 +208,19 @@
       },
       {
         "name": "Support Weapons",
-        "description": "Füge drei Rapiers oder zwei Thudd Guns",
+        "description": "Füge drei Rapier Geschütze oder zwei Thudd Guns",
         "points": "50 Punkte"
       },
       {
-        "name": "Entrenchments",
+        "name": "Grabenanlagen",
         "description": "40cm Stacheldraht, 40cm Gräben",
         "points": "50 Punkte"
       }
     ]
   },
   "about": [
-    "v1.0.Beta: The Ritter Welten list is a mix of the E-UK und NetEA Ritter lists, with stats und structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Ritters have had their names changed to prevent naming conflicts with the Ritters in the current fluff.",
-    "The biggest change from the E-UK und the NetEA Ritters is obviously the fact that Ritters no longer are DC2 WE, but are H-AV instead. This change makes Ritter Verbände a lot more sane to play with/against, und makes it a lot easier to stay within the EA rules. It also means that sniping the Baron mit einemPin-Point is no longer an issue.",
+    "v1.0.Beta: The Ritter Welten list is a mix of the E-UK und NetEA Ritter lists, mit stats und structure taken from both. As these lists are based on the retro-40k 1990s fluff, most Ritters have had their names changed to prevent naming conflicts mit the Ritters in the current fluff.",
+    "The biggest change from the E-UK und the NetEA Ritters is obviously the fact that Ritters no longer are DC2 WE, but are H-AV instead. This change makes Ritter Verbände a lot more sane to play with/against und makes it a lot easier to stay within the EA rules. It also means that sniping the Baron mit einemPin-Point is no longer an issue.",
     "Another significant change is that the Retainer Verbände are more accessible, making the list a bit more flexible."
   ]
 }
